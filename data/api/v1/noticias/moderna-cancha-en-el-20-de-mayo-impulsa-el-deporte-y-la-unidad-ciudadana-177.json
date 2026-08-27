@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 177,
+    "slug": "moderna-cancha-en-el-20-de-mayo-impulsa-el-deporte-y-la-unidad-ciudadana-177",
+    "titulo": "Moderna cancha en el 20 de Mayo impulsa el deporte y la unidad ciudadana",
+    "resumen": "El latido deportivo del barrio 20 de Mayo vuelve a sentirse más fuerte que nunca con la construcción del escenario, graderíos y cerramiento de su cancha cubierta, una obra que beneficiará directamente a más de 3.000 habitantes. Bajo la visión de la a",
+    "fecha": "2025-10-13",
+    "imagen": {
+      "id": "33ebcec6bdc34a46",
+      "hash": "33ebcec6bdc34a4637f8b2f26e884c20f96d5fafa92cfc44942e48f4962bb50f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13.JPG",
+      "rutaOriginal": "/media/originales/33ebcec6bdc34a46.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/33ebcec6bdc34a46-400.webp",
+        "800w": "/media/derivados/33ebcec6bdc34a46-800.webp",
+        "1600w": "/media/derivados/33ebcec6bdc34a46-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10095783,
+      "alt": "Moderna cancha en el 20 de Mayo impulsa el deporte y la unidad ciudadana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+    },
+    "url": "/noticia/177/",
+    "fuente_url": "https://orellana.gob.ec/noticia/177/",
+    "cuerpo": "El latido deportivo del barrio 20 de Mayo vuelve a sentirse más fuerte que nunca con la construcción del escenario, graderíos y cerramiento de su cancha cubierta, una obra que beneficiará directamente a más de 3.000 habitantes. Bajo la visión de la alcaldesa Shirma Cortés Sanmiguel, esta infraestructura se levanta como símbolo de modernización y progreso, generando empleo y dinamizando la economía de los emprendedores y trabajadores del sector, “Doy gracias, porque me están dando una manito para llevar los alimentos a mi casa, el sustento más que todo y está bien proveer alimentos a mis hijos.” Willian Andy, trabajador de la obra.\nCon una inversión de USD 80,200.52 y un 65% de avance, la obra contempla la edificación de un escenario principal, dos vestidores equipados, baterías sanitarias, graderíos y un cerramiento metálico que garantizará la seguridad y el orden en los eventos deportivos y culturales, “Como fiscalizador del contrato es cumplir lo que establece la ley y con todas las especificaciones, análisis de precios para que la obra se ejecute conforme lo requiere el municipio de Francisco de Orellana; a pesar que nos ha afectado las lluvias, lo que es el paro principalmente por el abastecimiento de materiales; pero, se prevé salir dentro del plazo establecido de 60 días.” Willington Enríquez, fiscalizador de la obra.\nLa alcaldía continúa dejando huellas de desarrollo y compromiso en cada rincón del cantón, Con gestión, resultados y visión de futuro, la administración de Shirma Cortés Sanmiguel avanza firme hacia “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "33ebcec6bdc34a46",
+        "hash": "33ebcec6bdc34a4637f8b2f26e884c20f96d5fafa92cfc44942e48f4962bb50f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13.JPG",
+        "rutaOriginal": "/media/originales/33ebcec6bdc34a46.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/33ebcec6bdc34a46-400.webp",
+          "800w": "/media/derivados/33ebcec6bdc34a46-800.webp",
+          "1600w": "/media/derivados/33ebcec6bdc34a46-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10095783,
+        "alt": "Moderna cancha en el 20 de Mayo impulsa el deporte y la unidad ciudadana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      }
+    ]
+  }
+}

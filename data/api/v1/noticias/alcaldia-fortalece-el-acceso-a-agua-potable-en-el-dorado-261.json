@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 261,
+    "slug": "alcaldia-fortalece-el-acceso-a-agua-potable-en-el-dorado-261",
+    "titulo": "Alcaldía fortalece el acceso a agua potable en El Dorado",
+    "resumen": "En el kilómetro 3 de la vía al Auca, en la parroquia El Dorado, varias familias han recuperado el acceso directo y constante a agua potable, gracias a los trabajos de empalme de tubería plástica que está",
+    "fecha": "2026-03-05",
+    "imagen": {
+      "id": "91b403111640cda4",
+      "hash": "91b403111640cda44a055043346d59f65821f285e7f464b1c97d15a3fec09637",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9646.JPG",
+      "rutaOriginal": "/media/originales/91b403111640cda4.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/91b403111640cda4-400.webp",
+        "800w": "/media/derivados/91b403111640cda4-800.webp",
+        "1600w": "/media/derivados/91b403111640cda4-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 11406383,
+      "alt": "Alcaldía fortalece el acceso a agua potable en El Dorado",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/261/",
+    "fuente_url": "https://orellana.gob.ec/noticia/261/",
+    "cuerpo": "En el kilómetro 3 de la vía al Auca, en la parroquia El Dorado, varias familias han recuperado el acceso directo y constante a agua potable, gracias a los trabajos de empalme de tubería plástica que está ejecutando la Alcaldía de Francisco de Orellana, bajo la dirección de Shirma Cortés Sanmiguel. Estas labores se realizan tras una rotura que había afectado el suministro del líquido vital en el sector, “Es excelente el trabajo que realiza la municipalidad en nuestro sector, porque la circulación de los vehículos ha dañado la manguera de agua potable; por eso agradecemos que nos hayan dado soluciones a la problemática.” José Vargas, beneficiario. \nLa obra permitió reconectar el servicio que proviene desde la planta de agua potable ubicada en el kilómetro 5, mejorando la presión y garantizando el suministro continuo. Aunque se trata de una intervención puntual, su impacto es significativo: representa mejores condiciones de salud, bienestar y calidad de vida para los moradores del sector, “El líquido vital es lo más importante para las familias de este sector; y por eso, agradecemos a la alcaldesa que se ha preocupado por dotarnos de agua potable y llegue sin problemas hasta nuestros hogares.” Franco Hernández, beneficiario. \nMás que una obra técnica, esta intervención refleja la voluntad de la Alcaldía de Francisco de Orellana de garantizar acceso equitativo a agua potable en los sectores rurales.\nEl suministro de agua segura no solo mejora la vida diaria de las familias, también reafirma el compromiso municipal con el desarrollo social y la justicia territorial. DV.",
+    "imagenes": [
+      {
+        "id": "91b403111640cda4",
+        "hash": "91b403111640cda44a055043346d59f65821f285e7f464b1c97d15a3fec09637",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9646.JPG",
+        "rutaOriginal": "/media/originales/91b403111640cda4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/91b403111640cda4-400.webp",
+          "800w": "/media/derivados/91b403111640cda4-800.webp",
+          "1600w": "/media/derivados/91b403111640cda4-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 11406383,
+        "alt": "Alcaldía fortalece el acceso a agua potable en El Dorado",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

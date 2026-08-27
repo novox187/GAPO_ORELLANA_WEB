@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 228,
+    "slug": "picadito-2025-el-deporte-que-une-y-proyecta-suenos-en-el-coca-228",
+    "titulo": "Picadito 2025: El deporte que une y proyecta sueños en El Coca",
+    "resumen": "El Estadio Federativo de Orellana se llenó de alegría, emoción y espíritu fraterno durante el evento deportivo “Picadito 2025”, una jornada que reunió a niños, jóvenes y adultos alrededor del fútbol, reafirmando al deporte como un eje de integración",
+    "fecha": "2025-12-31",
+    "imagen": {
+      "id": "4401a5b58a8c7cd1",
+      "hash": "4401a5b58a8c7cd1678281f5cb5d389eff20d3d89275abe1a43f6e8492c9e7ab",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31.jpg",
+      "rutaOriginal": "/media/originales/4401a5b58a8c7cd1.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4401a5b58a8c7cd1-400.webp",
+        "800w": "/media/derivados/4401a5b58a8c7cd1-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 720,
+      "bytes": 313585,
+      "alt": "Picadito 2025: El deporte que une y proyecta sueños en El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+    },
+    "url": "/noticia/228/",
+    "fuente_url": "https://orellana.gob.ec/noticia/228/",
+    "cuerpo": "El Estadio Federativo de Orellana se llenó de alegría, emoción y espíritu fraterno durante el evento deportivo “Picadito 2025”, una jornada que reunió a niños, jóvenes y adultos alrededor del fútbol, reafirmando al deporte como un eje de integración social y construcción de oportunidades en El Coca.\nLa presencia de la alcaldesa Shirma Cortés Sanmiguel acompañando a deportistas, familias y organizadores reflejó el compromiso de la administración municipal con el impulso al deporte. En este espacio de confraternidad también se reconoció al Club Flor de Oriente que se llevó el tercer lugar, al Club Team Chávez como vicecampeón del torneo y a Nuevos Horizontes como el equipo ganador, “Querido Álex, de mi parte felicitarte por haber tenido esta iniciativa tan importante, lo fundamental de esto es lo que se genera es integración, de ver a los amigos unidos el día de hoy, gracias y continúen así; y nosotros como municipio seguiremos apoyando mientras se generen estos eventos de integración, de confraternidad, de amistad.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nUno de los momentos más emotivos fue el reconocimiento a destacados talentos deportivos de El Coca, entre ellos Johanner Chávez, jugador del Lens de Francia, junto a Johao Chávez, Erick Cabal, Eiyi Mancilla, Diogo Borrero, Isacc Quiñones y Mateo Ortiz, quienes recibieron un homenaje por su trayectoria y por convertirse en referentes de disciplina, esfuerzo y superación para las nuevas generaciones, “Es muy bonito esto del picadito, porque reúne a mucha gente, a nuestras familias y amigos para disfrutar de los más bonito que es el fútbol; y, a la alcaldesa Shirma Cortés, felicitarla por la escuelita que tiene y puede apoyar a todos los jóvenes para que persigan sus sueños.” Dilan Calva, jugador del Manta FC.\n“Gracias a la municipalidad de aquí de El Coca que está haciendo un buen trabajo, un buen proyecto, enfocándose en la juventud.” Bryan Caicedo, jugador del Deportivo Macará.\nCon este tipo de espacios, el Municipio continúa impulsando el deporte como una herramienta de integración, valores y proyección de futuro en el cantón Francisco de Orellana. JG.",
+    "imagenes": [
+      {
+        "id": "4401a5b58a8c7cd1",
+        "hash": "4401a5b58a8c7cd1678281f5cb5d389eff20d3d89275abe1a43f6e8492c9e7ab",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31.jpg",
+        "rutaOriginal": "/media/originales/4401a5b58a8c7cd1.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4401a5b58a8c7cd1-400.webp",
+          "800w": "/media/derivados/4401a5b58a8c7cd1-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 720,
+        "bytes": 313585,
+        "alt": "Picadito 2025: El deporte que une y proyecta sueños en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      }
+    ]
+  }
+}

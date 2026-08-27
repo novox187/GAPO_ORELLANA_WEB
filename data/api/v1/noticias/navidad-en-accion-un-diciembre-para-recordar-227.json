@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 227,
+    "slug": "navidad-en-accion-un-diciembre-para-recordar-227",
+    "titulo": "“Navidad en acción, un diciembre para recordar”",
+    "resumen": "Con el evento “Navidad en acción, un diciembre para recordar”, la Alcaldía reunió a más de 800 niños y niñas y sus familiares que forman parte de las escuelas municipales en una jornada llena de alegría, deporte y cultura, fortaleciendo valores, inte",
+    "fecha": "2025-12-30",
+    "imagen": {
+      "id": "6168c0b7ecd56ff6",
+      "hash": "6168c0b7ecd56ff632ac57942f986b5e95690e8a940a87640b37cf16eef8ce57",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_YIqkMd8.JPG",
+      "rutaOriginal": "/media/originales/6168c0b7ecd56ff6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/6168c0b7ecd56ff6-400.webp",
+        "800w": "/media/derivados/6168c0b7ecd56ff6-800.webp",
+        "1600w": "/media/derivados/6168c0b7ecd56ff6-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 5837992,
+      "alt": "“Navidad en acción, un diciembre para recordar”",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+    },
+    "url": "/noticia/227/",
+    "fuente_url": "https://orellana.gob.ec/noticia/227/",
+    "cuerpo": "Con el evento “Navidad en acción, un diciembre para recordar”, la Alcaldía reunió a más de 800 niños y niñas y sus familiares que forman parte de las escuelas municipales en una jornada llena de alegría, deporte y cultura, fortaleciendo valores, integración y esperanza. El recinto ferial se convirtió en un escenario con espíritu navideño de la niñez del cantón, “Quiero agradecer a la alcaldesa por hacernos esta fiesta, por dejarnos cumplir nuestros sueños y nunca rendirse.” Álison Jacha, participante de la escuela de fútbol municipal.\n“Felicito la gestión de nuestra alcaldesa Shirma Cortés por apoyar al deporte y esta gran motivación, más que todo, en estos espacios que sirven para recrear a nuestros niños, jóvenes y adolescentes.” Érika Bifarini, opinión ciudadana.\nEl encuentro se fortaleció con la presencia de los futbolistas profesionales Johanner Chávez, jugador del Lens de Francia, y Johao Chávez, referentes de El Coca, quienes motivaron a la niñez con un mensaje de disciplina, esfuerzo y sueños posibles. La jornada se vivió con danzas, música, juegos y la entrega de aguinaldos, pastel y juguetes por parte de la alcaldesa Shirma Cortés Sanmiguel, “Y creo que la municipalidad pone su granito de arena, dando los espacios adecuados, remodelando canchas, generando estructuras deportivas, porque eso es fundamental; porque no podemos hablar de un buen entrenamiento, de una buena práctica de los jóvenes sino tenemos los espacios y los instrumentos adecuados para que ellos puedan seguir fortaleciendo sus habilidades deportivas.” Shirma Cortés, alcaldesa de Francisco de Orellana.\n“Navidad en acción” no solo celebró una fecha especial, sino que evidenció una gestión municipal cercana, humana y visionaria, que cree en el deporte y el arte como motores de transformación social. JG.",
+    "imagenes": [
+      {
+        "id": "6168c0b7ecd56ff6",
+        "hash": "6168c0b7ecd56ff632ac57942f986b5e95690e8a940a87640b37cf16eef8ce57",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_YIqkMd8.JPG",
+        "rutaOriginal": "/media/originales/6168c0b7ecd56ff6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6168c0b7ecd56ff6-400.webp",
+          "800w": "/media/derivados/6168c0b7ecd56ff6-800.webp",
+          "1600w": "/media/derivados/6168c0b7ecd56ff6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 5837992,
+        "alt": "“Navidad en acción, un diciembre para recordar”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      }
+    ]
+  }
+}

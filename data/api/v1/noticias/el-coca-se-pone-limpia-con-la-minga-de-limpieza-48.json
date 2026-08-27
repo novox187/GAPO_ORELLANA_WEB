@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 48,
+    "slug": "el-coca-se-pone-limpia-con-la-minga-de-limpieza-48",
+    "titulo": "El Coca se pone limpia con la minga de limpieza",
+    "resumen": "La jornada tuvo como objetivo recuperar la imagen de este importante espacio",
+    "fecha": "2025-03-12",
+    "imagen": {
+      "id": "b661e7e899cd6560",
+      "hash": "b661e7e899cd65607d38c62a3fe701254470b134122ef0a734092cdaf843fa39",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_1134.JPG",
+      "rutaOriginal": "/media/originales/b661e7e899cd6560.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/b661e7e899cd6560-400.webp",
+        "800w": "/media/derivados/b661e7e899cd6560-800.webp",
+        "1600w": "/media/derivados/b661e7e899cd6560-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11854958,
+      "alt": "El Coca se pone limpia con la minga de limpieza",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/48/",
+    "fuente_url": "https://orellana.gob.ec/noticia/48/",
+    "cuerpo": "Con el propósito de mantener en óptimas condiciones el ornato y la limpieza de la ciudad de El Coca, personal de cuadrilla de la dirección de ambiente, en coordinación con el Cuerpo de Bomberos, llevó a cabo una minga de limpieza en el malecón de la ciudad, “Estamos realizando la limpieza para que no se dé un mal aspecto al ornato de la ciudad”. Consuelo Paguay, inspectora de aseo e higiene. \nLa jornada tuvo como objetivo recuperar la imagen de este importante espacio, luego del impacto que dejaron las recientes celebraciones por el feriado de Carnaval, “La limpieza en el malecón está muy bien, para que los turistas locales o nacionales que nos visitan, vean la ciudad bien decorada, bien limpia”. Patricio Juanca, opinión ciudadana. \nDesde la Alcaldía, reafirmamos nuestro compromiso de trabajar continuamente para mantener una ciudad más ordenada, limpia y segura. DV.",
+    "imagenes": [
+      {
+        "id": "b661e7e899cd6560",
+        "hash": "b661e7e899cd65607d38c62a3fe701254470b134122ef0a734092cdaf843fa39",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_1134.JPG",
+        "rutaOriginal": "/media/originales/b661e7e899cd6560.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/b661e7e899cd6560-400.webp",
+          "800w": "/media/derivados/b661e7e899cd6560-800.webp",
+          "1600w": "/media/derivados/b661e7e899cd6560-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11854958,
+        "alt": "El Coca se pone limpia con la minga de limpieza",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

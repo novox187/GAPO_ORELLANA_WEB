@@ -1,0 +1,1121 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "slug": "servicios-externos-de-secretaria-general-1",
+      "nombre": "Servicios externos de Secretaria General",
+      "direccion": {
+        "id": 1,
+        "slug": "secretaria-general",
+        "nombre": "SECRETARÍA GENERAL"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "1. Presentación del oficio en físico en las instalaciones del GADMFO, o se puede solicitar mediante correo electrónico alcaldia@orellana.gob.ec 2. Las copias certificadas tienen un costo establecidas en la OM-020-2021",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 2,
+      "slug": "solicitud-para-renovar-la-licencia-unica-anual-de-funcionamiento-para-el-2",
+      "nombre": "Solicitud para renovar la licencia única anual de funcionamiento para el ejercicio de actividades turísticas",
+      "direccion": {
+        "id": 2,
+        "slug": "direccion-de-turismo",
+        "nombre": "DIRECCIÓN DE TURISMO"
+      },
+      "categorias": [
+        "turismo",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "empresa",
+        "transportista",
+        "turista"
+      ],
+      "resumen": "Es la cédula de identidad de un establecimiento de servicios turísticos. Es el permiso habilitante que otorga el Municipio de Francisco de Orellana a los establecimientos turísticos que cuentan con el Certificado de Regi",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 3,
+      "slug": "solicitud-para-renovar-la-licencia-unica-anual-de-funcionamiento-para-el-3",
+      "nombre": "Solicitud para renovar la licencia única anual de funcionamiento para el ejercicio de actividades turísticas",
+      "direccion": {
+        "id": 2,
+        "slug": "direccion-de-turismo",
+        "nombre": "DIRECCIÓN DE TURISMO"
+      },
+      "categorias": [
+        "turismo"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "empresa",
+        "transportista",
+        "turista"
+      ],
+      "resumen": "¿Qué es la licencia única anual de funcionamiento para el ejercicio de actividades turísticas?",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 66,
+      "slug": "servicio-de-atencion-al-usuario-66",
+      "nombre": "Servicio de atención al usuario",
+      "direccion": {
+        "id": 3,
+        "slug": "direccion-de-agua-potable-y-alcantarillado",
+        "nombre": "DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Recibir y gestionar los reclamos de los usuarios de los servicios de agua potable y alcantarillado. Informar ante las consultas o dudas existentes por parte de los usuarios. Este servicio se puede acceder de forma verbal",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 67,
+      "slug": "servicio-de-alcantarillado-pluvial-67",
+      "nombre": "Servicio de alcantarillado pluvial",
+      "direccion": {
+        "id": 3,
+        "slug": "direccion-de-agua-potable-y-alcantarillado",
+        "nombre": "DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Evacuación y conducción de las aguas lluvias hasta cuerpos receptores.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 4,
+      "slug": "solicitud-de-conexion-de-acometida-de-agua-potable-4",
+      "nombre": "Solicitud de conexión de acometida de agua potable",
+      "direccion": {
+        "id": 3,
+        "slug": "direccion-de-agua-potable-y-alcantarillado",
+        "nombre": "DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es la instalación de agua potable desde la red hasta el domicilio del solicitante, incluye el medidor de agua que sirve para la toma de lectura del consumo mensual. Sus valores cambian de acuerdo al lugar donde se encuen",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 5,
+      "slug": "solicitud-de-conexion-de-alcantarillado-sanitario-5",
+      "nombre": "Solicitud de conexión de alcantarillado sanitario",
+      "direccion": {
+        "id": 3,
+        "slug": "direccion-de-agua-potable-y-alcantarillado",
+        "nombre": "DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Conexión de tubería desde la caja de revisión de la vereda hacía la red pública para evacuar las aguas servidas de los domicilios.\nEs la evacuación y conducción de las aguas servidas a la planta de tratamiento o pantanos",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 6,
+      "slug": "servicio-de-agua-potable-6",
+      "nombre": "Servicio de Agua Potable",
+      "direccion": {
+        "id": 3,
+        "slug": "direccion-de-agua-potable-y-alcantarillado",
+        "nombre": "DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Servicio de entrega de agua potabilizada en los hogares del cantón.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 33,
+      "slug": "ficha-catastral-33",
+      "nombre": "Ficha catastral",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es un documento técnico que especifica todas las características que tiene un terreno: clave catastral, áreas, dimensiones y ubicación.",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 34,
+      "slug": "requisitos-para-permiso-de-construccion-y-aprobacion-de-planos-34",
+      "nombre": "Requisitos para permiso de construcción y aprobación de planos",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es el documento que avala al propietario del terreno realizar su construcción.",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 35,
+      "slug": "tramite-de-aprobacion-de-planos-y-permisos-de-construccion-35",
+      "nombre": "Trámite de aprobación de planos y permisos de construcción",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Oficio dirigido al Director de Planificación Territorial solicitando que se revisen los planos.\n Permiso legalmente otorgado por el Cuerpo de Bomberos (ingresar los requisitos en Bomberos)\n Copia de carné profesional y c",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 36,
+      "slug": "requisitos-para-aprobacion-de-planos-de-fraccionamiento-36",
+      "nombre": "Requisitos para aprobación de planos de fraccionamiento",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "El fraccionamiento consiste en dividir a un terreno en dos o más predios sean urbanos o rurales.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 37,
+      "slug": "requisitos-para-declaratoria-de-propiedad-horizontal-37",
+      "nombre": "Requisitos para declaratoria de propiedad horizontal",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Se conoce como propiedad horizontal al derecho que se ejerce sobre uno o más pisos, viviendas o locales de un edificio, que han sido adquiridos por distintos propietarios en forma separada, pero que tienen ciertos derech",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 32,
+      "slug": "certificado-de-no-poseer-bienes-32",
+      "nombre": "Certificado de no poseer bienes",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es el certificado que otorga la Jefatura de Avalúos y Catastro en el cual se ratifica si el solicitante tiene o no terrenos dentro de la jurisdicción del cantón Francisco de Orellana.",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 31,
+      "slug": "requisitos-para-traspaso-de-escritura-31",
+      "nombre": "Requisitos para traspaso de escritura",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es la compra venta de un bien inmueble.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 23,
+      "slug": "requisitos-para-rectificacion-de-escritura-23",
+      "nombre": "Requisitos para rectificación de escritura",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Comprende la corrección o rectificación de las áreas, dimensiones o colindantes de un predio urbano o rural.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 24,
+      "slug": "requisitos-para-actualizacion-de-linea-de-fabrica-24",
+      "nombre": "Requisitos para actualización de línea de fábrica",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "La actualización de la línea de fábrica consiste en actualizar la información técnica de un lote, en el cual se pone en conocimiento del propietario los linderos, colindantes y áreas del bien inmueble.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 25,
+      "slug": "requisitos-para-traspaso-de-dominio-de-alicuota-propiedad-horizontal-25",
+      "nombre": "Requisitos para traspaso de dominio de alicuota/propiedad horizontal",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "El traspaso de dominio de una alícuota es la venta (casa o departamento) que se hace una vez que se haya declarado en propiedad horizontal el bien inmueble.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 26,
+      "slug": "requisitos-para-permiso-de-cerramiento-26",
+      "nombre": "Requisitos para permiso de cerramiento",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es un documento habilitante para que el usuario pueda construir su cerramiento.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 27,
+      "slug": "requisitos-para-tramite-de-escritura-27",
+      "nombre": "Requisitos para trámite de escritura",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es el documento que avala la propiedad de un terreno.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 28,
+      "slug": "requisitos-para-fraccionamiento-individual-de-escritura-28",
+      "nombre": "Requisitos para fraccionamiento individual de escritura",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "constructor"
+      ],
+      "resumen": "Es obtener la escritura individual de los lotes divididos mediante un fraccionamiento que los lleva a cabo el propietario del terreno con el aval de un Ingeniero Civil o arquitecto particular que posea el registro de pro",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 29,
+      "slug": "requisitos-para-tramite-particion-extrajudicial-29",
+      "nombre": "Requisitos para trámite partición extrajudicial",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es el registro de todos los herederos como propietarios dentro de un bien inmueble, el mismo que se otorga con resolución del pleno del Concejo Municipal.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 30,
+      "slug": "requisitos-para-permiso-de-varios-trabajos-30",
+      "nombre": "Requisitos para permiso de varios trabajos",
+      "direccion": {
+        "id": 4,
+        "slug": "direccion-de-ordenamiento-territorial",
+        "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "El permiso de varios trabajos se entrega únicamente cuando las construcciones no superan los 36 metros cuadrados de construcción.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 60,
+      "slug": "recicladoras-autorizadas-60",
+      "nombre": "RECICLADORAS AUTORIZADAS",
+      "direccion": {
+        "id": 5,
+        "slug": "direccion-de-ambiente",
+        "nombre": "DIRECCIÓN DE AMBIENTE"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "N.º\n Propietario\n Recicladora\n Dirección\n Celular\n Materiales que recicla\n \n \n 1\n Edison Taguada\n Metalplaz&t\n Barrio Guadalupe Larriva, Av. Jerusalén, sector 19 de Octubre, calle E y C.2\n 987030476\n Cartón, plástico (bo",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 61,
+      "slug": "contravenciones-y-sanciones-61",
+      "nombre": "CONTRAVENCIONES Y SANCIONES",
+      "direccion": {
+        "id": 5,
+        "slug": "direccion-de-ambiente",
+        "nombre": "DIRECCIÓN DE AMBIENTE"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 12,
+      "slug": "requisitos-para-ingresar-al-relleno-sanitario-con-desechos-organicos-e-12",
+      "nombre": "Requisitos para ingresar al relleno sanitario con desechos orgánicos e inorgánicos",
+      "direccion": {
+        "id": 5,
+        "slug": "direccion-de-ambiente",
+        "nombre": "DIRECCIÓN DE AMBIENTE"
+      },
+      "categorias": [
+        "agua-y-ambiente"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "El botadero municipal controlado está ubicado en km 9 vía Auca, en este espacio ingresan desechos orgánicos e inorgánicos que son generados por los ciudadanos del cantón tanto de la zona urbana y rural. En este lugar se",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 13,
+      "slug": "viabilidad-ambiental-para-uso-de-suelo-13",
+      "nombre": "Viabilidad ambiental para uso de suelo",
+      "direccion": {
+        "id": 5,
+        "slug": "direccion-de-ambiente",
+        "nombre": "DIRECCIÓN DE AMBIENTE"
+      },
+      "categorias": [
+        "agua-y-ambiente",
+        "vivienda-y-construccion",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Documento habilitante previo a la emisión del certificado del uso de suelos por parte de la Dirección de Ordenamiento Territorial.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 14,
+      "slug": "viabilidad-ambiental-para-patente-14",
+      "nombre": "Viabilidad ambiental para patente",
+      "direccion": {
+        "id": 5,
+        "slug": "direccion-de-ambiente",
+        "nombre": "DIRECCIÓN DE AMBIENTE"
+      },
+      "categorias": [
+        "agua-y-ambiente",
+        "negocios",
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es un documento habilitante previo a la obtención de la patente municipal.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 15,
+      "slug": "requisitos-para-tramite-de-mejoramiento-de-predio-15",
+      "nombre": "Requisitos para trámite de mejoramiento de predio",
+      "direccion": {
+        "id": 5,
+        "slug": "direccion-de-ambiente",
+        "nombre": "DIRECCIÓN DE AMBIENTE"
+      },
+      "categorias": [
+        "agua-y-ambiente",
+        "vivienda-y-construccion",
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Actividad regulada por la Municipalidad para las actividades de desbanque, nivelación, cambio de suelo y transporte de material. Actividades que son realizadas en los predios o lotes de terrenos que tienen una superficie",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 68,
+      "slug": "servicio-de-inhumaciones-68",
+      "nombre": "Servicio de Inhumaciones",
+      "direccion": {
+        "id": 6,
+        "slug": "direccion-de-servicios-municipales",
+        "nombre": "DIRECCIÓN DE SERVICIOS MUNICIPALES"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 7,
+      "slug": "sepulturas-en-los-cementerios-municipales-7",
+      "nombre": "Sepulturas en los cementerios municipales",
+      "direccion": {
+        "id": 6,
+        "slug": "direccion-de-servicios-municipales",
+        "nombre": "DIRECCIÓN DE SERVICIOS MUNICIPALES"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Este servicio es la sepultura de cadáveres.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 8,
+      "slug": "exhumacion-de-restos-8",
+      "nombre": "Exhumación de restos",
+      "direccion": {
+        "id": 6,
+        "slug": "direccion-de-servicios-municipales",
+        "nombre": "DIRECCIÓN DE SERVICIOS MUNICIPALES"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Acto de desenterrar y extraer un cadáver o los restos humanos del lugar donde fueron sepultados.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 9,
+      "slug": "adecuacion-de-boveda-9",
+      "nombre": "Adecuación de bóveda",
+      "direccion": {
+        "id": 6,
+        "slug": "direccion-de-servicios-municipales",
+        "nombre": "DIRECCIÓN DE SERVICIOS MUNICIPALES"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "La Municipalidad entrega este servicio de forma gratuita previa solicitud del familiar directo del difunto.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 11,
+      "slug": "servicios-externos-de-la-direccion-11",
+      "nombre": "Servicios externos de la dirección",
+      "direccion": {
+        "id": 7,
+        "slug": "direccion-de-seguridad-y-gobernabilidad",
+        "nombre": "DIRECCIÓN DE SEGURIDAD Y GOBERNABILIDAD"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 16,
+      "slug": "pago-del-1-5-por-mil-sobre-los-activos-totales-16",
+      "nombre": "Pago del 1.5 por mil sobre los activos totales.",
+      "direccion": {
+        "id": 8,
+        "slug": "direccion-financiera",
+        "nombre": "DIRECCIÓN FINANCIERA"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "empresa"
+      ],
+      "resumen": "Son todos los bienes declarados al SRI (SEVICIOS DE RENTAS INTERNAS), sean estas personas naturales obligadas a llevar contabilidad o personas jurídicas. Que estén domiciliados o con establecimientos en el Cantón El Coca",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 17,
+      "slug": "patente-por-primera-vez-persona-juridica-17",
+      "nombre": "Patente por primera vez persona jurídica",
+      "direccion": {
+        "id": 8,
+        "slug": "direccion-financiera",
+        "nombre": "DIRECCIÓN FINANCIERA"
+      },
+      "categorias": [
+        "agua-y-ambiente",
+        "negocios"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "emprendedor",
+        "empresa"
+      ],
+      "resumen": "Es el Permiso de funcionamiento obligatorio (Patente Municipal) para ejercer una actividad dentro del cantón sea estas personas naturales o jurídicas, sociedad nacionales o extranjeras, domiciliadas o con establecimiento",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 18,
+      "slug": "renovacion-de-patente-municipal-natural-18",
+      "nombre": "Renovación de patente municipal natural",
+      "direccion": {
+        "id": 8,
+        "slug": "direccion-financiera",
+        "nombre": "DIRECCIÓN FINANCIERA"
+      },
+      "categorias": [
+        "agua-y-ambiente",
+        "negocios"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "emprendedor",
+        "empresa"
+      ],
+      "resumen": "Es el Permiso de funcionamiento obligatorio (Patente Municipal) para ejercer una actividad dentro del cantón sea estas personas naturales o jurídicas, sociedad nacionales o extranjeras, domiciliadas o con establecimiento",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 19,
+      "slug": "patente-por-primera-vez-persona-natural-19",
+      "nombre": "Patente por primera vez persona natural",
+      "direccion": {
+        "id": 8,
+        "slug": "direccion-financiera",
+        "nombre": "DIRECCIÓN FINANCIERA"
+      },
+      "categorias": [
+        "agua-y-ambiente",
+        "negocios"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "emprendedor",
+        "empresa"
+      ],
+      "resumen": "Es el Permiso de funcionamiento obligatorio (Patente Municipal) para ejercer una actividad dentro del cantón sea estas personas naturales o jurídicas, sociedad nacionales o extranjeras, domiciliadas o con establecimiento",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 20,
+      "slug": "cierre-y-suspension-de-la-patente-municipal-20",
+      "nombre": "Cierre y suspensión de la patente municipal",
+      "direccion": {
+        "id": 8,
+        "slug": "direccion-financiera",
+        "nombre": "DIRECCIÓN FINANCIERA"
+      },
+      "categorias": [
+        "negocios"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Se procederá a borra de los registros municipales de patentes, con el aviso por parte del contribuyente de la enajenación, la inactividad, la liquidación o cierre definitivo del establecimiento; adjuntando el Registro Of",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 21,
+      "slug": "devolucion-de-garantia-por-construccion-21",
+      "nombre": "Devolución de garantía por construcción",
+      "direccion": {
+        "id": 8,
+        "slug": "direccion-financiera",
+        "nombre": "DIRECCIÓN FINANCIERA"
+      },
+      "categorias": [
+        "vivienda-y-construccion"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es un fondo de terceros que se recauda como garantía para la construcción de una vivienda, la misma que es devuelta al finalizar la obra de acuerdo al informe del fiscalizador de Obras Públicas y de la Dirección de Orden",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 22,
+      "slug": "certificado-contable-paz-y-salvo-ex-funcionarios-22",
+      "nombre": "Certificado contable (paz y salvo ex funcionarios)",
+      "direccion": {
+        "id": 8,
+        "slug": "direccion-financiera",
+        "nombre": "DIRECCIÓN FINANCIERA"
+      },
+      "categorias": [
+        "documentos-y-certificados"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "Es un documento en el que la municipalidad certifica si el ex funcionario mantiene deudas con la institución como: anticipos de sueldos y valores pagados por excesos en nómina.",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 51,
+      "slug": "requisito-para-traspaso-de-dominio-cambio-de-servicio-a-publico-51",
+      "nombre": "Requisito para traspaso de dominio cambio de servicio a público",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 38,
+      "slug": "formulario-cambio-de-socio-dtttsv-38",
+      "nombre": "Formulario cambio de socio dtttsv",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO CAMBIO DE SOCIO DTTTSV\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO CAMBIO DE SOCIO DTTTSV",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 43,
+      "slug": "formulario-de-deshabilitacon-de-vehiculo-dtttsv-43",
+      "nombre": "Formulario de deshabilitacón de vehículo dtttsv",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE DESHABILITACÓN DE VEHÍCULO DTTTSV\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE DESHABILITACÓN DE VEHÍCULO DTTTSV",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 44,
+      "slug": "formulario-de-cambio-de-socio-y-vehiculo-dtttsv-44",
+      "nombre": "Formulario de cambio de socio y vehiculo dtttsv",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "transportista"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE CAMBIO DE SOCIO Y VEHICULO DTTTSV\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE CAMBIO DE SOCIO Y VEHICULO DTTTSV",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 45,
+      "slug": "formulario-cambio-de-vehiculo-dtttsv-45",
+      "nombre": "Formulario cambio de Vehículo dtttsv",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "transportista"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO CAMBIO DE VEHICULO DTTTSV\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO CAMBIO DE VEHICULO DTTTSV",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 46,
+      "slug": "formulario-de-habilitacion-de-vehiculo-dtttsv-46",
+      "nombre": "Formulario de habilitación de vehículo dtttsv",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE HABILITACIÓN DE VEHÍCULO DTTTSV\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE HABILITACIÓN DE VEHÍCULO DTTTSV",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 47,
+      "slug": "requisito-para-revision-y-renovacion-de-matricula-servicio-publico-47",
+      "nombre": "Requisito para revisión y/ renovación de matrícula servicio público",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 48,
+      "slug": "requisito-para-la-revision-y-renovacion-de-matricula-particulares-48",
+      "nombre": "Requisito para la revisión y/ renovación de matrícula particulares",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 49,
+      "slug": "requisitos-de-traspaso-de-dominio-particulares-49",
+      "nombre": "Requisitos de Traspaso de dominio particulares",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 50,
+      "slug": "requisito-para-traspaso-de-dominio-servicio-publico-50",
+      "nombre": "Requisito para traspaso de dominio servicio público",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 53,
+      "slug": "autorizacion-para-tramites-de-revision-anual-y-renovacion-de-matricula-53",
+      "nombre": "Autorización para trámites de revisión anual y renovación de matricula",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar Autorización para trámites de revisión anual y renovación de matrícula\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar Autorización para trámites de revisión anua",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 54,
+      "slug": "formulario-de-exoneracion-por-calendarizacion-54",
+      "nombre": "Formulario de exoneración por calendarización",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE EXONERACIÓN POR CALENDARIZACIÓN\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE EXONERACIÓN POR CALENDARIZACIÓN",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 55,
+      "slug": "formulario-de-exoneracion-por-calendarizacion-55",
+      "nombre": "Formulario de exoneración por calendarización",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE EXONERACIÓN POR CALENDARIZACIÓN\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE EXONERACIÓN POR CALENDARIZACIÓN",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 56,
+      "slug": "formulario-de-solicitud-de-actualizacion-de-datos-56",
+      "nombre": "Formulario de solicitud de actualización de datos",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE SOLICITUD DE ACTUALIZACIÓN DE DATOS\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE SOLICITUD DE ACTUALIZACIÓN DE DATOS",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 57,
+      "slug": "formulario-denuncias-57",
+      "nombre": "Formulario denuncias",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DENUNCIAS\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DENUNCIAS",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 58,
+      "slug": "formulario-denuncia-de-servicio-de-transporte-publico-o-comercial-58",
+      "nombre": "Formulario denuncia de servicio de transporte público o comercial",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte",
+        "negocios"
+      ],
+      "perfiles": [
+        "ciudadano",
+        "emprendedor"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DENUNCIAS DE SERVICIO DE TRANSPORTE PÚBLICO O COMERCIAL\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DENUNCIAS DE SERVICIO DE TRANSPORTE PÚBLICO",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 59,
+      "slug": "solicitud-de-tramite-59",
+      "nombre": "Solicitud de trámite",
+      "direccion": {
+        "id": 9,
+        "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+        "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+      },
+      "categorias": [
+        "vehiculos-y-transporte"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar SOLICITUD DE TRÁMITE\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar SOLICITUD DE TRÁMITE",
+      "requiere_revision_editorial": true
+    },
+    {
+      "id": 64,
+      "slug": "informacion-de-servicios-y-requisitos-64",
+      "nombre": "Información de Servicios y Requisitos",
+      "direccion": {
+        "id": 10,
+        "slug": "procuraduria-sindica",
+        "nombre": "PROCURADURÍA SÍNDICA"
+      },
+      "categorias": [
+        "otros-tramites"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "",
+      "requiere_revision_editorial": false
+    },
+    {
+      "id": 63,
+      "slug": "requerimientos-y-servicios-63",
+      "nombre": "Requerimientos y servicios",
+      "direccion": {
+        "id": 11,
+        "slug": "desarrollo-social",
+        "nombre": "DESARROLLO SOCIAL"
+      },
+      "categorias": [
+        "familia-y-bienestar"
+      ],
+      "perfiles": [
+        "ciudadano"
+      ],
+      "resumen": "REQUISITOS 1. Copia de la cédula o partida de nacimiento del niño y niña. 2. Carnet de vacunas. 3. Formulario o ficha de inscripción del proyecto GADMFO-MDH. 4. Copia de cédula de los padres del niño/a. 5. Planilla de lu",
+      "requiere_revision_editorial": true
+    }
+  ],
+  "meta": {
+    "total": 60,
+    "direcciones": 11
+  }
+}

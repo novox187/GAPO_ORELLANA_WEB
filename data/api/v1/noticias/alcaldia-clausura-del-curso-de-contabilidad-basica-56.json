@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 56,
+    "slug": "alcaldia-clausura-del-curso-de-contabilidad-basica-56",
+    "titulo": "Alcaldía clausura del curso de contabilidad básica",
+    "resumen": "La Alcaldía, concluyó con éxito el taller de contabilidad básica, dirigido a emprendedores locales. La capacitación impartida por técnicos especializados en micro emprendimientos",
+    "fecha": "2025-03-26",
+    "imagen": {
+      "id": "5470cc0fe9570c46",
+      "hash": "5470cc0fe9570c46a6b978c05be6ee73903cf74b4a826f500227e70c6a849770",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_4475.JPG",
+      "rutaOriginal": "/media/originales/5470cc0fe9570c46.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/5470cc0fe9570c46-400.webp",
+        "800w": "/media/derivados/5470cc0fe9570c46-800.webp",
+        "1600w": "/media/derivados/5470cc0fe9570c46-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7118393,
+      "alt": "Alcaldía clausura del curso de contabilidad básica",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/56/",
+    "fuente_url": "https://orellana.gob.ec/noticia/56/",
+    "cuerpo": "La Alcaldía, concluyó con éxito el taller de contabilidad básica, dirigido a emprendedores locales. La capacitación impartida por técnicos especializados en micro emprendimientos, tuvo una duración de 120 horas de teoría y práctica, “Yo los quiero felicitar a todos ustedes por haber tenido esa decisión de ser parte de este importante taller, ojalá lo hayan sabido aprovechar y más adelante sirva para cualquier actividad que ustedes lo vayan a emprender”. Shirma Cortés, alcaldesa de Francisco de Orellana. \nUn total de 43 emprendedores completaron satisfactoriamente el curso y recibieron sus certificados de aprobación, avalados por la institución municipal y la ESPOCH, “Quiero agradecer a la alcaldesa Shirma Cortés por permitir que se impartan estos talleres, y la verdad están muy buenos y los recomiendo”. Carlos Guyachamín, beneficiario del taller. \n“Gracias a la alcaldesa y a las autoridades del municipio por hacer posible este proyecto”. Anahí Cuenca, beneficiaria del taller. \nCon estas acciones, la Alcaldía reafirma su compromiso con la formación y el crecimiento de los emprendedores, brindándoles herramientas clave para el éxito de sus proyectos. DV.",
+    "imagenes": [
+      {
+        "id": "5470cc0fe9570c46",
+        "hash": "5470cc0fe9570c46a6b978c05be6ee73903cf74b4a826f500227e70c6a849770",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_4475.JPG",
+        "rutaOriginal": "/media/originales/5470cc0fe9570c46.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5470cc0fe9570c46-400.webp",
+          "800w": "/media/derivados/5470cc0fe9570c46-800.webp",
+          "1600w": "/media/derivados/5470cc0fe9570c46-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7118393,
+        "alt": "Alcaldía clausura del curso de contabilidad básica",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

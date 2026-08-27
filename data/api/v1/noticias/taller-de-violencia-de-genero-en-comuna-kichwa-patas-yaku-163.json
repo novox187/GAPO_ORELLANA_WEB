@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 163,
+    "slug": "taller-de-violencia-de-genero-en-comuna-kichwa-patas-yaku-163",
+    "titulo": "Taller de violencia de género en comuna kichwa Patas Yaku",
+    "resumen": "La Alcaldía de Francisco de Orellana, en coordinación con el Consejo Cantonal de Protección de Derechos en el marco del Convenio N° 011-2025, se encuentra ejecutando el Proyecto de Prevención y Atención frente a la Violencia de Género contra las Muje",
+    "fecha": "2025-09-15",
+    "imagen": {
+      "id": "74eac1bf699d01df",
+      "hash": "74eac1bf699d01dfda3ca8313a24373cb5ec2eb3afa8924f5826e59924923398",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_qbqtTpG.JPG",
+      "rutaOriginal": "/media/originales/74eac1bf699d01df.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/74eac1bf699d01df-400.webp",
+        "800w": "/media/derivados/74eac1bf699d01df-800.webp",
+        "1600w": "/media/derivados/74eac1bf699d01df-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7626529,
+      "alt": "La Alcaldía impulsa inclusión y bienestar en la ruralidad junto a COCAPRODE",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+    },
+    "url": "/noticia/163/",
+    "fuente_url": "https://orellana.gob.ec/noticia/163/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, en coordinación con el Consejo Cantonal de Protección de Derechos en el marco del Convenio N° 011-2025, se encuentra ejecutando el Proyecto de Prevención y Atención frente a la Violencia de Género contra las Mujeres, con el objetivo de fortalecer el Sistema Cantonal de Protección de Derechos y garantizar una vida libre de violencia para las mujeres del canton, “La responsabilidad que nos pide nuestra alcaldesa Shirma Cortés es que se sumemos y trabajemos con estos proyectos y podamos sensibilizar a todas las personas con el objetivo de prevenir la violencia de género en todos sus ámbitos.” Mishel Malán, psicóloga de COCAPRODE. \nLa jornada se llevó a cabo en la comuna Kichwa Patas Yaku, parroquia San Luis de Armenia, donde 61 moradores recibieron orientación sobre prevención de la violencia de género, masculinidad responsable, corresponsabilidad familiar y prevención del consumo de alcohol, “Las capacitaciones que nos brindan son muy importante, porque nos permiten conocer y sensibilizar ante actos que muchas veces son considerados normales en nuestra comunidad y agradezco a la alcaldesa que mande a sus trabajadores a capacitarnos.” Silvia Pizango, Moradora de la Comuna Kichwa Patas Yaku. \nEstas capacitaciones continuarán en la comunidad San Bartolo y en la parroquia El Dorado, fortaleciendo así el compromiso institucional por garantizar espacios seguros y una convivencia basada en el respeto y la igualdad. DV.",
+    "imagenes": [
+      {
+        "id": "74eac1bf699d01df",
+        "hash": "74eac1bf699d01dfda3ca8313a24373cb5ec2eb3afa8924f5826e59924923398",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_qbqtTpG.JPG",
+        "rutaOriginal": "/media/originales/74eac1bf699d01df.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/74eac1bf699d01df-400.webp",
+          "800w": "/media/derivados/74eac1bf699d01df-800.webp",
+          "1600w": "/media/derivados/74eac1bf699d01df-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7626529,
+        "alt": "La Alcaldía impulsa inclusión y bienestar en la ruralidad junto a COCAPRODE",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      }
+    ]
+  }
+}

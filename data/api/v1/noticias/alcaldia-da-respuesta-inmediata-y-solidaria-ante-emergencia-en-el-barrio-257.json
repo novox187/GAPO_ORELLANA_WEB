@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 257,
+    "slug": "alcaldia-da-respuesta-inmediata-y-solidaria-ante-emergencia-en-el-barrio-257",
+    "titulo": "Alcaldía da respuesta inmediata y solidaria ante emergencia en el barrio Paraíso Amazónico",
+    "resumen": "Aproximadamente a las 21:45 del jueves 26 de febrero, una inesperada explosión de una tapa de alcantarillado sanitario en las calles Río Suno y Loja, en el barrio Paraíso Amazónico, alarmó a los moradores del sector y afectó la vivienda del señor Áng",
+    "fecha": "2026-02-27",
+    "imagen": {
+      "id": "e83198585e2a97bd",
+      "hash": "e83198585e2a97bdde1c916a3aacdda89157fe14b0084edb96d7e684f8814ded",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG8891.JPG",
+      "rutaOriginal": "/media/originales/e83198585e2a97bd.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e83198585e2a97bd-400.webp",
+        "800w": "/media/derivados/e83198585e2a97bd-800.webp",
+        "1600w": "/media/derivados/e83198585e2a97bd-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 10866454,
+      "alt": "Alcaldía da respuesta inmediata y solidaria ante emergencia en el barrio Paraíso Amazónico",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/257/",
+    "fuente_url": "https://orellana.gob.ec/noticia/257/",
+    "cuerpo": "Aproximadamente a las 21:45 del jueves 26 de febrero, una inesperada explosión de una tapa de alcantarillado sanitario en las calles Río Suno y Loja, en el barrio Paraíso Amazónico, alarmó a los moradores del sector y afectó la vivienda del señor Ángel Chasi, quien nos detalla lo sucedido, “Me desperté con el ruido de la explosión, cuando salí estaba la alcantarilla destapada, la pregunta era, ¿y la tapa? y luego de un momento se pudo evidenciar, porque una nieta mía duerme allá arriba, que ventajosamente en ese rato no se encontraba en el cuarto; luego nos damos cuenta que el cuarto de ella está destrozada, porque la tapa ha caído por encima, perforando el duratecho, el cielo raso y cae justamente en la cama, la tapa de la alcantarilla.”\nPersonal del Cuerpo de Bomberos y técnicos de la Municipalidad acudieron al sitio para realizar la evaluación técnica del incidente. La intervención oportuna garantizó la seguridad en el área y permitió iniciar, el levantamiento de información necesaria para proceder conforme a la normativa vigente, manifiesta Frank Alcívar, director de agua potable y alcantarillado, “La finalidad es determinar qué lo está ocasionando o lo está motivando, vamos a ir pozo a pozo, cajas de revisión y terciarias para verificar cada uno de los puntos y emitir el respectivo informe técnico.”\nDesde la administración liderada por la alcaldesa Shirma Cortés Sanmiguel se dispuso acompañamiento directo a los afectados y se explicó el proceso que se ejecutará mediante el seguro por daños a terceros para indemnizar los deterioros ocasionados, “Hemos tenido la presencia de nuestra aseguradora el día de hoy, ha conversado con la familia y se les ha indicado el procedimiento a seguir.” Blanca Duman, directora administrativa.\nEsta acción firme y transparente ratifica el compromiso de una gestión cercana, humana y responsable, que responde con hechos ante la adversidad y continúa trabajando por “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "e83198585e2a97bd",
+        "hash": "e83198585e2a97bdde1c916a3aacdda89157fe14b0084edb96d7e684f8814ded",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG8891.JPG",
+        "rutaOriginal": "/media/originales/e83198585e2a97bd.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e83198585e2a97bd-400.webp",
+          "800w": "/media/derivados/e83198585e2a97bd-800.webp",
+          "1600w": "/media/derivados/e83198585e2a97bd-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 10866454,
+        "alt": "Alcaldía da respuesta inmediata y solidaria ante emergencia en el barrio Paraíso Amazónico",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 28,
+    "slug": "alcaldesa-participa-en-reforestacion-de-zonas-de-alto-riesgo-del-barrio-28",
+    "titulo": "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi",
+    "resumen": "La actividad desarrollada por la alcaldía en colaboración con el Ministerio del Ambiente",
+    "fecha": "2025-02-03",
+    "imagen": {
+      "id": "34244b3615118658",
+      "hash": "34244b361511865880494bd998a90797b87a88562a2f4bff233826959f118e42",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_REFORESTACION_ALCALDESA.png",
+      "rutaOriginal": "/media/originales/34244b3615118658.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/34244b3615118658-400.webp",
+        "800w": "/media/derivados/34244b3615118658-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1376550,
+      "alt": "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    "url": "/noticia/28/",
+    "fuente_url": "https://orellana.gob.ec/noticia/28/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel, participó de manera activa en una jornada de remediación y reforestación en zonas de alto riesgo del barrio Ñucanchi Wasi, evento que tuvo como objetivo restaurar áreas afectadas por la deforestación y reducir el impacto de posibles desastres naturales, como deslizamientos de tierra o inundaciones, “Para la cobertura de estos trabajos, el municipio ha aportado con la parte técnica, adicional con las plantas, ya que se conformó los viveros con anticipación y para el día de hoy ya las estamos sembrando; asimismo, tenemos una planta como el morete que conforma muros naturales y eso es lo importante”. Shirma Cortés, alcaldesa del GADMFO.\nLa actividad desarrollada por la alcaldía en colaboración con el Ministerio del Ambiente, Agua y Transición Ecológica, Jóvenes en Acción, Amazonía Viva y la Unidad Educativa Ñucanchi Wasi contó con la plantación de más de 1.500 árboles de especies nativas maderables, ornamentales y frutales, “Es un proyecto que invita a la gente a concientizar y conservar el medio ambiente, cuidarlo y respetarlo, porque es nuestra casa, es nuestro planeta, es donde vivimos y tenemos que cuidarlo”. Wilson Moreno, Proyecto Jóvenes en Acción.\nLa Alcaldía continuará con estas iniciativas para fortalecer las áreas verdes y mejorar los procesos de adaptación ante fenómenos provocados por el hombre y la naturaleza. JG.",
+    "imagenes": [
+      {
+        "id": "34244b3615118658",
+        "hash": "34244b361511865880494bd998a90797b87a88562a2f4bff233826959f118e42",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_REFORESTACION_ALCALDESA.png",
+        "rutaOriginal": "/media/originales/34244b3615118658.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/34244b3615118658-400.webp",
+          "800w": "/media/derivados/34244b3615118658-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1376550,
+        "alt": "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      }
+    ]
+  }
+}

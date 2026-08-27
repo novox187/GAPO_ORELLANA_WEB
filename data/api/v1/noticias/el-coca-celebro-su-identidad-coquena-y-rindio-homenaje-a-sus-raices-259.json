@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 259,
+    "slug": "el-coca-celebro-su-identidad-coquena-y-rindio-homenaje-a-sus-raices-259",
+    "titulo": "El Coca celebró su identidad coqueña y rindió homenaje a sus raíces",
+    "resumen": "“Vengo de turismo, soy de Milagro, vengo a El Coca a conocer todas estas bellezas que ustedes mantienen aquí, me impresiona al saber que esto es como una fiesta para ustedes.” De esta manera Beltrán Ordóñez, elogia a la Alcaldía de Francisco de Orell",
+    "fecha": "2026-03-03",
+    "imagen": {
+      "id": "56738b8b70c40c11",
+      "hash": "56738b8b70c40c1196089f82f51c0e12927fa2b45bd5a5de6ce03e621741ffae",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_MG9453.JPG",
+      "rutaOriginal": "/media/originales/56738b8b70c40c11.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/56738b8b70c40c11-400.webp",
+        "800w": "/media/derivados/56738b8b70c40c11-800.webp",
+        "1600w": "/media/derivados/56738b8b70c40c11-1600.webp"
+      },
+      "ancho": 6160,
+      "alto": 4640,
+      "bytes": 9100065,
+      "alt": "El Coca celebró su identidad coqueña y rindió homenaje a sus raíces",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/259/",
+    "fuente_url": "https://orellana.gob.ec/noticia/259/",
+    "cuerpo": "“Vengo de turismo, soy de Milagro, vengo a El Coca a conocer todas estas bellezas que ustedes mantienen aquí, me impresiona al saber que esto es como una fiesta para ustedes.” De esta manera Beltrán Ordóñez, elogia a la Alcaldía de Francisco de Orellana liderada por Shirma Cortés Sanmiguel, donde celebró el sábado 28 de febrero el Día de la Identidad Coqueña en el emblemático Malecón de El Coca, en una jornada que integró cultura, turismo y compromiso institucional con el desarrollo local.\nEl evento inició con la bailoterapia “Zona Tushuna”, continuó con una feria gastronómica que destacó los sabores amazónicos, danzas tradicionales y juegos populares, consolidando un espacio que fortalece el sentido de pertenencia, “Considero que la alcaldesa siempre está presta a realizar este tipo de eventos, ya que motiva el turismo en la localidad y siempre apoya a la ciudadanía en diferentes aspectos.” Leonardo Vite, opinión ciudadana. \nLa jornada culminó con una velada conmemorativa llena de emoción, donde el pasado y el presente se unieron para honrar nuestras raíces. Allí se reafirmó el compromiso con la reivindicación histórica y se rindió homenaje a varios actores pioneros que transformaron la comunicación, el transporte, la educación y el deporte, dejando una huella que hoy nos une e inspira, “Me parece unas tradiciones muy bonitas la verdad, me ha gustado mucho lo que hoy día hemos celebrado como Coqueños de corazón.” María Vélez, opinión ciudadana. DV.",
+    "imagenes": [
+      {
+        "id": "56738b8b70c40c11",
+        "hash": "56738b8b70c40c1196089f82f51c0e12927fa2b45bd5a5de6ce03e621741ffae",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_MG9453.JPG",
+        "rutaOriginal": "/media/originales/56738b8b70c40c11.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/56738b8b70c40c11-400.webp",
+          "800w": "/media/derivados/56738b8b70c40c11-800.webp",
+          "1600w": "/media/derivados/56738b8b70c40c11-1600.webp"
+        },
+        "ancho": 6160,
+        "alto": 4640,
+        "bytes": 9100065,
+        "alt": "El Coca celebró su identidad coqueña y rindió homenaje a sus raíces",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

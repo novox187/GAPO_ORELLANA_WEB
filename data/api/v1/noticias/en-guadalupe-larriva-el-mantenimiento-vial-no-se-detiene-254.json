@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 254,
+    "slug": "en-guadalupe-larriva-el-mantenimiento-vial-no-se-detiene-254",
+    "titulo": "En Guadalupe Larriva, el mantenimiento vial no se detiene",
+    "resumen": "En el barrio Guadalupe Larriva, cada calle que mejoramos es un paso hacia la seguridad y bienestar de nuestras familias. Para Verónica Carpio, moradora del sector, el liderazgo de Shirma Cortés Sanmiguel, permite a la Alcaldía trabajar con corazón, m",
+    "fecha": "2026-02-18",
+    "imagen": {
+      "id": "d0a62602f17bef68",
+      "hash": "d0a62602f17bef68029e3d76c142c7ef9241d8b5c1446722b5aaf2a12f92309a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG951.JPG",
+      "rutaOriginal": "/media/originales/d0a62602f17bef68.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d0a62602f17bef68-400.webp",
+        "800w": "/media/derivados/d0a62602f17bef68-800.webp",
+        "1600w": "/media/derivados/d0a62602f17bef68-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10461305,
+      "alt": "En Guadalupe Larriva, el mantenimiento vial no se detiene",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/254/",
+    "fuente_url": "https://orellana.gob.ec/noticia/254/",
+    "cuerpo": "En el barrio Guadalupe Larriva, cada calle que mejoramos es un paso hacia la seguridad y bienestar de nuestras familias.\nPara Verónica Carpio, moradora del sector, el liderazgo de Shirma Cortés Sanmiguel, permite a la Alcaldía trabajar con corazón, maquinaria y material de calidad para que vecinos y vecinas tengan caminos más seguros, incluso en la temporada invernal, “Estoy muy agradecida con la alcaldesa, porque nos ha arreglado las vías, con estos trabajos podemos circular sin problemas los peatones y vehículos.” \nEstas acciones no solo mejoran la movilidad, sino que fortalecen la calidad de vida de cientos de familias, facilitando el tránsito diario, el acceso a servicios y el desarrollo del barrio, así lo manifiesta Patricio Maliza, transportista, “Nosotros como transportistas estamos contentos con los trabajos, porque nuestros vehículos no sufren los daños como cuando las vías están en malas condiciones y qué bueno que la obra continue.”\nPorque cuando se trabaja con planificación y corazón, el progreso llega a cada rincón. DV.",
+    "imagenes": [
+      {
+        "id": "d0a62602f17bef68",
+        "hash": "d0a62602f17bef68029e3d76c142c7ef9241d8b5c1446722b5aaf2a12f92309a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG951.JPG",
+        "rutaOriginal": "/media/originales/d0a62602f17bef68.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d0a62602f17bef68-400.webp",
+          "800w": "/media/derivados/d0a62602f17bef68-800.webp",
+          "1600w": "/media/derivados/d0a62602f17bef68-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10461305,
+        "alt": "En Guadalupe Larriva, el mantenimiento vial no se detiene",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

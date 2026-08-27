@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 76,
+    "slug": "estudiantes-realizan-recorrido-por-la-planta-de-agua-potable-los-alamos-76",
+    "titulo": "Estudiantes realizan recorrido por la planta de agua potable Los Álamos",
+    "resumen": "Un grupo de 34 estudiantes del colegio Padre Miguel Gamboa participó en un recorrido educativo",
+    "fecha": "2025-04-01",
+    "imagen": {
+      "id": "a50cdbb24fd65321",
+      "hash": "a50cdbb24fd65321d5b0468301166b3c5b80e73ba225279a513f52302d8b1cdd",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_4896.JPG",
+      "rutaOriginal": "/media/originales/a50cdbb24fd65321.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a50cdbb24fd65321-400.webp",
+        "800w": "/media/derivados/a50cdbb24fd65321-800.webp",
+        "1600w": "/media/derivados/a50cdbb24fd65321-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7070634,
+      "alt": "Estudiantes realizan recorrido por la planta de agua potable Los Álamos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/76/",
+    "fuente_url": "https://orellana.gob.ec/noticia/76/",
+    "cuerpo": "Un grupo de 34 estudiantes del colegio Padre Miguel Gamboa participó en un recorrido educativo por la planta de agua potable “Los Álamos”. Esta actividad se realizó como parte del programa “Gira de Observación”, organizado por la jefatura de educación ambiental de la municipalidad, “El objetivo es que los jóvenes conozcan el proceso que tiene que seguir la captación de agua potable para que llegue hacia nuestros hogares”. Laura Alcívar, funcionaria municipal. \nDurante la visita, los estudiantes conocieron el proceso de potabilización del agua y la importancia de su conservación. Además, recibieron información sobre el impacto ambiental del consumo responsable del recurso hídrico, “Es importante nosotros como padres de familia también interactuar y venir a escuchar las explicaciones de los ingenieros y se les felicita que bueno que han invitado para conocer este proceso”. Claudia Villagómez, opinión ciudadana.\nCon estas iniciativas, la municipalidad busca fomentar la conciencia ambiental en la juventud y destacar la relevancia del acceso a agua potable segura. DV.",
+    "imagenes": [
+      {
+        "id": "a50cdbb24fd65321",
+        "hash": "a50cdbb24fd65321d5b0468301166b3c5b80e73ba225279a513f52302d8b1cdd",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_4896.JPG",
+        "rutaOriginal": "/media/originales/a50cdbb24fd65321.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a50cdbb24fd65321-400.webp",
+          "800w": "/media/derivados/a50cdbb24fd65321-800.webp",
+          "1600w": "/media/derivados/a50cdbb24fd65321-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7070634,
+        "alt": "Estudiantes realizan recorrido por la planta de agua potable Los Álamos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

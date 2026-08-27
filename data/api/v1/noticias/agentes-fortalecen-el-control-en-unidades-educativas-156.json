@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 156,
+    "slug": "agentes-fortalecen-el-control-en-unidades-educativas-156",
+    "titulo": "Agentes fortalecen el control en unidades educativas",
+    "resumen": "Con el propósito de precautelar el orden y la seguridad en el inicio del nuevo año escolar, la Dirección de Seguridad y Gobernabilidad Municipal ejecuta de manera permanente operativos de control en distintos puntos estratégicos de la ciudad de El Co",
+    "fecha": "2025-09-02",
+    "imagen": {
+      "id": "9297213f365de947",
+      "hash": "9297213f365de947c2f6dfb181ace6b4e49d1b88d58ef569d42f14158b98cfb4",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/2_IMG0532.JPG",
+      "rutaOriginal": "/media/originales/9297213f365de947.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9297213f365de947-400.webp",
+        "800w": "/media/derivados/9297213f365de947-800.webp",
+        "1600w": "/media/derivados/9297213f365de947-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6577405,
+      "alt": "Agentes fortalecen el control en unidades educativas",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/156/",
+    "fuente_url": "https://orellana.gob.ec/noticia/156/",
+    "cuerpo": "Con el propósito de precautelar el orden y la seguridad en el inicio del nuevo año escolar, la Dirección de Seguridad y Gobernabilidad Municipal ejecuta de manera permanente operativos de control en distintos puntos estratégicos de la ciudad de El Coca, para Carmen Castillo, docente de la Unidad Educativa Amazonas, la colaboración que presta la Alcaldía es una buena acción para precautelar la integridad de los estudiantes, asegura, “porque hay ciudadanos que no colaboran; entonces uno como docente se planifica programas de vigilancia, pero la ciudanía no colabora entonces ya tenemos la presencia de un uniformado municipal tanto en la jornada matutina como la vespertina.”\nEstas acciones incluyen visitas a instituciones educativas y sus alrededores, donde agentes municipales verifican el buen uso de aceras y veredas, además de controlar la presencia de vendedores ambulantes en los espacios públicos, “Me parece muy bueno el apoyo que da la alcaldía, porque la vereda es para los peatones y los ciudadanos tienen las motos en las aceras y los estudiantes tienen que utilizar las vías, poniendo en riesgo sus vidas,” concluye el ciudadano José Orozco. \nLos controles se realizan diariamente y forman parte del plan nacional “Escuelas Seguras”, cuyo objetivo es mantener los espacios públicos organizados, libres de obstáculos y seguros para estudiantes, familias y la ciudadanía en general. DV.",
+    "imagenes": [
+      {
+        "id": "9297213f365de947",
+        "hash": "9297213f365de947c2f6dfb181ace6b4e49d1b88d58ef569d42f14158b98cfb4",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/2_IMG0532.JPG",
+        "rutaOriginal": "/media/originales/9297213f365de947.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9297213f365de947-400.webp",
+          "800w": "/media/derivados/9297213f365de947-800.webp",
+          "1600w": "/media/derivados/9297213f365de947-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6577405,
+        "alt": "Agentes fortalecen el control en unidades educativas",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

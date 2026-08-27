@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 242,
+    "slug": "municipalidad-recuerda-horarios-establecidos-para-embarques-y-desembarques-en-242",
+    "titulo": "Municipalidad recuerda horarios establecidos para embarques y desembarques en casas comerciales",
+    "resumen": "Como parte de las acciones para fortalecer el orden y la movilidad urbana, la Municipalidad de Francisco de Orellana recuerda que la ordenanza municipal OM–20–2024, establece horarios para ciertas actividades comerciales en el casco urbano, “De acuer",
+    "fecha": "2026-01-27",
+    "imagen": {
+      "id": "bf9c2e91b1e24a3b",
+      "hash": "bf9c2e91b1e24a3bba79fae86b33e1baa971f233cdef31a5d8cb937e4534bbf0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_UN7UIGF.JPG",
+      "rutaOriginal": "/media/originales/bf9c2e91b1e24a3b.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/bf9c2e91b1e24a3b-400.webp",
+        "800w": "/media/derivados/bf9c2e91b1e24a3b-800.webp",
+        "1600w": "/media/derivados/bf9c2e91b1e24a3b-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9001549,
+      "alt": "Municipalidad recuerda horarios establecidos para embarques y desembarques en casas comerciales",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/242/",
+    "fuente_url": "https://orellana.gob.ec/noticia/242/",
+    "cuerpo": "Como parte de las acciones para fortalecer el orden y la movilidad urbana, la Municipalidad de Francisco de Orellana recuerda que la ordenanza municipal OM–20–2024, establece horarios para ciertas actividades comerciales en el casco urbano, “De acuerdo a su artículo 16, los vehículos pesados que realizan embarque y desembarque de mercadería en el casco urbano, deben contar con el permiso correspondiente. Este control busca evitar afectaciones a la movilidad vehicular y proteger los espacios públicos, como calles, aceras y bordillos.” Recuerda Adrián Zambrano, inspector de la Comisaría Municipal del GADMFO.\nLa Alcaldía, hace un llamado a transportistas y propietarios de locales comerciales a respetar la normativa vigente, cumplir los horarios establecidos y asumir la responsabilidad por cualquier afectación a calles, aceras o bordillos.\nPara obtener los requisitos, debe solicitar lo siguiente: solicitud dirigida a la tecnóloga Shirma Cortés Sanmiguel, alcaldesa del GADMFO, indicando se le conceda el permiso de espacio público para embarque y desembarque de mercadería; dejar la solicitud en Secretaría General del Municipio con los siguientes documentos: \n• Copia de cédula de ciudadanía y certificado de votación del representante legal y el RUC;\n• Certificado de no adeudar al municipio; y,\n• Certificado de antecedentes penales (Lo obtiene en la página web del Ministerio del Interior).\nCuando haya cancelado, favor venir a dejar una copia del pago a la Comisaría Municipal, ubicada en las calles 12 de febrero entre Juan Montalvo y Simón bolívar del barrio 24 de mayo, “Para obtener el permiso de embarque y desembarque, los propietarios de los locales comerciales deben realizar la solicitud en la Alcaldía.\nEste permiso autoriza el uso del espacio público por un tiempo determinado, en horarios establecidos, y es obligatorio para evitar sanciones y daños a la vía pública.” Leonardo Domo, inspector de la comisaría municipal del GADMFO.\nLa alcaldía trabaja por un cantón más ordenado y seguro para todos. PT.",
+    "imagenes": [
+      {
+        "id": "bf9c2e91b1e24a3b",
+        "hash": "bf9c2e91b1e24a3bba79fae86b33e1baa971f233cdef31a5d8cb937e4534bbf0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_UN7UIGF.JPG",
+        "rutaOriginal": "/media/originales/bf9c2e91b1e24a3b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bf9c2e91b1e24a3b-400.webp",
+          "800w": "/media/derivados/bf9c2e91b1e24a3b-800.webp",
+          "1600w": "/media/derivados/bf9c2e91b1e24a3b-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9001549,
+        "alt": "Municipalidad recuerda horarios establecidos para embarques y desembarques en casas comerciales",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

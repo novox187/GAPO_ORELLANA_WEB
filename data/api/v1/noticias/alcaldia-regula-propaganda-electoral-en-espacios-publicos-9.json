@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 9,
+    "slug": "alcaldia-regula-propaganda-electoral-en-espacios-publicos-9",
+    "titulo": "Alcaldía regula propaganda electoral en espacios públicos",
+    "resumen": "La campaña electoral",
+    "fecha": "2025-01-07",
+    "imagen": {
+      "id": "575e98bad477f356",
+      "hash": "575e98bad477f3561e4eb22b8a80d749e7f1308b2453253cc431b9000521da2d",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/REGULACION_PROPAGANDA.jpg",
+      "rutaOriginal": "/media/originales/575e98bad477f356.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/575e98bad477f356-400.webp",
+        "800w": "/media/derivados/575e98bad477f356-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 107570,
+      "alt": "Alcaldía regula propaganda electoral en espacios públicos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/9/",
+    "fuente_url": "https://orellana.gob.ec/noticia/9/",
+    "cuerpo": "La campaña electoral en Ecuador para las elecciones 2025 inició oficialmente este 5 de enero. En este contexto, la Alcaldía de Francisco de Orellana recuerda que está vigente la ordenanza municipal aprobada en enero de 2013, que regula los espacios para la propaganda y publicidad electoral.\nHernán Tumbaco, comisario ambiental municipal, expresa que dicha normativa prohíbe colocar afiches, vallas o propaganda en espacios públicos como veredas, calzadas, señales de tránsito, árboles, postes de energía, bienes municipales y áreas regeneradas como el Parque Bacana del Payamino y la Calle del Paseo Napo, “También está prohibido colocar en los postes de energía eléctrica, en las paredes de los bienes municipales y en los bienes de propiedad pública; es decir, la publicidad electoral no se puede ubicar en estos espacios”.\nAgentes de control municipal realizarán operativos para garantizar el cumplimiento de esta ordenanza. Las sanciones incluyen multas del 25% del salario básico unificado por cada afiche o metro cuadrado de propaganda pintada en zonas no autorizadas, insiste el funcionario público, “La ordenanza establece sanciones que van desde el 25% de un Salario Básico Unificado por cada afiche; igualmente, cuando se pinta en las paredes también hay el mismo tipo de sanción del 25% por metro cuadrado”. Hernán Tumbaco, comisario ambiental del GADMFO.\nSe hace un llamado a los movimientos políticos a respetar estas disposiciones y a retirar su propaganda una vez concluida la campaña, contribuyendo al orden y la limpieza de nuestra ciudad. ST.",
+    "imagenes": [
+      {
+        "id": "575e98bad477f356",
+        "hash": "575e98bad477f3561e4eb22b8a80d749e7f1308b2453253cc431b9000521da2d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/REGULACION_PROPAGANDA.jpg",
+        "rutaOriginal": "/media/originales/575e98bad477f356.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/575e98bad477f356-400.webp",
+          "800w": "/media/derivados/575e98bad477f356-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 107570,
+        "alt": "Alcaldía regula propaganda electoral en espacios públicos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

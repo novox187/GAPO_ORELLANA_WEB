@@ -1,0 +1,161 @@
+{
+  "data": {
+    "slug": "concejo",
+    "seccion": "institucional",
+    "titulo": "Concejo Municipal",
+    "bloques": [
+      {
+        "tipo": "titulo",
+        "nivel": 3,
+        "texto": "SR.VICTOR VICENTE RUIZ QUIÑONEZ"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 3,
+        "texto": "TLGO. MIGUEL ÁNGEL SABANDO VARELA"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 3,
+        "texto": "SR. DANIEL ALBERTO CEDEÑO FERNÁNDEZ"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 3,
+        "texto": "SR. MIGUEL BELISARIO MURILLO CHICA"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 3,
+        "texto": "ING. EDGAR PAÚL VALLADOLID CASTILLO"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 3,
+        "texto": "SRA. JUDITH MAGALI HIDALGO CUENCA"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 3,
+        "texto": "SR. WASHINGTON ISRAEL CARDONA NANCHY"
+      }
+    ],
+    "texto": "SR.VICTOR VICENTE RUIZ QUIÑONEZ\n\nTLGO. MIGUEL ÁNGEL SABANDO VARELA\n\nSR. DANIEL ALBERTO CEDEÑO FERNÁNDEZ\n\nSR. MIGUEL BELISARIO MURILLO CHICA\n\nING. EDGAR PAÚL VALLADOLID CASTILLO\n\nSRA. JUDITH MAGALI HIDALGO CUENCA\n\nSR. WASHINGTON ISRAEL CARDONA NANCHY",
+    "imagenes": [
+      {
+        "id": "603bb95b7f523c58",
+        "hash": "603bb95b7f523c58320253ff56d0deef3058e969745b1348b2a96214ede49fd1",
+        "urlOriginal": "https://orellana.gob.ec/static/img/concejales/VICTOR%20RUIZ.jpg",
+        "rutaOriginal": "/media/originales/603bb95b7f523c58.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/603bb95b7f523c58-400.webp"
+        },
+        "ancho": 475,
+        "alto": 447,
+        "bytes": 113752,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "institucional",
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+      },
+      {
+        "id": "e6b07acfcedd2306",
+        "hash": "e6b07acfcedd2306ad6afc517d7af31d28fd971351f14ab11c0c8392f6fad769",
+        "urlOriginal": "https://orellana.gob.ec/static/img/concejales/MIGUEL%20SABANDO.jpg",
+        "rutaOriginal": "/media/originales/e6b07acfcedd2306.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e6b07acfcedd2306-400.webp"
+        },
+        "ancho": 475,
+        "alto": 447,
+        "bytes": 108498,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "institucional",
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+      },
+      {
+        "id": "489ea04696970465",
+        "hash": "489ea04696970465baa7bf09699b7ea6ce0ce2364c7c7c8541a407611ba8f42e",
+        "urlOriginal": "https://orellana.gob.ec/static/img/concejales/DANIEL%20CEDE%C3%91O-11.jpg",
+        "rutaOriginal": "/media/originales/489ea04696970465.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/489ea04696970465-400.webp"
+        },
+        "ancho": 475,
+        "alto": 447,
+        "bytes": 108639,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "institucional",
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+      },
+      {
+        "id": "0246fa5cc9a5c8b4",
+        "hash": "0246fa5cc9a5c8b4df46f584492b1cce3f1de5f6cc570b7a7ac3536b6a4ec976",
+        "urlOriginal": "https://orellana.gob.ec/static/img/concejales/miguel%20murillo.jpg",
+        "rutaOriginal": "/media/originales/0246fa5cc9a5c8b4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0246fa5cc9a5c8b4-400.webp"
+        },
+        "ancho": 475,
+        "alto": 447,
+        "bytes": 175245,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "institucional",
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+      },
+      {
+        "id": "3545ea033e33ea86",
+        "hash": "3545ea033e33ea8643fc5fc84a2cd6c7c422eafffd3809a5e71088f678ed5e0b",
+        "urlOriginal": "https://orellana.gob.ec/static/img/concejales/PAUL%20VALLADOLID.jpg",
+        "rutaOriginal": "/media/originales/3545ea033e33ea86.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/3545ea033e33ea86-400.webp"
+        },
+        "ancho": 475,
+        "alto": 447,
+        "bytes": 129657,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "institucional",
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+      },
+      {
+        "id": "5eb66df3d67965cb",
+        "hash": "5eb66df3d67965cbf00aac1d21478bf391f1ac097e3cd13c986645d3bad36cd3",
+        "urlOriginal": "https://orellana.gob.ec/static/img/concejales/JUDITH%20HIDALGO.jpg",
+        "rutaOriginal": "/media/originales/5eb66df3d67965cb.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5eb66df3d67965cb-400.webp"
+        },
+        "ancho": 475,
+        "alto": 447,
+        "bytes": 116046,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "institucional",
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+      },
+      {
+        "id": "24d8b3df604e19dd",
+        "hash": "24d8b3df604e19ddfd7a4e57c3a6374da5dd0c001657d04541912f7898dd7c12",
+        "urlOriginal": "https://orellana.gob.ec/static/img/concejales/WASHINTOG%20CARDONA.jpg",
+        "rutaOriginal": "/media/originales/24d8b3df604e19dd.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/24d8b3df604e19dd-400.webp"
+        },
+        "ancho": 475,
+        "alto": 447,
+        "bytes": 148480,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "institucional",
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+      }
+    ],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/concejo_m/"
+  }
+}

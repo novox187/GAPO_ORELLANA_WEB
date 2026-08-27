@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 130,
+    "slug": "iniciaron-los-cursos-vacacionales-jugando-aprendo-2025-130",
+    "titulo": "Iniciaron los cursos vacacionales Jugando Aprendo 2025",
+    "resumen": "La Alcaldía de Francisco de Orellana, comprometida con el deporte, la integración y el desarrollo de la niñez y adolescencia, dio inicio a los cursos vacacionales \"Jugando Aprendo 2025\". Con disciplinas",
+    "fecha": "2025-07-22",
+    "imagen": {
+      "id": "5204c3d4ba38d8d2",
+      "hash": "5204c3d4ba38d8d225d39b42379d9fbed1f6741244e7859daf5d192859bdc293",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_IMG5397.JPG",
+      "rutaOriginal": "/media/originales/5204c3d4ba38d8d2.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/5204c3d4ba38d8d2-400.webp",
+        "800w": "/media/derivados/5204c3d4ba38d8d2-800.webp",
+        "1600w": "/media/derivados/5204c3d4ba38d8d2-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 7873430,
+      "alt": "Iniciaron los cursos vacacionales Jugando Aprendo 2025",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+    },
+    "url": "/noticia/130/",
+    "fuente_url": "https://orellana.gob.ec/noticia/130/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, comprometida con el deporte, la integración y el desarrollo de la niñez y adolescencia, dio inicio a los cursos vacacionales \"Jugando Aprendo 2025\". Con disciplinas como gimnasia, baloncesto, danza, música, fútbol, dulcería y manualidades, cientos de niños participan con entusiasmo en actividades que fortalecen sus habilidades físicas, sociales e intelectuales, “En gimnasia vamos a enseñarles sobre la flexibilidad, fuerza coreográfica, que es lo que más les gusta a los niños, sé que ellos se van a divertir en este curso vacacional”. Marianita Cruz, técnica GADMFO. \nPadres de familia expresan su agradecimiento por esta valiosa iniciativa que aleja a los chicos del sedentarismo y los conecta con nuevos amigos, aprendizajes y experiencias positivas, “Estoy muy contenta, es una buena iniciativa que tiene la municipalidad, ya que los niños en la mayoría del tiempo, en la casa se dedican a ver televisión, o a veces en los teléfonos”. Leidy Morillo, opinión ciudadana. \nEstos cursos finalizarán el 8 de agosto y reflejan el compromiso firme de la alcaldesa Shirma Cortés Sanmiguel, por el bienestar de sus ciudadanos más pequeños. PT.",
+    "imagenes": [
+      {
+        "id": "5204c3d4ba38d8d2",
+        "hash": "5204c3d4ba38d8d225d39b42379d9fbed1f6741244e7859daf5d192859bdc293",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_IMG5397.JPG",
+        "rutaOriginal": "/media/originales/5204c3d4ba38d8d2.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5204c3d4ba38d8d2-400.webp",
+          "800w": "/media/derivados/5204c3d4ba38d8d2-800.webp",
+          "1600w": "/media/derivados/5204c3d4ba38d8d2-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 7873430,
+        "alt": "Iniciaron los cursos vacacionales Jugando Aprendo 2025",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      }
+    ]
+  }
+}

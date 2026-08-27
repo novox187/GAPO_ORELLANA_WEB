@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 29,
+    "slug": "cdi-cuyrana-wasi-en-palma-roja-listo-para-su-reapertura-29",
+    "titulo": "CDI \"Cuyrana Wasi\" en Palma Roja listo para su reapertura",
+    "resumen": "Los trabajos cumplieron con los estándares técnicos",
+    "fecha": "2025-02-04",
+    "imagen": {
+      "id": "d7f8f4a0a4c4605c",
+      "hash": "d7f8f4a0a4c4605c3ceef90ffdb647e6d158019b866f8b888f5f8e048793713c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_CDI_CUYRANA_WASI.png",
+      "rutaOriginal": "/media/originales/d7f8f4a0a4c4605c.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d7f8f4a0a4c4605c-400.webp",
+        "800w": "/media/derivados/d7f8f4a0a4c4605c-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1444082,
+      "alt": "CDI \"Cuyrana Wasi\" en Palma Roja listo para su reapertura",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    "url": "/noticia/29/",
+    "fuente_url": "https://orellana.gob.ec/noticia/29/",
+    "cuerpo": "La comunidad Palma Roja, en la parroquia La Belleza, está a punto de recibir oficialmente el renovado Centro de Desarrollo Infantil (CDI) \"Cuyrana Wasi\", cuya obra ha sido culminada con éxito. Con una inversión de USD 83.966,01, el proyecto comprendió la construcción de un bloque de oficinas y bodega, así como la readecuación de la infraestructura y el parque de juegos infantiles.\nEl ingeniero Willintong Enríquez, fiscalizador de la obra explicó que los trabajos se ejecutaron en cumplimiento de los estándares técnicos y con materiales de calidad, garantizando espacios seguros y adecuados para los 32 infantes que asisten regularmente al centro. Además, destacó que la obra se realizó con mano de obra 100% local, beneficiando así a trabajadores de la zona, dando cumplimiento con lo que determina la Ley Amazónica, “Se cambió las puertas, aparatos sanitarios, mesones altos y bajos, pintura, cambio de techo, aparte de eso se construyó el bloque nuevo que consta de una bodega, baño para adultos, área de juegos y en lo exterior también se le dio lo que es el mantenimiento”. Willington Enríquez, fiscalizador de la obra.\nLos trabajos cumplieron con los estándares técnicos, Katty y Lorena Andi, madres de familia de la comunidad, expresaron su gratitud a la Alcaldía por esta importante intervención, “La obra está mucho mejor, antes estaba abandonada y ahora está muy bonito”. Lorena Andi, opinión ciudadana.\n“El CDI tenía el techo caído y se empozaba el agua en la sala de los niños y ahora está bien bonito con la remodelación, por eso le agradezco a la alcaldesa Shirma Cortés por habernos ayudado con esta obra”. Katty Andi, opinión ciudadana.\nSe estima que en los próximos días se realice la reapertura e inauguración oficial del CDI, un evento que marcará un nuevo inicio para la educación y el desarrollo infantil en la comunidad. ÉV.",
+    "imagenes": [
+      {
+        "id": "d7f8f4a0a4c4605c",
+        "hash": "d7f8f4a0a4c4605c3ceef90ffdb647e6d158019b866f8b888f5f8e048793713c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_CDI_CUYRANA_WASI.png",
+        "rutaOriginal": "/media/originales/d7f8f4a0a4c4605c.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d7f8f4a0a4c4605c-400.webp",
+          "800w": "/media/derivados/d7f8f4a0a4c4605c-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1444082,
+        "alt": "CDI \"Cuyrana Wasi\" en Palma Roja listo para su reapertura",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      }
+    ]
+  }
+}

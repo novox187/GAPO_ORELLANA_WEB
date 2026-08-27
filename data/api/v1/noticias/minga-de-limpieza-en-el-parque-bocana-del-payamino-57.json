@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 57,
+    "slug": "minga-de-limpieza-en-el-parque-bocana-del-payamino-57",
+    "titulo": "Minga de limpieza en el parque Bocana del Payamino",
+    "resumen": "En un esfuerzo por promover el cuidado del ambiente, realizó una minga de limpieza",
+    "fecha": "2025-03-27",
+    "imagen": {
+      "id": "722bd81c48df2e3f",
+      "hash": "722bd81c48df2e3fd4509de59c77bfa5960880370e953d827c3a3a1d53e5bdb9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_4557.JPG",
+      "rutaOriginal": "/media/originales/722bd81c48df2e3f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/722bd81c48df2e3f-400.webp",
+        "800w": "/media/derivados/722bd81c48df2e3f-800.webp",
+        "1600w": "/media/derivados/722bd81c48df2e3f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 16612605,
+      "alt": "Minga de limpieza en el parque Bocana del Payamino",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/57/",
+    "fuente_url": "https://orellana.gob.ec/noticia/57/",
+    "cuerpo": "En un esfuerzo por promover el cuidado del ambiente, realizó una minga de limpieza en el Parque Bocana del Payamino. La jornada contó con la participación del personal de la Dirección de Ambiente del Municipio con el objetivo de recolectar desechos y brindar el respectivo mantenimiento de las áreas verdes del parque, “El día de hoy, los compañeros se encuentran realizando la limpieza de las áreas verdes, la idea es mantener las especies que se encuentran sembradas y que posteriormente se generan árboles dentro del parque”. Jenny Vásconez, funcionaria municipal. \nDesde tempranas horas, los participantes se organizaron para recoger basura, podar arbustos y mejorar los senderos del parque. La iniciativa no solo contribuyó a embellecer el espacio, sino que también sensibilizó a la comunidad sobre la importancia de mantener limpio y cuidado este entorno natural, “Invitamos a la ciudadanía a que venga al parque Bocana del Payamino, de martes a domingo se habilita al público y se pide mantenerlo limpio, y de esa manera conservarlo en óptimas condiciones”. Jenny Vásconez, funcionaria municipal. \nEste tipo de actividades refuerzan el sentido de pertenencia y demuestran que el trabajo en equipo permite conservar y mejorar los espacios públicos en beneficio de todos. DV.",
+    "imagenes": [
+      {
+        "id": "722bd81c48df2e3f",
+        "hash": "722bd81c48df2e3fd4509de59c77bfa5960880370e953d827c3a3a1d53e5bdb9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_4557.JPG",
+        "rutaOriginal": "/media/originales/722bd81c48df2e3f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/722bd81c48df2e3f-400.webp",
+          "800w": "/media/derivados/722bd81c48df2e3f-800.webp",
+          "1600w": "/media/derivados/722bd81c48df2e3f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 16612605,
+        "alt": "Minga de limpieza en el parque Bocana del Payamino",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

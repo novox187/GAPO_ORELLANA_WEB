@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 17,
+    "slug": "operativo-de-control-del-taximetro-en-el-coca-17",
+    "titulo": "Operativo de control del taxímetro en El Coca",
+    "resumen": "Garantizar que los taxímetros estén en funcionamiento correcto",
+    "fecha": "2025-01-16",
+    "imagen": {
+      "id": "bbed663307e02477",
+      "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
+      "rutaOriginal": "/media/originales/bbed663307e02477.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/bbed663307e02477-400.webp",
+        "800w": "/media/derivados/bbed663307e02477-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1062190,
+      "alt": "Operativo de control del taxímetro en El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/17/",
+    "fuente_url": "https://orellana.gob.ec/noticia/17/",
+    "cuerpo": "Personal de la Dirección de Tránsito Municipal y la Policía Nacional realizaron un operativo de control y verificación de los taxímetros en los vehículos de transporte público de la ciudad de El Coca. El objetivo es garantizar que los taxímetros estén en funcionamiento correcto y que los conductores cumplan con las tarifas establecidas por la autoridad competente, protegiendo así los derechos de los usuarios.\nSe aplicaron sanciones del 15% de un Salario Básico Unificado, menos cuatro puntos a la licencia, como lo determina el artículo 390, inciso 9 del Código Orgánico Integral Penal, COIP.\nSe recomienda a los usuarios del servicio, verificar que el taxímetro esté encendido y funcionando correctamente antes de iniciar su viaje, y reportar cualquier anomalía a las autoridades competentes. JG.",
+    "imagenes": [
+      {
+        "id": "bbed663307e02477",
+        "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
+        "rutaOriginal": "/media/originales/bbed663307e02477.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bbed663307e02477-400.webp",
+          "800w": "/media/derivados/bbed663307e02477-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1062190,
+        "alt": "Operativo de control del taxímetro en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

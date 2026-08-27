@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 61,
+    "slug": "la-construccion-de-la-cancha-en-mushuk-ayllu-alcanza-el-95-de-avance-61",
+    "titulo": "La construcción de la cancha en Mushuk Ayllu alcanza el 95% de avance",
+    "resumen": "La Alcaldía de Francisco de Orellana liderada por Shirma Cortés Sanmiguel, continúa ejecutando trabajos",
+    "fecha": "2025-04-07",
+    "imagen": {
+      "id": "a42aeaf7278c7393",
+      "hash": "a42aeaf7278c7393988e5f0ef58ca73c199f4dbceadaf1b2737e484654e62274",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_5611.JPG",
+      "rutaOriginal": "/media/originales/a42aeaf7278c7393.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a42aeaf7278c7393-400.webp",
+        "800w": "/media/derivados/a42aeaf7278c7393-800.webp",
+        "1600w": "/media/derivados/a42aeaf7278c7393-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7217449,
+      "alt": "La construcción de la cancha en Mushuk Ayllu alcanza el 95% de avance",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/61/",
+    "fuente_url": "https://orellana.gob.ec/noticia/61/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana liderada por Shirma Cortés Sanmiguel, continúa ejecutando trabajos en la construcción de la cancha cubierta con cerramiento del sector Mushuk Ayllu del barrio Nuevo Coca, al momento cuenta con un avance del 95%, generando fuentes de trabajo e ingresos económicos para las familias del sector, “En el transcurso de los días he trabajado, me he sentido muy bien, porque gracias a esta obra que está ejecutando la alcaldesa hay trabajo para uno llevar el sustento a la casa”. Miguel Castillo, opinión ciudadana. \nEsta importante obra beneficiará directamente a cientos de familias del sector, al brindar un espacio adecuado para la sana recreación. Actualmente se están llevando a cabo trabajos como la colocación de tuberías de aguas lluvias, instalación de un tanque elevado de agua potable, entre otras acciones que forman parte de la fase final del proyecto, “Esta obra es una ayuda para toda la comunidad, para que podamos hacer deporte; por eso estamos agradecidos con la alcaldesa por haber hecho esta obra como para uno entretenerse”. Carlos Indio, morador del sector. \nDesde la alcaldía, reafirmamos nuestro compromiso con el deporte, la infraestructura y el bienestar de nuestros ciudadanos. DV.",
+    "imagenes": [
+      {
+        "id": "a42aeaf7278c7393",
+        "hash": "a42aeaf7278c7393988e5f0ef58ca73c199f4dbceadaf1b2737e484654e62274",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_5611.JPG",
+        "rutaOriginal": "/media/originales/a42aeaf7278c7393.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a42aeaf7278c7393-400.webp",
+          "800w": "/media/derivados/a42aeaf7278c7393-800.webp",
+          "1600w": "/media/derivados/a42aeaf7278c7393-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7217449,
+        "alt": "La construcción de la cancha en Mushuk Ayllu alcanza el 95% de avance",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

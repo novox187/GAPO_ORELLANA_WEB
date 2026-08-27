@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 260,
+    "slug": "alcaldia-fortalece-la-seguridad-con-la-entrega-de-116-uniformes-tacticos-a-260",
+    "titulo": "Alcaldía fortalece la seguridad con la entrega de 116 uniformes tácticos a agentes municipales",
+    "resumen": "Con hechos y visión de futuro, la alcaldesa Shirma Cortés Sanmiguel fortalece la seguridad ciudadana con la entrega de uniformes y equipos de protección para los Agentes de Control Municipal. La dotación beneficia al cuerpo motorizado, control del es",
+    "fecha": "2026-03-04",
+    "imagen": {
+      "id": "b089ebb5e5356481",
+      "hash": "b089ebb5e53564811868e0921ddb3e416dc24b3de0666834f3a02447d32d7cc2",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG8999.JPG",
+      "rutaOriginal": "/media/originales/b089ebb5e5356481.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/b089ebb5e5356481-400.webp",
+        "800w": "/media/derivados/b089ebb5e5356481-800.webp",
+        "1600w": "/media/derivados/b089ebb5e5356481-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 5439263,
+      "alt": "Alcaldía fortalece la seguridad con la entrega de 116 uniformes tácticos a agentes municipales",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/260/",
+    "fuente_url": "https://orellana.gob.ec/noticia/260/",
+    "cuerpo": "Con hechos y visión de futuro, la alcaldesa Shirma Cortés Sanmiguel fortalece la seguridad ciudadana con la entrega de uniformes y equipos de protección para los Agentes de Control Municipal. La dotación beneficia al cuerpo motorizado, control del espacio público y videovigilancia, “Gracias a nuestra alcaldesa Shirma Cortés, por entregarnos nuestros uniformes para poder estar bien presentados ante nuestra sociedad.” Recuerda emocionada Mercy Acurio, Agente de Control.\nLa dotación incluyó chalecos, equipamiento especializado para motorizados y uniformes tácticos operativos, garantizando mayor seguridad y desempeño en territorio. Además, los agentes recibieron terno formal con insignias según su grado, y el personal de videovigilancia fue equipado con uniformes completos y distintivos, fortaleciendo su protección y proyectando una imagen profesional y firme ante la ciudadanía, “Agradecerle a nuestra querida alcaldesa por preocuparse por quienes conformamos el Cuerpo de Agentes de Control, por cuanto ha hecho la entrega de manera oportuna, los uniformes de todos los compañeros”. José Vega, Agente de Control.\nNo es un gasto, es una inversión en orden y autoridad. Con liderazgo firme, la alcaldesa consolida la seguridad como prioridad de una gestión que cumple y transforma, demostrando que al respaldar a quienes nos protegen se construye, con decisión, el cantón que todos queremos. JG.",
+    "imagenes": [
+      {
+        "id": "b089ebb5e5356481",
+        "hash": "b089ebb5e53564811868e0921ddb3e416dc24b3de0666834f3a02447d32d7cc2",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG8999.JPG",
+        "rutaOriginal": "/media/originales/b089ebb5e5356481.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/b089ebb5e5356481-400.webp",
+          "800w": "/media/derivados/b089ebb5e5356481-800.webp",
+          "1600w": "/media/derivados/b089ebb5e5356481-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 5439263,
+        "alt": "Alcaldía fortalece la seguridad con la entrega de 116 uniformes tácticos a agentes municipales",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

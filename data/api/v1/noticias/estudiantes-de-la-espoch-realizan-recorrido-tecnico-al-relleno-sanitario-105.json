@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 105,
+    "slug": "estudiantes-de-la-espoch-realizan-recorrido-tecnico-al-relleno-sanitario-105",
+    "titulo": "Estudiantes de la ESPOCH realizan recorrido técnico al relleno sanitario",
+    "resumen": "21 estudiantes de octavo semestre de la carrera de Ingeniería Ambiental de la ESPOCH realizaron un recorrido en el relleno sanitario de la Municipalidad de Francisco de Orellana, como parte de su formación académica y con el objetivo de aplicar los c",
+    "fecha": "2025-06-17",
+    "imagen": {
+      "id": "1e252531216f79c6",
+      "hash": "1e252531216f79c6282af312d42490e1d8624646b8a0574cdf2a7b3ee9b55170",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17.jpg",
+      "rutaOriginal": "/media/originales/1e252531216f79c6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1e252531216f79c6-400.webp",
+        "800w": "/media/derivados/1e252531216f79c6-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 960,
+      "bytes": 270609,
+      "alt": "Estudiantes de la ESPOCH realizan recorrido técnico al relleno sanitario",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/105/",
+    "fuente_url": "https://orellana.gob.ec/noticia/105/",
+    "cuerpo": "21 estudiantes de octavo semestre de la carrera de Ingeniería Ambiental de la ESPOCH realizaron un recorrido en el relleno sanitario de la Municipalidad de Francisco de Orellana, como parte de su formación académica y con el objetivo de aplicar los conocimientos adquiridos en territorio, “Interesante la verdad, porque conocer de todo el proceso que se ha venido dando desde años anteriores y como gestionan los residuos sólidos aquí en el relleno sanitario es muy importante para evitar contaminaciones”. Noelia Matilla, estudiante de la ESPOCH. \nDurante la visita, los estudiantes pudieron observar de manera directa diversos procesos clave en la gestión integral de residuos sólidos como: el tratamiento de lixiviados, la conformación de chimeneas, las áreas verdes de amortiguamiento, el compactado diario de residuos, el manejo adecuado de celdas emergentes, y el proceso de cierre técnico responsable del antiguo botadero municipal, “Los estudiantes tuvieron sus preguntas sobre cómo estamos manejando actualmente la disposición final de los residuos sólidos en el cantón, y se llevaron una buena expectativa de lo que les puede en la carrera universitaria”. Alejandra Bazurto, técnica del GADMFO. \nEste tipo de actividades fortalecen el vínculo entre la academia y las entidades públicas, fomentando una formación integral y comprometida con el desarrollo del país. DV.",
+    "imagenes": [
+      {
+        "id": "1e252531216f79c6",
+        "hash": "1e252531216f79c6282af312d42490e1d8624646b8a0574cdf2a7b3ee9b55170",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17.jpg",
+        "rutaOriginal": "/media/originales/1e252531216f79c6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1e252531216f79c6-400.webp",
+          "800w": "/media/derivados/1e252531216f79c6-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 960,
+        "bytes": 270609,
+        "alt": "Estudiantes de la ESPOCH realizan recorrido técnico al relleno sanitario",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

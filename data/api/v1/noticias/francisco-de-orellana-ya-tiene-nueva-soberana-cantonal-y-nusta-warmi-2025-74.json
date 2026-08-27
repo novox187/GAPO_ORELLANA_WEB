@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 74,
+    "slug": "francisco-de-orellana-ya-tiene-nueva-soberana-cantonal-y-nusta-warmi-2025-74",
+    "titulo": "Francisco de Orellana ya tiene nueva soberana cantonal y Ñusta Warmi 2025",
+    "resumen": "En una noche llena de cultura, belleza y tradición, Francisco de Orellana eligió a su nueva soberana cantonal y Ñusta Warmi 2025",
+    "fecha": "2025-04-29",
+    "imagen": {
+      "id": "6ad28dd0a9512e91",
+      "hash": "6ad28dd0a9512e916e8d04def6b92db74763c51bd6bc188865633db3522eb709",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_IMG_0756.JPG",
+      "rutaOriginal": "/media/originales/6ad28dd0a9512e91.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/6ad28dd0a9512e91-400.webp",
+        "800w": "/media/derivados/6ad28dd0a9512e91-800.webp",
+        "1600w": "/media/derivados/6ad28dd0a9512e91-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 9216990,
+      "alt": "Francisco de Orellana ya tiene nueva soberana cantonal y Ñusta Warmi 2025",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/74/",
+    "fuente_url": "https://orellana.gob.ec/noticia/74/",
+    "cuerpo": "En una noche llena de cultura, belleza y tradición, Francisco de Orellana eligió a su nueva soberana cantonal y Ñusta Warmi 2025.\nEl evento, realizado en el Recinto Ferial, congregó a cientos de ciudadanos que acudieron para apoyar a las candidatas, disfrutar de una velada artística inolvidable y rendir homenaje a la riqueza cultural de nuestra región amazónica. La gala contó con la presencia de autoridades municipales, provinciales, medios de comunicación, así como turistas locales, nacionales e internacionales.\nDurante su intervención, la alcaldesa Shirma Cortés Sanmiguel expresó: “Les vamos a dar todo el apoyo que ellas se merecen y para que sigan haciendo un trabajo de servicio social para beneficio de nuestros grupos vulnerables”. Shirma Cortés, alcaldesa de Francisco de Orellana. \n“Son espacios donde ha habido actividades recreativas, donde se ha podido compartir en familia, amistades y en horarios adecuados, donde la gente ha podido participar de cada una de las actividades programadas por el municipio”. Jacqueline Valladolid, opinión ciudadana.\nLuego de una emocionante competencia, el jurado eligió a las nuevas representantes: “Es muy importante recalcar, que las autoridades nos han apoyado para servir a nuestro cantón y de hoy en adelante hacer un mejor trabajo arduo, con amor y emoción”. Sury Barragán, reina del cantón 2025.\n“Lo que tú sueñas se puede lograr; yo, algún día soñaba con obtener la corona, y ahora me siento muy feliz”. María Sharupe, reina Ñusta Warmi 2025.\nDesde la Alcaldía extendemos nuestras más sinceras felicitaciones a todas las candidatas en especial a Sury y María por este logro tan significativo.\nJunto a la alcaldesa Shirma Cortés Sanmiguel, trabajaremos de la mano para fortalecer sus proyectos y seguir construyendo un Francisco de Orellana más unido y lleno de esperanza. JG.",
+    "imagenes": [
+      {
+        "id": "6ad28dd0a9512e91",
+        "hash": "6ad28dd0a9512e916e8d04def6b92db74763c51bd6bc188865633db3522eb709",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_IMG_0756.JPG",
+        "rutaOriginal": "/media/originales/6ad28dd0a9512e91.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6ad28dd0a9512e91-400.webp",
+          "800w": "/media/derivados/6ad28dd0a9512e91-800.webp",
+          "1600w": "/media/derivados/6ad28dd0a9512e91-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 9216990,
+        "alt": "Francisco de Orellana ya tiene nueva soberana cantonal y Ñusta Warmi 2025",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

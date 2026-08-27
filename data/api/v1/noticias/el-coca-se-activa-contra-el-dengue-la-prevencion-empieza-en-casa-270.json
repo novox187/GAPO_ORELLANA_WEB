@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 270,
+    "slug": "el-coca-se-activa-contra-el-dengue-la-prevencion-empieza-en-casa-270",
+    "titulo": "El Coca se activa contra el dengue: la prevención empieza en casa",
+    "resumen": "La temporada invernal vuelve a encender las alertas en el cantón. Con el incremento de las lluvias, también aumenta el riesgo de enfermedades como el dengue, el chikungunya y el zika.",
+    "fecha": "2026-03-18",
+    "imagen": {
+      "id": "a15b4a9136e0ce0f",
+      "hash": "a15b4a9136e0ce0fd94bdc55f45aca4c4363b2349ff84898cd36cfb4bcfa3094",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_1_IMG1664.JPG",
+      "rutaOriginal": "/media/originales/a15b4a9136e0ce0f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a15b4a9136e0ce0f-400.webp",
+        "800w": "/media/derivados/a15b4a9136e0ce0f-800.webp",
+        "1600w": "/media/derivados/a15b4a9136e0ce0f-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 11164378,
+      "alt": "El Coca se activa contra el dengue: la prevención empieza en casa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/270/",
+    "fuente_url": "https://orellana.gob.ec/noticia/270/",
+    "cuerpo": "La temporada invernal vuelve a encender las alertas en el cantón. Con el incremento de las lluvias, también aumenta el riesgo de enfermedades como el dengue, el chikungunya y el zika.\nFrente a esta realidad, la Alcaldía en articulación con el Ministerio de Salud Pública y los presidentes barriales, impulsa acciones concretas de prevención a través de la campaña: “Sin criaderos no hay mosquitos y sin mosquitos no hay dengue”, el ciudadano Antony Guerrero, califica estas acciones como positivas para prevenir las enfermedades invernales, “El trabajo que están haciendo está muy bien, porque en esta temporada hay bastante enfermedades como el dengue y el chikungunya y como ciudadanía deberíamos unirnos para combatir estas enfermedades.” \nEsta iniciativa pone en el centro a la ciudadanía, promoviendo mingas de limpieza en los barrios, donde el compromiso de cada familia es fundamental. El mensaje es claro: el dengue se combate desde casa, eliminando recipientes con agua estancada, desechos y cualquier espacio que pueda convertirse en criadero de mosquitos, así lo manifiesta Selena Paz, técnica municipal, “Como municipalidad, lo que buscamos es incentivar la realización de las mingas a la ciudadanía; posteriormente, el Ministerio de Salud Pública estará realizando fumigación en cada uno de los barrios. Por eso, es importante que cada una de los ciudadanos realice el retiro de los residuos y escombros, lo cual propicia a los criaderos de mosquitos.” \nMás allá de una intervención puntual, esta campaña refleja una gestión comprometida con la salud pública y la vida. La prevención no es opcional, es una responsabilidad compartida. DV.",
+    "imagenes": [
+      {
+        "id": "a15b4a9136e0ce0f",
+        "hash": "a15b4a9136e0ce0fd94bdc55f45aca4c4363b2349ff84898cd36cfb4bcfa3094",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_1_IMG1664.JPG",
+        "rutaOriginal": "/media/originales/a15b4a9136e0ce0f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a15b4a9136e0ce0f-400.webp",
+          "800w": "/media/derivados/a15b4a9136e0ce0f-800.webp",
+          "1600w": "/media/derivados/a15b4a9136e0ce0f-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 11164378,
+        "alt": "El Coca se activa contra el dengue: la prevención empieza en casa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

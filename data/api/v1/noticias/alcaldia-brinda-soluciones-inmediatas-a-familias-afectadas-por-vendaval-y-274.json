@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 274,
+    "slug": "alcaldia-brinda-soluciones-inmediatas-a-familias-afectadas-por-vendaval-y-274",
+    "titulo": "Alcaldía brinda soluciones inmediatas a familias afectadas por vendaval y fuertes lluvias",
+    "resumen": "En medio de una fuerte temporada invernal, la Alcaldía liderada por la Shirma Cortés Sanmiguel, ha estado donde más se la necesita: en territorio, junto a las familias afectadas.",
+    "fecha": "2026-03-24",
+    "imagen": {
+      "id": "9078afabd13e831d",
+      "hash": "9078afabd13e831df52810cdd7c56bc525e03d36cc4c2184a04bdc51c20e3cd8",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG2223.JPG",
+      "rutaOriginal": "/media/originales/9078afabd13e831d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9078afabd13e831d-400.webp",
+        "800w": "/media/derivados/9078afabd13e831d-800.webp",
+        "1600w": "/media/derivados/9078afabd13e831d-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 11248453,
+      "alt": "Alcaldía brinda soluciones inmediatas a familias afectadas por vendaval y fuertes lluvias",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+    },
+    "url": "/noticia/274/",
+    "fuente_url": "https://orellana.gob.ec/noticia/274/",
+    "cuerpo": "En medio de una fuerte temporada invernal, la Alcaldía liderada por la Shirma Cortés Sanmiguel, ha estado donde más se la necesita: en territorio, junto a las familias afectadas.\nDesde el barrio 6 de Diciembre hasta Julio Llori, Guadalupe Larriva y Nuevo Coca, equipos municipales trabajan sin descanso para atender emergencias provocadas por vendavales e inundaciones, como es el caso de la señora María Elizalde, quien fue beneficiada con ayuda social, “Estamos agradecidos con la alcaldesa, porque no nos dejó solos, vinieron rápido, nos ayudaron arreglando la vivienda y eso es una bendición para nosotros. Muchas gracias a la alcaldesa Shirma Cortés, porque sí está trabajando por nosotros, por la gente que realmente lo necesita.” \nLa respuesta ha sido inmediata e integral: reparación de techos, evacuación de agua, limpieza de drenajes y entrega de ayuda humanitaria.\nEstas acciones evidencian una gestión cercana, humana y eficiente, que prioriza a quienes más lo necesitan, manifiesta Andrés Jaya, técnico de la dirección de riesgos, “Estamos trabajando en territorio, evaluando daños y actuando de forma inmediata. La prioridad es salvaguardar a las familias y gestionar soluciones rápidas, como lo ha dispuesto nuetra alcaldesa.” \nAsí, la alcaldía reafirma su compromiso con la ciudadanía, demostrando que el trabajo no se detiene frente a la adversidad. Con presencia en territorio y respuestas concretas, la administración municipal fortalece la confianza de su gente y consolida una gestión que actúa de inmediato ante las emergencias, llevando soluciones reales y esperanza a cada rincón del cantón.",
+    "imagenes": [
+      {
+        "id": "9078afabd13e831d",
+        "hash": "9078afabd13e831df52810cdd7c56bc525e03d36cc4c2184a04bdc51c20e3cd8",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG2223.JPG",
+        "rutaOriginal": "/media/originales/9078afabd13e831d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9078afabd13e831d-400.webp",
+          "800w": "/media/derivados/9078afabd13e831d-800.webp",
+          "1600w": "/media/derivados/9078afabd13e831d-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 11248453,
+        "alt": "Alcaldía brinda soluciones inmediatas a familias afectadas por vendaval y fuertes lluvias",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 132,
+    "slug": "limpieza-de-terrenos-montosos-en-la-ciudad-de-el-coca-132",
+    "titulo": "Limpieza de terrenos montosos en la ciudad de El Coca",
+    "resumen": "Para mantener el buen ornato del cantón, la Alcaldía de Francisco de Orellana, a través de la Comisaría Ambiental, realiza campañas de concientización sobre la limpieza de terrenos montosos",
+    "fecha": "2025-07-24",
+    "imagen": {
+      "id": "f05a44b911b514fb",
+      "hash": "f05a44b911b514fbc5117bc25bb06166d16a7ae6c030d3f185178a3bf64c3f3b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG4585.JPG",
+      "rutaOriginal": "/media/originales/f05a44b911b514fb.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/f05a44b911b514fb-400.webp",
+        "800w": "/media/derivados/f05a44b911b514fb-800.webp",
+        "1600w": "/media/derivados/f05a44b911b514fb-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10998340,
+      "alt": "Limpieza de terrenos montosos en la ciudad de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+    },
+    "url": "/noticia/132/",
+    "fuente_url": "https://orellana.gob.ec/noticia/132/",
+    "cuerpo": "Para mantener el buen ornato del cantón, la Alcaldía de Francisco de Orellana, a través de la Comisaría Ambiental, realiza campañas de concientización sobre la limpieza de terrenos montosos, los cuales representan focos de contaminación e inseguridad para la comunidad, “Es cuestión de que cada dueño de su predio, de su casa, mantenga limpio su espacio para mantener una ciudad limpia”. Jaime Vélez, opinión ciudadana. \nDe acuerdo con las Ordenanzas Municipales N.º 007-2011 y N.º 001-2015, es responsabilidad de cada propietario mantener limpios sus predios, aceras y veredas hasta la mitad de la calle. En caso de incumplimiento, se aplicará una sanción económica equivalente a un salario básico unificado, “Los que tenemos terrenos somos responsables de tener limpio los terrenos, porque pocos somos las personas que los mantenemos limpios, cumpliendo las ordenanzas”. Rogelio Lukas, opinión ciudadana. \nDesde la Municipalidad de Francisco de Orellana, reiteramos nuestro compromiso de continuar con estas campañas de concientización para construir una ciudad más ordenada, limpia y segura para todos. DV.",
+    "imagenes": [
+      {
+        "id": "f05a44b911b514fb",
+        "hash": "f05a44b911b514fbc5117bc25bb06166d16a7ae6c030d3f185178a3bf64c3f3b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG4585.JPG",
+        "rutaOriginal": "/media/originales/f05a44b911b514fb.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f05a44b911b514fb-400.webp",
+          "800w": "/media/derivados/f05a44b911b514fb-800.webp",
+          "1600w": "/media/derivados/f05a44b911b514fb-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10998340,
+        "alt": "Limpieza de terrenos montosos en la ciudad de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      }
+    ]
+  }
+}

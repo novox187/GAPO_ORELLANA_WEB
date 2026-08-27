@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 75,
+    "slug": "francisco-de-orellana-celebro-con-orgullo-sus-56-anos-de-cantonizacion-75",
+    "titulo": "Francisco de Orellana celebró con orgullo sus 56 años de cantonización",
+    "resumen": "Con una jornada cargada de civismo, música y solemnidad, el cantón Francisco de Orellana conmemoró este 30 de abril sus 56 años de cantonización",
+    "fecha": "2025-04-30",
+    "imagen": {
+      "id": "353dfcd6ed738d12",
+      "hash": "353dfcd6ed738d1288d3f792736af7af0eba2285b0b8c62844645d35e9911d82",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_DJI_0914.JPG",
+      "rutaOriginal": "/media/originales/353dfcd6ed738d12.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/353dfcd6ed738d12-400.webp",
+        "800w": "/media/derivados/353dfcd6ed738d12-800.webp",
+        "1600w": "/media/derivados/353dfcd6ed738d12-1600.webp"
+      },
+      "ancho": 4032,
+      "alto": 2268,
+      "bytes": 4988618,
+      "alt": "Francisco de Orellana celebró con orgullo sus 56 años de cantonización",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/75/",
+    "fuente_url": "https://orellana.gob.ec/noticia/75/",
+    "cuerpo": "Con una jornada cargada de civismo, música y solemnidad, el cantón Francisco de Orellana conmemoró este 30 de abril sus 56 años de cantonización. Las actividades iniciaron con un emotivo minuto cívico, seguido de un vistoso desfile cívico y militar que recorrió las principales calles de la ciudad de El Coca, donde instituciones educativas, organizaciones sociales y fuerzas armadas rindieron homenaje al cantón amazónico, “Este desfile es un homenaje a nuestras raíces, a nuestra riqueza intercultural y al compromiso de seguir construyendo un futuro justo, inclusivo, respetuoso con la naturaleza que nos rodea y que sólo caminando juntos, con respeto, responsabilidad logramos el desarrollo que nuestro cantón se lo merece”. Víctor Ruiz, alcalde (S) del GADMFO.\nUno de los momentos más destacados fue el concurso de bandas rítmicas, que llenó de color, energía y talento juvenil el ambiente festivo. Cada agrupación mostró su destreza y creatividad, animando al público que se congregó en las aceras para disfrutar del evento, resultando ganador la Unidad Educativa Padre Miguel Gamboa, “Es primordial que la música, el arte y todo aquello sea parte del desarrollo de los estudiantes, porque les ayuda a que desarrollen sus destrezas, habilidades y en el aprendizaje como personas y seres humanos”. Elena Chamba, opinión ciudadana.\n“Está bonito el programa, estoy alegre de que está linda la fiesta, el desfile y todo está precioso y ¡Qué viva Francisco de Orellana!”. Estuara Hernández, opinión ciudadana.\nLa jornada culminó con la sesión solemne en las instalaciones del MACCO, donde se destacaron los logros del cantón, se presentó el video de gestión de Alcaldía, se hizo la entrega de condecoración “Escudo Francisco de Orellana” a personajes de la ruralidad y de instituciones que han trabajado con ahínco junto a la municipalidad, presentación del grupo de danza Génesis de la Amazonía ante la presencia de autoridades locales, provinciales y ciudadanía en general. JG.",
+    "imagenes": [
+      {
+        "id": "353dfcd6ed738d12",
+        "hash": "353dfcd6ed738d1288d3f792736af7af0eba2285b0b8c62844645d35e9911d82",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_DJI_0914.JPG",
+        "rutaOriginal": "/media/originales/353dfcd6ed738d12.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/353dfcd6ed738d12-400.webp",
+          "800w": "/media/derivados/353dfcd6ed738d12-800.webp",
+          "1600w": "/media/derivados/353dfcd6ed738d12-1600.webp"
+        },
+        "ancho": 4032,
+        "alto": 2268,
+        "bytes": 4988618,
+        "alt": "Francisco de Orellana celebró con orgullo sus 56 años de cantonización",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

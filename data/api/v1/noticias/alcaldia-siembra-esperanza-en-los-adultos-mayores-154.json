@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 154,
+    "slug": "alcaldia-siembra-esperanza-en-los-adultos-mayores-154",
+    "titulo": "Alcaldía siembra esperanza en los adultos mayores",
+    "resumen": "El día despertó con lluvia, como si el cielo también quisiera acompañar la jornada. Pero ni el barro ni la distancia fueron obstáculo para los técnicos de Desarrollo Social, quienes en representación de nuestra alcaldesa Shirma Cortés Sanmiguel",
+    "fecha": "2025-08-29",
+    "imagen": {
+      "id": "c9a3b709717416c7",
+      "hash": "c9a3b709717416c7ef35f40dde35f8e50451651b9ff36e7da41fe517f11dd9f0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG9382.JPG",
+      "rutaOriginal": "/media/originales/c9a3b709717416c7.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c9a3b709717416c7-400.webp",
+        "800w": "/media/derivados/c9a3b709717416c7-800.webp",
+        "1600w": "/media/derivados/c9a3b709717416c7-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9551841,
+      "alt": "Alcaldía siembra esperanza en los adultos mayores",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/154/",
+    "fuente_url": "https://orellana.gob.ec/noticia/154/",
+    "cuerpo": "El día despertó con lluvia, como si el cielo también quisiera acompañar la jornada. Pero ni el barro ni la distancia fueron obstáculo para los técnicos de Desarrollo Social, quienes en representación de nuestra alcaldesa Shirma Cortés Sanmiguel partieron rumbo a la parroquia Taracoa. Tras caminar por senderos y caminos solitarios, el destino no era solo una casa… era el encuentro con una vida que necesitaba compañía y esperanza.\nAhí entre su mascota, sus chanchitos, árboles y silencio, vive don Rogelio Jiménez, un adulto mayor de 74 años. Aunque habita solo en su finca, asegura que nunca está del todo solo, “Solito paso yo, solo tres personas me acompañan, nuestro Dios, Jesús y la Virgen Santísima y ahora mando un abrazo a la alcaldesa Shirma Cortés por haber enviado a sus técnicos para que me visiten en mi finca en mi finca”, manifiesta entre lágrimas y emociones compartidas don Rogelio Jiménez, persona de la tercera edad.\nLa ayuda no es solo en palabras. Una cama, un colchón, ropa en buen estado y alimentos llegaron a transformar el pequeño espacio de don Rogelio en un hogar más digno, recuerda Mirta Bermeo, técnica del proyecto adulto mayor municipal, “Estamos en la casa de don Rogelio, realizando una limpieza, para poderle acomodar las cositas que hemos traído desde la municipalidad, nuestra alcaldesa nos ha pedido que vengamos en persona a adecuar su humilde hogar y para nosotros es muy grato acompañarlo el día de hoy”.\n“Yo estoy agradecido, no podré pagar, sólo Dios podrá hacerlo, y Dios sabe que lo hacen con buen corazón”, Rogelio Jiménez.\nCon una sonrisa sincera y lágrimas contenidas, don Rogelio vio cómo su vida se llenaba de esperanza. La alcaldía, bajo el liderazgo de Shirma Cortés Sanmiguel, no solo entrega ayuda, siembra sonrisas y devuelve dignidad a quienes han dado toda su vida por este cantón. ST.",
+    "imagenes": [
+      {
+        "id": "c9a3b709717416c7",
+        "hash": "c9a3b709717416c7ef35f40dde35f8e50451651b9ff36e7da41fe517f11dd9f0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG9382.JPG",
+        "rutaOriginal": "/media/originales/c9a3b709717416c7.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c9a3b709717416c7-400.webp",
+          "800w": "/media/derivados/c9a3b709717416c7-800.webp",
+          "1600w": "/media/derivados/c9a3b709717416c7-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9551841,
+        "alt": "Alcaldía siembra esperanza en los adultos mayores",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

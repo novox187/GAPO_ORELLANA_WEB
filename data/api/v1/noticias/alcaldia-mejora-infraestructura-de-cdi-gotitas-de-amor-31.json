@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 31,
+    "slug": "alcaldia-mejora-infraestructura-de-cdi-gotitas-de-amor-31",
+    "titulo": "Alcaldía mejora infraestructura de CDI Gotitas de Amor",
+    "resumen": "Los trabajos incluyen la edificación de dos aulas, un moderno comedor, un cerramiento, un área de juegos con cubierta",
+    "fecha": "2025-02-06",
+    "imagen": {
+      "id": "33985f8ae79b6284",
+      "hash": "33985f8ae79b62844cb1eb8dc91ab90c89ecc141c3478b456426cf29a4e9f2d3",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_GOTITAS_DE_AMOR.png",
+      "rutaOriginal": "/media/originales/33985f8ae79b6284.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/33985f8ae79b6284-400.webp",
+        "800w": "/media/derivados/33985f8ae79b6284-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1064356,
+      "alt": "Alcaldía mejora infraestructura de CDI Gotitas de Amor",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    "url": "/noticia/31/",
+    "fuente_url": "https://orellana.gob.ec/noticia/31/",
+    "cuerpo": "La Alcaldía dirigida por Shirma Cortés Sanmiguel construye nuevas instalaciones en el Centro de Desarrollo Infantil (CDI) Gotitas de Amor perteneciente a la parroquia Alejandro Labaka, el objetivo es mejorar las condiciones de aprendizaje y recreación para los niños y niñas que asisten a este espacio educativo, “Quiero agradecerle a la alcaldesa Shirma Cortés por esta obra que es de suma importancia para el desarrollo y crecimiento de nuestros niños y también es significativa para la comunidad”. Jésica Abarca, opinión ciudadana.\nLos trabajos incluyen la edificación de dos aulas, un moderno comedor, un cerramiento, un área de juegos con cubierta y una bodega para almacenar de mejor manera los materiales que se emplean en el CDI, “Para nosotros es muy importante el centro de desarrollo infantil, porque venimos a dejar a los niños y nos vamos a la finca y después de realizar nuestras labores regresamos en la tarde y estoy agradecido por esta obra que es de gran ayuda”. Kevin Calapucha, opinión ciudadana.\nLa Alcaldía invierte USD. 94,770,56 en la ampliación del centro educativo, reafirmando su compromiso con el bienestar de la infancia de Francisco de Orellana. JG.",
+    "imagenes": [
+      {
+        "id": "33985f8ae79b6284",
+        "hash": "33985f8ae79b62844cb1eb8dc91ab90c89ecc141c3478b456426cf29a4e9f2d3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_GOTITAS_DE_AMOR.png",
+        "rutaOriginal": "/media/originales/33985f8ae79b6284.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/33985f8ae79b6284-400.webp",
+          "800w": "/media/derivados/33985f8ae79b6284-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1064356,
+        "alt": "Alcaldía mejora infraestructura de CDI Gotitas de Amor",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      }
+    ]
+  }
+}

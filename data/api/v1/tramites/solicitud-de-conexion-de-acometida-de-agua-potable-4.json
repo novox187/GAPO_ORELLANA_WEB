@@ -1,0 +1,101 @@
+{
+  "data": {
+    "id": 4,
+    "slug": "solicitud-de-conexion-de-acometida-de-agua-potable-4",
+    "nombre": "Solicitud de conexión de acometida de agua potable",
+    "direccion": {
+      "id": 3,
+      "slug": "direccion-de-agua-potable-y-alcantarillado",
+      "nombre": "DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO"
+    },
+    "categorias": [
+      "agua-y-ambiente"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es la instalación de agua potable desde la red hasta el domicilio del solicitante, incluye el medidor de agua que sirve para la toma de lectura del consumo mensual. Sus valores cambian de acuerdo al lugar donde se encuen",
+    "que_es": "Es la instalación de agua potable desde la red hasta el domicilio del solicitante, incluye el medidor de agua que sirve para la toma de lectura del consumo mensual. Sus valores cambian de acuerdo al lugar donde se encuentre el predio.\nEs la instalación que sirve para evacuar las aguas servidas del domicilio hacia la red pública.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Esta conexión tiene un valor de $110 (Ciento diez) dólares americanos."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "PERSONA NATURAL",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "1. Formulario de solicitud del servicio.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "2. Copia a colores de la cédula de ciudadanía o pasaporte (extranjeros) y certificado de votación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "3. Certificado catastral de la dirección de Ordenamiento Territorial cuando no tiene escritura.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "4. Certificado de no adeudar al municipio (en recaudación del GADMFO)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "PERSONA JURÍDICA",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "1. Formulario de solicitud del servicio.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "2. Copias a colores de la cédula de ciudadanía y certificado de votación del representante legal.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "3. Certificado conferido por el SRI, en el que se indique el número del RUC.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 10,
+        "texto": "4. Certificado del Registro de la propiedad.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 11,
+        "texto": "5. Certificado de no adeudar al municipio, de la empresa y el representante legal.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

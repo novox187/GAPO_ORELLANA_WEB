@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 78,
+    "slug": "alcaldia-entrega-renovada-cancha-en-el-barrio-30-de-abril-78",
+    "titulo": "Alcaldía entrega renovada cancha en el barrio 30 de Abril",
+    "resumen": "Con alegría y compromiso ciudadano, la alcaldesa Shirma Cortés inauguró el mantenimiento integral",
+    "fecha": "2025-05-02",
+    "imagen": {
+      "id": "1c07a1db4fca2e58",
+      "hash": "1c07a1db4fca2e58272a6117560bb81f9ac898e67d8f22c5023232ddcee55185",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_2237.JPG",
+      "rutaOriginal": "/media/originales/1c07a1db4fca2e58.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1c07a1db4fca2e58-400.webp",
+        "800w": "/media/derivados/1c07a1db4fca2e58-800.webp",
+        "1600w": "/media/derivados/1c07a1db4fca2e58-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 9145032,
+      "alt": "Alcaldía entrega renovada cancha en el barrio 30 de Abril",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/78/",
+    "fuente_url": "https://orellana.gob.ec/noticia/78/",
+    "cuerpo": "Con alegría y compromiso ciudadano, la alcaldesa Shirma Cortés inauguró el mantenimiento integral de la cancha deportiva del barrio 30 de Abril, junto a concejales, autoridades locales y moradores.\nUna inversión municipal de más de 234 mil dólares permitió renovar completamente este espacio con iluminación, piso nuevo, porterías multifuncionales, cerramiento, señalización, entre otras adecuaciones, “Quiero agradecerle a la alcaldesa por esta obra para nuestro barrio, e invitar a la ciudadanía para que venga y participe de los días deportivos, que aquí siempre va a ver un buen ambiente”. Margarita Morales, opinión ciudadana.\nCon el simbólico corte de cinta sostenido por un balón de básquet, la alcaldesa reafirmó su compromiso con los barrios y el bienestar de toda la comunidad, “Últimamente, el señor presidente ha venido gestionando para que realicemos el mantenimiento de la cancha; por eso, nosotros decidimos dejar los recursos para que este proyecto se pueda ejecutar con la remodelación de esta cancha de uso múltiple”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nMuy pronto se inaugurarán también los mantenimientos integrales de las canchas en los barrios 12 de Noviembre, Conhogar y Turismo Ecológico.\nDe esta manera, la Alcaldía reafirma su compromiso, generando espacios dignos para que niños, niñas, adolescentes y toda la ciudadanía disfruten, convivan y crezcan en un entorno sano y seguro. PT.",
+    "imagenes": [
+      {
+        "id": "1c07a1db4fca2e58",
+        "hash": "1c07a1db4fca2e58272a6117560bb81f9ac898e67d8f22c5023232ddcee55185",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_2237.JPG",
+        "rutaOriginal": "/media/originales/1c07a1db4fca2e58.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1c07a1db4fca2e58-400.webp",
+          "800w": "/media/derivados/1c07a1db4fca2e58-800.webp",
+          "1600w": "/media/derivados/1c07a1db4fca2e58-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 9145032,
+        "alt": "Alcaldía entrega renovada cancha en el barrio 30 de Abril",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

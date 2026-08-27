@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 26,
+    "slug": "operativos-de-control-vehiculos-mal-estacionados-en-el-coca-26",
+    "titulo": "Operativos de control vehículos mal estacionados en El Coca",
+    "resumen": "Como resultado del operativo de control se sancionaron a varios conductores",
+    "fecha": "2025-01-30",
+    "imagen": {
+      "id": "88c8daaca03314b5",
+      "hash": "88c8daaca03314b555f68fe1cdc129516daaf6b4f6d762939d01f31ec3a32c71",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_VEHICULOS_MAL_ESTACIONADOS.png",
+      "rutaOriginal": "/media/originales/88c8daaca03314b5.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/88c8daaca03314b5-400.webp",
+        "800w": "/media/derivados/88c8daaca03314b5-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1197050,
+      "alt": "Operativos de control vehículos mal estacionados en El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/26/",
+    "fuente_url": "https://orellana.gob.ec/noticia/26/",
+    "cuerpo": "¡Trabajamos para mejorar la seguridad vial en nuestro cantón! \nAcudimos a las calles céntricas de la ciudad de El Coca donde realizamos un operativo de control móvil de vehículos mal parqueados. La Dirección de Tránsito de Francisco de Orellana, y la Policía Nacional estuvieron al frente de esta acción.\nComo resultado del operativo de control se sancionaron a varios conductores y se retuvo un vehículo, el mismos que incumplía con el artículo 391, numeral 5 del Código Orgánico Integral penal en donde establece una multa del 10% de un salario básico del trabajador así como la reducción de tres puntos a la licencia de conducir por estacionarse en lugares no permitidos.\nSeamos buenos ciudadanos, respete las señales de tránsito y evite contratiempos. DV.",
+    "imagenes": [
+      {
+        "id": "88c8daaca03314b5",
+        "hash": "88c8daaca03314b555f68fe1cdc129516daaf6b4f6d762939d01f31ec3a32c71",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_VEHICULOS_MAL_ESTACIONADOS.png",
+        "rutaOriginal": "/media/originales/88c8daaca03314b5.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/88c8daaca03314b5-400.webp",
+          "800w": "/media/derivados/88c8daaca03314b5-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1197050,
+        "alt": "Operativos de control vehículos mal estacionados en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 12,
+    "slug": "senalizacion-horizontal-para-prevencion-del-uso-del-celular-y-reductores-de-12",
+    "titulo": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+    "resumen": "Las autoridades locales coordinaron acciones inmediatas",
+    "fecha": "2025-01-10",
+    "imagen": {
+      "id": "57a2ae47a12b0318",
+      "hash": "57a2ae47a12b031831d35f970c0c8d7f867b37ae25b77c0a3055385722226f83",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_ROBO_SENALETICA.png",
+      "rutaOriginal": "/media/originales/57a2ae47a12b0318.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/57a2ae47a12b0318-400.webp",
+        "800w": "/media/derivados/57a2ae47a12b0318-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1191333,
+      "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/12/",
+    "fuente_url": "https://orellana.gob.ec/noticia/12/",
+    "cuerpo": "Agentes de Control Municipal proceden a la aprehensión flagrante de un ciudadano que había sustraído señalética vertical del cabildo, acto delictivo que pone en peligro la seguridad de los conductores y peatones, ya que afecta directamente la correcta orientación y el cumplimiento de las normas de tránsito en puntos críticos como intersecciones, zonas escolares y áreas de alta circulación, “El no contar una intersección con una señalética vertical puede ocasionar lo que son siniestros o accidentes de tránsito, ya que son señaléticas sumamente importantes para la seguridad vial, quienes regulan el tránsito; esto, representa un daño a la ciudadanía y al cantón y representa gastos para volver a colocar la señalética”. Robert Alarcón, técnico del GADMFO.\nLas autoridades locales coordinaron acciones inmediatas con la Policía Nacional para sancionar al responsable de estos robos de bienes públicos y a quienes posteriormente compran como chatarra, “Esto está regulado en el Código Orgánico Integral Penal COIP, y establece de tres a siete años de sanción para quienes roban los bienes públicos de la municipalidad y que no están declarados como chatarra; simplemente, son bienes que están dando un servicio a la ciudadanía. Por eso es importante que los dueños de recicladoras tomen muy en cuenta que, al comprar este tipo de bienes, se están convirtiendo en cómplices de este tipo de delito y por lo que también deben ser sancionados”. Hernán Tumbaco, comisario municipal.\nAsimismo, se continuará reforzando los operativos para evitar este tipo de actos delictivos que afecta a la ciudadanía en general. Se insta a la colaboración ciudadana para frenar este delito y a quienes sean testigos de estos actos a denunciarlos a las autoridades correspondientes. JG.",
+    "imagenes": [
+      {
+        "id": "57a2ae47a12b0318",
+        "hash": "57a2ae47a12b031831d35f970c0c8d7f867b37ae25b77c0a3055385722226f83",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_ROBO_SENALETICA.png",
+        "rutaOriginal": "/media/originales/57a2ae47a12b0318.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/57a2ae47a12b0318-400.webp",
+          "800w": "/media/derivados/57a2ae47a12b0318-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1191333,
+        "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

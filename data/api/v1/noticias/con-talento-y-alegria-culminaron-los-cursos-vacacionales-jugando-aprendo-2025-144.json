@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 144,
+    "slug": "con-talento-y-alegria-culminaron-los-cursos-vacacionales-jugando-aprendo-2025-144",
+    "titulo": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
+    "resumen": "Entre aplausos, risas y abrazos, niños, niñas y adolescentes despidieron una etapa que quedará guardada en su memoria: los cursos vacacionales gratuitos “Jugando Aprendo 2025”, organizados por la Municipalidad. Fueron semanas llenas de fútbol, gimnas",
+    "fecha": "2025-08-14",
+    "imagen": {
+      "id": "e261f0b9b5b87b33",
+      "hash": "e261f0b9b5b87b332b4edb9832459664a5533c846c614ac0ebbca935bd7cf6b9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG1155.JPG",
+      "rutaOriginal": "/media/originales/e261f0b9b5b87b33.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e261f0b9b5b87b33-400.webp",
+        "800w": "/media/derivados/e261f0b9b5b87b33-800.webp",
+        "1600w": "/media/derivados/e261f0b9b5b87b33-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 11201609,
+      "alt": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/144/",
+    "fuente_url": "https://orellana.gob.ec/noticia/144/",
+    "cuerpo": "Entre aplausos, risas y abrazos, niños, niñas y adolescentes despidieron una etapa que quedará guardada en su memoria: los cursos vacacionales gratuitos “Jugando Aprendo 2025”, organizados por la Municipalidad. Fueron semanas llenas de fútbol, gimnasia, baloncesto, danza, música, dulcería y manualidades; pero, sobre todo, de amistad, descubrimientos y sueños compartidos, “Estoy muy agradecida con la señora alcaldesa, por permitirnos participar en los cursos vacacionales, donde hice un reloj que fue pintado de varios colores y a mi manera; y, el segundo es un cuadro de tigres de fómix negro y amarillo”. Ariana Farfán, participante de talleres.\nPadres, madres y familiares miraban con orgullo cada presentación, conscientes de que esos momentos son únicos e irrepetibles. La iniciativa, impulsada por la alcaldesa Shirma Cortés Sanmiguel, demostró que el tiempo libre puede transformarse en creatividad, disciplina y valores, “Llamo a las autoridades del municipio a que mantengan estos o que los sigan desarrollando; también pedir a la ciudadanía que inscriban a sus hijos para que en este caso desarrollen una vida sana y recreativa”. Hermógenes Zambrano, padre de familia.\nLa Municipalidad reafirma así su compromiso con la educación, la cultura y el deporte, sembrando en cada participante la confianza de que aprender también puede ser sinónimo de alegría.\n¡Feliz regreso a clases! JG.",
+    "imagenes": [
+      {
+        "id": "e261f0b9b5b87b33",
+        "hash": "e261f0b9b5b87b332b4edb9832459664a5533c846c614ac0ebbca935bd7cf6b9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG1155.JPG",
+        "rutaOriginal": "/media/originales/e261f0b9b5b87b33.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e261f0b9b5b87b33-400.webp",
+          "800w": "/media/derivados/e261f0b9b5b87b33-800.webp",
+          "1600w": "/media/derivados/e261f0b9b5b87b33-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 11201609,
+        "alt": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

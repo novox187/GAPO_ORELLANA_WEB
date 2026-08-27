@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 263,
+    "slug": "alcaldia-asegura-agua-a-las-familias-del-barrio-julio-llori-263",
+    "titulo": "Alcaldía asegura agua a las Familias Del barrio Julio Llori",
+    "resumen": "En el barrio Julio Llori, personal técnico municipal, realiza la construcción del nuevo sistema de alcantarillado sanitario y pluvial, junto a la empresa contratista.",
+    "fecha": "2026-03-09",
+    "imagen": {
+      "id": "e74e3520dca34b52",
+      "hash": "e74e3520dca34b526342a0ed6ab8e51151e2820ac121f185c55d305f4c065c52",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG_9995.JPG",
+      "rutaOriginal": "/media/originales/e74e3520dca34b52.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e74e3520dca34b52-400.webp",
+        "800w": "/media/derivados/e74e3520dca34b52-800.webp",
+        "1600w": "/media/derivados/e74e3520dca34b52-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 11644711,
+      "alt": "Alcaldía asegura agua a las Familias Del barrio Julio Llori",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/263/",
+    "fuente_url": "https://orellana.gob.ec/noticia/263/",
+    "cuerpo": "En el barrio Julio Llori, personal técnico municipal, realiza la construcción del nuevo sistema de alcantarillado sanitario y pluvial, junto a la empresa contratista.\nLos trabajos incluyen el empate de tuberías de distribución de agua potable de 63 milímetros, con el objetivo de garantizar que este servicio básico llegue de manera permanente y sin interrupciones a los hogares, “Está quedando muy bonito la obra y también nos están solucionando el problema de agua potable que no llega a nuestros hogares cuando sufre algún desperfecto en los trabajos de alcantarillado, nos están dando soluciones inmediatas.” Noemí Cacelda, moradora del sector. \nAdemás de fortalecer la infraestructura básica, la obra genera empleo local, dinamiza la economía del sector y garantiza el cumplimiento del artículo 41.1 de la Ley Especial Amazónica, en relación al empleo preferente, “Le doy gracias a la alcaldesa, porque nos da la oportunidad de trabajar en los proyectos que construye la municipalidad, permitiéndonos obtener recursos económicos y poder sustentar a nuestras familias.” Miguel Erazo, trabajador de la obra. \nLa intervención integra desarrollo urbano, bienestar social y empleo comunitario, constituyendo un avance significativo en la vida diaria de los habitantes de Francisco de Orellana. DV.",
+    "imagenes": [
+      {
+        "id": "e74e3520dca34b52",
+        "hash": "e74e3520dca34b526342a0ed6ab8e51151e2820ac121f185c55d305f4c065c52",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG_9995.JPG",
+        "rutaOriginal": "/media/originales/e74e3520dca34b52.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e74e3520dca34b52-400.webp",
+          "800w": "/media/derivados/e74e3520dca34b52-800.webp",
+          "1600w": "/media/derivados/e74e3520dca34b52-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 11644711,
+        "alt": "Alcaldía asegura agua a las Familias Del barrio Julio Llori",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

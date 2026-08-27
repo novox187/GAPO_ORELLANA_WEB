@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 129,
+    "slug": "alcaldesa-shirma-cortes-clausura-cursos-en-san-luis-de-armenia-y-en-amarun-mesa-129",
+    "titulo": "Alcaldesa Shirma Cortés clausura cursos en San Luis de Armenia y en Amarun Mesa",
+    "resumen": "En un ambiente de alegría y entusiasmo, la alcaldesa del cantón, Shirma Cortés, participó en la clausura del curso de Panadería y Pastelería desarrollado en la parroquia San Luis de Armenia, reafirmando su compromiso con el desarrollo educativo y soc",
+    "fecha": "2025-07-21",
+    "imagen": {
+      "id": "03d1615304e9ea1a",
+      "hash": "03d1615304e9ea1a526ca82937e5c3a5fb3bc048718fccc1ca2aa27c58118dd9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG7451.JPG",
+      "rutaOriginal": "/media/originales/03d1615304e9ea1a.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/03d1615304e9ea1a-400.webp",
+        "800w": "/media/derivados/03d1615304e9ea1a-800.webp",
+        "1600w": "/media/derivados/03d1615304e9ea1a-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6767729,
+      "alt": "Alcaldesa Shirma Cortés clausura cursos en San Luis de Armenia y en Amarun Mesa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+    },
+    "url": "/noticia/129/",
+    "fuente_url": "https://orellana.gob.ec/noticia/129/",
+    "cuerpo": "En un ambiente de alegría y entusiasmo, la alcaldesa del cantón, Shirma Cortés, participó en la clausura del curso de Panadería y Pastelería desarrollado en la parroquia San Luis de Armenia, reafirmando su compromiso con el desarrollo educativo y social de la niñez del cantón, “Es la mejor inversión que se puede hacer en el ser humano y en esta ocasión lo estamos haciendo con ustedes queridos niños, aprovechemos las vacaciones de la escuela y felicitarlos por ser parte de los cursos vacacionales que con mucho amor los hemos organizado”. Shirma Cortés, alcaldesa de Francisco de Orellana. \nPosterior a esto, la autoridad cantonal se trasladó a la comunidad Amarun Mesa, donde participó en la clausura del curso de Gastronomía y Panadería “Aprende Emprendedor” dirigido a jóvenes y adultos del sector, “Quiero agradecer a la señora alcaldesa por estos talleres que hemos solicitado y nos ha dado la mano para que nosotros aprendamos y emprender en nuestra comunidad”. Elsa Shiguango, emprendedora rural. \nAmbas actividades se desarrollaron como parte de los programas impulsados por la alcaldía en coordinación con actores comunitarios, orientados a fortalecer capacidades locales y brindar oportunidades de crecimiento a todos los sectores de la población. DV.",
+    "imagenes": [
+      {
+        "id": "03d1615304e9ea1a",
+        "hash": "03d1615304e9ea1a526ca82937e5c3a5fb3bc048718fccc1ca2aa27c58118dd9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG7451.JPG",
+        "rutaOriginal": "/media/originales/03d1615304e9ea1a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/03d1615304e9ea1a-400.webp",
+          "800w": "/media/derivados/03d1615304e9ea1a-800.webp",
+          "1600w": "/media/derivados/03d1615304e9ea1a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6767729,
+        "alt": "Alcaldesa Shirma Cortés clausura cursos en San Luis de Armenia y en Amarun Mesa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      }
+    ]
+  }
+}

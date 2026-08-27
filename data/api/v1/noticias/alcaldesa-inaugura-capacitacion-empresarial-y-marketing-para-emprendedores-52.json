@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 52,
+    "slug": "alcaldesa-inaugura-capacitacion-empresarial-y-marketing-para-emprendedores-52",
+    "titulo": "Alcaldesa inaugura capacitación empresarial y marketing para emprendedores",
+    "resumen": "Las capacitaciones son dictadas por profesionales de la Escuela Superior Politécnica de Chimborazo, durante tres meses a quienes siguen los cursos gratuitos",
+    "fecha": "2025-03-20",
+    "imagen": {
+      "id": "47e3ff2537c93bd6",
+      "hash": "47e3ff2537c93bd6c13acf1be45dc364f3b5cfe07b51588a5739ac6959166a4b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3534.JPG",
+      "rutaOriginal": "/media/originales/47e3ff2537c93bd6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/47e3ff2537c93bd6-400.webp",
+        "800w": "/media/derivados/47e3ff2537c93bd6-800.webp",
+        "1600w": "/media/derivados/47e3ff2537c93bd6-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6930602,
+      "alt": "Alcaldesa inaugura capacitación empresarial y marketing para emprendedores",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/52/",
+    "fuente_url": "https://orellana.gob.ec/noticia/52/",
+    "cuerpo": "Con el objetivo de brindar herramientas, conocimientos y habilidades necesarias a los 180 participantes del proyecto “Aprende Emprendedor”, la alcaldesa Shirma Cortés Sanmiguel inauguró las capacitaciones prácticas teóricas en: empoderamiento y prevención de violencia basada en género, desarrollo de ideas de negocio, educación financiera, marketing, uso de redes sociales, entre otros temas, “Hemos involucrado a la Universidad la ESPOCH que es muy fundamental e importante tener esta coordinación y cooperación entre instituciones, para la cual quiero agradecer también por ese interés y compromiso de parte de ellos”. Shirma Cortés, alcaldesa de Francisco de Orellana. \nLas capacitaciones son dictadas por profesionales de la Escuela Superior Politécnica de Chimborazo, durante tres meses a quienes siguen los cursos gratuitos de corte y confección, gastronomía, belleza y de panadería y pastelería que dicta la municipalidad, “Un mensaje muy corto y bastante certero en estos momentos es que, si no trabajas por tus sueños alguien te contratará para que trabajes por ellos; creo que soñar no cuesta nada y hacerlo realidad con un poquito de sacrificio, sí es posible. Mónica Brito, docente de la ESPOCH. \nComo Municipalidad seguiremos apoyando y trabajando para la formación de nuestros emprendedores locales brindándoles herramientas, conocimientos y habilidades necesarias para su desarrollo integral de conocimientos. JG.",
+    "imagenes": [
+      {
+        "id": "47e3ff2537c93bd6",
+        "hash": "47e3ff2537c93bd6c13acf1be45dc364f3b5cfe07b51588a5739ac6959166a4b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3534.JPG",
+        "rutaOriginal": "/media/originales/47e3ff2537c93bd6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/47e3ff2537c93bd6-400.webp",
+          "800w": "/media/derivados/47e3ff2537c93bd6-800.webp",
+          "1600w": "/media/derivados/47e3ff2537c93bd6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6930602,
+        "alt": "Alcaldesa inaugura capacitación empresarial y marketing para emprendedores",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

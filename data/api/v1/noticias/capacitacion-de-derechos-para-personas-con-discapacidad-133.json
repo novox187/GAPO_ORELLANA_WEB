@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 133,
+    "slug": "capacitacion-de-derechos-para-personas-con-discapacidad-133",
+    "titulo": "Capacitación de derechos para personas con discapacidad",
+    "resumen": "Se brindaron importantes capacitaciones a 30 usuarios del proyecto social para personas con discapacidad de la Alcaldía del cantón Francisco de Orellana, en convenio con el Ministerio de Inclusión",
+    "fecha": "2025-07-25",
+    "imagen": {
+      "id": "767737c5f27152f7",
+      "hash": "767737c5f27152f79d0993808fec85398d746baec77ccc59ac7e48ca8e7bd6f1",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG5063_rQo4c3p.JPG",
+      "rutaOriginal": "/media/originales/767737c5f27152f7.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/767737c5f27152f7-400.webp",
+        "800w": "/media/derivados/767737c5f27152f7-800.webp",
+        "1600w": "/media/derivados/767737c5f27152f7-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7096708,
+      "alt": "Capacitación de derechos para personas con discapacidad",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+    },
+    "url": "/noticia/133/",
+    "fuente_url": "https://orellana.gob.ec/noticia/133/",
+    "cuerpo": "Se brindaron importantes capacitaciones a 30 usuarios del proyecto social para personas con discapacidad de la Alcaldía del cantón Francisco de Orellana, en convenio con el Ministerio de Inclusión Económica y Social (MIES). Estas jornadas abordaron temas clave como accesibilidad, movilidad, vivienda, protección integral y seguridad social, y fueron impartidas por el Consejo Nacional para la Igualdad de Discapacidades (CONADIS), “Todo lo que haga el Municipio y el CONADIS para mí es bueno, porque nosotros vamos aprendiendo sobre los derechos que tenemos”. Manuel Quintero, usuario del proyecto social del GADMFO. \nEsta iniciativa forma parte de las acciones conjuntas para promover una vida digna, accesible y segura en el cantón, fomentando la inclusión social y la participación activa de las personas en situación de discapacidad, “Es un gran servicio que está prestando el municipio a las personas con discapacidad y felicitarle más a nuestra alcaldesa por ese apoyo desinteresado para los grupos de atención prioritaria”. William Espín, funcionario del CONADIS. \nLa Municipalidad seguirá realizando estas y más capacitaciones de participación inclusivas en diferentes unidades de atención prioritaria del cantón Francisco de Orellana. DV.",
+    "imagenes": [
+      {
+        "id": "767737c5f27152f7",
+        "hash": "767737c5f27152f79d0993808fec85398d746baec77ccc59ac7e48ca8e7bd6f1",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG5063_rQo4c3p.JPG",
+        "rutaOriginal": "/media/originales/767737c5f27152f7.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/767737c5f27152f7-400.webp",
+          "800w": "/media/derivados/767737c5f27152f7-800.webp",
+          "1600w": "/media/derivados/767737c5f27152f7-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7096708,
+        "alt": "Capacitación de derechos para personas con discapacidad",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      }
+    ]
+  }
+}

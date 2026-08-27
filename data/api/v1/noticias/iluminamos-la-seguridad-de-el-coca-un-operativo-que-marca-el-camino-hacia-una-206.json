@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 206,
+    "slug": "iluminamos-la-seguridad-de-el-coca-un-operativo-que-marca-el-camino-hacia-una-206",
+    "titulo": "Iluminamos la seguridad de El Coca: un operativo que marca el camino hacia una ciudad más ordenada y protegida",
+    "resumen": "La Alcaldía, a través de la Dirección de Seguridad y Gobernabilidad y con el apoyo del Cuerpo de Agentes de Control, impulsa un amplio operativo de inspección y señalización preventiva en los postes de alumbrado público que presentan fallas. Este pla",
+    "fecha": "2025-11-28",
+    "imagen": {
+      "id": "c75cad80e76d2d2a",
+      "hash": "c75cad80e76d2d2af3f7f650153c365822821654ac8b69bb3dcfd902971105bb",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28.JPG",
+      "rutaOriginal": "/media/originales/c75cad80e76d2d2a.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c75cad80e76d2d2a-400.webp",
+        "800w": "/media/derivados/c75cad80e76d2d2a-800.webp",
+        "1600w": "/media/derivados/c75cad80e76d2d2a-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 5637683,
+      "alt": "Iluminamos la seguridad de El Coca: un operativo que marca el camino hacia una ciudad más ordenada y protegida",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/206/",
+    "fuente_url": "https://orellana.gob.ec/noticia/206/",
+    "cuerpo": "La Alcaldía, a través de la Dirección de Seguridad y Gobernabilidad y con el apoyo del Cuerpo de Agentes de Control, impulsa un amplio operativo de inspección y señalización preventiva en los postes de alumbrado público que presentan fallas. Este plan piloto, que abarca toda la ciudad de El Coca, avanza con una visión estratégica de mantener espacios seguros, ordenados y mejor iluminados para la ciudadanía, así lo expresa el ciudadano Juan Maza, “Les agradezco a estos jóvenes que han venido a señalizar los postes para iluminar nuestras casas, porque estábamos como vivir en la montaña; pero ahora nos sentimos como que ya estamos acompañados de todo el pueblo.”\nDurante los primeros recorridos en los barrios Las Américas, Paraíso Amazónico y Los Rosales, se identificaron 40 postes sin iluminación. Cada observación levantada en territorio se convierte ahora en acción inmediata, gracias a la articulación directa con CNEL para la reparación técnica correspondiente, reflejando un trabajo coordinado y orientado al bienestar ciudadano, “Sabemos que la oscuridad es punto agradable para la inseguridad y con nuestro accionar estamos poniendo nuestro granito de arena para fortalecer la seguridad del cantón que queremos.” José Vega, Agente de Control.\nLa actual administración ratifica su compromiso de transformar los desafíos en soluciones y de responder con eficiencia a las necesidades reales de la población. JG.",
+    "imagenes": [
+      {
+        "id": "c75cad80e76d2d2a",
+        "hash": "c75cad80e76d2d2af3f7f650153c365822821654ac8b69bb3dcfd902971105bb",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28.JPG",
+        "rutaOriginal": "/media/originales/c75cad80e76d2d2a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c75cad80e76d2d2a-400.webp",
+          "800w": "/media/derivados/c75cad80e76d2d2a-800.webp",
+          "1600w": "/media/derivados/c75cad80e76d2d2a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 5637683,
+        "alt": "Iluminamos la seguridad de El Coca: un operativo que marca el camino hacia una ciudad más ordenada y protegida",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

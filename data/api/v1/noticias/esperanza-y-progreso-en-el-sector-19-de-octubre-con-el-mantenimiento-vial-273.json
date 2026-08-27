@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 273,
+    "slug": "esperanza-y-progreso-en-el-sector-19-de-octubre-con-el-mantenimiento-vial-273",
+    "titulo": "Esperanza y Progreso en el sector 19 de Octubre con el mantenimiento vial",
+    "resumen": "En el sector 19 de Octubre del barrio Guadalupe Larriva, continúan los trabajos de mejoramiento vial promovidos por la Alcaldía, bajo el liderazgo de Shirma Cortés Sanmiguel.",
+    "fecha": "2026-03-23",
+    "imagen": {
+      "id": "ca1e2442332e04f2",
+      "hash": "ca1e2442332e04f22b7a2dab2268b4a92174bc7f31d4c0b96ba842538b225554",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG931.JPG",
+      "rutaOriginal": "/media/originales/ca1e2442332e04f2.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ca1e2442332e04f2-400.webp",
+        "800w": "/media/derivados/ca1e2442332e04f2-800.webp",
+        "1600w": "/media/derivados/ca1e2442332e04f2-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 11050790,
+      "alt": "Esperanza y Progreso en el sector 19 de Octubre con el mantenimiento vial",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+    },
+    "url": "/noticia/273/",
+    "fuente_url": "https://orellana.gob.ec/noticia/273/",
+    "cuerpo": "En el sector 19 de Octubre del barrio Guadalupe Larriva, continúan los trabajos de mejoramiento vial promovidos por la Alcaldía, bajo el liderazgo de Shirma Cortés Sanmiguel.\nLa maquinaria pesada avanza por varias calles, con el objetivo de optimizar el tránsito peatonal y vehicular, especialmente pensando en la temporada invernal, Cayetano Bermúdez, morador del sector, asegura que los trabajos ayudan significativamente a la población, “Felicito a la alcaldesa por su gentileza que ha tenido de tomarnos en cuenta a nosotros como sector y dar arreglo a las calles para poder circular con toda normalidad.” \nEn la intervención se utilizaron una motoniveladora, un rodillo, un tanquero de agua y volquetes, herramientas clave para el mejoramiento de las vías, “Para nosotros es importante que estén arreglando las calles, porque con las lluvias que son permanentes, siempre daña las calles de nuestro sector,” asegura el ciudadano Braulio Santos. \nCon estas obras, la alcaldesa Shirma Cortés demuestra su compromiso con los vecinos del barrio Guadalupe, transformando sus calles en rutas más seguras y fáciles de transitar para todos. DV.",
+    "imagenes": [
+      {
+        "id": "ca1e2442332e04f2",
+        "hash": "ca1e2442332e04f22b7a2dab2268b4a92174bc7f31d4c0b96ba842538b225554",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG931.JPG",
+        "rutaOriginal": "/media/originales/ca1e2442332e04f2.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ca1e2442332e04f2-400.webp",
+          "800w": "/media/derivados/ca1e2442332e04f2-800.webp",
+          "1600w": "/media/derivados/ca1e2442332e04f2-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 11050790,
+        "alt": "Esperanza y Progreso en el sector 19 de Octubre con el mantenimiento vial",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      }
+    ]
+  }
+}

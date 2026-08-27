@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 161,
+    "slug": "con-esperanza-y-compromiso-arranca-la-construccion-de-la-casa-taller-en-nestor-161",
+    "titulo": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
+    "resumen": "La transformación de Francisco de Orellana continúa avanzando. La alcaldesa Shirma Cortés Sanmiguel colocó la primera piedra de la Casa Taller en el sector Néstor Jiménez, en el barrio Nuevo Coca, una obra largamente esperada por sus moradores y que",
+    "fecha": "2025-09-11",
+    "imagen": {
+      "id": "a1882a44a006a898",
+      "hash": "a1882a44a006a898a87bd360cfcb8913cfaaa3a194ef48b0acad8ac341cf6a97",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG4033.JPG",
+      "rutaOriginal": "/media/originales/a1882a44a006a898.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a1882a44a006a898-400.webp",
+        "800w": "/media/derivados/a1882a44a006a898-800.webp",
+        "1600w": "/media/derivados/a1882a44a006a898-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9159338,
+      "alt": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/161/",
+    "fuente_url": "https://orellana.gob.ec/noticia/161/",
+    "cuerpo": "La transformación de Francisco de Orellana continúa avanzando. La alcaldesa Shirma Cortés Sanmiguel colocó la primera piedra de la Casa Taller en el sector Néstor Jiménez, en el barrio Nuevo Coca, una obra largamente esperada por sus moradores y que hoy se convierte en realidad gracias a la visión y el compromiso de su administración.\nCon una inversión de 89.972,09 dólares, esta infraestructura será un espacio de capacitación y desarrollo, pensado para fortalecer la integración social y brindar nuevas oportunidades a las familias del sector, “Estoy muy feliz la verdad, porque esta obra es magnífica para todos nosotros y más que todo para nuestro sector Néstor Jiménez y los sectores aledaños, estamos felices y contentos por esta obra que nos está dando nuestra querida alcaldesa Shirma Cortés.” Ashley Gavilánez, moradora del sector. \nEn su discurso, la primera autoridad reafirmó que su administración actúa con planificación y cercanía a la gente: “Esto es el resultado de un trabajo que se lo viene haciendo de una manera planificada y viendo las necesidades más importantes en cada uno de nuestros barrios, decisión que se la tomó con la presidenta y los moradores del sector.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa gestión de la alcaldesa Shirma Cortés Sanmiguel está marcando un antes y un después, demostrando que cuando se gobierna con decisión, sensibilidad y planificación, se construye “el cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "a1882a44a006a898",
+        "hash": "a1882a44a006a898a87bd360cfcb8913cfaaa3a194ef48b0acad8ac341cf6a97",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG4033.JPG",
+        "rutaOriginal": "/media/originales/a1882a44a006a898.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a1882a44a006a898-400.webp",
+          "800w": "/media/derivados/a1882a44a006a898-800.webp",
+          "1600w": "/media/derivados/a1882a44a006a898-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9159338,
+        "alt": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 36,
+    "slug": "operativo-de-control-a-la-explotacion-de-materiales-de-aridos-y-petreos-36",
+    "titulo": "Operativo de control a la explotación de materiales de áridos y pétreos",
+    "resumen": "Como resultado del operativo, se suspendieron labores en una concesión minera",
+    "fecha": "2025-02-13",
+    "imagen": {
+      "id": "e9993436a9d79768",
+      "hash": "e9993436a9d797686316ecb51606367dac32877c92bd16cbe0d9dee05eded0c1",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_MINERIA.jpg",
+      "rutaOriginal": "/media/originales/e9993436a9d79768.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e9993436a9d79768-400.webp",
+        "800w": "/media/derivados/e9993436a9d79768-800.webp",
+        "1600w": "/media/derivados/e9993436a9d79768-1600.webp"
+      },
+      "ancho": 2560,
+      "alto": 1437,
+      "bytes": 589523,
+      "alt": "Operativo de control a la explotación de materiales de áridos y pétreos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/36/",
+    "fuente_url": "https://orellana.gob.ec/noticia/36/",
+    "cuerpo": "La Municipalidad, realizó un operativo en el sector San José de Guayusa, zona dedicada a la extracción de materiales utilizados en la construcción. El objetivo principal fue asegurar que las actividades mineras se lleven a cabo de manera responsable, cumpliendo con las normativas técnicas, ambientales y de seguridad vigentes.\nComo resultado del operativo, se suspendieron labores en una concesión minera que no cumplía con las regulaciones, por lo que se exigió la implementación de un nuevo sistema de explotación que proteja los márgenes de los ríos. Esta acción reafirma el compromiso de la alcaldía con la protección del medio ambiente, la seguridad de los ciudadanos y el fomento de prácticas sostenibles.\nSe continuará con la realización de operativos de supervisión en todas las zonas de influencia minera para garantizar un desarrollo económico en armonía con la preservación de los recursos naturales. RH.",
+    "imagenes": [
+      {
+        "id": "e9993436a9d79768",
+        "hash": "e9993436a9d797686316ecb51606367dac32877c92bd16cbe0d9dee05eded0c1",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_MINERIA.jpg",
+        "rutaOriginal": "/media/originales/e9993436a9d79768.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e9993436a9d79768-400.webp",
+          "800w": "/media/derivados/e9993436a9d79768-800.webp",
+          "1600w": "/media/derivados/e9993436a9d79768-1600.webp"
+        },
+        "ancho": 2560,
+        "alto": 1437,
+        "bytes": 589523,
+        "alt": "Operativo de control a la explotación de materiales de áridos y pétreos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

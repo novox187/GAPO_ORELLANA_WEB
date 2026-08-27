@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 82,
+    "slug": "alegria-y-deporte-en-mushuk-ayllu-alcaldia-inaugura-moderna-cancha-deportiva-82",
+    "titulo": "¡Alegría y deporte en Mushuk Ayllu! Alcaldía inaugura moderna cancha deportiva",
+    "resumen": "Con gran entusiasmo y participación ciudadana, la alcaldesa Shirma Cortés Sanmiguel realizó la esperada inauguración",
+    "fecha": "2025-05-12",
+    "imagen": {
+      "id": "eeb2645b41c0920d",
+      "hash": "eeb2645b41c0920d046a12be67ea64775aa25f64ea21ebedd2315fb8ceadce54",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_DJI_0449.JPG",
+      "rutaOriginal": "/media/originales/eeb2645b41c0920d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/eeb2645b41c0920d-400.webp",
+        "800w": "/media/derivados/eeb2645b41c0920d-800.webp",
+        "1600w": "/media/derivados/eeb2645b41c0920d-1600.webp"
+      },
+      "ancho": 4000,
+      "alto": 2250,
+      "bytes": 4258821,
+      "alt": "¡Alegría y deporte en Mushuk Ayllu! Alcaldía inaugura moderna cancha deportiva",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/82/",
+    "fuente_url": "https://orellana.gob.ec/noticia/82/",
+    "cuerpo": "Con gran entusiasmo y participación ciudadana, la alcaldesa Shirma Cortés Sanmiguel realizó la esperada inauguración de la moderna cancha cubierta con cerramiento en el sector Mushuk Ayllu que tuvo una inversión aproximada de $224,390.46. Este nuevo espacio representa un importante avance para el desarrollo del barrio Nuevo Coca, fomentando el deporte, la convivencia y el bienestar de niños, jóvenes y adultos, “Estos espacios deportivos permiten que nuestros jóvenes sepan ocupar su tiempo libre, en actividades que nos benefician en el tema de la disciplina, de salud, de ser buenos ciudadanos, porque el practicar actividades deportivas y culturales nos permite ser buenos ciudadanos. La municipalidad, siempre comprometido con el cantón que queremos”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa ceremonia de apertura estuvo marcada por danzas, juegos deportivos, baile y palabras de agradecimiento por parte de los moradores, quienes expresaron su alegría por contar con una infraestructura adecuada para la práctica de índor fútbol, vóley, baloncesto y otras actividades recreativas, “Hoy es un día muy importante señora alcaldesa, porque queremos expresar nuestro más sincero agradecimiento por hacer realidad este proyecto que por mucho tiempo lo hemos esperado con anhelo por los moradores de esta comunidad”. María Avilés, presidenta de Mushuk Ayllu.\n“Se está marcando un hito más en nuestra historia y es un día de júbilo para nosotros, al contar con esta hermosa cancha cubierta; y, decirle que siga trabajando por el bienestar de las comunidades y las personas más necesitadas”. Freddy Albán, opinión ciudadana.\nMushuk Ayllu celebra esta gran conquista, que no solo fortalece la sana recreación, sino que abre nuevas oportunidades para el talento deportivo local. JG.",
+    "imagenes": [
+      {
+        "id": "eeb2645b41c0920d",
+        "hash": "eeb2645b41c0920d046a12be67ea64775aa25f64ea21ebedd2315fb8ceadce54",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_DJI_0449.JPG",
+        "rutaOriginal": "/media/originales/eeb2645b41c0920d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/eeb2645b41c0920d-400.webp",
+          "800w": "/media/derivados/eeb2645b41c0920d-800.webp",
+          "1600w": "/media/derivados/eeb2645b41c0920d-1600.webp"
+        },
+        "ancho": 4000,
+        "alto": 2250,
+        "bytes": 4258821,
+        "alt": "¡Alegría y deporte en Mushuk Ayllu! Alcaldía inaugura moderna cancha deportiva",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

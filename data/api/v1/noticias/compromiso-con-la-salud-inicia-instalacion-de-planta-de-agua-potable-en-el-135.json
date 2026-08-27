@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 135,
+    "slug": "compromiso-con-la-salud-inicia-instalacion-de-planta-de-agua-potable-en-el-135",
+    "titulo": "Compromiso con la salud: inicia instalación de planta de agua potable en El Dorado",
+    "resumen": "En un ejercicio de diálogo directo con la ciudadanía, la alcaldesa Shirma Cortés Sanmiguel encabezó la jornada de socialización del proyecto para la instalación de una moderna planta compacta prefabricada",
+    "fecha": "2025-07-29",
+    "imagen": {
+      "id": "78b45b4bd3d2cfd8",
+      "hash": "78b45b4bd3d2cfd886b323c05c817135c93944d5539c0ea32a8a164ebf0d6cb9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG8769.JPG",
+      "rutaOriginal": "/media/originales/78b45b4bd3d2cfd8.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/78b45b4bd3d2cfd8-400.webp",
+        "800w": "/media/derivados/78b45b4bd3d2cfd8-800.webp",
+        "1600w": "/media/derivados/78b45b4bd3d2cfd8-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8224775,
+      "alt": "Compromiso con la salud: inicia instalación de planta de agua potable en El Dorado",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+    },
+    "url": "/noticia/135/",
+    "fuente_url": "https://orellana.gob.ec/noticia/135/",
+    "cuerpo": "En un ejercicio de diálogo directo con la ciudadanía, la alcaldesa Shirma Cortés Sanmiguel encabezó la jornada de socialización del proyecto para la instalación de una moderna planta compacta prefabricada de agua potable, la misma que cumplirá con todos los procesos necesarios para garantizar la potabilización del agua beneficiando a 2.000 habitantes de la cabecera parroquial de El Dorado, “Señora alcaldesa, gracias por la voluntad que ha tenido para ayudarnos a mejorar el sistema de agua potable, porque es un problema que tenemos aquí desde hace mucho tiempo”. Lupercio Ayala, opinión ciudadana.\n“Hemos sufrido bastante con el agua de mala calidad y quiero agradecer a quienes han hecho la gestión como la señora alcaldesa que nos va a dar esa obrita”. Oswaldo Elizalde, opinión ciudadana.\nAdemás, la autoridad municipal anunció que ya se están planificando los estudios técnicos necesarios para mejorar el sistema de redes de distribución domiciliaria, lo que permitirá optimizar la cobertura y eficiencia del servicio, “Se está planificando ya para el nuevo año querido presidente, de esta manera vamos a seguir completando lo más fundamental en lo que tiene que ver con el proyecto de agua para que tengan líquido vital tan necesaria las 24 horas y de mejor calidad”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nLos trabajos de instalación tendrán una duración aproximada de mes y medio. Mientras tanto, la Alcaldía ha coordinado la provisión temporal del servicio mediante tanqueros, que abastecerán los tanques de distribución existentes, asegurando así el suministro constante del líquido vital. JG.",
+    "imagenes": [
+      {
+        "id": "78b45b4bd3d2cfd8",
+        "hash": "78b45b4bd3d2cfd886b323c05c817135c93944d5539c0ea32a8a164ebf0d6cb9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG8769.JPG",
+        "rutaOriginal": "/media/originales/78b45b4bd3d2cfd8.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/78b45b4bd3d2cfd8-400.webp",
+          "800w": "/media/derivados/78b45b4bd3d2cfd8-800.webp",
+          "1600w": "/media/derivados/78b45b4bd3d2cfd8-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8224775,
+        "alt": "Compromiso con la salud: inicia instalación de planta de agua potable en El Dorado",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      }
+    ]
+  }
+}

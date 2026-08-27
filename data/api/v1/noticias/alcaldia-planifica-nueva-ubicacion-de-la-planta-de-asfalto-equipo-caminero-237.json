@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 237,
+    "slug": "alcaldia-planifica-nueva-ubicacion-de-la-planta-de-asfalto-equipo-caminero-237",
+    "titulo": "Alcaldía planifica nueva ubicación de la planta de asfalto, equipo caminero, talleres mecánicos y de combustibles",
+    "resumen": "La planta de asfalto municipal fue construida en una zona de alto riesgo e inundable, al mismo nivel de la franja del río Coca. Esta situación ha generado múltiples inconvenientes para la operatividad de la maquinaria, afectando la continuidad de los",
+    "fecha": "2026-01-16",
+    "imagen": {
+      "id": "c2b70bf99f3e501c",
+      "hash": "c2b70bf99f3e501c33108228c274d2fa7a61271ac497779f8a79fc350c829f9f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_WhatsApp_Image_2026-01-13_at_2.56.50_PM_5.jpeg",
+      "rutaOriginal": "/media/originales/c2b70bf99f3e501c.jpeg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c2b70bf99f3e501c-400.webp",
+        "800w": "/media/derivados/c2b70bf99f3e501c-800.webp",
+        "1600w": "/media/derivados/c2b70bf99f3e501c-1600.webp"
+      },
+      "ancho": 1600,
+      "alto": 900,
+      "bytes": 453465,
+      "alt": "Alcaldía planifica nueva ubicación de la planta de asfalto, equipo caminero, talleres mecánicos y de combustibles",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/237/",
+    "fuente_url": "https://orellana.gob.ec/noticia/237/",
+    "cuerpo": "La planta de asfalto municipal fue construida en una zona de alto riesgo e inundable, al mismo nivel de la franja del río Coca. Esta situación ha generado múltiples inconvenientes para la operatividad de la maquinaria, afectando la continuidad de los trabajos viales y reduciendo la eficiencia del servicio público que hoy debe enfrentar la actual administración, “La ubicación de la planta de asfalto, no se realizó con los estudios correspondientes, ni siguiendo la normativa que establece para el tema de riesgos; en sí, el predio se encuentra en una zona de alto riesgo por el tema de anegamientos por lluvias. Todo esto ha venido afectando con el tiempo; también con la desaparición de la cascada San Rafael, ha provocado que todos los sedimentos que se están acumulando en el río Coca, provoquen el tema de inundaciones” Susana Rivera, directora de riesgos del GADMFO.\nFrente a esta realidad, la alcaldesa Shirma Cortés Sanmiguel impulsa una gestión planificada y técnica, orientada a corregir deficiencias estructurales mediante los estudios de factibilidad y el diseño definitivo de un nuevo complejo operativo municipal en la parroquia Nuevo Paraíso, que integrará el equipo caminero, talleres mecánicos, parqueadero, área administrativa, estación de despacho de combustible y la adecuada reubicación de la planta de asfalto, en un terreno de ocho hectáreas, con una inversión de USD 75.881,59, “Esta es una inversión responsable por parte de nuestra alcaldesa Shirma Cortés Sanmiguel, permitirá tener una mejor infraestructura y ordenado, donde van a estar todas las máquinas de los talleres, planta de asfalto y equipo caminero.” Jonathan Franco, técnico del GADMFO. \nCon decisiones técnicas, inversión responsable y planificación estratégica, la Alcaldía de Francisco de Orellana reafirma su compromiso de fortalecer la capacidad operativa municipal, transformar las debilidades en oportunidades y sentar bases sólidas para el desarrollo sostenible del cantón. JG.",
+    "imagenes": [
+      {
+        "id": "c2b70bf99f3e501c",
+        "hash": "c2b70bf99f3e501c33108228c274d2fa7a61271ac497779f8a79fc350c829f9f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_WhatsApp_Image_2026-01-13_at_2.56.50_PM_5.jpeg",
+        "rutaOriginal": "/media/originales/c2b70bf99f3e501c.jpeg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c2b70bf99f3e501c-400.webp",
+          "800w": "/media/derivados/c2b70bf99f3e501c-800.webp",
+          "1600w": "/media/derivados/c2b70bf99f3e501c-1600.webp"
+        },
+        "ancho": 1600,
+        "alto": 900,
+        "bytes": 453465,
+        "alt": "Alcaldía planifica nueva ubicación de la planta de asfalto, equipo caminero, talleres mecánicos y de combustibles",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

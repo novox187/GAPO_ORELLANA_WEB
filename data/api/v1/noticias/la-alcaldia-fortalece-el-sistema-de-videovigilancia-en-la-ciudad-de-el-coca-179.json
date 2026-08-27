@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 179,
+    "slug": "la-alcaldia-fortalece-el-sistema-de-videovigilancia-en-la-ciudad-de-el-coca-179",
+    "titulo": "La Alcaldía fortalece el sistema de videovigilancia en la ciudad de El Coca",
+    "resumen": "La Alcaldía de Francisco de Orellana, liderada por Shirma Cortés Sanmiguel, continúa fortaleciendo el sistema de videovigilancia en la ciudad de El Coca, con el propósito de brindar mayor seguridad, confianza y bienestar a sus habitantes, “Estamos co",
+    "fecha": "2025-10-16",
+    "imagen": {
+      "id": "42b25dd0f4ed6b32",
+      "hash": "42b25dd0f4ed6b3250413584fc1e0721619e28c9b064f3fc65c5283e4e6d1bf6",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16.JPG",
+      "rutaOriginal": "/media/originales/42b25dd0f4ed6b32.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/42b25dd0f4ed6b32-400.webp",
+        "800w": "/media/derivados/42b25dd0f4ed6b32-800.webp",
+        "1600w": "/media/derivados/42b25dd0f4ed6b32-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7012090,
+      "alt": "La Alcaldía fortalece el sistema de videovigilancia en la ciudad de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+    },
+    "url": "/noticia/179/",
+    "fuente_url": "https://orellana.gob.ec/noticia/179/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, liderada por Shirma Cortés Sanmiguel, continúa fortaleciendo el sistema de videovigilancia en la ciudad de El Coca, con el propósito de brindar mayor seguridad, confianza y bienestar a sus habitantes, “Estamos contentos, porque al final logramos y queríamos que las cámaras estuvieran en nuestro barrio para que sean vigiladas por el sistema del ECU-911 y gracias a la señora alcaldesa por este apoyo que nos brinda a cada sector, a cada barrio.” Halsey Gavilánez, opinión ciudadana. \nEn esta nueva etapa, los trabajos se han desarrollado en diferentes sectores de la ciudad. En algunos puntos se instaló fibra óptica para optimizar la conectividad; en otros se realizaron labores de mantenimiento de cámaras existentes, y en varias zonas estratégicas se colocaron nuevas cámaras de videovigilancia que se integran al sistema del ECU-911, “Gracias por el compromiso de la señora alcaldesa que está comprometida a trabajar con la seguridad de la ciudadanía, adquiriendo cámaras de mejor tecnología para la seguridad del cantón Francisco de Orellana.” Sixto Díaz, técnico del GADMFO. \nEstas acciones forman parte del plan de modernización tecnológica impulsado por la actual administración, que contempla la instalación de alrededor de 200 cámaras en todo el cantón, así como la implementación de alarmas comunitarias para fortalecer la seguridad y la capacidad de respuesta ante emergencias. DV.",
+    "imagenes": [
+      {
+        "id": "42b25dd0f4ed6b32",
+        "hash": "42b25dd0f4ed6b3250413584fc1e0721619e28c9b064f3fc65c5283e4e6d1bf6",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16.JPG",
+        "rutaOriginal": "/media/originales/42b25dd0f4ed6b32.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/42b25dd0f4ed6b32-400.webp",
+          "800w": "/media/derivados/42b25dd0f4ed6b32-800.webp",
+          "1600w": "/media/derivados/42b25dd0f4ed6b32-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7012090,
+        "alt": "La Alcaldía fortalece el sistema de videovigilancia en la ciudad de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      }
+    ]
+  }
+}

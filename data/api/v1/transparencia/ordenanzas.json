@@ -1,0 +1,161 @@
+{
+  "data": {
+    "slug": "ordenanzas",
+    "seccion": "transparencia",
+    "titulo": "Ordenanzas y Resoluciones",
+    "bloques": [
+      {
+        "tipo": "titulo",
+        "nivel": 1,
+        "texto": "Ordenanzas"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 1,
+        "texto": "Resoluciones de Concejo"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 1,
+        "texto": "Resoluciones Administrativas"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Reglamento Interno de Trabajo GADMFO"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "REGLAMENTO INTERNO DE TRABAJO GADMFO"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Reglamento interno de trabajo.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Otros Documentos"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Gestion 2023"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "RESOLUCIÓN\n REFORMA PRESUPUESTARIA Nro. GADMFO-2023-014.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "COE Cantonal"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "COE CANTONAL"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Oficio 231.pdf",
+            "url": null
+          },
+          {
+            "texto": "PLAN DE\n EMERGENCIA COVID 19 FRANCISCO DE ORELLANA.pdf",
+            "url": null
+          },
+          {
+            "texto": "PRESUPUESTO PARA\n CTA 13.04.2020 EMERGENCIA COVID19.pdf",
+            "url": null
+          },
+          {
+            "texto": "Oficio 0207 A-GADMFO.RR.pdf",
+            "url": null
+          },
+          {
+            "texto": "ORDENANZA MASCARILLAS.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Consejo de Seguridad Ciudadana Municipal"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "2024"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "RESOLUCIÓN 001-CSCMFO-2024",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "texto": "Ordenanzas\n\nResoluciones de Concejo\n\nResoluciones Administrativas\n\nReglamento Interno de Trabajo GADMFO\n\nREGLAMENTO INTERNO DE TRABAJO GADMFO\n\nReglamento interno de trabajo.pdf\n\nOtros Documentos\n\nGestion 2023\n\nRESOLUCIÓN\n REFORMA PRESUPUESTARIA Nro. GADMFO-2023-014.pdf\n\nCOE Cantonal\n\nCOE CANTONAL\n\nOficio 231.pdf. PLAN DE\n EMERGENCIA COVID 19 FRANCISCO DE ORELLANA.pdf. PRESUPUESTO PARA\n CTA 13.04.2020 EMERGENCIA COVID19.pdf. Oficio 0207 A-GADMFO.RR.pdf. ORDENANZA MASCARILLAS.pdf\n\nConsejo de Seguridad Ciudadana Municipal\n\n2024\n\nRESOLUCIÓN 001-CSCMFO-2024",
+    "imagenes": [],
+    "documentos": [
+      {
+        "nombre": "Reglamento interno de trabajo.pdf",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/Reglamento-interno-GADMFO/reglamento%20interno%20de%20trabajo.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "RESOLUCIÓN\n REFORMA PRESUPUESTARIA Nro. GADMFO-2023-014.pdf",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/Otros-documentos/2023/RESOLUCI%C3%93N%20REFORMA%20PRESUPUESTARIA%20Nro.%20GADMFO-2023-014.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "Oficio 231.pdf",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/COE-cantonal/oficio%20231.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "PLAN DE\n EMERGENCIA COVID 19 FRANCISCO DE ORELLANA.pdf",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/COE-cantonal/PLAN%20DE%20EMERGENCIA%20COVID%2019%20FRANCISCO%20DE%20ORELLANA.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "PRESUPUESTO PARA\n CTA 13.04.2020 EMERGENCIA COVID19.pdf",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/COE-cantonal/PRESUPUESTO%20PARA%20CTA%2013.04.2020%20EMERGENCIA%20COVID19.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "Oficio 0207 A-GADMFO.RR.pdf",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/COE-cantonal/Oficio%200207%20A-GADMFO.RR.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "ORDENANZA MASCARILLAS.pdf",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/COE-cantonal/ORDENANZA%20MASCARILLAS.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "RESOLUCIÓN 001-CSCMFO-2024",
+        "url": "https://orellana.gob.ec/archivos/Resoluciones-ordenanzas/Consejo-seguridad/RESOLUCI%C3%93N%20001-CSCMFO-2024.pdf",
+        "tipo": "pdf"
+      }
+    ],
+    "fuente_url": "https://orellana.gob.ec/ordenanzas_resoluciones/"
+  }
+}

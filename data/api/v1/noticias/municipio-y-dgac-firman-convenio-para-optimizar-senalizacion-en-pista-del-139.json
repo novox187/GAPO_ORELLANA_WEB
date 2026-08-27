@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 139,
+    "slug": "municipio-y-dgac-firman-convenio-para-optimizar-senalizacion-en-pista-del-139",
+    "titulo": "Municipio y DGAC firman convenio para optimizar señalización en pista del Aeropuerto de El Coca",
+    "resumen": "En el marco de un trabajo articulado para fortalecer la infraestructura aeroportuaria de El Coca, la Municipalidad de Francisco de Orellana y la Dirección General de Aviación",
+    "fecha": "2025-08-06",
+    "imagen": {
+      "id": "4ca8773aec62cbdf",
+      "hash": "4ca8773aec62cbdfb7021b929d33e17eaa5984a53dfb478a1be793f1767ef633",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9334.JPG",
+      "rutaOriginal": "/media/originales/4ca8773aec62cbdf.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4ca8773aec62cbdf-400.webp",
+        "800w": "/media/derivados/4ca8773aec62cbdf-800.webp",
+        "1600w": "/media/derivados/4ca8773aec62cbdf-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9432351,
+      "alt": "Municipio y DGAC firman convenio para optimizar señalización en pista del Aeropuerto de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/139/",
+    "fuente_url": "https://orellana.gob.ec/noticia/139/",
+    "cuerpo": "En el marco de un trabajo articulado para fortalecer la infraestructura aeroportuaria de El Coca, la Municipalidad de Francisco de Orellana y la Dirección General de Aviación Civil (DGAC) suscribieron un convenio de cooperación interinstitucional orientado al mejoramiento de la señalización horizontal de la pista del Aeropuerto.\nGracias a este acuerdo, la municipalidad facilitó maquinaria y personal técnico operativo para ejecutar labores de mantenimiento especializado en la pista de aterrizaje, “Con la colaboración del GAD Municipal se puede solventar los trabajos de mejor manera, haciendo más eficiente las actividades que uno puede desarrollar acá, garantizando la llegada de más turistas que quieran interactuar acá en El Coca”. Nelson López, administrador aeroportuario de Francisco de Orellana.\nEste tipo de alianzas interinstitucionales permite avanzar en la mejora continua de la seguridad operacional, dinamizando además el desarrollo turístico y económico de la región amazónica. JG.",
+    "imagenes": [
+      {
+        "id": "4ca8773aec62cbdf",
+        "hash": "4ca8773aec62cbdfb7021b929d33e17eaa5984a53dfb478a1be793f1767ef633",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9334.JPG",
+        "rutaOriginal": "/media/originales/4ca8773aec62cbdf.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4ca8773aec62cbdf-400.webp",
+          "800w": "/media/derivados/4ca8773aec62cbdf-800.webp",
+          "1600w": "/media/derivados/4ca8773aec62cbdf-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9432351,
+        "alt": "Municipio y DGAC firman convenio para optimizar señalización en pista del Aeropuerto de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

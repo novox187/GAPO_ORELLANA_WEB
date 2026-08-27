@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "id": 144,
+      "slug": "con-talento-y-alegria-culminaron-los-cursos-vacacionales-jugando-aprendo-2025-144",
+      "titulo": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
+      "resumen": "Entre aplausos, risas y abrazos, niños, niñas y adolescentes despidieron una etapa que quedará guardada en su memoria: los cursos vacacionales gratuitos “Jugando Aprendo 2025”, organizados por la Municipalidad. Fueron semanas llenas de fútbol, gimnas",
+      "fecha": "2025-08-14",
+      "imagen": {
+        "id": "e261f0b9b5b87b33",
+        "hash": "e261f0b9b5b87b332b4edb9832459664a5533c846c614ac0ebbca935bd7cf6b9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG1155.JPG",
+        "rutaOriginal": "/media/originales/e261f0b9b5b87b33.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e261f0b9b5b87b33-400.webp",
+          "800w": "/media/derivados/e261f0b9b5b87b33-800.webp",
+          "1600w": "/media/derivados/e261f0b9b5b87b33-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 11201609,
+        "alt": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/144/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 143,
+      "slug": "80-ninos-y-ninas-disfrutaron-de-colonias-vacacionales-del-proyecto-eti-143",
+      "titulo": "80 niños y niñas disfrutaron de colonias vacacionales del proyecto ETI",
+      "resumen": "Con sonrisas, juegos y aprendizajes inolvidables, 80 niños y niñas participaron en las Colonias Vacacionales del proyecto ETI, impulsadas por la Alcaldía en convenio con el Ministerio de Inclusión Económica y Social (MIES).",
+      "fecha": "2025-08-13",
+      "imagen": {
+        "id": "e5caae6850bbaed6",
+        "hash": "e5caae6850bbaed612fd90bc52e7370ed1bb93125c8b5d592e64e996458b440c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_6364.JPG",
+        "rutaOriginal": "/media/originales/e5caae6850bbaed6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e5caae6850bbaed6-400.webp",
+          "800w": "/media/derivados/e5caae6850bbaed6-800.webp",
+          "1600w": "/media/derivados/e5caae6850bbaed6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 13044632,
+        "alt": "80 niños y niñas disfrutaron de colonias vacacionales del proyecto ETI",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/143/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 142,
+      "slug": "agentes-de-control-promueven-tenencia-responsable-de-mascotas-en-la-ciclovia-de-142",
+      "titulo": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
+      "resumen": "Con el objetivo de mantener la ciclovía en condiciones óptimas para el disfrute de todos, Agentes de Control Municipal emprendieron una campaña de socialización dirigida a los dueños de mascotas,",
+      "fecha": "2025-08-12",
+      "imagen": {
+        "id": "df4f41bfa7b51f7c",
+        "hash": "df4f41bfa7b51f7c0fa95216333711bc3078c345c61cda1fda34c40f70fc86e2",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG0151.JPG",
+        "rutaOriginal": "/media/originales/df4f41bfa7b51f7c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/df4f41bfa7b51f7c-400.webp",
+          "800w": "/media/derivados/df4f41bfa7b51f7c-800.webp",
+          "1600w": "/media/derivados/df4f41bfa7b51f7c-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11089336,
+        "alt": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/142/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 141,
+      "slug": "municipalidad-informa-recargo-del-10-en-el-impuesto-predial-a-partir-de-julio-141",
+      "titulo": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
+      "resumen": "La Municipalidad informa que, según lo dispuesto en el artículo 512 del COOTAD, desde el 1 de julio hasta el 31 de diciembre de 2025, los contribuyentes que no hayan pagado su impuesto predial",
+      "fecha": "2025-08-08",
+      "imagen": {
+        "id": "49c915f2e28f643d",
+        "hash": "49c915f2e28f643d0c923b390530dd5bd33a2d359f363fe6d2248ad92c432597",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_MVI_9631.jpg",
+        "rutaOriginal": "/media/originales/49c915f2e28f643d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/49c915f2e28f643d-400.webp",
+          "800w": "/media/derivados/49c915f2e28f643d-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 711,
+        "bytes": 190441,
+        "alt": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/141/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 140,
+      "slug": "construir-en-zonas-de-riesgo-una-amenaza-latente-en-francisco-de-orellana-140",
+      "titulo": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
+      "resumen": "El cantón Francisco de Orellana se enfrenta a un desafío silencioso pero persistente, la construcción de viviendas e infraestructuras en zonas catalogadas como de alto riesgo; aunque la expansión urbana responde muchas veces a necesidades sociales ur",
+      "fecha": "2025-08-07",
+      "imagen": {
+        "id": "cd9ca28f9287c25d",
+        "hash": "cd9ca28f9287c25df24debe347d2be66cacb7d47eefb2e2727a7226c51aed510",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_MVI_9368.jpg",
+        "rutaOriginal": "/media/originales/cd9ca28f9287c25d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/cd9ca28f9287c25d-400.webp",
+          "800w": "/media/derivados/cd9ca28f9287c25d-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 671,
+        "bytes": 239511,
+        "alt": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/140/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 139,
+      "slug": "municipio-y-dgac-firman-convenio-para-optimizar-senalizacion-en-pista-del-139",
+      "titulo": "Municipio y DGAC firman convenio para optimizar señalización en pista del Aeropuerto de El Coca",
+      "resumen": "En el marco de un trabajo articulado para fortalecer la infraestructura aeroportuaria de El Coca, la Municipalidad de Francisco de Orellana y la Dirección General de Aviación",
+      "fecha": "2025-08-06",
+      "imagen": {
+        "id": "4ca8773aec62cbdf",
+        "hash": "4ca8773aec62cbdfb7021b929d33e17eaa5984a53dfb478a1be793f1767ef633",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9334.JPG",
+        "rutaOriginal": "/media/originales/4ca8773aec62cbdf.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4ca8773aec62cbdf-400.webp",
+          "800w": "/media/derivados/4ca8773aec62cbdf-800.webp",
+          "1600w": "/media/derivados/4ca8773aec62cbdf-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9432351,
+        "alt": "Municipio y DGAC firman convenio para optimizar señalización en pista del Aeropuerto de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/139/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 138,
+      "slug": "alcaldia-inicia-importante-obra-deportiva-en-estrella-yacu-138",
+      "titulo": "Alcaldía inicia importante obra deportiva en Estrella Yacu",
+      "resumen": "Con el firme compromiso de fomentar espacios para el desarrollo deportivo, social y cultural, la alcaldesa Shirma Cortés Sanmiguel, acompañada de los concejales del cantón, presidió el lunes 28 de",
+      "fecha": "2025-08-05",
+      "imagen": {
+        "id": "4dbae7915a482af8",
+        "hash": "4dbae7915a482af82057e7445d4e780d6dfb2587fb59a277a4aa13337f5ac6bb",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_1_IMG_8706.JPG",
+        "rutaOriginal": "/media/originales/4dbae7915a482af8.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4dbae7915a482af8-400.webp",
+          "800w": "/media/derivados/4dbae7915a482af8-800.webp",
+          "1600w": "/media/derivados/4dbae7915a482af8-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 11173672,
+        "alt": "Alcaldía inicia importante obra deportiva en Estrella Yacu",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/138/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 137,
+      "slug": "alcaldesa-socializa-importante-obra-de-alcantarillados-con-moradores-del-barrio-137",
+      "titulo": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
+      "resumen": "Con el compromiso de seguir transformando la calidad de vida en Francisco de Orellana, la alcaldesa Shirma Cortés Sanmiguel, junto al vicealcalde y concejales se reunió con los moradores del barrio Perla",
+      "fecha": "2025-08-04",
+      "imagen": {
+        "id": "7fecebaba2fbc703",
+        "hash": "7fecebaba2fbc703bcb11e31094d1890bb42211825d5bb33a3eca1565f2405ac",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG0301.JPG",
+        "rutaOriginal": "/media/originales/7fecebaba2fbc703.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7fecebaba2fbc703-400.webp",
+          "800w": "/media/derivados/7fecebaba2fbc703-800.webp",
+          "1600w": "/media/derivados/7fecebaba2fbc703-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 9762389,
+        "alt": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/137/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    {
+      "id": 114,
+      "slug": "capacitacion-a-taxistas-de-el-coca-fortalece-el-transporte-seguro-y-eficiente-114",
+      "titulo": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
+      "resumen": "Con el objetivo de fortalecer la legalidad, el orden y la eficiencia del sistema de transporte en el cantón, cerca de 400 taxistas de la localidad participaron en jornadas de capacitaciones impartidas por personal técnico de la Dirección de Tránsito",
+      "fecha": "2025-07-31",
+      "imagen": {
+        "id": "6a8073d5628bd770",
+        "hash": "6a8073d5628bd77098e7b42a3a5d3d30cf451c8e21e4f19ad5d100654c3122f8",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG9045.JPG",
+        "rutaOriginal": "/media/originales/6a8073d5628bd770.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6a8073d5628bd770-400.webp",
+          "800w": "/media/derivados/6a8073d5628bd770-800.webp",
+          "1600w": "/media/derivados/6a8073d5628bd770-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7264103,
+        "alt": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      },
+      "url": "/noticia/114/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
+    }
+  ],
+  "meta": {
+    "current_page": 17,
+    "last_page": 32,
+    "per_page": 9
+  },
+  "links": {
+    "first": "/api/v1/noticias/page-1.json",
+    "last": "/api/v1/noticias/page-32.json",
+    "prev": "/api/v1/noticias/page-16.json",
+    "next": "/api/v1/noticias/page-18.json"
+  }
+}

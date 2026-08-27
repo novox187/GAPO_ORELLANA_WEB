@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 119,
+    "slug": "alcaldia-inaugura-mantenimiento-integral-de-la-cancha-cubierta-del-barrio-119",
+    "titulo": "Alcaldía inaugura mantenimiento integral de la cancha cubierta del barrio Conhogar",
+    "resumen": "En un ambiente cargado de cultura, unión vecinal y esperanza, se realizó la inauguración del mantenimiento integral de la cancha cubierta del barrio Conhogar, una obra ejecutada bajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel. Esta interven",
+    "fecha": "2025-07-07",
+    "imagen": {
+      "id": "da0c993a3eeb0596",
+      "hash": "da0c993a3eeb05961e0a95035981d248019d384fa371cac5744bacea9965c9f7",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG0645.JPG",
+      "rutaOriginal": "/media/originales/da0c993a3eeb0596.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/da0c993a3eeb0596-400.webp",
+        "800w": "/media/derivados/da0c993a3eeb0596-800.webp",
+        "1600w": "/media/derivados/da0c993a3eeb0596-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 8377374,
+      "alt": "Alcaldía inaugura mantenimiento integral de la cancha cubierta del barrio Conhogar",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+    },
+    "url": "/noticia/119/",
+    "fuente_url": "https://orellana.gob.ec/noticia/119/",
+    "cuerpo": "En un ambiente cargado de cultura, unión vecinal y esperanza, se realizó la inauguración del mantenimiento integral de la cancha cubierta del barrio Conhogar, una obra ejecutada bajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel. Esta intervención representa un importante avance en el fortalecimiento deportivo de la ciudad.\nEn su mensaje a la ciudadanía, la alcaldesa hizo un llamado a la corresponsabilidad de todos los vecinos, “a cada uno de nuestros moradores, a cada uno de nuestros coqueños, seamos parte del cuidado de la infraestructura pública, demostremos al turista o a quien nos visita, que nosotros sabemos reconocer y valorar de la inversión pública que se realiza en nuestro cantón”. \nDurante el evento, se llevó a cabo una jornada de atención ciudadana, donde la alcaldesa atendió personalmente las peticiones de los moradores, resolviendo varios requerimientos de manera inmediata, como es el caso del señor Alejandro Polanco, “Gracias alcaldesa Shirma Cortés por brindarnos estos espacios para poder realizar deporte y hacer actividades en nuestros barrios de El Coca”. \nAdemás, emprendedores del programa municipal “Aprende Emprendedor” participaron activamente, dinamizando la economía local y reafirmando la visión de una gestión que impulsa el desarrollo integral, “Muchas gracias alcaldesa porque no es solo el primer coliseo que se arregla ya son varios aquí en la ciudad de El Coca y que siga así, que no deje de darles mantenimiento a las cosas buenas y muchas gracias”. Paola Cortés, emprendedora. \nCon esta intervención, el barrio Conhogar no solo gana una infraestructura renovada, sino también un espacio para la integración, el bienestar y el fortalecimiento de la identidad barrial. DV.",
+    "imagenes": [
+      {
+        "id": "da0c993a3eeb0596",
+        "hash": "da0c993a3eeb05961e0a95035981d248019d384fa371cac5744bacea9965c9f7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG0645.JPG",
+        "rutaOriginal": "/media/originales/da0c993a3eeb0596.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/da0c993a3eeb0596-400.webp",
+          "800w": "/media/derivados/da0c993a3eeb0596-800.webp",
+          "1600w": "/media/derivados/da0c993a3eeb0596-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 8377374,
+        "alt": "Alcaldía inaugura mantenimiento integral de la cancha cubierta del barrio Conhogar",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      }
+    ]
+  }
+}

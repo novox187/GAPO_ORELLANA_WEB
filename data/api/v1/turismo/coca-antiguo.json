@@ -1,0 +1,171 @@
+{
+  "data": {
+    "slug": "coca-antiguo",
+    "seccion": "turismo",
+    "titulo": "El Coca antiguo",
+    "bloques": [
+      {
+        "tipo": "parrafo",
+        "texto": "El Municipio de Francisco de Orellana ha recuperado varias imágenes de los inicios del Coca, una colección de fotografías que permite descubrir cómo a través del tiempo se desarrolló este rincón amazónico. \nLas calles del Coca, han evolucionado notablemente en estos últimos sesenta años de los que existe constancia fotográfica. Es posible evidenciar sectores populares que hoy es el centro de negocios de la ciudad, lugares selváticos que en la actualidad nos brindan un lugar de diversión y entretenimiento. El Coca antiguo tiene para mostrar la historia de construcciones como: edificios, casas, monumentos, calles, puentes, iglesias, colegios, tiendas y hoteles que esconden más de una historia para contar. \nAl Coca también lo hace su gente, en las fotografías que aquí se recogen es posible conocer a los pioneros de este sector, quienes trabajaron por el desarrollo de sus familias y de la ciudad. Además, se inmortalizan lugares en el que se dieron todo tipo de circunstancias, donde se crearon proyectos, se compartieron charlas y se dio luz a nuevas ideas. \nToda la historia guardada en esta muestra fotográfica ha permitido la evolución del Coca y que hoy sea un punto clave en la economía del Ecuador y un referente turístico con su acreditación Destino de Vida. El cantón Francisco de Orellana tiene que ser conocido por lo que fue, es y será; el Coca hay que vivirlo."
+      }
+    ],
+    "texto": "El Municipio de Francisco de Orellana ha recuperado varias imágenes de los inicios del Coca, una colección de fotografías que permite descubrir cómo a través del tiempo se desarrolló este rincón amazónico. \nLas calles del Coca, han evolucionado notablemente en estos últimos sesenta años de los que existe constancia fotográfica. Es posible evidenciar sectores populares que hoy es el centro de negocios de la ciudad, lugares selváticos que en la actualidad nos brindan un lugar de diversión y entretenimiento. El Coca antiguo tiene para mostrar la historia de construcciones como: edificios, casas, monumentos, calles, puentes, iglesias, colegios, tiendas y hoteles que esconden más de una historia para contar. \nAl Coca también lo hace su gente, en las fotografías que aquí se recogen es posible conocer a los pioneros de este sector, quienes trabajaron por el desarrollo de sus familias y de la ciudad. Además, se inmortalizan lugares en el que se dieron todo tipo de circunstancias, donde se crearon proyectos, se compartieron charlas y se dio luz a nuevas ideas. \nToda la historia guardada en esta muestra fotográfica ha permitido la evolución del Coca y que hoy sea un punto clave en la economía del Ecuador y un referente turístico con su acreditación Destino de Vida. El cantón Francisco de Orellana tiene que ser conocido por lo que fue, es y será; el Coca hay que vivirlo.",
+    "imagenes": [
+      {
+        "id": "fcd766e94b2e88e9",
+        "hash": "fcd766e94b2e88e9c49fbd3783cc6fbc6af4e4c28f8bce94c253ec70d6289e90",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo.png",
+        "rutaOriginal": "/media/originales/fcd766e94b2e88e9.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/fcd766e94b2e88e9-400.webp",
+          "800w": "/media/derivados/fcd766e94b2e88e9-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 627504,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "7a285bf546893907",
+        "hash": "7a285bf54689390749306d812dddaba953d9b08d34966199f02656f7e074baa2",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo2.png",
+        "rutaOriginal": "/media/originales/7a285bf546893907.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7a285bf546893907-400.webp",
+          "800w": "/media/derivados/7a285bf546893907-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 560761,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "6a35d2d9899962d3",
+        "hash": "6a35d2d9899962d36b172a59935ffb3a710e8e524453364be73c7774d9a4f5ae",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo4.png",
+        "rutaOriginal": "/media/originales/6a35d2d9899962d3.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6a35d2d9899962d3-400.webp",
+          "800w": "/media/derivados/6a35d2d9899962d3-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 623802,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "f935c206b86ad704",
+        "hash": "f935c206b86ad70489b5186b2e9cbd2ee519005ca95e5d6f032c68951a97d13f",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo6.png",
+        "rutaOriginal": "/media/originales/f935c206b86ad704.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f935c206b86ad704-400.webp",
+          "800w": "/media/derivados/f935c206b86ad704-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 540390,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "ab546b678cda071b",
+        "hash": "ab546b678cda071bb8be7891e14a8c6f7d0384a81ae5d8a3b5a5b38c20a1ab85",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo8.png",
+        "rutaOriginal": "/media/originales/ab546b678cda071b.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ab546b678cda071b-400.webp",
+          "800w": "/media/derivados/ab546b678cda071b-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 573631,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "5e9e3a16ad341ce1",
+        "hash": "5e9e3a16ad341ce1312100cc4c24417eab05419617345e4f95362ddeb066dd45",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo10.png",
+        "rutaOriginal": "/media/originales/5e9e3a16ad341ce1.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5e9e3a16ad341ce1-400.webp",
+          "800w": "/media/derivados/5e9e3a16ad341ce1-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 463375,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "32eef95673c277d5",
+        "hash": "32eef95673c277d5c945b6ee8ba32431217b3b4f57b2bee9ff2bda1777979954",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo12.png",
+        "rutaOriginal": "/media/originales/32eef95673c277d5.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/32eef95673c277d5-400.webp",
+          "800w": "/media/derivados/32eef95673c277d5-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 594762,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "ffb46f862ee5c31a",
+        "hash": "ffb46f862ee5c31a80836f2b19f78ea82c3afa0f114ebcd31c805a758aba4feb",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo14.png",
+        "rutaOriginal": "/media/originales/ffb46f862ee5c31a.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ffb46f862ee5c31a-400.webp",
+          "800w": "/media/derivados/ffb46f862ee5c31a-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 482188,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      },
+      {
+        "id": "fe874ad736b81646",
+        "hash": "fe874ad736b81646cb12b4bde23bee4bddf8e836be1f4263c7f28faeeab73f0f",
+        "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo18.png",
+        "rutaOriginal": "/media/originales/fe874ad736b81646.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/fe874ad736b81646-400.webp",
+          "800w": "/media/derivados/fe874ad736b81646-800.webp"
+        },
+        "ancho": 1140,
+        "alto": 642,
+        "bytes": 582150,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+      }
+    ],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/coca_antiguo/"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "data": {
+    "id": 30,
+    "slug": "requisitos-para-permiso-de-varios-trabajos-30",
+    "nombre": "Requisitos para permiso de varios trabajos",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "El permiso de varios trabajos se entrega únicamente cuando las construcciones no superan los 36 metros cuadrados de construcción.",
+    "que_es": "El permiso de varios trabajos se entrega únicamente cuando las construcciones no superan los 36 metros cuadrados de construcción.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Todos los servicios que presta la Dirección de Ordenamiento Territorial están en función al valor por metro cuadrado de la tenencia de la tierra y en el caso de construcciones están en función a los metros cuadrados de la construcción."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Oficio dirigido al Director Ordenamiento Territorial.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Formulario de línea de fábrica (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Formulario de permiso de varios trabajos (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "1 copia de escritura.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "2 copia de la cédula de ciudadanía y papeleta de votación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "2 copias del pago de impuesto predial.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Original y copia del Certificado de gravámenes actualizado (Registro de la Propiedad).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "Tener limpio el solar.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

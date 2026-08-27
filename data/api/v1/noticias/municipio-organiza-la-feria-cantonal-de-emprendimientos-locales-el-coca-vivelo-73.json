@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 73,
+    "slug": "municipio-organiza-la-feria-cantonal-de-emprendimientos-locales-el-coca-vivelo-73",
+    "titulo": "Municipio organiza la feria cantonal de emprendimientos locales: El Coca Vívelo 2025",
+    "resumen": "En el marco de los 56 años de cantonización de Francisco de Orellana,",
+    "fecha": "2025-04-28",
+    "imagen": {
+      "id": "9dabd1b2707f8e4b",
+      "hash": "9dabd1b2707f8e4bb5850494199d713ab3281c6181bf10c8d9f48f1abe7307e6",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_8661.JPG",
+      "rutaOriginal": "/media/originales/9dabd1b2707f8e4b.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9dabd1b2707f8e4b-400.webp",
+        "800w": "/media/derivados/9dabd1b2707f8e4b-800.webp",
+        "1600w": "/media/derivados/9dabd1b2707f8e4b-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6372805,
+      "alt": "Municipio organiza la feria cantonal de emprendimientos locales: El Coca Vívelo 2025",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/73/",
+    "fuente_url": "https://orellana.gob.ec/noticia/73/",
+    "cuerpo": "En el marco de los 56 años de cantonización de Francisco de Orellana, la Alcaldía organizó la feria cantonal de emprendimientos locales “El Coca Vívelo 2025”, un espacio lleno de color, sabor y talento, pensado para impulsar la economía de nuestras familias y dar a conocer el trabajo de nuestros emprendedores, “Una de las funciones de la municipalidad es apoyar a nuestros artesanos de nuestra localidad; en este caso, y como se darán cuenta estamos probando un delicioso yogurt elaborado por manos netamente coqueñas, aquí en el cantón Francisco de Orellana, vengan, valoremos y consumamos lo nuestro”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nDurante dos días, el Recinto Ferial se convirtió en un verdadero punto de encuentro para la comunidad. Familias enteras llegaron para disfrutar de música, danza, gastronomía y, sobre todo, para apoyar a quienes con esfuerzo y creatividad sacan adelante sus negocios, “Gracias al municipio de Francisco de Orellana, en especial a la alcaldesa Shirma Cortés que apoya a la campaña: “CIEN POR 100% HECHO EN EL COCA”. Mónica Suárez, emprendedora.\n“Es una buena oportunidad estas ferias, porque como emprendedores podemos exhibir nuestros productos”. Carmen Pozo, emprendedora.\nLa exposición, forma parte de una estrategia integral de la municipalidad para fomentar el desarrollo sostenible, el turismo y el consumo responsable de productos cien por 100% hechos en El Coca. JG.",
+    "imagenes": [
+      {
+        "id": "9dabd1b2707f8e4b",
+        "hash": "9dabd1b2707f8e4bb5850494199d713ab3281c6181bf10c8d9f48f1abe7307e6",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_8661.JPG",
+        "rutaOriginal": "/media/originales/9dabd1b2707f8e4b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9dabd1b2707f8e4b-400.webp",
+          "800w": "/media/derivados/9dabd1b2707f8e4b-800.webp",
+          "1600w": "/media/derivados/9dabd1b2707f8e4b-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6372805,
+        "alt": "Municipio organiza la feria cantonal de emprendimientos locales: El Coca Vívelo 2025",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

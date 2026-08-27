@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 59,
+    "slug": "mantenimiento-y-limpieza-a-sistema-de-alcantarillado-sanitario-59",
+    "titulo": "Mantenimiento y limpieza a sistema de alcantarillado sanitario",
+    "resumen": "Personal de la Dirección de Agua Potable y Alcantarillado Sanitario, realizó un recorrido en el barrio Flor de Pantano",
+    "fecha": "2025-04-03",
+    "imagen": {
+      "id": "82a3790081532c35",
+      "hash": "82a3790081532c3548e7987328298bcde5213f28076378160035360a68b2a2ca",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_IMG_5451_xtkm7ED.JPG",
+      "rutaOriginal": "/media/originales/82a3790081532c35.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/82a3790081532c35-400.webp",
+        "800w": "/media/derivados/82a3790081532c35-800.webp",
+        "1600w": "/media/derivados/82a3790081532c35-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10213211,
+      "alt": "Mantenimiento y limpieza a sistema de alcantarillado sanitario",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/59/",
+    "fuente_url": "https://orellana.gob.ec/noticia/59/",
+    "cuerpo": "Personal de la Dirección de Agua Potable y Alcantarillado Sanitario, realizó un recorrido en el barrio Flor de Pantano con el objetivo de inspeccionar el desbordamiento natural del estero Añango, provocado por la temporada invernal, manifiesta Omar Proaño, director de agua potable del GADMFO, “Estamos trabajando arduamente esta administración que quiere hacer lo mejor posible por la salir de la emergencia, hoy estamos dando un paso adelante con el rumbo que es rehabilitar el sistema de alcantarillado”. \nCabe destacar que la alcaldía continúa trabajando en la limpieza y mantenimiento de las estaciones de bombeo, con el fin de garantizar un mejor servicio a toda la colectividad, “Así se debería trabajar adecuadamente, de lo contrario sí causa problemas de verdad”. \nSe recuerda a la ciudadanía no arrojar basura en las alcantarillas ni realizar conexiones clandestinas, ya que estas acciones afectan gravemente el funcionamiento del sistema de alcantarillado de la ciudad de El Coca. DV.",
+    "imagenes": [
+      {
+        "id": "82a3790081532c35",
+        "hash": "82a3790081532c3548e7987328298bcde5213f28076378160035360a68b2a2ca",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_IMG_5451_xtkm7ED.JPG",
+        "rutaOriginal": "/media/originales/82a3790081532c35.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/82a3790081532c35-400.webp",
+          "800w": "/media/derivados/82a3790081532c35-800.webp",
+          "1600w": "/media/derivados/82a3790081532c35-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10213211,
+        "alt": "Mantenimiento y limpieza a sistema de alcantarillado sanitario",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

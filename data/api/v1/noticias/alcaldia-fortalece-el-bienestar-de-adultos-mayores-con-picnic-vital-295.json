@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 295,
+    "slug": "alcaldia-fortalece-el-bienestar-de-adultos-mayores-con-picnic-vital-295",
+    "titulo": "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”",
+    "resumen": "Con alegría y respeto, la Alcaldía desarrolló el “Picnic Vital: Encuentro Saludable”, un espacio para promover el envejecimiento activo y compartir momentos de bienestar con 70 adultos mayores del Centro Gerontológico Hermana Gabriela Zapata.",
+    "fecha": "2026-04-20",
+    "imagen": {
+      "id": "9010029ac29451ca",
+      "hash": "9010029ac29451ca18152092cc363fec00dadcc98019ee3a74c2e1f923d63152",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_5706.JPG",
+      "rutaOriginal": "/media/originales/9010029ac29451ca.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9010029ac29451ca-400.webp",
+        "800w": "/media/derivados/9010029ac29451ca-800.webp",
+        "1600w": "/media/derivados/9010029ac29451ca-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 7586891,
+      "alt": "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/295/",
+    "fuente_url": "https://orellana.gob.ec/noticia/295/",
+    "cuerpo": "Con alegría y respeto, la Alcaldía desarrolló el “Picnic Vital: Encuentro Saludable”, un espacio para promover el envejecimiento activo y compartir momentos de bienestar con 70 adultos mayores del Centro Gerontológico Hermana Gabriela Zapata.\nEn representación de la alcaldesa Shirma Cortés Sanmiguel, el vicealcalde Víctor Ruiz destacó el trabajo conjunto con el Ministerio de Desarrollo Humano para fortalecer una atención digna y cercana a nuestros adultos mayores, “Agradecerle a la señora alcaldesa por el gesto que hace en beneficio de todos los adultos mayores de nuestra ciudad, muchas gracias”. Graciela Riofrio, adulto mayor. \nDurante la jornada, no faltaron las sonrisas, la música, el baile y las actividades recreativas. Cada momento fue una oportunidad para compartir, integrarse y reafirmar que nuestros adultos mayores no están solos, que son parte fundamental de esta administración y del corazón de Orellana. El encuentro cerró con un almuerzo compartido en un ambiente de respeto, calidez y compañerismo, “Siempre es importante este programa para nosotros, porque nuestra alcaldesa está al frente de nosotros los abuelitos y es digno de felicitarla por no dejarnos a un lado”. Noberto Hidalgo, adulto mayor. \nLa administración municipal continúa impulsando acciones firmes que garantizan atención, respeto y bienestar para quienes son parte fundamental de nuestra historia. DV.",
+    "imagenes": [
+      {
+        "id": "9010029ac29451ca",
+        "hash": "9010029ac29451ca18152092cc363fec00dadcc98019ee3a74c2e1f923d63152",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_5706.JPG",
+        "rutaOriginal": "/media/originales/9010029ac29451ca.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9010029ac29451ca-400.webp",
+          "800w": "/media/derivados/9010029ac29451ca-800.webp",
+          "1600w": "/media/derivados/9010029ac29451ca-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 7586891,
+        "alt": "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

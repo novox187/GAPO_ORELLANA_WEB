@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 160,
+    "slug": "shirma-cortes-cumple-alcantarillado-pluvial-para-el-barrio-el-moretal-160",
+    "titulo": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
+    "resumen": "Durante años, las familias del barrio El Moretal viven cada invierno con temor. Una lluvia fuerte basta para que las calles se convirtieran en ríos, las alcantarillas colapsaran y los hogares se llenaran de malos olores y riesgos de enfermedades.",
+    "fecha": "2025-09-09",
+    "imagen": {
+      "id": "6b81efe48b36cb3b",
+      "hash": "6b81efe48b36cb3b7180f0bd77deffc71bc5c6db3f0cda49c182ea7d05b1cd57",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/9_IMG3096.JPG",
+      "rutaOriginal": "/media/originales/6b81efe48b36cb3b.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/6b81efe48b36cb3b-400.webp",
+        "800w": "/media/derivados/6b81efe48b36cb3b-800.webp",
+        "1600w": "/media/derivados/6b81efe48b36cb3b-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7578127,
+      "alt": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/160/",
+    "fuente_url": "https://orellana.gob.ec/noticia/160/",
+    "cuerpo": "Durante años, las familias del barrio El Moretal viven cada invierno con temor. Una lluvia fuerte basta para que las calles se convirtieran en ríos, las alcantarillas colapsaran y los hogares se llenaran de malos olores y riesgos de enfermedades.\nEse abandono quedó marcado durante administraciones anteriores, que no lograron dar respuesta a esta necesidad urgente. Pero esa historia empieza a cambiar. Gracias a la gestión de la alcaldesa Shirma Cortés Sanmiguel, se aprobó la construcción del alcantarillado pluvial del barrio El Moretal, una obra esperada por décadas que hoy, por fin, se convierte en esperanza.\nCon una inversión de más de 2,8 millones de dólares, financiados a través de la Secretaría Técnica de la Circunscripción Territorial Especial Amazónica (SCTEA), el proyecto cubrirá 76 hectáreas, beneficiará a 998 predios y más de 4.000 habitantes, garantizando salud, bienestar y calidad de vida, “Estamos muy agradecidos con la Señora alcaldesa Shirma Cortés, porque nos ha tomado en cuenta, nos ha buscado para trabajar conjuntamente. Estar aquí en la ciudad de El Puyo es muy distinto, escuchar que ya se va a hacer realidad el alcantarillado de nuestro barrio El Moretal es muy grato para nosotros en verdad. \nEn lo personal me siento muy orgullosa y feliz de este logro que ha hecho esta administración,” expresa emocionada la señora Lorena Chávez, moradora del barrio El Moretal.\nLa alcaldesa Shirma Cortés Sanmiguel, destacó que este proyecto no solo resuelve un problema histórico, sino que representa un paso firme hacia la dignidad y el desarrollo: “Hoy es un día de fiesta, porque cada recurso que se asigna en beneficio de las parroquias y cantones es una bendición para el desarrollo de nuestra Amazonía. Quedamos eternamente agradecidos. Nuestro cantón carece casi del 50% del alcantarillado; es importante seguir trabajando articuladamente y que se sigan considerando los demás proyectos que tenemos ingresados aquí en STCTEA, porque sin inversión, no hay desarrollo.”\nCon este proyecto, el barrio El Moretal dejará atrás las inundaciones y comenzará a escribir una nueva historia. Una historia donde la obra pública se traduce en salud, seguridad y oportunidades para todos. Y, sobre todo, la prueba de que donde antes hubo promesas incumplidas, hoy hay acciones concretas que cambian vidas. RH.",
+    "imagenes": [
+      {
+        "id": "6b81efe48b36cb3b",
+        "hash": "6b81efe48b36cb3b7180f0bd77deffc71bc5c6db3f0cda49c182ea7d05b1cd57",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/9_IMG3096.JPG",
+        "rutaOriginal": "/media/originales/6b81efe48b36cb3b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6b81efe48b36cb3b-400.webp",
+          "800w": "/media/derivados/6b81efe48b36cb3b-800.webp",
+          "1600w": "/media/derivados/6b81efe48b36cb3b-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7578127,
+        "alt": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

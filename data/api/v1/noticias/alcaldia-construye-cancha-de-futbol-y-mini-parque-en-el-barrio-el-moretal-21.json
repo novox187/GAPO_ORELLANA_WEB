@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 21,
+    "slug": "alcaldia-construye-cancha-de-futbol-y-mini-parque-en-el-barrio-el-moretal-21",
+    "titulo": "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal",
+    "resumen": "Es un proyecto fundamental, primero que beneficia a los moradores del sector",
+    "fecha": "2025-01-22",
+    "imagen": {
+      "id": "ca9c41274fc1c9d6",
+      "hash": "ca9c41274fc1c9d64d56fae8389a5213f1dc8f0a03f87b61cdcf7a17b35a1ebf",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_CANCHA_FUTBOL_MORETAL.png",
+      "rutaOriginal": "/media/originales/ca9c41274fc1c9d6.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ca9c41274fc1c9d6-400.webp",
+        "800w": "/media/derivados/ca9c41274fc1c9d6-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1314979,
+      "alt": "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/21/",
+    "fuente_url": "https://orellana.gob.ec/noticia/21/",
+    "cuerpo": "Hoy les traemos una noticia que llena de esperanza a los habitantes del barrio El Moretal en El Coca. El sector se prepara para recibir una importante obra que mejorará la infraestructura deportiva y recreativa, beneficiando a toda la comunidad.\nSe trata de la construcción de una cancha de fútbol con césped sintético que cumple con las normas establecidas para ser una cancha profesional, graderío, camerinos, mini parque con juegos infantiles, iluminación, instalación de hidrosanitarios y cerramiento perimetral, “Nosotros empezamos con lo que es el replanteo y nivelación del terreno, lo que estamos haciendo ahora es el relleno y nivel de mejoramiento para después colocar la base y sub base”. Jaime Silva, residente de obra.\n“Es un proyecto fundamental, primero que beneficia a los moradores del sector El Moretal y a todos los ciudadanos de Francisco de Orellana; y, no solo es una cancha, también se incluye un parque, que va a ser un lugar de concentración, un lugar donde las familias se van a reunir, que es lo importante de este proyecto”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa obra tiene una inversión de $588.198,79 y será ejecutada por la empresa Contrucciones y Servicios Servicaer LTDA. Con un plazo de 150 días. Esta obra también dará empleo a los habitantes del barrio, como lo establece la ley amazónica, garantizando que la mano de obra local sea parte activa del proyecto, “Quiero agradecerle a la alcaldesa por la visita que ha hecho a nuestro sector, que siga apoyando a la gente de acá, porque con este trabajo nos permite llevar el pan de cada día para nuestra familia”. Pablo Villegas, opinión ciudadana.\nCon este tipo de inversiones, la Alcaldía que dirige Shirma Cortés Sanmiguel demuestra su compromiso con el progreso y el bienestar de todos sus habitantes. Un proyecto que, sin duda, marcará un antes y un después en El Moretal. JG.",
+    "imagenes": [
+      {
+        "id": "ca9c41274fc1c9d6",
+        "hash": "ca9c41274fc1c9d64d56fae8389a5213f1dc8f0a03f87b61cdcf7a17b35a1ebf",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_CANCHA_FUTBOL_MORETAL.png",
+        "rutaOriginal": "/media/originales/ca9c41274fc1c9d6.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ca9c41274fc1c9d6-400.webp",
+          "800w": "/media/derivados/ca9c41274fc1c9d6-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1314979,
+        "alt": "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 53,
+    "slug": "autorizacion-para-tramites-de-revision-anual-y-renovacion-de-matricula-53",
+    "nombre": "Autorización para trámites de revisión anual y renovación de matricula",
+    "direccion": {
+      "id": 9,
+      "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+      "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+    },
+    "categorias": [
+      "vehiculos-y-transporte"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar Autorización para trámites de revisión anual y renovación de matrícula\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar Autorización para trámites de revisión anua",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [
+      {
+        "nombre": "Descargar Autorización para trámites de revisión anual y renovación de matrícula",
+        "url": "https://orellana.gob.ec/media/tramites_documentos/Autorizacion_para_tramites_de_revision_anual_y_renovacion_de_matricula.pdf",
+        "tipo": "pdf"
+      }
+    ],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "Información adicional",
+        "html": "<div class=\"mt-4\">\n                                                <p class=\"font-bold\">DOCUMENTOS DESCARGABLES:</p>\n                                                <ul class=\"list-unstyled\">\n                                                    \n                                                        <li>\n                                                            <a href=\"/media/tramites_documentos/Autorizacion_para_tramites_de_revision_anual_y_renovacion_de_matricula.pdf\" target=\"_blank\" class=\"btn-download-elegant\">\n                                                                <i class=\"fas fa-file-download\" style=\"margin-right: 8px;\"></i> Descargar Autorización para trámites de revisión anual y renovación de matrícula\n                                                            </a>\n                                                        </li>\n                                                    \n                                                </ul>\n                                            </div>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

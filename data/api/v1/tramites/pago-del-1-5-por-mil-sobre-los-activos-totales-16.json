@@ -1,0 +1,102 @@
+{
+  "data": {
+    "id": 16,
+    "slug": "pago-del-1-5-por-mil-sobre-los-activos-totales-16",
+    "nombre": "Pago del 1.5 por mil sobre los activos totales.",
+    "direccion": {
+      "id": 8,
+      "slug": "direccion-financiera",
+      "nombre": "DIRECCIÓN FINANCIERA"
+    },
+    "categorias": [
+      "otros-tramites"
+    ],
+    "perfiles": [
+      "ciudadano",
+      "empresa"
+    ],
+    "resumen": "Son todos los bienes declarados al SRI (SEVICIOS DE RENTAS INTERNAS), sean estas personas naturales obligadas a llevar contabilidad o personas jurídicas. Que estén domiciliados o con establecimientos en el Cantón El Coca",
+    "que_es": "Son todos los bienes declarados al SRI (SEVICIOS DE RENTAS INTERNAS), sean estas personas naturales obligadas a llevar contabilidad o personas jurídicas. Que estén domiciliados o con establecimientos en el Cantón El Coca.\n“TODA PERSONA QUE LLEVE CONTABILIDAD ESTARÁ OBLIGADA A PAGAR EL IMPUESTO 1.5 POR MIL DE LOS ACTIVOS TOTALES”.\nProceso.\nToda persona natural obligada a llevar contabilidad o persona jurídica debe acercarse a comprar el formulario a las ventanillas de recaudación por un valor de $ 0.50 (Cincuenta centavos), el mismo que debe ser llenado por el contador de cada contribuyente con letra clara y legible, más los requisitos adherentes se presentarán en el área de Rentas quienes realizarán la respectiva verificación del cálculo según sea esta por su distribución o declaración en cero. La comprobación de los resultados será ingresada en el sistema Cabildo más la Ley, Código, Ordenanza y Resoluciones correspondiente (beneficios y recargos).\nNOTA: Todos los pagos realizados en otros cantones tienen que ser realizados en el Municipio de Orellana hasta el 30 de mayo fecha máximo de pago, a partir del 31 de mayo corre el interés respectivo de acuerdo a la tabla de interés del Banco Central del Ecuador y los recargos correspondiente según Ordenanza Municipal\nCálculo del 1.5 por mil sobre los activos totales\nLa base imponible se calcula en función de los activos totales menos el pasivo corriente y contingente, a cuyo resultado se le multiplica por 1.5 por mil.\nEl plazo del pago del impuesto del 1.5 x mil a los activos totales.-\nEl impuesto del 1.5 por mil corresponderá al activo total del año calendario anterior y el período financiero correrá del 1 de enero al 31 de diciembre. Este impuesto se pagará hasta 30 días después de la fecha límite establecida para la declaración del impuesto a la renta.\nNOTA: Cualquier inquietud deberá acercarse a la Jefatura de Rentas del área Financiera.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "1. (1) copia de la declaración del Impuesto a la Renta del año 2025.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "2. (1) copia de la cédula y papeleta de votación del Representante Legal.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "3. (1) copia del RUC actualizado.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "4. (1) copia del nombramiento del Representante Legal.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "5. (1) copia de la cédula del contador.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "6. (1) copia del pago de la Patente Municipal del 2025.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "7. Formulario del 1.5 por mil, lleno y con letra legible y con firma de responsabilidad al momento de realizar el cálculo respectivo para la determinación del valor a pagar.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "En caso de haber realizado la declaración en otro cantón el sujeto pasivo deberá presentar lo siguiente:",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "1. (1) Copia certificadas en transferencia emitida por el GAD Municipal en el que realizó el pago del 1.5 por mil.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 10,
+        "texto": "2. (1) Copia distributivo del 1.5 por mil asignados para cada cantón.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 11,
+        "texto": "NOTA: todo pago realizado en otros cantones tienen que ser legalizados en el Municipio de Orellana (Tesorería), hasta el 30 de mayo fecha máxima de pago a partir del 31 de mayo, corre el interés respectivo de acuerdo a la tabla del Banco Central del Ecuador.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 93,
+    "slug": "con-gran-exito-se-celebro-el-mini-fest-2025-por-el-dia-del-nino-93",
+    "titulo": "Con gran éxito se celebró el “Mini Fest 2025” por el Día del Niño",
+    "resumen": "Risas, juegos y alegría se vivieron en el parque Central de la ciudad de El Coca durante el “Mini Fest 2025”, un colorido festival organizado por la alcaldesa",
+    "fecha": "2025-06-02",
+    "imagen": {
+      "id": "b360fe0b79ab7e55",
+      "hash": "b360fe0b79ab7e556f976afc32660cac3bf3dcc42f9dc28777fb0451b1e705c5",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_0576.JPG",
+      "rutaOriginal": "/media/originales/b360fe0b79ab7e55.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/b360fe0b79ab7e55-400.webp",
+        "800w": "/media/derivados/b360fe0b79ab7e55-800.webp",
+        "1600w": "/media/derivados/b360fe0b79ab7e55-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8277444,
+      "alt": "Con gran éxito se celebró el “Mini Fest 2025” por el Día del Niño",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+    },
+    "url": "/noticia/93/",
+    "fuente_url": "https://orellana.gob.ec/noticia/93/",
+    "cuerpo": "Risas, juegos y alegría se vivieron en el parque Central de la ciudad de El Coca durante el “Mini Fest 2025”, un colorido festival organizado por la alcaldesa Shirma Cortés Sanmiguel en homenaje al Día del Niño. Cientos de familias disfrutaron de una programación llena de entretenimiento, sorpresas y momentos inolvidables para los más pequeños, “Me siento muy feliz, porque he remarcado mi talento de cantar y me gustó todo, especialmente las palomitas de maíz”. Isaac Pilay, participante.\n“Estos eventos refuerzan la unión y los lazos familiares que poco a poco se han ido perdiendo en la sociedad y por eso muchas de las veces estamos como estamos; definitivamente, la alcaldesa lo que hizo fue excelente con este compartir familiar, con las actividades que cada niño debería realizar en casa y para que más niños vayan por el camino del bien y no se pierdan en el proceso”. Tatiana Paguay, opinión ciudadana.\nConcursos de canto, decoración de cupcakes, caritas pintadas y la entrega gratuita de canguil, raspados y algodón de azúcar formaron parte de las actividades que encendieron el entusiasmo de niños y niñas; creando una experiencia única donde la imaginación y la diversión fueron los verdaderos protagonistas, “El cantón Francisco de Orellana tiene talentos, tanto en el deporte, arte y cultura; y, el día de hoy hemos visto unas estrellas escondidas, nuestros niños. Estamos felices de haberlos visto participar y más adelante los seguiremos apoyando desde la municipalidad”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nEl “Mini Fest 2025” se consolidó, como un evento emblemático para las familias de El Coca, dejando un mensaje de amor, cuidado y esperanza para la infancia. JG.",
+    "imagenes": [
+      {
+        "id": "b360fe0b79ab7e55",
+        "hash": "b360fe0b79ab7e556f976afc32660cac3bf3dcc42f9dc28777fb0451b1e705c5",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_0576.JPG",
+        "rutaOriginal": "/media/originales/b360fe0b79ab7e55.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/b360fe0b79ab7e55-400.webp",
+          "800w": "/media/derivados/b360fe0b79ab7e55-800.webp",
+          "1600w": "/media/derivados/b360fe0b79ab7e55-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8277444,
+        "alt": "Con gran éxito se celebró el “Mini Fest 2025” por el Día del Niño",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      }
+    ]
+  }
+}

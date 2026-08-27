@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 106,
+    "slug": "con-juegos-tradicionales-y-baile-la-alcaldia-celebra-el-dia-del-nino-en-el-cdi-106",
+    "titulo": "Con juegos tradicionales y baile, la Alcaldía celebra el Día del Niño en el CDI El Edén en Guayusa",
+    "resumen": "En un ambiente lleno de alegría y colorido, la Alcaldía que preside Shirma Cortés Sanmiguel celebró el Día del Niño en el Centro de Desarrollo Infantil (CDI) El Edén, ubicado en la parroquia Guayusa. La jornada estuvo marcada por la participación act",
+    "fecha": "2025-06-18",
+    "imagen": {
+      "id": "3d2612a8fb5c5787",
+      "hash": "3d2612a8fb5c578776a086d5849dcf71314bf65c5f50967c30395545c497acb7",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_8764.JPG",
+      "rutaOriginal": "/media/originales/3d2612a8fb5c5787.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/3d2612a8fb5c5787-400.webp",
+        "800w": "/media/derivados/3d2612a8fb5c5787-800.webp",
+        "1600w": "/media/derivados/3d2612a8fb5c5787-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7215453,
+      "alt": "Con juegos tradicionales y baile, la Alcaldía celebra el Día del Niño en el CDI El Edén en Guayusa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/106/",
+    "fuente_url": "https://orellana.gob.ec/noticia/106/",
+    "cuerpo": "En un ambiente lleno de alegría y colorido, la Alcaldía que preside Shirma Cortés Sanmiguel celebró el Día del Niño en el Centro de Desarrollo Infantil (CDI) El Edén, ubicado en la parroquia Guayusa. La jornada estuvo marcada por la participación activa de niñas, niños, padres de familia, educadoras, técnicos municipales y del MIES quienes disfrutaron de juegos tradicionales y presentaciones de baile que fomentaron la integración y el sano esparcimiento, “Queremos dar las gracias a nuestra señora alcaldesa por el apoyo y compromiso al proyecto de desarrollo infantil, que con su visión y dedicación ha ido fortaleciendo este proyecto y gracias a su dedicación y visión ha sido fundamental para mejorar la calidad de vida de nuestros niños y niñas del cantón Francisco de Orellana”. Fanny Aguilar, técnica del GADMFO.\nComo parte de las actividades programadas, se llevó a cabo también una exposición creativa en la que los padres de familia presentaron peceras, cubos didácticos y libros sensoriales elaborados con material reciclable. Estas iniciativas no solo destacaron la creatividad y compromiso de las familias, sino que también promovieron el aprendizaje lúdico y la conciencia ambiental desde la primera infancia, “Las actividades del CDI me parece súper excelente, ya que le han enseñado a mi hijo lo que son manualidades y de todo esto mi hijo va aprendiendo, y el trato es súper bueno, gracias por apoyarnos”. Diana Avilés, madre de familia.\nLa alcaldía destaca la importancia de celebrar a la niñez con espacios que impulsen su desarrollo integral, a través de actividades que involucren a toda la comunidad. JG.",
+    "imagenes": [
+      {
+        "id": "3d2612a8fb5c5787",
+        "hash": "3d2612a8fb5c578776a086d5849dcf71314bf65c5f50967c30395545c497acb7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_8764.JPG",
+        "rutaOriginal": "/media/originales/3d2612a8fb5c5787.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/3d2612a8fb5c5787-400.webp",
+          "800w": "/media/derivados/3d2612a8fb5c5787-800.webp",
+          "1600w": "/media/derivados/3d2612a8fb5c5787-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7215453,
+        "alt": "Con juegos tradicionales y baile, la Alcaldía celebra el Día del Niño en el CDI El Edén en Guayusa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

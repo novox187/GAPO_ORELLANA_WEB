@@ -1,0 +1,107 @@
+{
+  "data": {
+    "id": 49,
+    "slug": "requisitos-de-traspaso-de-dominio-particulares-49",
+    "nombre": "Requisitos de Traspaso de dominio particulares",
+    "direccion": {
+      "id": 9,
+      "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+      "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+    },
+    "categorias": [
+      "vehiculos-y-transporte"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "A todos los trámites, oficios o solicitudes que ingresan a Secretaría General se debe adjuntar:",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Solicitud de trámite.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Original del contrato de compra venta (vigencia 30 días en caso de caducidad adjuntar citación de tránsito).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Pago del 1% del traspaso de dominio en cualquier institución bancaria.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Pago de la tasa anual en cualquier institución bancaria.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Copia de documentos personales.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Original revisión anterior.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Original y copia matrícula.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "En caso de empresas estatales y particulares Copia del RUC, Nombramiento, Cédula y papeleta de votación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 10,
+        "texto": "Pago de rodaje (municipio)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 11,
+        "texto": "Pago de la especie 23.00 y traspaso de dominio $7.00 en el municipio",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 12,
+        "texto": "Trámite personal en caso de terceras personas adjuntar poder especial elevado a escritura pública.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

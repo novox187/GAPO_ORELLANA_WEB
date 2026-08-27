@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 110,
+    "slug": "alcaldia-impulsa-talleres-de-proteccion-seguridad-y-politica-para-personas-con-110",
+    "titulo": "Alcaldía impulsa talleres de protección, seguridad y política para personas con discapacidad en Dayuma y Taracoa",
+    "resumen": "Con el firme compromiso de fortalecer los derechos y el bienestar de las personas con discapacidad, la Alcaldía en coordinación con la Policía Nacional desarrolló un taller de Protección Integral y Seguridad Social Intrafamiliar dirigido a los benefi",
+    "fecha": "2025-06-24",
+    "imagen": {
+      "id": "1cf42debcede1273",
+      "hash": "1cf42debcede12736c4e0a4d9469e924dbd830398851a25e4b02d764421db9c4",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_2404.JPG",
+      "rutaOriginal": "/media/originales/1cf42debcede1273.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1cf42debcede1273-400.webp",
+        "800w": "/media/derivados/1cf42debcede1273-800.webp",
+        "1600w": "/media/derivados/1cf42debcede1273-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6485950,
+      "alt": "Alcaldía impulsa talleres de protección, seguridad y política para personas con discapacidad en Dayuma y Taracoa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/110/",
+    "fuente_url": "https://orellana.gob.ec/noticia/110/",
+    "cuerpo": "Con el firme compromiso de fortalecer los derechos y el bienestar de las personas con discapacidad, la Alcaldía en coordinación con la Policía Nacional desarrolló un taller de Protección Integral y Seguridad Social Intrafamiliar dirigido a los beneficiarios del programa de atención en el hogar y la comunidad, de la parroquia Dayuma, “En este caso se habló de un aspecto muy importante que es la violencia intrafamiliar y el femicidio que es un problema social que lamentablemente en nuestra unidad es muy frecuente; entonces, es importante que la gente conozca y sepa dónde acudir, qué debe hacer y dónde denunciar este tipo de maltratos que existen en los hogares”, expresa el Policía Nacional, Mario Acosta.\nMientras que en la cabecera parroquial de Taracoa, personal del Consejo Nacional Electoral (CNE), llevó a cabo la capacitación de fomento de participación ciudadana y política con la finalidad de brindar herramientas y conocimientos que permitan a las personas con discapacidad ejercer plenamente sus derechos políticos, así lo manifiesta Irma Ortiz, coordinadora del proyecto de discapacidad municipal, “La alcaldesa Shirma Consuelo Cortés Sanmiguel está capacitando a 300 personas con discapacidad para brindarles herramientas necesarias para que ellos puedan mejorar su calidad de vida y puedan mejorar su autonomía, a través de la articulación de diferentes instituciones de nuestro cantón”.\nLa Alcaldía que dirige Shirma Cortés Sanmiguel continúa promoviendo espacios de formación y apoyo que garanticen el desarrollo pleno y la calidad de vida de todos los ciudadanos, sin exclusión. JG.",
+    "imagenes": [
+      {
+        "id": "1cf42debcede1273",
+        "hash": "1cf42debcede12736c4e0a4d9469e924dbd830398851a25e4b02d764421db9c4",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_2404.JPG",
+        "rutaOriginal": "/media/originales/1cf42debcede1273.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1cf42debcede1273-400.webp",
+          "800w": "/media/derivados/1cf42debcede1273-800.webp",
+          "1600w": "/media/derivados/1cf42debcede1273-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6485950,
+        "alt": "Alcaldía impulsa talleres de protección, seguridad y política para personas con discapacidad en Dayuma y Taracoa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

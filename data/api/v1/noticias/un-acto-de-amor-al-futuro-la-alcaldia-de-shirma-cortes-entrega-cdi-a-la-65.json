@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 65,
+    "slug": "un-acto-de-amor-al-futuro-la-alcaldia-de-shirma-cortes-entrega-cdi-a-la-65",
+    "titulo": "Un acto de amor al futuro: la Alcaldía de Shirma Cortés entrega CDI a la comunidad Palma Roja",
+    "resumen": "Entre abrazos, risas y mucha emoción, la comunidad de Palma Roja vivió un momento inolvidable con la inauguración del renovado Centro de Desarrollo Infantil",
+    "fecha": "2025-04-14",
+    "imagen": {
+      "id": "c7c9dd0edaf4681c",
+      "hash": "c7c9dd0edaf4681c35e9c6bd5798f06e887c1349a4cfe1b6df1d394196c2cf2d",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_DJI_0021.JPG",
+      "rutaOriginal": "/media/originales/c7c9dd0edaf4681c.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c7c9dd0edaf4681c-400.webp",
+        "800w": "/media/derivados/c7c9dd0edaf4681c-800.webp",
+        "1600w": "/media/derivados/c7c9dd0edaf4681c-1600.webp"
+      },
+      "ancho": 5472,
+      "alto": 3648,
+      "bytes": 11537296,
+      "alt": "Un acto de amor al futuro: la Alcaldía de Shirma Cortés entrega CDI a la comunidad Palma Roja",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/65/",
+    "fuente_url": "https://orellana.gob.ec/noticia/65/",
+    "cuerpo": "Entre abrazos, risas y mucha emoción, la comunidad de Palma Roja vivió un momento inolvidable con la inauguración del renovado Centro de Desarrollo Infantil (CDI) Cuyrana Wasi, un espacio que desde hoy se convierte en el segundo hogar para los más pequeños de la comunidad.\nLa Alcaldía invirtió USD 83.966,01 en esta obra que acoge a niños y niñas de 1 a 3 años que forman parte del convenio con el MIES, “Hoy es un día de celebración para nuestra querida comunidad Palma Roja que pertenece a la parroquia La Belleza, con mucha alegría y mucho compromiso inauguramos oficialmente el Centro de Desarrollo Infantil Cuyrana Wasi”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa inauguración fue una verdadera fiesta comunitaria: los niños y sus cuidadoras bailaron con entusiasmo, mientras los vecinos compartían danzas y música autóctona, celebrando no solo una obra física, sino una inversión en la vida y la esperanza, manifiestan con entusiasmo Jazmín Alvarado, moradora y Domingo Grefa, presidente de la comuna Palma Roja, “Este espacio sirve para que nuestros niños tengan un buen desarrollo y aprendizaje, el CDI tiene baños, comedor, lo cual permite a los infantes desarrollar sus capacidades”. \n“Esta obra es muy importante, porque permite que los padres vayan al trabajo y dejar a los hijos con toda confianza con las promotoras”. \nEsta obra, impulsada por la Alcaldía bajo el liderazgo de Shirma Cortés Sanmiguel, refleja su compromiso firme con los niños y niñas del cantón, especialmente aquellos que viven en las zonas rurales. Es un testimonio de que, cuando se gobierna con sensibilidad y visión, los sueños de los más pequeños también se construyen con cemento, juegos y sonrisas. JG.",
+    "imagenes": [
+      {
+        "id": "c7c9dd0edaf4681c",
+        "hash": "c7c9dd0edaf4681c35e9c6bd5798f06e887c1349a4cfe1b6df1d394196c2cf2d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_DJI_0021.JPG",
+        "rutaOriginal": "/media/originales/c7c9dd0edaf4681c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c7c9dd0edaf4681c-400.webp",
+          "800w": "/media/derivados/c7c9dd0edaf4681c-800.webp",
+          "1600w": "/media/derivados/c7c9dd0edaf4681c-1600.webp"
+        },
+        "ancho": 5472,
+        "alto": 3648,
+        "bytes": 11537296,
+        "alt": "Un acto de amor al futuro: la Alcaldía de Shirma Cortés entrega CDI a la comunidad Palma Roja",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

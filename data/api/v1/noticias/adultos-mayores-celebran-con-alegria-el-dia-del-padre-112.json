@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 112,
+    "slug": "adultos-mayores-celebran-con-alegria-el-dia-del-padre-112",
+    "titulo": "Adultos mayores celebran con alegría el Día del Padre",
+    "resumen": "Por el Día Internacional del Padre, alrededor de 70 adultos mayores del Centro Gerontológico Hermana Gabriela Zapata participaron en un emotivo evento realizado en el coliseo del barrio Santa Rosa. La actividad fue organizada por la Alcaldía de Franc",
+    "fecha": "2025-06-26",
+    "imagen": {
+      "id": "59040b012288fded",
+      "hash": "59040b012288fdedd5929926b0e287db13101daf24892cbe7fa20463f15f77a9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_9760.JPG",
+      "rutaOriginal": "/media/originales/59040b012288fded.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/59040b012288fded-400.webp",
+        "800w": "/media/derivados/59040b012288fded-800.webp",
+        "1600w": "/media/derivados/59040b012288fded-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8123245,
+      "alt": "Adultos mayores celebran con alegría el Día del Padre",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/112/",
+    "fuente_url": "https://orellana.gob.ec/noticia/112/",
+    "cuerpo": "Por el Día Internacional del Padre, alrededor de 70 adultos mayores del Centro Gerontológico Hermana Gabriela Zapata participaron en un emotivo evento realizado en el coliseo del barrio Santa Rosa. La actividad fue organizada por la Alcaldía de Francisco de Orellana, en convenio con el Ministerio de Inclusión Económica y Social (MIES), “Este evento está muy bonito, porque es una tradición que se tiene desde hace años y qué emocionante es estar aquí en este momento”. Cali Zambrano, adulto mayor. \nDurante la jornada, los asistentes disfrutaron de presentaciones artísticas, bailes, danzas, gimnasia rítmica, elección y coronación del \"Padre Símbolo\". El evento culminó con un delicioso almuerzo en un ambiente cargado de alegría y entusiasmo por parte de los abuelitos que celebraron su día, “Estoy contenta viendo a mis compañeros, porque vamos a celebrar en este día juntos y mi deseo es verlos felices a todos”. Irma Valladolid, adulta mayor. \nEste tipo de actividades reflejan el compromiso de la Municipalidad de Francisco de Orellana, liderada por la alcaldesa Shirma Cortés Sanmiguel, para fortalecer el bienestar y mejorar la calidad de vida de las personas adultas mayores, uno de los grupos vulnerables del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "59040b012288fded",
+        "hash": "59040b012288fdedd5929926b0e287db13101daf24892cbe7fa20463f15f77a9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_9760.JPG",
+        "rutaOriginal": "/media/originales/59040b012288fded.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/59040b012288fded-400.webp",
+          "800w": "/media/derivados/59040b012288fded-800.webp",
+          "1600w": "/media/derivados/59040b012288fded-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8123245,
+        "alt": "Adultos mayores celebran con alegría el Día del Padre",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

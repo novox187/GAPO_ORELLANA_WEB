@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 182,
+    "slug": "alcaldia-mejora-la-seguridad-vial-en-el-coca-182",
+    "titulo": "Alcaldía mejora la seguridad vial en El Coca",
+    "resumen": "Con el objetivo de mejorar la seguridad vial de la ciudad de El Coca, la Alcaldía liderada por la alcaldesa Shirma Cortés Sanmiguel realiza trabajos de señalización vial en el redondel de las avenidas 9 de Octubre y Jerusalén, “Como dirección de trán",
+    "fecha": "2025-10-22",
+    "imagen": {
+      "id": "28d06978de3e02ab",
+      "hash": "28d06978de3e02abb988e68825df08ac151476d61e484adb49298d3f950cd8e5",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22.JPG",
+      "rutaOriginal": "/media/originales/28d06978de3e02ab.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/28d06978de3e02ab-400.webp",
+        "800w": "/media/derivados/28d06978de3e02ab-800.webp",
+        "1600w": "/media/derivados/28d06978de3e02ab-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10815383,
+      "alt": "Alcaldía mejora la seguridad vial en El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/182/",
+    "fuente_url": "https://orellana.gob.ec/noticia/182/",
+    "cuerpo": "Con el objetivo de mejorar la seguridad vial de la ciudad de El Coca, la Alcaldía liderada por la alcaldesa Shirma Cortés Sanmiguel realiza trabajos de señalización vial en el redondel de las avenidas 9 de Octubre y Jerusalén, “Como dirección de tránsito estamos trabajando para reducir siniestros de tránsito y para que los conductores puedan guiarse de mejor manera en las vías.” Roy Ramírez, técnico de tránsito. \nEstas labores forman parte del compromiso municipal por reducir los siniestros de tránsito y promover una movilidad segura.\nIncluyen la señalización horizontal de islas peatonales, leyendas viales, flechas reflectivas y paradas de transporte público, pintadas con materiales de alta durabilidad. Estas mejoras permiten la visibilidad y proteger la integridad de conductores y peatones, especialmente durante la noche, “Agradecerle a la alcaldesa por el trabajo que está realizando, que siga así y la ciudadanía está contenta por lo que está haciendo, porque ya se ve más señalización, se está evitando más accidentes de tránsito y creo que está consciente lo que está pasando aquí dentro de la ciudad y muchas bendiciones y que siga así con el trabajo.” Álex Vargas, taxista local. \nEstas acciones se seguirán ejecutando a lo largo de toda la avenida Jerusalén, hasta el puente Payamino, contribuyendo a una ciudad más ordenada y segura para todos. JG.",
+    "imagenes": [
+      {
+        "id": "28d06978de3e02ab",
+        "hash": "28d06978de3e02abb988e68825df08ac151476d61e484adb49298d3f950cd8e5",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22.JPG",
+        "rutaOriginal": "/media/originales/28d06978de3e02ab.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/28d06978de3e02ab-400.webp",
+          "800w": "/media/derivados/28d06978de3e02ab-800.webp",
+          "1600w": "/media/derivados/28d06978de3e02ab-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10815383,
+        "alt": "Alcaldía mejora la seguridad vial en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

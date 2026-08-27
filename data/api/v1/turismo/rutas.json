@@ -1,0 +1,30 @@
+{
+  "data": {
+    "slug": "rutas",
+    "seccion": "turismo",
+    "titulo": "Rutas turísticas",
+    "bloques": [],
+    "texto": "",
+    "imagenes": [
+      {
+        "id": "57d19c3c7a4de2f4",
+        "hash": "57d19c3c7a4de2f4a324311051647ea41bfe86591fd53400ef1c24add7357e81",
+        "urlOriginal": "https://orellana.gob.ec/static/img/rutas.jpg",
+        "rutaOriginal": "/media/originales/57d19c3c7a4de2f4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/57d19c3c7a4de2f4-400.webp",
+          "800w": "/media/derivados/57d19c3c7a4de2f4-800.webp"
+        },
+        "ancho": 990,
+        "alto": 1059,
+        "bytes": 167189,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/rutas_t/"
+      }
+    ],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/rutas_t/"
+  }
+}

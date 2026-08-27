@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 149,
+    "slug": "alcaldia-impulsa-el-deporte-con-obras-en-el-barrio-turismo-ecologico-149",
+    "titulo": "Alcaldía impulsa el deporte con obras en el barrio Turismo Ecológico",
+    "resumen": "Con música, danza y deporte se inauguró el mantenimiento integral de la cancha del barrio Turismo Ecológico, beneficiando directamente a más de 1.500 personas.\" Al evento asistió el vicealcalde Víctor Ruiz y el concejal Paul Valladolid en representac",
+    "fecha": "2025-08-21",
+    "imagen": {
+      "id": "98ed88dc58e2d953",
+      "hash": "98ed88dc58e2d95369c487fdcbf2f476d686cdac269ff4e2660d07b6af22d905",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG8787.JPG",
+      "rutaOriginal": "/media/originales/98ed88dc58e2d953.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/98ed88dc58e2d953-400.webp",
+        "800w": "/media/derivados/98ed88dc58e2d953-800.webp",
+        "1600w": "/media/derivados/98ed88dc58e2d953-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 9761936,
+      "alt": "Alcaldía impulsa el deporte con obras en el barrio Turismo Ecológico",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/149/",
+    "fuente_url": "https://orellana.gob.ec/noticia/149/",
+    "cuerpo": "Con música, danza y deporte se inauguró el mantenimiento integral de la cancha del barrio Turismo Ecológico, beneficiando directamente a más de 1.500 personas.\"\nAl evento asistió el vicealcalde Víctor Ruiz y el concejal Paul Valladolid en representación de la primera autoridad cantonal la alcaldesa Shirma Cortés Sanmiguel los mismos que resaltaron la importancia de mantener en buen estado esta infraestructura, entregando oficialmente las llaves y equipos al barrio, “Es tan importante hacer estos espacios deportivos, en el cual nuestra juventud va a estar ocupada en el tema deportivo y no vayan a tomar rumbos equivocados; con esta iniciativa de la señora alcaldesa es hacer obras que son emblemáticas para los barrios.” Víctor Ruiz, vicealcalde de Francisco de Orellana. \n“Reciban siempre ese compromiso de parte de la compañera alcaldesa quien extiende la mano amiga y llama a la unidad para que ustedes queridos moradores de este sector le den un buen uso a este espacio.” Paúl Valladolid, concejal de Francisco de Orellana. \n \nCabe señalar que estas intervenciones forman parte de un plan integral de recuperación de espacios deportivos, mediante el cual se ha realizado el mantenimiento de varias canchas en la ciudad, entre ellas: 12 de noviembre, Con Hogar, Turismo Ecológico y 30 de Abril. La inversión total asciende a $234.942,50, destinada a fortalecer y promover el deporte local en beneficio de toda la comunidad, “Personalmente quiero agradecer a Shirma Cortés y a su administración, porque dio oídos a esa petición que realizamos por tres ocasiones y que en otras administraciones no se la aceptó, más sin embargo se lo hizo, y eso debe ser valorado.” Ernesto Montaño, presidente del barrio Turismo Ecológico. \nAl finalizar el evento se jugó con un emocionante partido de fútbol femenino entre la municipalidad y las moradoras del sector, donde las anfitrionas recibieron un trofeo e incentivo por valiosa participación. DV.",
+    "imagenes": [
+      {
+        "id": "98ed88dc58e2d953",
+        "hash": "98ed88dc58e2d95369c487fdcbf2f476d686cdac269ff4e2660d07b6af22d905",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG8787.JPG",
+        "rutaOriginal": "/media/originales/98ed88dc58e2d953.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/98ed88dc58e2d953-400.webp",
+          "800w": "/media/derivados/98ed88dc58e2d953-800.webp",
+          "1600w": "/media/derivados/98ed88dc58e2d953-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 9761936,
+        "alt": "Alcaldía impulsa el deporte con obras en el barrio Turismo Ecológico",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 95,
+    "slug": "sonia-rodriguez-transforma-su-pasion-por-la-panaderia-y-pasteleria-gracias-al-95",
+    "titulo": "Sonia Rodríguez transforma su pasión por la panadería y pastelería gracias al taller gratuito de la Alcaldía",
+    "resumen": "Con dedicación, entusiasmo y el sueño de tener su propio negocio, Sonia Rodríguez ha dado un importante paso hacia el mundo",
+    "fecha": "2025-06-04",
+    "imagen": {
+      "id": "a5beb37913a9a798",
+      "hash": "a5beb37913a9a798727ea0de3c3937017c3980bbab55081d8a1749a6f79c77d6",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4.png",
+      "rutaOriginal": "/media/originales/a5beb37913a9a798.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a5beb37913a9a798-400.webp",
+        "800w": "/media/derivados/a5beb37913a9a798-800.webp",
+        "1600w": "/media/derivados/a5beb37913a9a798-1600.webp"
+      },
+      "ancho": 1902,
+      "alto": 1072,
+      "bytes": 2359885,
+      "alt": "Sonia Rodríguez transforma su pasión por la panadería y pastelería gracias al taller gratuito de la Alcaldía",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+    },
+    "url": "/noticia/95/",
+    "fuente_url": "https://orellana.gob.ec/noticia/95/",
+    "cuerpo": "Con dedicación, entusiasmo y el sueño de tener su propio negocio, Sonia Rodríguez ha dado un importante paso hacia el mundo del emprendimiento. Gracias al taller gratuito \"Emprende Emprendedor\", impulsado por la Alcaldía que dirige Shirma Cortés Sanmiguel, Sonia ha convertido su amor por la panadería y pastelería en una oportunidad real de crecimiento personal y económico, “Soy una madre soltera con mucho interés de aprender y cuando me enteré de los cursos que da el municipio, me inscribí y aprendí a hacer panes y pasteles, de momento me dedico a hacer los pasteles”. Sonia Rodríguez, emprendedora.\nDurante el taller, Sonia adquirió conocimientos clave sobre técnicas de repostería, manejo de insumos, costos de producción y estrategias de venta. Estos aprendizajes no solo reforzaron su confianza, sino que le permitieron iniciar la venta de pasteles y postres artesanales desde su hogar, ganándose rápidamente el reconocimiento de su comunidad por la calidad y sabor de sus productos, “No ha sido fácil para mí, pero ver a mis hijos felices y tener como mantenerlos, es algo que no tiene precio, por el momento ofrezco pasteles para todo compromiso social, galletas, bocaditos, estoy ubicada en el barrio 30 de Abril, calle García Moreno y Nicolás Torres”. Sonia Rodríguez, emprendedora.\nHistorias como la de Sonia Rodríguez demuestran que, con apoyo y formación adecuada que impulsa la alcaldesa Shirma Cortés Sanmiguel, el talento local puede florecer y convertirse en motor de desarrollo. La iniciativa \"Emprende Emprendedor\" sigue formando a ciudadanos con ideas, ganas de progresar y el deseo de aportar al bienestar de su comunidad. JG.",
+    "imagenes": [
+      {
+        "id": "a5beb37913a9a798",
+        "hash": "a5beb37913a9a798727ea0de3c3937017c3980bbab55081d8a1749a6f79c77d6",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4.png",
+        "rutaOriginal": "/media/originales/a5beb37913a9a798.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a5beb37913a9a798-400.webp",
+          "800w": "/media/derivados/a5beb37913a9a798-800.webp",
+          "1600w": "/media/derivados/a5beb37913a9a798-1600.webp"
+        },
+        "ancho": 1902,
+        "alto": 1072,
+        "bytes": 2359885,
+        "alt": "Sonia Rodríguez transforma su pasión por la panadería y pastelería gracias al taller gratuito de la Alcaldía",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      }
+    ]
+  }
+}

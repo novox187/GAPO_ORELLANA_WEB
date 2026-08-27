@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 94,
+    "slug": "festival-de-flores-vivas-2025-un-homenaje-lleno-de-amor-para-mama-94",
+    "titulo": "Festival de flores vivas 2025: un homenaje lleno de amor para Mamá",
+    "resumen": "Desde muy temprano, la ciudadanía disfrutó de una energizante",
+    "fecha": "2025-06-03",
+    "imagen": {
+      "id": "faac000f95a67291",
+      "hash": "faac000f95a672910c4a1483e5bf1fe7339fd41c5514bb72e505b6deed8068a0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_1_IMG_7583.JPG",
+      "rutaOriginal": "/media/originales/faac000f95a67291.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/faac000f95a67291-400.webp",
+        "800w": "/media/derivados/faac000f95a67291-800.webp",
+        "1600w": "/media/derivados/faac000f95a67291-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10312327,
+      "alt": "Festival de flores vivas 2025: un homenaje lleno de amor para Mamá",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+    },
+    "url": "/noticia/94/",
+    "fuente_url": "https://orellana.gob.ec/noticia/94/",
+    "cuerpo": "“Por mí estuviste puja y puja todo el día, te quedaron las caderas muy chuecas y muy mecidas; por eso madre mía que te recito en tu día”, con este poema que dedicó una niña a su madre, se abrió el telón el sábado 31 de mayo, en el Parque Bocana del Payamino que se llenó de color, alegría y amor con el Festival de Flores Vivas 2025, un evento organizado por la Alcaldía de Francisco de Orellana en homenaje a todas las madres.\nDesde muy temprano, la ciudadanía disfrutó de una energizante clase de zumba, presentaciones artísticas y emprendimientos amazónicos que mostraron lo mejor de nuestra gente, “Estos eventos nos llenan de orgullo, es hermoso compartir en familia”. Opinión ciudadana.\n“Este evento se lo ha realizado con el festival de las flores, donde tenemos grandes emprendimientos y espero que hayan visitado y conocido las artesanías que se realizan en el cantón Francisco de Orellana. Este programa lo ha realizado la municipalidad con mucho cariño, así que disfruten que es de ustedes”, manifestó emocionada la alcaldesa de Francisco de Orellana, Shirma Cortés Sanmiguel.\nY para cerrar con broche de oro, las madres disfrutaron de una gran serenata con artistas locales y la exposición abierta de flores, reflejando la riqueza de nuestra biodiversidad y el cariño de una comunidad que valora a sus mujeres.\nDesde la Alcaldía de Francisco de Orellana reafirmamos nuestro compromiso de impulsar espacios culturales, familiares y de unión social que dignifiquen el rol de la mujer y fortalezcan nuestras raíces. PT.",
+    "imagenes": [
+      {
+        "id": "faac000f95a67291",
+        "hash": "faac000f95a672910c4a1483e5bf1fe7339fd41c5514bb72e505b6deed8068a0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_1_IMG_7583.JPG",
+        "rutaOriginal": "/media/originales/faac000f95a67291.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/faac000f95a67291-400.webp",
+          "800w": "/media/derivados/faac000f95a67291-800.webp",
+          "1600w": "/media/derivados/faac000f95a67291-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10312327,
+        "alt": "Festival de flores vivas 2025: un homenaje lleno de amor para Mamá",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "id": 26,
+    "slug": "requisitos-para-permiso-de-cerramiento-26",
+    "nombre": "Requisitos para permiso de cerramiento",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion",
+      "documentos-y-certificados"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es un documento habilitante para que el usuario pueda construir su cerramiento.",
+    "que_es": "Es un documento habilitante para que el usuario pueda construir su cerramiento.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Todos los servicios que presta la Dirección de Ordenamiento Territorial están en función al valor por metro cuadrado de la tenencia de la tierra y en el caso de construcciones están en función a los metros cuadrados de la construcción."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Formulario de línea de fábrica (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Formulario de permiso de cerramiento (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Copia de escritura",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "2 copias de la cédula de ciudadanía y papeleta de votación actualizada.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Original y copia del pago de impuesto predial.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Original y copia del Certificado de gravámenes actualizado (Registro de la Propiedad).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Tener limpio el solar.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

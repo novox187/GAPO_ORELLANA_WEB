@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 123,
+    "slug": "alcaldia-impulsa-turismo-y-economia-local-con-el-festival-freestyle-toques-y-123",
+    "titulo": "Alcaldía impulsa turismo y economía local con el festival \"Freestyle, Toques y Ritmos\"",
+    "resumen": "Con gran éxito se desarrolló, el festival Freestyle, Toques y Ritmos, una de las actividades destacadas de Bocana Fest 2025, impulsado por la Alcaldía como parte de su compromiso con la reactivación económica y el fortalecimiento del turismo local.",
+    "fecha": "2025-07-11",
+    "imagen": {
+      "id": "4a6e3cd8497f0b30",
+      "hash": "4a6e3cd8497f0b30c41ead6278d90bb4936d6dc0e4378d13b1ad6e02eb3c1daf",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG6192.JPG",
+      "rutaOriginal": "/media/originales/4a6e3cd8497f0b30.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4a6e3cd8497f0b30-400.webp",
+        "800w": "/media/derivados/4a6e3cd8497f0b30-800.webp",
+        "1600w": "/media/derivados/4a6e3cd8497f0b30-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8417776,
+      "alt": "Alcaldía impulsa turismo y economía local con el festival \"Freestyle, Toques y Ritmos\"",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+    },
+    "url": "/noticia/123/",
+    "fuente_url": "https://orellana.gob.ec/noticia/123/",
+    "cuerpo": "Con gran éxito se desarrolló, el festival Freestyle, Toques y Ritmos, una de las actividades destacadas de Bocana Fest 2025, impulsado por la Alcaldía como parte de su compromiso con la reactivación económica y el fortalecimiento del turismo local. \nLa jornada incluyó una feria de emprendimientos locales, espacio en el pudieron exhibir y comercializar sus productos.\nAdemás, se vivió una impactante demostración de acrobacias del tricampeón nacional de fútbol freestyle, Iker Freire, quien hizo vibrar a grandes y chicos con su destreza con el balón, “Felicitar a la señora alcaldesa que está impulsando a los jóvenes con estas actividades y para nosotros poder disfrutar como familia, y que los siga apoyando, porque hay más jóvenes que no tienen un espacio para demostrar lo que saben”. Anabel Padilla, opinión ciudadana.\nAsimismo, hubo una vibrante presentación artística a cargo del rapero Estiv Emci, quien deleitó al público con su talento musical, “No importa el ritmo con la que hagas una canción, lo que importa es el mensaje que estás dando a la gente, siempre tratando de impactar positivamente y contar lo que uno vive a diario.\nEsta iniciativa, para nosotros es de mucha importancia; así que agradecemos mucho al trabajo de las autoridades que nos han permitido estar aquí el día de hoy”. Steven Aguilar, artista local.\nLa Alcaldía seguirá trabajando por el desarrollo integral del cantón que queremos, uniendo cultura, deporte y economía en beneficio de toda la ciudadanía. JG.",
+    "imagenes": [
+      {
+        "id": "4a6e3cd8497f0b30",
+        "hash": "4a6e3cd8497f0b30c41ead6278d90bb4936d6dc0e4378d13b1ad6e02eb3c1daf",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG6192.JPG",
+        "rutaOriginal": "/media/originales/4a6e3cd8497f0b30.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4a6e3cd8497f0b30-400.webp",
+          "800w": "/media/derivados/4a6e3cd8497f0b30-800.webp",
+          "1600w": "/media/derivados/4a6e3cd8497f0b30-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8417776,
+        "alt": "Alcaldía impulsa turismo y economía local con el festival \"Freestyle, Toques y Ritmos\"",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      }
+    ]
+  }
+}

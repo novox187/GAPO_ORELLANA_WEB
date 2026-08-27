@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 211,
+    "slug": "agentes-de-control-monitorean-el-ingreso-de-vehiculos-en-guayusa-211",
+    "titulo": "Agentes de Control monitorean el ingreso de vehículos en Guayusa",
+    "resumen": "Agentes de Control Municipal monitorean el ingreso de vehículos a la parroquia San José de Guayusa, donde se ha restringido el paso para automotores de carga pesada para evitar deslizamientos de la calzada en esta zona afectada por la erosión del río",
+    "fecha": "2025-12-08",
+    "imagen": {
+      "id": "2f30fedaa18b99a1",
+      "hash": "2f30fedaa18b99a14c5fb932ccd59f3875e69d2d02abe24b728059e013f9a8e9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_YwfhNsW.JPG",
+      "rutaOriginal": "/media/originales/2f30fedaa18b99a1.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/2f30fedaa18b99a1-400.webp",
+        "800w": "/media/derivados/2f30fedaa18b99a1-800.webp",
+        "1600w": "/media/derivados/2f30fedaa18b99a1-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12210998,
+      "alt": "Agentes de Control monitorean el ingreso de vehículos en Guayusa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+    },
+    "url": "/noticia/211/",
+    "fuente_url": "https://orellana.gob.ec/noticia/211/",
+    "cuerpo": "Agentes de Control Municipal monitorean el ingreso de vehículos a la parroquia San José de Guayusa, donde se ha restringido el paso para automotores de carga pesada para evitar deslizamientos de la calzada en esta zona afectada por la erosión del río Coca, “Estamos aquí en la entrada vía Guayusa evitando el paso de vehículos pesados, para que no ingresen y solo se permite el paso para vehículos livianos mientras los trabajos avanzan en la vía.” Adrián Tandazo, agente de control municipal.\nEl personal municipal cumple con turnos permanentes para verificar que se respete la restricción y orientar a los conductores a tomar vías alternas protegiendo la integridad de los técnicos y trabajadores que realizan las intervenciones en el lugar, “Está bien el trabajo que hacen los agentes, porque los carros pesados hacen vibrar el piso y se derrumba las riberas del río, afectando a la ciudadanía de San José de Guayusa.” Marco Toainga, opinión ciudadana.\nLa administración municipal, liderada por la alcaldesa Shirma Cortés Sanmiguel, continuará realizando controles permanentes y apoyando las tareas técnicas de contención para restablecer de forma oportuna esta importante arteria vial que conecta a las comunidades de San José de Guayusa. PT.",
+    "imagenes": [
+      {
+        "id": "2f30fedaa18b99a1",
+        "hash": "2f30fedaa18b99a14c5fb932ccd59f3875e69d2d02abe24b728059e013f9a8e9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_YwfhNsW.JPG",
+        "rutaOriginal": "/media/originales/2f30fedaa18b99a1.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/2f30fedaa18b99a1-400.webp",
+          "800w": "/media/derivados/2f30fedaa18b99a1-800.webp",
+          "1600w": "/media/derivados/2f30fedaa18b99a1-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12210998,
+        "alt": "Agentes de Control monitorean el ingreso de vehículos en Guayusa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      }
+    ]
+  }
+}

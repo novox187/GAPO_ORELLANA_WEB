@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "id": 207,
+      "slug": "alcaldia-conmemora-el-dia-del-agente-de-control-municipal-207",
+      "titulo": "Alcaldía conmemora el Día del Agente de Control Municipal",
+      "resumen": "Con profunda emoción, la administración municipal liderada por la alcaldesa Shirma Cortés Sanmiguel conmemoró el Día del Agente de Control Municipal, reconociendo el esfuerzo, la entrega y el compromiso de quienes trabajan cada día por la convivencia",
+      "fecha": "2025-12-01",
+      "imagen": {
+        "id": "448decd18c60a6b9",
+        "hash": "448decd18c60a6b9aac37065caa04be5153f2dcf0fe9d7057470a16621f776e7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_kSAP05X.JPG",
+        "rutaOriginal": "/media/originales/448decd18c60a6b9.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/448decd18c60a6b9-400.webp",
+          "800w": "/media/derivados/448decd18c60a6b9-800.webp",
+          "1600w": "/media/derivados/448decd18c60a6b9-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 6506801,
+        "alt": "Alcaldía conmemora el Día del Agente de Control Municipal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/207/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 206,
+      "slug": "iluminamos-la-seguridad-de-el-coca-un-operativo-que-marca-el-camino-hacia-una-206",
+      "titulo": "Iluminamos la seguridad de El Coca: un operativo que marca el camino hacia una ciudad más ordenada y protegida",
+      "resumen": "La Alcaldía, a través de la Dirección de Seguridad y Gobernabilidad y con el apoyo del Cuerpo de Agentes de Control, impulsa un amplio operativo de inspección y señalización preventiva en los postes de alumbrado público que presentan fallas. Este pla",
+      "fecha": "2025-11-28",
+      "imagen": {
+        "id": "c75cad80e76d2d2a",
+        "hash": "c75cad80e76d2d2af3f7f650153c365822821654ac8b69bb3dcfd902971105bb",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28.JPG",
+        "rutaOriginal": "/media/originales/c75cad80e76d2d2a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c75cad80e76d2d2a-400.webp",
+          "800w": "/media/derivados/c75cad80e76d2d2a-800.webp",
+          "1600w": "/media/derivados/c75cad80e76d2d2a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 5637683,
+        "alt": "Iluminamos la seguridad de El Coca: un operativo que marca el camino hacia una ciudad más ordenada y protegida",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/206/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 205,
+      "slug": "alcaldia-fortalece-la-seguridad-en-san-luis-de-armenia-con-la-colocacion-de-205",
+      "titulo": "Alcaldía fortalece la seguridad en San Luis de Armenia con la colocación de cámaras",
+      "resumen": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, continúa ejecutando acciones firmes para fortalecer la seguridad ciudadana en San Luis de Armenia. En esta ocasión, se instalaron tres modernas cámaras de videovigilancia, equipos que permitirán moni",
+      "fecha": "2025-11-27",
+      "imagen": {
+        "id": "fc4f62353a60af40",
+        "hash": "fc4f62353a60af40f1422e97655fd15375c04aab4233d0b717d415ac3fa037cd",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27.JPG",
+        "rutaOriginal": "/media/originales/fc4f62353a60af40.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/fc4f62353a60af40-400.webp",
+          "800w": "/media/derivados/fc4f62353a60af40-800.webp",
+          "1600w": "/media/derivados/fc4f62353a60af40-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6969195,
+        "alt": "Alcaldía fortalece la seguridad en San Luis de Armenia con la colocación de cámaras",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/205/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 204,
+      "slug": "alcaldia-fortalece-acciones-para-prevenir-el-trabajo-infantil-204",
+      "titulo": "Alcaldía fortalece acciones para prevenir el trabajo infantil",
+      "resumen": "En el coliseo del barrio Santa Rosa, 80 usuarios del proyecto de Erradicación del Trabajo Infantil (ETI) de la Alcaldía de Francisco de Orellana, en convenio con el Ministerio de Desarrollo Humano (MDH), participaron de un “Campeonato Relámpago Depor",
+      "fecha": "2025-11-26",
+      "imagen": {
+        "id": "502c4db4b1f5e979",
+        "hash": "502c4db4b1f5e979bdc85a1628e4e23888693dc8be43a603da097b8bda99d56f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26.JPG",
+        "rutaOriginal": "/media/originales/502c4db4b1f5e979.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/502c4db4b1f5e979-400.webp",
+          "800w": "/media/derivados/502c4db4b1f5e979-800.webp",
+          "1600w": "/media/derivados/502c4db4b1f5e979-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8983899,
+        "alt": "Alcaldía fortalece acciones para prevenir el trabajo infantil",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/204/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 203,
+      "slug": "visita-de-acnur-y-onu-a-la-casa-taller-aprende-emprendedor-203",
+      "titulo": "Visita de ACNUR y ONU a la Casa Taller “Aprende Emprendedor”",
+      "resumen": "La Alcaldía de Francisco de Orellana liderada por Shirma Cortes Sanmiguel y representantes de ACNUR realizaron una visita técnica en la Casa Taller Artesanal “Aprende Emprendedor” en el barrio Flor de Pantano, junto a la coordinadora residente de la",
+      "fecha": "2025-11-25",
+      "imagen": {
+        "id": "8d25771648e72389",
+        "hash": "8d25771648e72389453dff500257f59939488c8cf111d98fa0c6aa5a10a5d2af",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.JPG",
+        "rutaOriginal": "/media/originales/8d25771648e72389.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8d25771648e72389-400.webp",
+          "800w": "/media/derivados/8d25771648e72389-800.webp",
+          "1600w": "/media/derivados/8d25771648e72389-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7211470,
+        "alt": "Visita de ACNUR y ONU a la Casa Taller “Aprende Emprendedor”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/203/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 202,
+      "slug": "alcaldia-y-cocaprode-refuerzan-acciones-contra-la-violencia-de-genero-202",
+      "titulo": "Alcaldía y COCAPRODE refuerzan acciones contra la violencia de género",
+      "resumen": "La Alcaldía, a través del COCAPRODE, desarrolló la jornada de integración y Clausura “Vidas sin Violencia: Tejiendo compromisos con la Comunidad”, realizada en la comuna Kichwa Patas Yaku, de la parroquia San Luis de Armenia. En este espacio particip",
+      "fecha": "2025-11-24",
+      "imagen": {
+        "id": "7ea4ce331368522a",
+        "hash": "7ea4ce331368522aa409b12e8b8ebd5cc845d94c4daf721a2b16e9b69b2ac69f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_lHv86OM.JPG",
+        "rutaOriginal": "/media/originales/7ea4ce331368522a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7ea4ce331368522a-400.webp",
+          "800w": "/media/derivados/7ea4ce331368522a-800.webp",
+          "1600w": "/media/derivados/7ea4ce331368522a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7740129,
+        "alt": "Alcaldía y COCAPRODE refuerzan acciones contra la violencia de género",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/202/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 201,
+      "slug": "alcaldia-firma-convenio-con-la-stctea-para-la-obra-de-alcantarillado-pluvial-en-201",
+      "titulo": "Alcaldía firma convenio con la STCTEA para la obra de alcantarillado pluvial en El Moretal",
+      "resumen": "El Coca vive un momento que quedará marcado en su historia. La alcaldesa Shirma Cortés Sanmiguel, una mujer que lidera con firmeza y sensibilidad, junto a Oswaldo Valverde, delegado presidencial del Consejo de Planificación de la Amazonía, oficializó",
+      "fecha": "2025-11-21",
+      "imagen": {
+        "id": "a9a624321d7f796a",
+        "hash": "a9a624321d7f796a8e7154d09dfcb50f301dc2590ce957051c54bfff3548624d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_9Ww6rUx.JPG",
+        "rutaOriginal": "/media/originales/a9a624321d7f796a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a9a624321d7f796a-400.webp",
+          "800w": "/media/derivados/a9a624321d7f796a-800.webp",
+          "1600w": "/media/derivados/a9a624321d7f796a-1600.webp"
+        },
+        "ancho": 7008,
+        "alto": 4672,
+        "bytes": 8231588,
+        "alt": "Alcaldía firma convenio con la STCTEA para la obra de alcantarillado pluvial en El Moretal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/201/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 200,
+      "slug": "el-coca-avanza-nueva-bahia-de-estacionamiento-impulsa-orden-modernidad-y-200",
+      "titulo": "El Coca avanza: nueva bahía de estacionamiento impulsa orden, modernidad y progreso para todos",
+      "resumen": "Con paso firme y una visión clara de desarrollo para El Coca, la alcaldesa Shirma Cortés Sanmiguel lidera la construcción de una moderna bahía de estacionamiento para el transporte urbano en el barrio 28 de Marzo. Esta intervención no solo responde a",
+      "fecha": "2025-11-20",
+      "imagen": {
+        "id": "618acdd1d8ec345e",
+        "hash": "618acdd1d8ec345e369297ff95e2351acfdfa7a74cfb6855803600cf45ddc4b3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_zNg6D5n.JPG",
+        "rutaOriginal": "/media/originales/618acdd1d8ec345e.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/618acdd1d8ec345e-400.webp",
+          "800w": "/media/derivados/618acdd1d8ec345e-800.webp",
+          "1600w": "/media/derivados/618acdd1d8ec345e-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10923268,
+        "alt": "El Coca avanza: nueva bahía de estacionamiento impulsa orden, modernidad y progreso para todos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/200/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    {
+      "id": 199,
+      "slug": "una-jornada-de-inclusion-y-solidaridad-en-union-imbaburena-199",
+      "titulo": "Una jornada de inclusión y solidaridad en Unión Imbabureña",
+      "resumen": "Queremos contarles algo muy especial. Llegamos al barrio Unión Imbabureña para vivir una tarde llena de alegría y solidaridad junto a las personas del Proyecto de Discapacidad de la Unidad de Atención Puerto Francisco de Orellana. Entre risas y abraz",
+      "fecha": "2025-11-19",
+      "imagen": {
+        "id": "5564379f2e3fcfbd",
+        "hash": "5564379f2e3fcfbdb64787ff272703a4480ffcca6acbce71ae0a5b86fcce4751",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19.JPG",
+        "rutaOriginal": "/media/originales/5564379f2e3fcfbd.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5564379f2e3fcfbd-400.webp",
+          "800w": "/media/derivados/5564379f2e3fcfbd-800.webp",
+          "1600w": "/media/derivados/5564379f2e3fcfbd-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6551284,
+        "alt": "Una jornada de inclusión y solidaridad en Unión Imbabureña",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      },
+      "url": "/noticia/199/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=10"
+    }
+  ],
+  "meta": {
+    "current_page": 10,
+    "last_page": 32,
+    "per_page": 9
+  },
+  "links": {
+    "first": "/api/v1/noticias/page-1.json",
+    "last": "/api/v1/noticias/page-32.json",
+    "prev": "/api/v1/noticias/page-9.json",
+    "next": "/api/v1/noticias/page-11.json"
+  }
+}

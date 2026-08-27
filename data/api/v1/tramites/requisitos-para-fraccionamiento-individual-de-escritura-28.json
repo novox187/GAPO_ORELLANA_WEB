@@ -1,0 +1,102 @@
+{
+  "data": {
+    "id": 28,
+    "slug": "requisitos-para-fraccionamiento-individual-de-escritura-28",
+    "nombre": "Requisitos para fraccionamiento individual de escritura",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion"
+    ],
+    "perfiles": [
+      "ciudadano",
+      "constructor"
+    ],
+    "resumen": "Es obtener la escritura individual de los lotes divididos mediante un fraccionamiento que los lleva a cabo el propietario del terreno con el aval de un Ingeniero Civil o arquitecto particular que posea el registro de pro",
+    "que_es": "Es obtener la escritura individual de los lotes divididos mediante un fraccionamiento que los lleva a cabo el propietario del terreno con el aval de un Ingeniero Civil o arquitecto particular que posea el registro de profesional otorgado por el GADMFO",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Todos los servicios que presta la Dirección de Ordenamiento Territorial están en función al valor por metro cuadrado de la tenencia de la tierra y en el caso de construcciones están en función a los metros cuadrados de la construcción."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Formulario de línea de fábrica (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "1 copia de la escritura.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Original y copia del Certificado de gravámenes actualizado (Registro de la Propiedad).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Original y copia del Contrato de compra y venta.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "2 copias de la cédula de ciudadanía y papeleta de votación (comprador y vendedor).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "2 copias del pago del impuesto predial.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO (comprador).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO (vendedor). (POR CONTRIBUCIÓN DE MEJORAS TASAS ENTRE OTROS CASOS DE TRASPASOS DE DOMINIO Y FRACCIONAMIENTOS)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "Original y copia del Certificado de la Dirección de Riesgos.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 10,
+        "texto": "Tener limpio el terreno.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 11,
+        "texto": "Solicitud a la primera autoridad del GADMFO (Original y copia)",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

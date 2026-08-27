@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 63,
+    "slug": "municipalidad-fortalece-infraestructura-hidrica-para-garantizar-mejor-servicio-63",
+    "titulo": "Municipalidad fortalece infraestructura hídrica para garantizar mejor servicio de agua potable",
+    "resumen": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, se encuentra ejecutando importantes trabajos en la planta",
+    "fecha": "2025-04-10",
+    "imagen": {
+      "id": "e385873b0f68a595",
+      "hash": "e385873b0f68a5950812efcd3fe1874a2de35bf51682e70c960df9a2ea6d63e8",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_6380.JPG",
+      "rutaOriginal": "/media/originales/e385873b0f68a595.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e385873b0f68a595-400.webp",
+        "800w": "/media/derivados/e385873b0f68a595-800.webp",
+        "1600w": "/media/derivados/e385873b0f68a595-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12591490,
+      "alt": "Municipalidad fortalece infraestructura hídrica para garantizar mejor servicio de agua potable",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/63/",
+    "fuente_url": "https://orellana.gob.ec/noticia/63/",
+    "cuerpo": "Con el objetivo de optimizar el servicio del líquido vital en la ciudad de El Coca, la Alcaldía, liderada por Shirma Cortés Sanmiguel, se encuentra ejecutando importantes trabajos en la planta de captación Payamino.\nEntre las labores que se desarrollan actualmente se destacan: \n1. cambio de tubería de succión de 10 pulgadas por una nueva de 12 pulgadas de diámetro, lo que permitirá un mayor caudal de ingreso.\n2. Instalación de nuevas válvulas con rejilla, diseñadas para proteger el sistema ante palizadas y escombros presentes en el sector, Freddy Pozo, técnico municipal da detalles de los trabajos que se realiza en beneficio de la ciudadanía, “Estos trabajos se tiene programado finalizarlos dentro de las 48 horas; es decir, el día sábado a las 07h00 de la mañana se estaría normalizando la distribución de agua potable”. \nEstas acciones forman parte de un plan integral para mejorar significativamente la presión y caudal del servicio de agua potable. La Municipalidad reafirma su compromiso con el bienestar de la ciudadanía, garantizando un servicio de calidad y acorde a las necesidades de la población. DV.",
+    "imagenes": [
+      {
+        "id": "e385873b0f68a595",
+        "hash": "e385873b0f68a5950812efcd3fe1874a2de35bf51682e70c960df9a2ea6d63e8",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_6380.JPG",
+        "rutaOriginal": "/media/originales/e385873b0f68a595.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e385873b0f68a595-400.webp",
+          "800w": "/media/derivados/e385873b0f68a595-800.webp",
+          "1600w": "/media/derivados/e385873b0f68a595-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12591490,
+        "alt": "Municipalidad fortalece infraestructura hídrica para garantizar mejor servicio de agua potable",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

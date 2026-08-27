@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 71,
+    "slug": "operativos-de-control-en-la-parroquia-nuevo-paraiso-71",
+    "titulo": "Operativos de control en la parroquia Nuevo Paraíso",
+    "resumen": "La Dirección de Seguridad y Gobernabilidad de la Municipalidad, llevó a cabo un operativo de control en la parroquia Nuevo Paraíso",
+    "fecha": "2025-04-23",
+    "imagen": {
+      "id": "2732e17cdf14f421",
+      "hash": "2732e17cdf14f421565b819a7fd0be9f8aa4224f5417a8e9cbc97045a2665e90",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_9111.JPG",
+      "rutaOriginal": "/media/originales/2732e17cdf14f421.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/2732e17cdf14f421-400.webp",
+        "800w": "/media/derivados/2732e17cdf14f421-800.webp",
+        "1600w": "/media/derivados/2732e17cdf14f421-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6068738,
+      "alt": "Operativos de control en la parroquia Nuevo Paraíso",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/71/",
+    "fuente_url": "https://orellana.gob.ec/noticia/71/",
+    "cuerpo": "La Dirección de Seguridad y Gobernabilidad de la Municipalidad, llevó a cabo un operativo de control en la parroquia Nuevo Paraíso, con el objetivo de verificar el cumplimiento de los permisos de funcionamiento de los establecimientos comerciales del sector y cumplan con lo que exigen las ordenanzas manifiesta Rafael Santos, jefe de Agentes de Control, “El objetivo de este operativo es regularizar a cada uno de los comerciantes que se encuentran en la parroquia y de esta manera, puedan trabajar sin ningún inconveniente en sus negocios”.\nDurante el operativo también se procedió a notificar a propietarios de terrenos montosos, en concordancia con lo establecido con la Ordenanza de Convivencia Ciudadana 001-2015, la cual estipula que es responsabilidad de cada propietario mantener limpio su predio hasta la mitad de la calle, la ciudadana Nicol Alcívar, manifiesta que todos debemos colaborar para un buen vivir ciudadano, “A mi parecer está muy bien lo que hacen; porque gracias a eso, nos informamos de cómo hacer el proceso, que paso seguir y poder cumplir con las leyes que tenemos”.\nEstas acciones no solo fortalecen el cumplimiento de la ley, sino también el bienestar de todos los ciudadanos. Juntos, hacemos de nuestro entorno un mejor lugar para vivir. JG.",
+    "imagenes": [
+      {
+        "id": "2732e17cdf14f421",
+        "hash": "2732e17cdf14f421565b819a7fd0be9f8aa4224f5417a8e9cbc97045a2665e90",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_9111.JPG",
+        "rutaOriginal": "/media/originales/2732e17cdf14f421.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/2732e17cdf14f421-400.webp",
+          "800w": "/media/derivados/2732e17cdf14f421-800.webp",
+          "1600w": "/media/derivados/2732e17cdf14f421-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6068738,
+        "alt": "Operativos de control en la parroquia Nuevo Paraíso",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

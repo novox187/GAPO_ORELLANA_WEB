@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 255,
+    "slug": "alcaldia-garantiza-continuidad-del-servicio-del-liquido-vital-en-los-rosales-255",
+    "titulo": "Alcaldía garantiza continuidad del servicio del líquido vital en Los Rosales",
+    "resumen": "La Municipalidad de Francisco de Orellana, Bajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel, ejecutó trabajos en la reubicación de varias tuberías de PVC de 63 milímetros entre las calles Víctor Ron y Tetetes del barrio Los Rosales, en coord",
+    "fecha": "2026-02-25",
+    "imagen": {
+      "id": "bff6a2460a909b31",
+      "hash": "bff6a2460a909b31bfdc691ba885c21954cc112ef68ab2aebed8e493856e05c4",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG4623.JPG",
+      "rutaOriginal": "/media/originales/bff6a2460a909b31.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/bff6a2460a909b31-400.webp",
+        "800w": "/media/derivados/bff6a2460a909b31-800.webp",
+        "1600w": "/media/derivados/bff6a2460a909b31-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 16468983,
+      "alt": "Alcaldía garantiza continuidad del servicio del líquido vital en Los Rosales",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/255/",
+    "fuente_url": "https://orellana.gob.ec/noticia/255/",
+    "cuerpo": "La Municipalidad de Francisco de Orellana, Bajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel, ejecutó trabajos en la reubicación de varias tuberías de PVC de 63 milímetros entre las calles Víctor Ron y Tetetes del barrio Los Rosales, en coordinación con el proyecto de construcción de alcantarillado sanitario y pluvial que beneficia a cuatro barrios de la ciudad, “Actualmente el proyecto se encuentra con la instalación de tuberías y reubicando de tuberías de agua potable, con la colaboración del Gad Municipal, porque hay tuberías que están profundas y la norma dice que hay que dejarle máximo 90 centímetros.” Gonzalo Tene, residente de obra. \nEsta acción técnica se desarrolló con el propósito de garantizar la continuidad del servicio de agua potable en el sector, evitando interrupciones y protegiendo el acceso al líquido vital para las familias durante el avance de la obra, así como también brindándoles la oportunidad laboral a los ciudadanos locales, “Gracias a la señora alcaldesa de parte de la comunidad, le agradecemos mucho y esperemos que siga así dándonos soluciones a los habitamos de esta ciudad.” Joel Guerrero, opinión ciudadana. \nLa actual administración municipal reafirma su compromiso de impulsar obras que fortalezcan el sistema sanitario, priorizando el bienestar ciudadano y consolidando un desarrollo ordenado y sostenible para el cantón. DV.",
+    "imagenes": [
+      {
+        "id": "bff6a2460a909b31",
+        "hash": "bff6a2460a909b31bfdc691ba885c21954cc112ef68ab2aebed8e493856e05c4",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG4623.JPG",
+        "rutaOriginal": "/media/originales/bff6a2460a909b31.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bff6a2460a909b31-400.webp",
+          "800w": "/media/derivados/bff6a2460a909b31-800.webp",
+          "1600w": "/media/derivados/bff6a2460a909b31-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 16468983,
+        "alt": "Alcaldía garantiza continuidad del servicio del líquido vital en Los Rosales",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

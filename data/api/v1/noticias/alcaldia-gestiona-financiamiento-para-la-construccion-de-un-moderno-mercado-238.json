@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 238,
+    "slug": "alcaldia-gestiona-financiamiento-para-la-construccion-de-un-moderno-mercado-238",
+    "titulo": "Alcaldía gestiona financiamiento para la construcción de un moderno mercado Virgen del Cisne",
+    "resumen": "Con visión de futuro, técnicos municipales lideraron un recorrido por las instalaciones del mercado municipal Virgen del Cisne junto al representante del Banco de Desarrollo del Ecuador, Esteban Álvarez. En el lugar, las autoridades analizaron la via",
+    "fecha": "2026-01-19",
+    "imagen": {
+      "id": "111b539bac201bc6",
+      "hash": "111b539bac201bc6bac5ff792ada7d6877f5a93957d8fce78e52ccc1dab140cc",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG4231.JPG",
+      "rutaOriginal": "/media/originales/111b539bac201bc6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/111b539bac201bc6-400.webp",
+        "800w": "/media/derivados/111b539bac201bc6-800.webp",
+        "1600w": "/media/derivados/111b539bac201bc6-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8314445,
+      "alt": "Alcaldía gestiona financiamiento para la construcción de un moderno mercado Virgen del Cisne",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/238/",
+    "fuente_url": "https://orellana.gob.ec/noticia/238/",
+    "cuerpo": "Con visión de futuro, técnicos municipales lideraron un recorrido por las instalaciones del mercado municipal Virgen del Cisne junto al representante del Banco de Desarrollo del Ecuador, Esteban Álvarez. En el lugar, las autoridades analizaron la viabilidad de un financiamiento superior a los 14 millones de dólares para levantar un moderno mercado que marque un antes y un después en la infraestructura comercial del cantón, “La alcaldesa tiene aquí su rol importante al haber obtenido un estudio que demuestre la factibilidad de poder contar con un equipamiento que dé las comodidades necesarias, tanto a usuarios, vendedores y a compradores.” Esteban Álvarez, representante del BDE.\nEl proyecto impulsado por la Alcaldía apuesta por la modernización integral de uno de los principales centros de abasto, con el objetivo de dignificar el trabajo de cientos de comerciantes y ofrecer a la ciudadanía un espacio cómodo, seguro y ordenado. La nueva infraestructura contempla áreas amplias, zonas de estacionamiento y un diseño funcional que integra espacios para la práctica del ecuavóley, promoviendo convivencia, deporte y organización urbana, “También estamos haciendo la integración de la calle Napo como la Quito, y con el mercado se va a hacer una infraestructura de planta baja y alta, donde va estar involucrado integralmente en el nuevo mercado municipal.” Juan Valdiviezo, técnico del GADMFO.\nEsta iniciativa refleja una administración que planifica, gestiona recursos y piensa en grande para su gente. JG.",
+    "imagenes": [
+      {
+        "id": "111b539bac201bc6",
+        "hash": "111b539bac201bc6bac5ff792ada7d6877f5a93957d8fce78e52ccc1dab140cc",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG4231.JPG",
+        "rutaOriginal": "/media/originales/111b539bac201bc6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/111b539bac201bc6-400.webp",
+          "800w": "/media/derivados/111b539bac201bc6-800.webp",
+          "1600w": "/media/derivados/111b539bac201bc6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8314445,
+        "alt": "Alcaldía gestiona financiamiento para la construcción de un moderno mercado Virgen del Cisne",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

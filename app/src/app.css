@@ -1,0 +1,220 @@
+@import 'tailwindcss';
+
+/*
+  Sistema de diseño "Mosaico" — GAD Municipal Francisco de Orellana.
+
+  El ADN no es una plantilla: es el propio logotipo del municipio, que ya
+  es un sistema modular de teselas de color con pictogramas lineales de
+  fauna, flora y lugares del cantón (mapa, jaguar, danzante, puente del
+  Napo, armadillo, paisaje). La retícula del sitio extiende esa banda a
+  toda la página.
+
+  Todos los colores salen del SVG oficial (media/originales/…header-main.svg),
+  no de una paleta inventada.
+*/
+
+@font-face {
+	font-family: 'Archivo';
+	font-style: normal;
+	font-weight: 400 700;
+	font-stretch: 62% 125%;
+	font-display: swap;
+	src: url('/fonts/archivo-var.woff2') format('woff2');
+}
+
+@theme {
+	/* Verdes del logotipo */
+	--color-selva-900: #074d22; /* derivado, para texto sobre claro */
+	--color-selva-800: #0c843a; /* logo st2 */
+	--color-selva-600: #1ea758; /* logo st1 */
+	--color-selva-500: #31ad68; /* logo st10 */
+	--color-selva-400: #53b25f; /* logo st5 */
+	--color-selva-100: #dff0e5;
+	--color-selva-50: #f3f9f5;
+
+	/* Amarillos del logotipo */
+	--color-achiote-600: #e4cd00; /* logo st6 */
+	--color-achiote-500: #f6d907; /* logo st3 */
+	--color-achiote-400: #ffde0d; /* logo st11 */
+	--color-achiote-100: #fdf5c9;
+	--color-achiote-texto: #5c4f00; /* derivado, contraste AA sobre claro */
+
+	/* Carbones del logotipo */
+	--color-carbon-900: #1e1f1d; /* logo st8 */
+	--color-carbon-700: #3d3d3b; /* logo st12 */
+	--color-carbon-600: #434342; /* logo st4 */
+	--color-carbon-300: #9a9a97;
+
+	--color-papel: #fbfaf6;
+	--color-papel-alt: #f2f4ef;
+	--color-borde: #ddded6;
+
+	--color-error: #a3212b;
+
+	--font-sans: 'Archivo', ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+	--radius-sm: 0.125rem;
+	--radius-md: 0.25rem;
+	--radius-lg: 0.5rem;
+
+	--ease-suave: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/*
+  Tokens semánticos. Un solo tema por página; las teselas aportan el color,
+  no una inversión de modo por sección.
+*/
+:root {
+	--superficie: var(--color-papel);
+	--superficie-alt: var(--color-papel-alt);
+	--superficie-elevada: #ffffff;
+	--texto: var(--color-carbon-900);
+	--texto-suave: #5b5c58;
+	--borde: var(--color-borde);
+	--marca: var(--color-selva-800);
+	--enlace: var(--color-selva-800);
+	--foco: var(--color-carbon-900);
+}
+
+/*
+  Modo oscuro por dos vías: la preferencia del sistema y la elección
+  explícita del visitante (atributo data-theme en <html>, que fija
+  CambioTema.svelte y restaura el script en línea de app.html).
+
+  Los dos selectores comparten exactamente el mismo cuerpo. Si se cambia
+  uno, hay que cambiar el otro: CSS no permite unir una media query con un
+  selector de atributo en una sola regla.
+*/
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme='light']) {
+		--superficie: #12130f;
+		--superficie-alt: #1a1b17;
+		--superficie-elevada: #202119;
+		--texto: #f0f1ea;
+		--texto-suave: #b0b2a8;
+		--borde: #33342c;
+		--marca: var(--color-selva-400);
+		--enlace: var(--color-selva-400);
+		--foco: var(--color-achiote-400);
+	}
+}
+
+:root[data-theme='dark'] {
+	--superficie: #12130f;
+	--superficie-alt: #1a1b17;
+	--superficie-elevada: #202119;
+	--texto: #f0f1ea;
+	--texto-suave: #b0b2a8;
+	--borde: #33342c;
+	--marca: var(--color-selva-400);
+	--enlace: var(--color-selva-400);
+	--foco: var(--color-achiote-400);
+}
+
+/* Alinea los controles nativos (barras de scroll, selects) con el tema. */
+:root {
+	color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme='light']) {
+		color-scheme: dark;
+	}
+}
+:root[data-theme='dark'] {
+	color-scheme: dark;
+}
+:root[data-theme='light'] {
+	color-scheme: light;
+}
+
+@layer base {
+	html {
+		scroll-behavior: smooth;
+	}
+
+	body {
+		background-color: var(--superficie);
+		color: var(--texto);
+		font-family: var(--font-sans);
+		font-synthesis-weight: none;
+		-webkit-font-smoothing: antialiased;
+	}
+
+	:focus-visible {
+		outline: 3px solid var(--foco);
+		outline-offset: 2px;
+	}
+
+	::selection {
+		background: var(--color-achiote-400);
+		color: var(--color-carbon-900);
+	}
+
+	@media (prefers-reduced-motion: reduce) {
+		html {
+			scroll-behavior: auto;
+		}
+		*,
+		*::before,
+		*::after {
+			animation-duration: 0.01ms !important;
+			animation-iteration-count: 1 !important;
+			transition-duration: 0.01ms !important;
+		}
+	}
+}
+
+@utility contenedor {
+	width: 100%;
+	max-width: 84rem;
+	margin-inline: auto;
+	padding-inline: 1.25rem;
+
+	@media (width >= 48rem) {
+		padding-inline: 2rem;
+	}
+}
+
+/*
+  Titulares: eje de ancho expandido de Archivo, sin segunda familia.
+
+  El interletrado y el interlineado son cómodos por defecto porque estos
+  valores tienen que funcionar desde 26px (móvil) hasta 58px (escritorio).
+  Un tracking de -0.025em con interlineado 1.03 sólo se lee bien en
+  tamaños grandes; en móvil apelmaza las letras y pega las líneas. El
+  apretado tipográfico se aplica aparte, sólo donde el texto es grande.
+*/
+@utility display {
+	font-stretch: 110%;
+	font-weight: 700;
+	letter-spacing: 0.005em;
+	line-height: 1.18;
+}
+
+/*
+  Sombreado diagonal en esquina: la firma visual de cada tesela del
+  logotipo original. Se replica aquí para que la retícula del sitio se lea
+  como continuación de la marca, no como cuadrícula genérica.
+*/
+@utility tesela {
+	position: relative;
+	overflow: hidden;
+}
+
+@utility tesela-diagonal {
+	position: relative;
+	overflow: hidden;
+
+	&::after {
+		content: '';
+		position: absolute;
+		inset: 0;
+		background: linear-gradient(
+			45deg,
+			rgb(0 0 0 / 0.09) 0%,
+			rgb(0 0 0 / 0.09) 30%,
+			transparent 30%
+		);
+		pointer-events: none;
+	}
+}

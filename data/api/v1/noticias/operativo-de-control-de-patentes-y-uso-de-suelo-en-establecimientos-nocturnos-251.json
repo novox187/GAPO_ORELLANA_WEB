@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 251,
+    "slug": "operativo-de-control-de-patentes-y-uso-de-suelo-en-establecimientos-nocturnos-251",
+    "titulo": "Operativo de control de patentes y uso de suelo en establecimientos nocturnos",
+    "resumen": "Con el compromiso de garantizar el orden, la seguridad y la convivencia ciudadana, la Alcaldía de Francisco de Orellana ejecuta operativos de control en establecimientos nocturnos de entretenimiento para adultos.",
+    "fecha": "2026-02-10",
+    "imagen": {
+      "id": "222f91362896e20e",
+      "hash": "222f91362896e20ed85566de1ad90689267b9821fb78a422477d05bb98147a0e",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_7433.JPG",
+      "rutaOriginal": "/media/originales/222f91362896e20e.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/222f91362896e20e-400.webp",
+        "800w": "/media/derivados/222f91362896e20e-800.webp",
+        "1600w": "/media/derivados/222f91362896e20e-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6470703,
+      "alt": "Operativo de control de patentes y uso de suelo en establecimientos nocturnos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/251/",
+    "fuente_url": "https://orellana.gob.ec/noticia/251/",
+    "cuerpo": "Con el compromiso de garantizar el orden, la seguridad y la convivencia ciudadana, la Alcaldía de Francisco de Orellana ejecuta operativos de control en establecimientos nocturnos de entretenimiento para adultos.\nEn coordinación con el Cuerpo de Bomberos y la Comisaría Nacional de Policía, se verifican patentes municipales, permisos de funcionamiento y el correcto uso de suelo, conforme a la normativa vigente, “En este momento, vemos que un local no tiene permiso de uso de suelo, patente municipal y mucho menos tiene el permiso anual de funcionamiento, ya que este tipo de establecimientos tienen que estar operando en el polígono determinado, de acuerdo a la ordenanza municipal 013-2025.” Adrián Zambrano, técnico del GADMFO.\nEstas acciones se realizan en aplicación del artículo 55 del COOTAD, permitiendo la clausura de locales que incumplen la ley o funcionan en zonas no autorizadas, “Hago un llamado a la ciudadanía, a los propietarios de los establecimientos que; por favor, realicen los documentos correspondientes, antes de generar cualquier apertura de un establecimiento, puesto que se estarían vulnerando algunos derechos fundamentales de la ciudadanía en general.” Adrián Zambrano, técnico del GADMFO.\nLa Municipalidad reafirma su compromiso con el bienestar ciudadano, con acciones firmes que protegen a las familias y fortalecen una convivencia segura y ordenada. JG.",
+    "imagenes": [
+      {
+        "id": "222f91362896e20e",
+        "hash": "222f91362896e20ed85566de1ad90689267b9821fb78a422477d05bb98147a0e",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_7433.JPG",
+        "rutaOriginal": "/media/originales/222f91362896e20e.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/222f91362896e20e-400.webp",
+          "800w": "/media/derivados/222f91362896e20e-800.webp",
+          "1600w": "/media/derivados/222f91362896e20e-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6470703,
+        "alt": "Operativo de control de patentes y uso de suelo en establecimientos nocturnos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

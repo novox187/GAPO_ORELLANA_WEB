@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 252,
+    "slug": "las-veredas-son-para-el-peaton-no-para-la-mercaderia-252",
+    "titulo": "Las veredas son para el peatón, no para la mercadería",
+    "resumen": "En la calle Napo, la ocupación de las veredas con maniquíes y mercadería ha reducido el espacio para el tránsito peatonal, afectando la movilidad y la imagen urbana, y obligando a los peatones a caminar por la calzada, para el ciudadano Eduardo Faría",
+    "fecha": "2026-02-12",
+    "imagen": {
+      "id": "ca60db8e935392ab",
+      "hash": "ca60db8e935392ab651dbe0225aadc7d34149b7362a62fc004ece8960ade1eb5",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG.JPG",
+      "rutaOriginal": "/media/originales/ca60db8e935392ab.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ca60db8e935392ab-400.webp",
+        "800w": "/media/derivados/ca60db8e935392ab-800.webp",
+        "1600w": "/media/derivados/ca60db8e935392ab-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7378050,
+      "alt": "Las veredas son para el peatón, no para la mercadería",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/252/",
+    "fuente_url": "https://orellana.gob.ec/noticia/252/",
+    "cuerpo": "En la calle Napo, la ocupación de las veredas con maniquíes y mercadería ha reducido el espacio para el tránsito peatonal, afectando la movilidad y la imagen urbana, y obligando a los peatones a caminar por la calzada, para el ciudadano Eduardo Farías, los propietarios de los negocios deben respetar la vereda para que el peatón circule sin ningún problema, “la vereda es para el peatón y el negociante debería tener su pequeño espacio y no interferir en la circulación de cada persona que transita por la calle.”\nAnte esta problemática, la Alcaldía ejecuta operativos de control y sensibilización, en cumplimiento de las Ordenanzas Municipales N.º 001-2015 y 020-2024, específicamente en su artículo 16, que establece el correcto uso del espacio público y la obligatoriedad de contar con los permisos correspondientes, en la cual coincide con su opinión el habitante de El Coca Jandri Farfán, “Hago un llamado de atención a todos los comerciantes, por no hacer el buen uso de las veredas, hacen que el espacio sea reducido y puedan ocasionar accidentes. \nLa Alcaldía hace un llamado firme a los comerciantes para mantener despejadas las veredas, recordando que el incumplimiento de la ordenanza será sancionado con un salario básico unificado, conforme a la normativa vigente, en favor de una ciudad ordenada, segura y accesible para todos. DV.",
+    "imagenes": [
+      {
+        "id": "ca60db8e935392ab",
+        "hash": "ca60db8e935392ab651dbe0225aadc7d34149b7362a62fc004ece8960ade1eb5",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG.JPG",
+        "rutaOriginal": "/media/originales/ca60db8e935392ab.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ca60db8e935392ab-400.webp",
+          "800w": "/media/derivados/ca60db8e935392ab-800.webp",
+          "1600w": "/media/derivados/ca60db8e935392ab-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7378050,
+        "alt": "Las veredas son para el peatón, no para la mercadería",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

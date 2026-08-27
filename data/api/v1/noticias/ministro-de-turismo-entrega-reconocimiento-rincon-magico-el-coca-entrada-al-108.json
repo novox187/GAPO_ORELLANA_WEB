@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 108,
+    "slug": "ministro-de-turismo-entrega-reconocimiento-rincon-magico-el-coca-entrada-al-108",
+    "titulo": "Ministro de turismo entrega reconocimiento Rincón Mágico “El Coca entrada al Yasuní”",
+    "resumen": "En un acto simbólico cargado de orgullo y compromiso con el turismo sostenible, el ministro Mateo Estrella entregó el reconocimiento Rincón Mágico “El Coca, Entrada al Yasuni”. El reconocimiento fue recibido por la alcaldesa Shirma Cortés Sanmiguel,",
+    "fecha": "2025-06-20",
+    "imagen": {
+      "id": "ea2bc2bd929d43bb",
+      "hash": "ea2bc2bd929d43bb0d9d7da2e2c9edc484155b536111443723617edbbf08f6b0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_9905.JPG",
+      "rutaOriginal": "/media/originales/ea2bc2bd929d43bb.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ea2bc2bd929d43bb-400.webp",
+        "800w": "/media/derivados/ea2bc2bd929d43bb-800.webp",
+        "1600w": "/media/derivados/ea2bc2bd929d43bb-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9061945,
+      "alt": "Ministro de turismo entrega reconocimiento Rincón Mágico “El Coca entrada al Yasuní”",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/108/",
+    "fuente_url": "https://orellana.gob.ec/noticia/108/",
+    "cuerpo": "En un acto simbólico cargado de orgullo y compromiso con el turismo sostenible, el ministro Mateo Estrella entregó el reconocimiento Rincón Mágico “El Coca, Entrada al Yasuni”.\nEl reconocimiento fue recibido por la alcaldesa Shirma Cortés Sanmiguel, en una ceremonia realizada en el impresionante entorno natural del parque Bocana del Payamino, “El Coca está contento de recibir este reconocimiento que nos fortalece, nos motiva, nos anima a seguir trabajando para que el turista nos visite y se vaya encantado de nuestro hermoso Rincón Mágico, El Coca”. \nEl distintivo “Rincón Mágico” forma parte de una estrategia nacional para resaltar su carácter especial como una zona que combina paisajes únicos, ecosistemas diversos y tradiciones ancestrales que hacen de la ciudad y sus alrededores un lugar con un encanto particular, “Hemos reconocido a El Coca como puerta de entrada al Yasuní, porque tienen una riqueza fluvial muy interesante e importante y en la puerta en uno de los parques más megadiversos del mundo. A todos los visitantes nacionales e internacionales los invito a que vengan a El Coca a disfrutar de las maravillas que hay acá, que vengan al parque Bocana del Payamino que es muy bonito”. Mateo Estrella, ministro de turismo.\nEl evento contó con la participación de danzas tradicionales, música, representantes comunitarios, autoridades locales, emprendedores turísticos y visitantes, quienes celebraron este nuevo capítulo en la historia del turismo amazónico ecuatoriano. JG.",
+    "imagenes": [
+      {
+        "id": "ea2bc2bd929d43bb",
+        "hash": "ea2bc2bd929d43bb0d9d7da2e2c9edc484155b536111443723617edbbf08f6b0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_9905.JPG",
+        "rutaOriginal": "/media/originales/ea2bc2bd929d43bb.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ea2bc2bd929d43bb-400.webp",
+          "800w": "/media/derivados/ea2bc2bd929d43bb-800.webp",
+          "1600w": "/media/derivados/ea2bc2bd929d43bb-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9061945,
+        "alt": "Ministro de turismo entrega reconocimiento Rincón Mágico “El Coca entrada al Yasuní”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

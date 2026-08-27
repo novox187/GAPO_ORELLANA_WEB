@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 268,
+    "slug": "cancha-cubierta-del-barrio-20-de-mayo-sufre-danos-de-malos-ciudadanos-268",
+    "titulo": "Cancha cubierta del barrio 20 de Mayo sufre daños de malos ciudadanos",
+    "resumen": "Hace poco la cancha cubierta del barrio 20 de Mayo, volvió a la vida: se pintó, se instalaron luminarias, graderíos y se adecuaron las áreas para índor fútbol y básquet.",
+    "fecha": "2026-03-16",
+    "imagen": {
+      "id": "9399b26e74881e10",
+      "hash": "9399b26e74881e10cabd459fbf2af38b6e796c22eb5bdafed2e6b735e23594b9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_1_IM445.JPG",
+      "rutaOriginal": "/media/originales/9399b26e74881e10.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9399b26e74881e10-400.webp",
+        "800w": "/media/derivados/9399b26e74881e10-800.webp",
+        "1600w": "/media/derivados/9399b26e74881e10-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 7216395,
+      "alt": "Cancha cubierta del barrio 20 de Mayo sufre daños de malos ciudadanos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/268/",
+    "fuente_url": "https://orellana.gob.ec/noticia/268/",
+    "cuerpo": "Hace poco la cancha cubierta del barrio 20 de Mayo, volvió a la vida: se pintó, se instalaron luminarias, graderíos y se adecuaron las áreas para índor fútbol y básquet.\nUn lugar que volvió a ser punto de encuentro para toda la comunidad. Sin embargo, recientemente se reportó el daño de un aro y del tablero de la cancha de básquet, afectando este espacio que fue recuperado para el disfrute y la práctica deportiva de la ciudadanía, la moradora del sector Karla Zapata y Fausto Chimbo, piden a la ciudadanía cuidar los espacios públicos que son de todos, “Da tristeza ver esto así, porque esta cancha es para los jóvenes del barrio. Aquí vienen a hacer deporte y a pasar un buen momento de sano esparcimiento; por favor, cuidémoslos.”\n“Lo malo es que al final no se perjudica a la institución, ni a la autoridad, nos perjudicamos a nosotros mismos como comunidad.”\nCuando se destruye un espacio público, no se le hace daño a una administración, el daño se lo hace a la misma ciudadanía, especialmente a los niños y jóvenes que ya no pueden jugar, que pierden su espacio deportivo, recuerda la agente de control municipal Mercy Acurio, “Hago un llamado a todos los ciudadanos a cuidar y valorar nuestros bienes comunitarios. Estos espacios no solo nos pertenecen a nosotros, sino también a nuestros hijos, a los jóvenes del barrio y a las futuras generaciones. Son lugares donde pueden recrearse, convivir y desarrollar sus habilidades deportivas.” \nUn tablero puede romperse en minutos;\npero, construir comunidad toma años.\nCuidemos nuestros espacios, cuidemos lo que es de todos.\nPorque el verdadero cambio empieza cuando cada ciudadano decide respetar y proteger su propio barrio. ST.",
+    "imagenes": [
+      {
+        "id": "9399b26e74881e10",
+        "hash": "9399b26e74881e10cabd459fbf2af38b6e796c22eb5bdafed2e6b735e23594b9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_1_IM445.JPG",
+        "rutaOriginal": "/media/originales/9399b26e74881e10.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9399b26e74881e10-400.webp",
+          "800w": "/media/derivados/9399b26e74881e10-800.webp",
+          "1600w": "/media/derivados/9399b26e74881e10-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 7216395,
+        "alt": "Cancha cubierta del barrio 20 de Mayo sufre daños de malos ciudadanos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "id": 3,
+    "slug": "solicitud-para-renovar-la-licencia-unica-anual-de-funcionamiento-para-el-3",
+    "nombre": "Solicitud para renovar la licencia única anual de funcionamiento para el ejercicio de actividades turísticas",
+    "direccion": {
+      "id": 2,
+      "slug": "direccion-de-turismo",
+      "nombre": "DIRECCIÓN DE TURISMO"
+    },
+    "categorias": [
+      "turismo"
+    ],
+    "perfiles": [
+      "ciudadano",
+      "empresa",
+      "transportista",
+      "turista"
+    ],
+    "resumen": "¿Qué es la licencia única anual de funcionamiento para el ejercicio de actividades turísticas?",
+    "que_es": "¿Qué es la licencia única anual de funcionamiento para el ejercicio de actividades turísticas?",
+    "para_que_sirve": "La Licencia Única Anual de Funcionamiento permite identificar el tipo, actividad y categoría del establecimiento turístico, así como garantiza la legalidad del mismo.",
+    "quienes_acceden": "Pueden acceder los propietarios de establecimientos de las actividades turísticas de: Alojamiento, alimentos y bebidas, transportación, cuando se dedica principalmente al turismo; inclusive el transporte aéreo, marítimo, fluvial, terrestre y el alquiler de vehículos para este propósito; operación, cuando las agencias de viajes provean su propio transporte, esa actividad se considerará parte del agenciamiento; la de intermediación, agencia de servicios turísticos y organizadoras de eventos congresos y convenciones; y, casinos, salas de juego (bingo-mecánicos) hipódromos y parques de atracciones estables.",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Sí, el valor depende del tipo de actividad, la categoría y el aforo de cada establecimiento."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Llenar el formulario de solicitud para renovación del LUAF. (Descargar formulario aquí)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Certificado de registro emitido por el Ministerio de Turismo CZ2 (Alojamiento).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Pago del uno por mil emitido por el Ministerio de Turismo CZ2 (vigente).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Pago Licencia Única Anual de Funcionamiento vigente.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Patente Municipal vigente.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Permiso vigente de Bomberos.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Permiso Sanitario del ARCSA vigente (Establecimientos de A&B).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "Hoja de actualización de información.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

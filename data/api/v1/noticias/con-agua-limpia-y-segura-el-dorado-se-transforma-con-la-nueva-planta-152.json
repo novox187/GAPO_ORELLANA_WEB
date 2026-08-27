@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 152,
+    "slug": "con-agua-limpia-y-segura-el-dorado-se-transforma-con-la-nueva-planta-152",
+    "titulo": "Con agua limpia y segura, El Dorado se transforma con la nueva planta potabilizadora",
+    "resumen": "En la parroquia El Dorado avanza la instalación de una moderna planta compacta de agua potable, una obra emblemática impulsada por la alcaldesa Shirma Cortés Sanmiguel. Con capacidad para potabilizar 15 litros por segundo, esta",
+    "fecha": "2025-08-27",
+    "imagen": {
+      "id": "0288b7fd63eb26fa",
+      "hash": "0288b7fd63eb26fa1122db450450270e31b071d5e684acab9812c95c7efdc725",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_1_IMG0112.JPG",
+      "rutaOriginal": "/media/originales/0288b7fd63eb26fa.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/0288b7fd63eb26fa-400.webp",
+        "800w": "/media/derivados/0288b7fd63eb26fa-800.webp",
+        "1600w": "/media/derivados/0288b7fd63eb26fa-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7663919,
+      "alt": "Con agua limpia y segura, El Dorado se transforma con la nueva planta potabilizadora",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/152/",
+    "fuente_url": "https://orellana.gob.ec/noticia/152/",
+    "cuerpo": "En la parroquia El Dorado avanza la instalación de una moderna planta compacta de agua potable, una obra emblemática impulsada por la alcaldesa Shirma Cortés Sanmiguel. Con capacidad para potabilizar 15 litros por segundo, esta infraestructura responde a una necesidad histórica del sector y cumple con los más altos estándares técnicos y sanitarios del país, “Estamos tan agradecidos de las autoridades que nos representan y por ver las necesidades que sufrimos en la parroquia El Dorado.” Oswaldo Elizalde, obrero del sector.\n“El pueblo está muy contento, muy alegra, porque hasta el momento no ha faltado el agua, a pesar que estamos trabajando nos están abasteciendo con los tanqueros.” Máximo Chila, obrero del sector.\nLa nueva planta en construcción que tiene una inversión de USD. 241,321.21, asegurará el tratamiento completo del agua y, una vez operativa, mejorará la calidad de vida de más de 2.000 habitantes de la cabecera parroquial, “Sobre los muros de apoyo, va el cajón que incluye la floculación y la sedimentación y en la parte posterior va lo que es el filtro de agua.” Deysi Tobar, residente de obra.\nLa Alcaldía fortalece su compromiso con un servicio continuo, seguro y de calidad para el progreso de las comunidades rurales. Con acciones concretas como esta, seguimos construyendo “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "0288b7fd63eb26fa",
+        "hash": "0288b7fd63eb26fa1122db450450270e31b071d5e684acab9812c95c7efdc725",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_1_IMG0112.JPG",
+        "rutaOriginal": "/media/originales/0288b7fd63eb26fa.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0288b7fd63eb26fa-400.webp",
+          "800w": "/media/derivados/0288b7fd63eb26fa-800.webp",
+          "1600w": "/media/derivados/0288b7fd63eb26fa-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7663919,
+        "alt": "Con agua limpia y segura, El Dorado se transforma con la nueva planta potabilizadora",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

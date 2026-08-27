@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 103,
+    "slug": "la-alcaldia-impulsa-la-economia-local-con-la-feria-de-emprendimientos-aprende-103",
+    "titulo": "La Alcaldía impulsa la economía local con la feria de emprendimientos \"Aprende Emprendedor\"",
+    "resumen": "La alcaldía liderada por Shirma Cortés Sanmiguel continúa apostando por el desarrollo económico y social a través de iniciativas que promueven el autoempleo y el emprendimiento. En la Plazoleta Municipal, se realizó la feria de emprendimientos \"Apren",
+    "fecha": "2025-06-14",
+    "imagen": {
+      "id": "d71735d3ec7c226b",
+      "hash": "d71735d3ec7c226b7c614719aa4f52eaa6836418e2a2c9c59d6d40d78a318a9b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG_8608_jBSidtC.JPG",
+      "rutaOriginal": "/media/originales/d71735d3ec7c226b.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d71735d3ec7c226b-400.webp",
+        "800w": "/media/derivados/d71735d3ec7c226b-800.webp",
+        "1600w": "/media/derivados/d71735d3ec7c226b-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7902034,
+      "alt": "La Alcaldía impulsa la economía local con la feria de emprendimientos \"Aprende Emprendedor\"",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/103/",
+    "fuente_url": "https://orellana.gob.ec/noticia/103/",
+    "cuerpo": "La alcaldía liderada por Shirma Cortés Sanmiguel continúa apostando por el desarrollo económico y social a través de iniciativas que promueven el autoempleo y el emprendimiento. En la Plazoleta Municipal, se realizó la feria de emprendimientos \"Aprende Emprendedor\", un espacio dedicado a exhibir y comercializar los productos creados por ciudadanos que participaron en los talleres gratuitos, “Me da mucho gusto al ver este contacto y coordinación que tiene el municipio con la comunidad, haciendo estos eventos, porque es una forma de ayudar, de participar e inmiscuirse con la comunidad; es un impulso para que también puedan trabajar y auto sustentarse, porque muchas de ellas son jefas de hogar y así puedan sacar adelante su residencia y eso fomenta la economía del pueblo también; muy buen trabajo por parte del municipio de Francisco de Orellana”. Manifiesta emocionada la ciudadana Estela Guiño.\nDurante los últimos meses, decenas de emprendedores recibieron formación técnica en áreas de gastronomía, panadería y pastelería, corte y confección, y belleza, fortaleciendo sus capacidades y preparándose para iniciar sus propios negocios. La feria es el escenario perfecto para que estos nuevos emprendedores den a conocer su trabajo, generen ingresos y establezcan contactos comerciales, “A través del GADM de Francisco de Orellana, también se invierte los recursos en los emprendedores; los recursos no solamente se emplean en obras que se ven. Estas son obras que también van en beneficio de nuestra sociedad”. Víctor Ruiz, vicealcalde de Francisco de Orellana.\nCon esta iniciativa, la alcaldía fortalece el desarrollo humano, la economía local y el empoderamiento ciudadano. JG.",
+    "imagenes": [
+      {
+        "id": "d71735d3ec7c226b",
+        "hash": "d71735d3ec7c226b7c614719aa4f52eaa6836418e2a2c9c59d6d40d78a318a9b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG_8608_jBSidtC.JPG",
+        "rutaOriginal": "/media/originales/d71735d3ec7c226b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d71735d3ec7c226b-400.webp",
+          "800w": "/media/derivados/d71735d3ec7c226b-800.webp",
+          "1600w": "/media/derivados/d71735d3ec7c226b-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7902034,
+        "alt": "La Alcaldía impulsa la economía local con la feria de emprendimientos \"Aprende Emprendedor\"",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

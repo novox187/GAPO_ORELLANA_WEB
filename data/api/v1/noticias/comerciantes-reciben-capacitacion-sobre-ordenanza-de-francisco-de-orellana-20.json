@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 20,
+    "slug": "comerciantes-reciben-capacitacion-sobre-ordenanza-de-francisco-de-orellana-20",
+    "titulo": "Comerciantes reciben capacitación sobre ordenanza de Francisco de Orellana",
+    "resumen": "La ordenanza que regula el comercio en el cantón...",
+    "fecha": "2025-01-21",
+    "imagen": {
+      "id": "7180bfdbb0a9daf4",
+      "hash": "7180bfdbb0a9daf40f63e3dae6e9345fa4811d635708cbd8dc2c9128e36e8f85",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_CAPACITACION_COMERCIANTES.png",
+      "rutaOriginal": "/media/originales/7180bfdbb0a9daf4.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/7180bfdbb0a9daf4-400.webp",
+        "800w": "/media/derivados/7180bfdbb0a9daf4-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 993331,
+      "alt": "Comerciantes reciben capacitación sobre ordenanza de Francisco de Orellana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/20/",
+    "fuente_url": "https://orellana.gob.ec/noticia/20/",
+    "cuerpo": "140 comerciantes que trabajan en espacios públicos participaron en una capacitación liderada por la Comisaría Municipal y Ambiental, junto con Agentes de Control. En esta jornada, se explicó y socializó la ordenanza que regula el comercio en el cantón, aprobada en diciembre de 2024, Hernán Tumbaco, comisario municipal y ambiental municipal, manifiesta que se enfocaron en el respeto del uso adecuado de aceras, calzadas y pasos peatonales, “Por ejemplo, no se permite los comerciantes ambulantes que se queden estacionados en las áreas de regeneración urbana como en el parque, en el malecón, en la Bocana del Payamino, en Paseo Napo, entre otros”. \nEl comisario destacó que esta normativa define tres tipos de comerciantes: ambulantes, semifijos y temporales, y aclaró que, por ahora, solo se están renovando permisos previamente otorgados, sin emitir otros nuevos, “Para este nuevo año hay otros requisitos, entre ellos el uso del extintor de quienes hacen uso de bombonas o tanques de gas; está prohibido el uso de megáfonos, de parlantes, y este tipo de cosas los está señalando la ordenanza y lo queremos aplicarla lo más pronto posible”.\nEsta capacitación es parte de las dos formaciones anuales destinadas a garantizar el orden y el cumplimiento de la normativa en el cantón. EV.",
+    "imagenes": [
+      {
+        "id": "7180bfdbb0a9daf4",
+        "hash": "7180bfdbb0a9daf40f63e3dae6e9345fa4811d635708cbd8dc2c9128e36e8f85",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_CAPACITACION_COMERCIANTES.png",
+        "rutaOriginal": "/media/originales/7180bfdbb0a9daf4.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7180bfdbb0a9daf4-400.webp",
+          "800w": "/media/derivados/7180bfdbb0a9daf4-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 993331,
+        "alt": "Comerciantes reciben capacitación sobre ordenanza de Francisco de Orellana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 98,
+    "slug": "moradores-de-comuna-kichwa-huayusa-retiran-memoria-a-retroexcavadora-municipal-98",
+    "titulo": "Moradores de comuna Kichwa Huayusa retiran memoria a retroexcavadora municipal",
+    "resumen": "El 23 de mayo, moradores de la comuna kichwa Huayusa retuvieron maquinaria municipal",
+    "fecha": "2025-06-10",
+    "imagen": {
+      "id": "8d670bf18146bfd0",
+      "hash": "8d670bf18146bfd0084ca59d352ae0ab7ca597dce3af9346b774bd69e7ad9a79",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_3613.JPG",
+      "rutaOriginal": "/media/originales/8d670bf18146bfd0.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8d670bf18146bfd0-400.webp",
+        "800w": "/media/derivados/8d670bf18146bfd0-800.webp",
+        "1600w": "/media/derivados/8d670bf18146bfd0-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 4640,
+      "bytes": 9558667,
+      "alt": "Moradores de comuna Kichwa Huayusa retiran memoria a retroexcavadora municipal",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+    },
+    "url": "/noticia/98/",
+    "fuente_url": "https://orellana.gob.ec/noticia/98/",
+    "cuerpo": "El 23 de mayo, moradores de la comuna kichwa Huayusa retuvieron maquinaria municipal y privada, mismas que se encontraban realizando trabajos de libre aprovechamiento de áridos y pétreos en la mina GADMFO-Huayusa, Solange Galarza, técnica municipal, relata lo sucedido en dicho día, “Los compañeros de ambiente, procedieron a comunicar al departamento de procuraduría que, la maquinaria que se encontraba trabajando en la mina de libre aprovechamiento GADMFO-Huayusa había sido arbitrariamente retenida; la cual, a través de amenazas, intimidación con lanzas y con ají habían arranchado las llaves a nuestro operario, quitándole la capacidad operativa; luego acudimos con la Policía Nacional al lugar y los moradores habían trasladado la maquinaria municipal y privada a las instalaciones cercanas al coliseo de la comuna”.\nÉrika Félix, directora de ambiente del municipio, manifiesta que hay que considerar que el libre aprovechamiento del GAD Municipal, es legalmente otorgado por la Agencia de Regulación y Control Minero, por el Ministerio de Minas y la Constitución del Ecuador otorga la competencia de áridos y pétreos a los GADs Municipales; en este caso, el lecho del río Coca es un bien de dominio público nacional, “Nosotros estamos amparados ante la ley de minería y también estamos amparados con la competencia 004 desde el 2015, justamente como autoridad competente para poder manejar estos recursos”.\nEl 27 de mayo, en cumplimiento del acto urgente propuesta ante la Fiscalía provincial de Orellana, la Policía Nacional procede a recuperar las maquinaria que estaba cerca del coliseo de la comuna kichwa Huayusa; luego de la verificación técnica de personal de equipo caminero municipal, detectó que la máquina tipo excavadora de orugas, marca DOOSAN, modelo: DX340LCA-K de propiedad del municipio le faltaba la caja de fusibles, dos rodillos del tren de rodaje, manipulación y sustracción de la memoria de control; así como el parabrisa frontal fisurado, “Hay que considerar que la memoria de control sabemos que es un elemento muy importante para el correcto funcionamiento de la máquina, dado que es la que emite los datos de funcionamiento y operación; asimismo, con la falta de fusibles, no podría ni siquiera prender; se puede dejar como antecedente que, para la recuperación de la máquina se tuvo que hacer maniobras mecánicas para poder recuperar como tal, la maquinaria”. Luis Jiménez, jefe de equipo caminero municipal.\nLa municipalidad ha procedido a realizar las denuncias respectivas, con el firme propósito de que este tipo de actos ilegales no se repitan y perjudiquen el avance de obras y el mantenimiento vial en nuestro cantón. JG.",
+    "imagenes": [
+      {
+        "id": "8d670bf18146bfd0",
+        "hash": "8d670bf18146bfd0084ca59d352ae0ab7ca597dce3af9346b774bd69e7ad9a79",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_3613.JPG",
+        "rutaOriginal": "/media/originales/8d670bf18146bfd0.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8d670bf18146bfd0-400.webp",
+          "800w": "/media/derivados/8d670bf18146bfd0-800.webp",
+          "1600w": "/media/derivados/8d670bf18146bfd0-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 4640,
+        "bytes": 9558667,
+        "alt": "Moradores de comuna Kichwa Huayusa retiran memoria a retroexcavadora municipal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      }
+    ]
+  }
+}

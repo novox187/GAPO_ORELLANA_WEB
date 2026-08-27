@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 100,
+    "slug": "avanza-a-gran-medida-la-construccion-de-la-cancha-de-futbol-el-moretal-100",
+    "titulo": "Avanza a gran medida la construcción de la cancha de fútbol El Moretal",
+    "resumen": "Con un 80% de avance, la Alcaldía de Francisco de Orellana continúa ejecutando la construcción de la cancha de fútbol, graderíos, camerinos",
+    "fecha": "2025-06-12",
+    "imagen": {
+      "id": "c02f230c3b9a7caa",
+      "hash": "c02f230c3b9a7caa8fc8d232a30a0134552e4936465b5e178ad86b2af7721799",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_5256.JPG",
+      "rutaOriginal": "/media/originales/c02f230c3b9a7caa.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c02f230c3b9a7caa-400.webp",
+        "800w": "/media/derivados/c02f230c3b9a7caa-800.webp",
+        "1600w": "/media/derivados/c02f230c3b9a7caa-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6824207,
+      "alt": "Avanza a gran medida la construcción de la cancha de fútbol El Moretal",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/100/",
+    "fuente_url": "https://orellana.gob.ec/noticia/100/",
+    "cuerpo": "Con un 80% de avance, la Alcaldía de Francisco de Orellana continúa ejecutando la construcción de la cancha de fútbol, graderíos, camerinos y cerramiento en el barrio El Moretal, una infraestructura que beneficiará significativamente a cientos de familias del sector en el ámbito deportivo, “Agradecer a todas las autoridades del municipio y que sigan trabajando por el bienestar del deporte, porque el Coca sigue creciendo”. Miguel Oña, opinión ciudadana. \nActualmente, se realiza la colocación de césped sintético en un área de 90x60 metros cuadrados, como parte del equipamiento de esta moderna cancha deportiva. Para estos trabajos, el proyecto cuenta con mano de obra local calificada y no calificada, lo que impulsa también la economía del sector, “Es una buena iniciativa por parte de las autoridades para que haya movimiento económico y empleo, y aspiramos que las autoridades continúen así, para que el desarrollo de nuestro cantón siga fluyendo y también la economía”. Félix Hidalgo, trabajador de la obra. \nLa administración municipal, liderada por la alcaldesa Shirma Cortés Sanmiguel, ratifica su compromiso de seguir trabajando arduamente para mejorar las condiciones de vida de los ciudadanos y fomentar espacios de recreación y deporte para la comunidad. DV.",
+    "imagenes": [
+      {
+        "id": "c02f230c3b9a7caa",
+        "hash": "c02f230c3b9a7caa8fc8d232a30a0134552e4936465b5e178ad86b2af7721799",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_5256.JPG",
+        "rutaOriginal": "/media/originales/c02f230c3b9a7caa.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c02f230c3b9a7caa-400.webp",
+          "800w": "/media/derivados/c02f230c3b9a7caa-800.webp",
+          "1600w": "/media/derivados/c02f230c3b9a7caa-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6824207,
+        "alt": "Avanza a gran medida la construcción de la cancha de fútbol El Moretal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

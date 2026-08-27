@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 200,
+    "slug": "el-coca-avanza-nueva-bahia-de-estacionamiento-impulsa-orden-modernidad-y-200",
+    "titulo": "El Coca avanza: nueva bahía de estacionamiento impulsa orden, modernidad y progreso para todos",
+    "resumen": "Con paso firme y una visión clara de desarrollo para El Coca, la alcaldesa Shirma Cortés Sanmiguel lidera la construcción de una moderna bahía de estacionamiento para el transporte urbano en el barrio 28 de Marzo. Esta intervención no solo responde a",
+    "fecha": "2025-11-20",
+    "imagen": {
+      "id": "618acdd1d8ec345e",
+      "hash": "618acdd1d8ec345e369297ff95e2351acfdfa7a74cfb6855803600cf45ddc4b3",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_zNg6D5n.JPG",
+      "rutaOriginal": "/media/originales/618acdd1d8ec345e.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/618acdd1d8ec345e-400.webp",
+        "800w": "/media/derivados/618acdd1d8ec345e-800.webp",
+        "1600w": "/media/derivados/618acdd1d8ec345e-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10923268,
+      "alt": "El Coca avanza: nueva bahía de estacionamiento impulsa orden, modernidad y progreso para todos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/200/",
+    "fuente_url": "https://orellana.gob.ec/noticia/200/",
+    "cuerpo": "Con paso firme y una visión clara de desarrollo para El Coca, la alcaldesa Shirma Cortés Sanmiguel lidera la construcción de una moderna bahía de estacionamiento para el transporte urbano en el barrio 28 de Marzo. Esta intervención no solo responde a la necesidad de optimizar la movilidad, sino que proyecta una ciudad más organizada, segura y accesible para miles de ciudadanos que a diario utilizan el transporte público, “Vamos a tener mejores espacios para caminar, ya que no va a ver peligro con los carros, también están arreglando la parada y podemos coger el bus con tranquilidad, ya que antes no había una parada para protegernos del aguacero y del sol”, manifiesta con entusiasmo Frank Cerda, morador del barrio 28 de Marzo.\nLa obra contempla la construcción de 480 metros lineales de aceras y bordillos, así como una parada de transporte de cuatro metros de largo por 1,20 metros de ancho. Esta estructura, será hecha con metal de alta calidad y hormigón para asegurar su durabilidad y brindar mayor comodidad a los usuarios, con una inversión de USD 65.290,77, “A pesar del mal tiempo que hemos tenido estos últimos días, la obra de la bahía de estacionamiento se encuentra con un 80% de avance, hemos ejecutado los trabajos sin ninguna novedad y estamos verificando que se cumplan todos los parámetros contractuales.” Karla González, fiscalizadora municipal de la obra.\nLa Alcaldía, una vez más, reafirma su liderazgo y capacidad de gestión al impulsar transformaciones que ordenan la ciudad y mejoran la calidad de vida de todos. Porque cada obra que se construye es un paso más hacia “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "618acdd1d8ec345e",
+        "hash": "618acdd1d8ec345e369297ff95e2351acfdfa7a74cfb6855803600cf45ddc4b3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_zNg6D5n.JPG",
+        "rutaOriginal": "/media/originales/618acdd1d8ec345e.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/618acdd1d8ec345e-400.webp",
+          "800w": "/media/derivados/618acdd1d8ec345e-800.webp",
+          "1600w": "/media/derivados/618acdd1d8ec345e-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10923268,
+        "alt": "El Coca avanza: nueva bahía de estacionamiento impulsa orden, modernidad y progreso para todos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

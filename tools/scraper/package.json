@@ -1,0 +1,19 @@
+{
+  "name": "gadmfo-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Extractor de contenido publico de orellana.gob.ec hacia una API REST simulada en JSON.",
+  "engines": { "node": ">=22.6" },
+  "scripts": {
+    "scrape": "node src/index.ts",
+    "validate:data": "node src/validate.ts",
+    "report": "node src/report.ts"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "cheerio": "^1.0.0",
+    "sharp": "^0.34.2"
+  }
+}

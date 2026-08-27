@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 147,
+    "slug": "del-trabajo-infantil-al-cocazoo-eti-transforma-vidas-147",
+    "titulo": "Del trabajo infantil al Cocazoo, ETI transforma vidas",
+    "resumen": "La Alcaldía, a través del Proyecto de Erradicación del Trabajo Infantil (ETI), está cambiando historias.",
+    "fecha": "2025-08-19",
+    "imagen": {
+      "id": "81818208571bc03a",
+      "hash": "81818208571bc03a4d25cd9aab88634bda6895b958549e1dc1af4dd75ec33345",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_1_IMG_0686.JPG",
+      "rutaOriginal": "/media/originales/81818208571bc03a.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/81818208571bc03a-400.webp",
+        "800w": "/media/derivados/81818208571bc03a-800.webp",
+        "1600w": "/media/derivados/81818208571bc03a-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 11943456,
+      "alt": "Del trabajo infantil al Cocazoo, ETI transforma vidas",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/147/",
+    "fuente_url": "https://orellana.gob.ec/noticia/147/",
+    "cuerpo": "La Alcaldía, a través del Proyecto de Erradicación del Trabajo Infantil (ETI), está cambiando historias. Esta vez, un bus cargado de ilusión los llevó, junto a algunos padres, al Cocazoo, un santuario de rescate de fauna amazónica, en medio de un paraíso verde, rodeados de loros parlanchines, monos juguetones y el rugido tímido de un tigrillo curioso, “Me pareció súper genial, porque acá aprendimos sobre la biodiversidad y sobre los animalitos y cómo cuidarlos y tratarlos”. Beneficiario del proyecto ETI.\nAllí, cada paso fue una lección: Aprendimos que las tortugas nos recuerdan que cada paso cuenta, que los capibaras nos enseñan a convivir en paz con todos, que los loros cuentan historias con sus colores, que cada animal es un hermano del que debemos cuidar, “Gracias a la alcaldía por habernos brindado el paseo para que vengan los niños a conocer el zoológico y gracias por todo el grupo ETI.” María Pupiales, madre de familia.\nY es que, en este recorrido, no solo se encontraron con animales… se encontraron con ellos mismos. Descubrieron que la naturaleza, como la niñez, necesita protección para florecer.\n Esta es la visión de una alcaldía que no solo construye obras, sino que construye futuros. \nPorque cuidar a los niños y proteger la naturaleza es cuidar el corazón de nuestro cantón. ST.",
+    "imagenes": [
+      {
+        "id": "81818208571bc03a",
+        "hash": "81818208571bc03a4d25cd9aab88634bda6895b958549e1dc1af4dd75ec33345",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_1_IMG_0686.JPG",
+        "rutaOriginal": "/media/originales/81818208571bc03a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/81818208571bc03a-400.webp",
+          "800w": "/media/derivados/81818208571bc03a-800.webp",
+          "1600w": "/media/derivados/81818208571bc03a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 11943456,
+        "alt": "Del trabajo infantil al Cocazoo, ETI transforma vidas",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 90,
+    "slug": "municipalidad-continua-con-la-campana-de-concienciacion-vial-para-promover-la-90",
+    "titulo": "Municipalidad continúa con la campaña de concienciación vial para promover la seguridad en las calles",
+    "resumen": "La Dirección de Tránsito Municipal realizó campañas de concienciación vial en diversas calles céntricas de la ciudad de El Coca",
+    "fecha": "2025-05-29",
+    "imagen": {
+      "id": "51fb999576d291d8",
+      "hash": "51fb999576d291d81a73d87251062a947fb3df0a7e91af7d5ba56d008d2997d4",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_IMG_4015.JPG",
+      "rutaOriginal": "/media/originales/51fb999576d291d8.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/51fb999576d291d8-400.webp",
+        "800w": "/media/derivados/51fb999576d291d8-800.webp",
+        "1600w": "/media/derivados/51fb999576d291d8-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10685033,
+      "alt": "Municipalidad continúa con la campaña de concienciación vial para promover la seguridad en las calles",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+    },
+    "url": "/noticia/90/",
+    "fuente_url": "https://orellana.gob.ec/noticia/90/",
+    "cuerpo": "La Dirección de Tránsito Municipal realizó campañas de concienciación vial en diversas calles céntricas de la ciudad de El Coca. Estas acciones tienen como principal objetivo reducir los altos índices de accidentes de tránsito en el cantón, promoviendo una cultura de responsabilidad y respeto en la vía pública, “Con esta campaña, queremos incentivar a la ciudadanía a que respetemos las señales de tránsito, respetemos los dispositivos de control y conjuntamente reducir los índices de siniestrabilidad dentro del cantón”. Geovanny Zambrano, técnico del GADMFO. \nLas jornadas se desarrollaron con el respaldo institucional de la Agencia Nacional de Tránsito (ANT), el Sindicato de Choferes Profesionales de Orellana y la Policía Nacional del Ecuador. La participación activa de estas entidades refuerza el compromiso interinstitucional con la seguridad vial, lo cual ha sido valorado positivamente por la ciudadanía, “Me parece muy bien lo que hace el municipio, porque sinceramente ha habido muchos accidentes aquí en la avenida 9 de octubre, en la avenida Alejandro Labaka, entonces me parece muy bien de lo que están haciendo con la ciudadanía”. Daniel Benavides, opinión ciudadana. \nLa Alcaldía de Francisco de Orellana, liderada por Shirma Cortés Sanmiguel, reafirma su compromiso para seguir trabajando de manera coordinada con otras instituciones con el fin de fortalecer las acciones preventivas que garanticen una movilidad segura para todos los habitantes del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "51fb999576d291d8",
+        "hash": "51fb999576d291d81a73d87251062a947fb3df0a7e91af7d5ba56d008d2997d4",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_IMG_4015.JPG",
+        "rutaOriginal": "/media/originales/51fb999576d291d8.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/51fb999576d291d8-400.webp",
+          "800w": "/media/derivados/51fb999576d291d8-800.webp",
+          "1600w": "/media/derivados/51fb999576d291d8-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10685033,
+        "alt": "Municipalidad continúa con la campaña de concienciación vial para promover la seguridad en las calles",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      }
+    ]
+  }
+}

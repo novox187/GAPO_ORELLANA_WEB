@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 49,
+    "slug": "operativos-de-control-en-espacios-publicos-de-el-coca-49",
+    "titulo": "Operativos de control en espacios públicos de El Coca",
+    "resumen": "Esta actividad se llevó a cabo en puntos estratégicos de la ciudad",
+    "fecha": "2025-03-13",
+    "imagen": {
+      "id": "29c5cc72636c3547",
+      "hash": "29c5cc72636c3547b51bd00971b573d6d0af6b172568ee13f5d390f804715259",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_1800.JPG",
+      "rutaOriginal": "/media/originales/29c5cc72636c3547.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/29c5cc72636c3547-400.webp",
+        "800w": "/media/derivados/29c5cc72636c3547-800.webp",
+        "1600w": "/media/derivados/29c5cc72636c3547-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 3770763,
+      "alt": "Operativos de control en espacios públicos de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/49/",
+    "fuente_url": "https://orellana.gob.ec/noticia/49/",
+    "cuerpo": "Con el propósito de mantener el orden y control en espacios públicos, los Agentes de Control y la Policía Nacional se activaron con su contingente en este feriado de carnaval con el fin de resguardar y velar por la seguridad ciudadana, así lo da conocer, Rafael Santos, jefe de Agentes de Control, “Se ha coordinado interinstitucionalmente estas actividades del feriado de carnaval, hemos estado con nuestro contingente que son los agentes de control coordinando y brindado la seguridad ciudadana en beneficio de nuestro cantón y de la ciudadanía”. \nEsta actividad se llevó a cabo en puntos estratégicos de la ciudad. Como resultado, se logró la regulación de varios comercios que no cumplían con las disposiciones establecidas por la Comisaría Municipal, “Hemos estado haciendo diferentes tipos de controles en el tema del comercio ambulante, vendedores informales, organizándolos que hagan un buen uso del espacio público, ni tampoco nos ensucien y nos dañen a la ciudad”. Leonardo Domo, inspector de la comisaría. \nComo Alcaldía, seguimos trabajando de manera constante para lograr una ciudad más ordenada y segura para todos nuestros habitantes y visitantes. DV.",
+    "imagenes": [
+      {
+        "id": "29c5cc72636c3547",
+        "hash": "29c5cc72636c3547b51bd00971b573d6d0af6b172568ee13f5d390f804715259",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_1800.JPG",
+        "rutaOriginal": "/media/originales/29c5cc72636c3547.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/29c5cc72636c3547-400.webp",
+          "800w": "/media/derivados/29c5cc72636c3547-800.webp",
+          "1600w": "/media/derivados/29c5cc72636c3547-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 3770763,
+        "alt": "Operativos de control en espacios públicos de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

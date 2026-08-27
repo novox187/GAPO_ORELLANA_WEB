@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 51,
+    "slug": "evite-la-adquisicion-ilegal-de-predios-municipales-51",
+    "titulo": "Evite la adquisición ilegal de predios municipales",
+    "resumen": "Con la finalidad de evitar el tráfico ilegal de predios municipales en zonas de riesgo, la Alcaldía de Francisco de Orellana está llevando a cabo acciones de control sobre varios asentamientos humanos en diferentes puntos de la ciudad",
+    "fecha": "2025-03-19",
+    "imagen": {
+      "id": "c4706d76dbd5a15d",
+      "hash": "c4706d76dbd5a15dfa07ccf6841fcfb13539b6ceacf70e68f35a8522c8dc31be",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_9866.JPG",
+      "rutaOriginal": "/media/originales/c4706d76dbd5a15d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c4706d76dbd5a15d-400.webp",
+        "800w": "/media/derivados/c4706d76dbd5a15d-800.webp",
+        "1600w": "/media/derivados/c4706d76dbd5a15d-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 14625641,
+      "alt": "Evite la adquisición ilegal de predios municipales",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/51/",
+    "fuente_url": "https://orellana.gob.ec/noticia/51/",
+    "cuerpo": "Con la finalidad de evitar el tráfico ilegal de predios municipales en zonas de riesgo, la Alcaldía de Francisco de Orellana está llevando a cabo acciones de control sobre varios asentamientos humanos en diferentes puntos de la ciudad y el cantón, William Ramos, director de ordenamiento territorial nos explica los trabajos realizados, “Nos encontramos en una campaña de regularización de predios, en los lotes que fueron entregados en su momento, pedimos que hagan la posesión necesaria para que no tengan ninguna dificultad a futuro”.\nSe recuerda a la ciudadanía que los lotes y predios estatales no pueden ser vendidos, ya que puede enfrentar pena privativa de la libertad de 5 a 7 años conforme lo establece el Código Orgánico Integral Penal (COIP) en su artículo 201, manifiesta la técnica municipal, Solange Galarza, “Si te ofrecen un terreno municipal en venta, no caigas en la trampa, asegúrate que todo esté en regla para que no pierdas tu dinero”. \nSi desea comprar un lote de terreno, le recomendamos acercarse primero a la Dirección de Ordenamiento Territorial para verificar su legalidad y así garantizar una compra segura y confiable. DV.",
+    "imagenes": [
+      {
+        "id": "c4706d76dbd5a15d",
+        "hash": "c4706d76dbd5a15dfa07ccf6841fcfb13539b6ceacf70e68f35a8522c8dc31be",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_9866.JPG",
+        "rutaOriginal": "/media/originales/c4706d76dbd5a15d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c4706d76dbd5a15d-400.webp",
+          "800w": "/media/derivados/c4706d76dbd5a15d-800.webp",
+          "1600w": "/media/derivados/c4706d76dbd5a15d-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 14625641,
+        "alt": "Evite la adquisición ilegal de predios municipales",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

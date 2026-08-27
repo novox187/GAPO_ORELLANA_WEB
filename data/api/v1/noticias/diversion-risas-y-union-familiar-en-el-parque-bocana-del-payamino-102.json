@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 102,
+    "slug": "diversion-risas-y-union-familiar-en-el-parque-bocana-del-payamino-102",
+    "titulo": "Diversión, risas y unión familiar en el parque Bocana del Payamino",
+    "resumen": "Colores, sonrisas y mucha diversión marcaron una jornada inolvidable en el parque Bocana del Payamino, donde la Alcaldía de Francisco de Orellana llevó a cabo un animado evento recreativo para el disfrute de todas las familias, desde muy temprano, de",
+    "fecha": "2025-06-13",
+    "imagen": {
+      "id": "533ef13fa5e83673",
+      "hash": "533ef13fa5e83673be47a0d017df435b11803c7099e206011a37a721b124e1e5",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_5450.JPG",
+      "rutaOriginal": "/media/originales/533ef13fa5e83673.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/533ef13fa5e83673-400.webp",
+        "800w": "/media/derivados/533ef13fa5e83673-800.webp",
+        "1600w": "/media/derivados/533ef13fa5e83673-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7634511,
+      "alt": "Diversión, risas y unión familiar en el parque Bocana del Payamino",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/102/",
+    "fuente_url": "https://orellana.gob.ec/noticia/102/",
+    "cuerpo": "Colores, sonrisas y mucha diversión marcaron una jornada inolvidable en el parque Bocana del Payamino, donde la Alcaldía de Francisco de Orellana llevó a cabo un animado evento recreativo para el disfrute de todas las familias, desde muy temprano, decenas de niños y niñas llegaron al parque acompañados de sus padres, listos para vivir un día lleno de magia. \nUno de los momentos más esperados fue la aparición de Mickey Mouse y otros personajes del mundo Disney, quienes con sus bailes y ocurrencias llenaron de emoción y ternura a los más pequeños, “Es muy importante para la ciudadanía estas actividades culturales; más que todo para los niños, quiero felicitarla a la alcaldesa para que siga acordándose de los niños”. Jéssica Cadena, opinión ciudadana. \nAdemás de los personajes animados, hubo concursos, juegos tradicionales, dulces para los niños, el ambiente se transformó en una verdadera fiesta con música infantil, globos de figuras, caritas pintadas y estaciones decoradas para tomarse fotos, “Qué bueno que la señora alcaldesa piense como madre, como mujer para que nos siga apoyando con estos eventos para los niños y juventud”. Diana Analuisa, opinión ciudadana. \nLa jornada concluyó entre abrazos, fotografías y el deseo de que este tipo de espacios se repitan. Porque cuando hay alegría compartida, se construye una comunidad más fuerte, cercana y feliz. DV.",
+    "imagenes": [
+      {
+        "id": "533ef13fa5e83673",
+        "hash": "533ef13fa5e83673be47a0d017df435b11803c7099e206011a37a721b124e1e5",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_5450.JPG",
+        "rutaOriginal": "/media/originales/533ef13fa5e83673.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/533ef13fa5e83673-400.webp",
+          "800w": "/media/derivados/533ef13fa5e83673-800.webp",
+          "1600w": "/media/derivados/533ef13fa5e83673-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7634511,
+        "alt": "Diversión, risas y unión familiar en el parque Bocana del Payamino",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

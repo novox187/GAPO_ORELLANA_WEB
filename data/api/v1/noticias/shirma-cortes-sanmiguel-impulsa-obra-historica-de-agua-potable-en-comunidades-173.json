@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 173,
+    "slug": "shirma-cortes-sanmiguel-impulsa-obra-historica-de-agua-potable-en-comunidades-173",
+    "titulo": "Shirma Cortés Sanmiguel impulsa obra histórica de agua potable en comunidades de La Belleza",
+    "resumen": "La Alcaldía que lidera Shirma Cortés Sanmiguel marca un nuevo hito en el desarrollo del cantón con el avance del 34% en la construcción del sistema de agua potable que beneficiará a las comunidades La Delicia, Ayuruno, Cavernas de Jumandy, Manguilla",
+    "fecha": "2025-10-06",
+    "imagen": {
+      "id": "db11d418385db63d",
+      "hash": "db11d418385db63dded50d0e51d48c7cfcee7be58ef2ecf8adccdb13f84cd8fe",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06.JPG",
+      "rutaOriginal": "/media/originales/db11d418385db63d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/db11d418385db63d-400.webp",
+        "800w": "/media/derivados/db11d418385db63d-800.webp",
+        "1600w": "/media/derivados/db11d418385db63d-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12434923,
+      "alt": "Shirma Cortés Sanmiguel impulsa obra histórica de agua potable en comunidades de La Belleza",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+    },
+    "url": "/noticia/173/",
+    "fuente_url": "https://orellana.gob.ec/noticia/173/",
+    "cuerpo": "La Alcaldía que lidera Shirma Cortés Sanmiguel marca un nuevo hito en el desarrollo del cantón con el avance del 34% en la construcción del sistema de agua potable que beneficiará a las comunidades La Delicia, Ayuruno, Cavernas de Jumandy, Manguilla de los Omaguas y Eloy Alfaro, en la parroquia La Belleza. Actualmente, se construye el tanque elevado de 29 metros de altura con capacidad para almacenar 100 metros cúbicos, pieza clave para garantizar el abastecimiento constante del líquido vital a 200 familias, “Me siento orgulloso y alagado junto a los compañeros por el trabajo en esta magna obra que se encuentra acá en La Delicia, entonces es accesible, porque estamos cerca hasta la construcción y seguir trabajando y como tengo a mis hijos estudiando y es bueno seguirlos apoyando para que se superen en el colegio y si es posible en la universidad.” Eduardo Robles, morador de La Delicia.\nEl proyecto contempla, además, la apertura de 620 metros de vía hasta la captación del estero La Fortuna, lo que permitirá optimizar la conexión de la red hidráulica. Con una inversión total de 2,928,003.99 dólares, financiada gracias a la gestión de la administración municipal ante la (STCTEA), este mega proyecto se consolida como una de las intervenciones más emblemáticas en servicios básicos de la región, “Todos los días tenemos al técnico de seguridad de ambiente de parte del contratista que está pendiente de las charlas y que el personal cuente con el equipo mínimo de seguridad para no tener ningún inconveniente en el trabajo.” Luis Loor, fiscalizador de la obra.\nCon paso firme, la alcaldesa Shirma Cortés Sanmiguel cumple con su promesa de dignificar a las comunidades con justicia social, salud y futuro. Así, con hechos y resultados, avanza “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "db11d418385db63d",
+        "hash": "db11d418385db63dded50d0e51d48c7cfcee7be58ef2ecf8adccdb13f84cd8fe",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06.JPG",
+        "rutaOriginal": "/media/originales/db11d418385db63d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/db11d418385db63d-400.webp",
+          "800w": "/media/derivados/db11d418385db63d-800.webp",
+          "1600w": "/media/derivados/db11d418385db63d-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12434923,
+        "alt": "Shirma Cortés Sanmiguel impulsa obra histórica de agua potable en comunidades de La Belleza",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      }
+    ]
+  }
+}

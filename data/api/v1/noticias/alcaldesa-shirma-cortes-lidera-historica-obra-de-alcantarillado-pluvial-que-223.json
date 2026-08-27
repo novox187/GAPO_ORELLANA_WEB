@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 223,
+    "slug": "alcaldesa-shirma-cortes-lidera-historica-obra-de-alcantarillado-pluvial-que-223",
+    "titulo": "Alcaldesa Shirma Cortés lidera histórica obra de alcantarillado pluvial que protege a más de 8.000 familias",
+    "resumen": "La alcaldesa Shirma Cortés Sanmiguel inspeccionó el avance del alcantarillado pluvial, una obra estratégica que fortalece la calidad de vida a más de 8.000 familias de los barrios 27 de Octubre, Julio Llori, Las Américas y Paraíso Amazónico, “Primero",
+    "fecha": "2025-12-24",
+    "imagen": {
+      "id": "5caacdf172087dc5",
+      "hash": "5caacdf172087dc5196f7712469f43bea4e19991f8af73871fc78dad46a5981c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_LcHXRw9.JPG",
+      "rutaOriginal": "/media/originales/5caacdf172087dc5.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/5caacdf172087dc5-400.webp",
+        "800w": "/media/derivados/5caacdf172087dc5-800.webp",
+        "1600w": "/media/derivados/5caacdf172087dc5-1600.webp"
+      },
+      "ancho": 5472,
+      "alto": 3078,
+      "bytes": 9115465,
+      "alt": "Alcaldesa Shirma Cortés lidera histórica obra de alcantarillado pluvial que protege a más de 8.000 familias",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+    },
+    "url": "/noticia/223/",
+    "fuente_url": "https://orellana.gob.ec/noticia/223/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel inspeccionó el avance del alcantarillado pluvial, una obra estratégica que fortalece la calidad de vida a más de 8.000 familias de los barrios 27 de Octubre, Julio Llori, Las Américas y Paraíso Amazónico, “Primero agradecer a las autoridades que se han propuesto ejecutar este proyecto y que es un avance para el barrio 27 de Octubre, y me llena de mucho orgullo que el barrio siga progresando.” Bryan Mejía, morador del barrio 27 de Octubre.\nCon una inversión superior a USD 6,5 millones, financiada por la STCTEA, el proyecto fortalecerá la infraestructura urbana y reducirá riesgos durante la temporada invernal. Dinamizando la creación de fuentes de trabajo y la economía local con mano de obra calificada y no calificada, la alcaldesa reafirmó su compromiso de garantizar que cada dólar invertido se convierta en bienestar, seguridad y desarrollo para la ciudadanía, “Una problemática que estaba ahí desde hace muchos años, y para conocimiento de ustedes se está avanzando de acuerdo a las especificaciones técnicas y legales establecidas en el contrato y nuestro único anhelo, es que como municipalidad se logre cumplir de acuerdo a los plazos establecidos. El municipio siempre trabajando por nuestra ciudadanía, con ese amor y compromiso hacia cada uno de ustedes.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nBajo la conducción de Shirma Cortés Sanmiguel, la planificación se traduce en obras que transforman realidades y marcan un antes y un después en el camino hacia “el cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "5caacdf172087dc5",
+        "hash": "5caacdf172087dc5196f7712469f43bea4e19991f8af73871fc78dad46a5981c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_LcHXRw9.JPG",
+        "rutaOriginal": "/media/originales/5caacdf172087dc5.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5caacdf172087dc5-400.webp",
+          "800w": "/media/derivados/5caacdf172087dc5-800.webp",
+          "1600w": "/media/derivados/5caacdf172087dc5-1600.webp"
+        },
+        "ancho": 5472,
+        "alto": 3078,
+        "bytes": 9115465,
+        "alt": "Alcaldesa Shirma Cortés lidera histórica obra de alcantarillado pluvial que protege a más de 8.000 familias",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      }
+    ]
+  }
+}

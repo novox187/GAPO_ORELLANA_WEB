@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 66,
+    "slug": "servicio-de-atencion-al-usuario-66",
+    "nombre": "Servicio de atención al usuario",
+    "direccion": {
+      "id": 3,
+      "slug": "direccion-de-agua-potable-y-alcantarillado",
+      "nombre": "DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO"
+    },
+    "categorias": [
+      "agua-y-ambiente"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Recibir y gestionar los reclamos de los usuarios de los servicios de agua potable y alcantarillado. Informar ante las consultas o dudas existentes por parte de los usuarios. Este servicio se puede acceder de forma verbal",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "1. Entregar datos del servicio requerido, indicando datos personales, ubicación exacta y contacto.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "Descripción del servicio",
+        "html": "<p class=\"text-justify\">Recibir y gestionar los reclamos de los usuarios de los servicios de agua potable y alcantarillado. Informar ante las consultas o dudas existentes por parte de los usuarios.<br><br>Este servicio se puede acceder de forma verbal o escrita.</p>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

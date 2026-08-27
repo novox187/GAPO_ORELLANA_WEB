@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 41,
+    "slug": "recorridos-guiados-rostros-de-luna-organizados-por-el-macco-41",
+    "titulo": "Recorridos guiados \"Rostros de Luna\" organizados por el MACCO",
+    "resumen": "Los recorridos mediados fueron protagonizados por actores que guiaron al público a través de memorias auténticas",
+    "fecha": "2025-02-28",
+    "imagen": {
+      "id": "035194099381d7a2",
+      "hash": "035194099381d7a2d0579aaed1c9f0483fd281b25f6d93f30796916a23bff95a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_2450.JPG",
+      "rutaOriginal": "/media/originales/035194099381d7a2.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/035194099381d7a2-400.webp",
+        "800w": "/media/derivados/035194099381d7a2-800.webp",
+        "1600w": "/media/derivados/035194099381d7a2-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8062812,
+      "alt": "Recorridos guiados \"Rostros de Luna\" organizados por el MACCO",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/41/",
+    "fuente_url": "https://orellana.gob.ec/noticia/41/",
+    "cuerpo": "El Museo Arqueológico y Centro Cultural de Orellana (MACCO) realizó los recorridos guiados “Rostros de Luna” rescatando crónicas históricas de los primeros viajeros que llegaron hasta nuestra ciudad de El Coca, donde conocieron a la desaparecida Cultura Omagüa que se asentó a lo largo de las riberas del río Napo, “Los portugueses llaman vulgarmente a los Omagüas cabezas chatas, que el distintivo propio de esta nación es llevar aplastada la frente llana como la palma de la mano, el aplastarse la cabeza, desde tiernos, con tablitas que le atan a la frente es de Los Omagüas, persuadidos que la hermosura en tener, como dicen, cara de luna”. Liliana Ramírez, analista de patrimonio y museo del MACCO.\nLos recorridos mediados fueron protagonizados por actores que guiaron al público a través de memorias auténticas de los siglos XVI y XVII, donde el MACCO conserva una colección de más de 400 objetos arqueológicos que dejaron los primeros misioneros, viajeros, exploradores y los primeros habitantes de nuestro cantón, “Son objetos que nos cuentan esa historia ancestral de nuestro cantón, de esta Amazonía norte”. Álvaro Gundín, jefe de patrimonio y museo del MACCO.\n“Si es que no conocemos quienes vivían antes acá, pueden visitar el museo, ya que hay muchas cosas que uno dice ¡guau!”. Álison Villacís, opinión ciudadana.\nEste fue un evento único que fusionó arte, teatro y cultura en conmemoración al Día de la Identidad Coqueña: \"El Coca y sus Inicios\" y al Carnaval Coca Diverso 2025. JG.",
+    "imagenes": [
+      {
+        "id": "035194099381d7a2",
+        "hash": "035194099381d7a2d0579aaed1c9f0483fd281b25f6d93f30796916a23bff95a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_2450.JPG",
+        "rutaOriginal": "/media/originales/035194099381d7a2.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/035194099381d7a2-400.webp",
+          "800w": "/media/derivados/035194099381d7a2-800.webp",
+          "1600w": "/media/derivados/035194099381d7a2-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8062812,
+        "alt": "Recorridos guiados \"Rostros de Luna\" organizados por el MACCO",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

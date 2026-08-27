@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 18,
+    "slug": "alcaldia-socializa-proyecto-de-regeneracion-urbana-para-nucanchi-wasi-y-los-18",
+    "titulo": "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces",
+    "resumen": "Socialización del “Proyecto de Alcantarillado Pluvial, Aceras, Bordillos y Adoquinado",
+    "fecha": "2025-01-17",
+    "imagen": {
+      "id": "d742bb6c6e915055",
+      "hash": "d742bb6c6e915055931d7036749600aafb161168cf7aaa85b5e2db9f08342e0f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_NUCANCHI_WASI.png",
+      "rutaOriginal": "/media/originales/d742bb6c6e915055.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d742bb6c6e915055-400.webp",
+        "800w": "/media/derivados/d742bb6c6e915055-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 995301,
+      "alt": "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/18/",
+    "fuente_url": "https://orellana.gob.ec/noticia/18/",
+    "cuerpo": "En la cancha cubierta del Barrio Ñucanchi Wasi, se llevó a cabo la socialización del “Proyecto de Alcantarillado Pluvial, Aceras, Bordillos y Adoquinado de las calles de los Barrios Ñucanchi Wasi y Los Sauces”, liderada por la alcaldesa Shirma Cortés Sanmiguel, acompañada de autoridades locales, “Estamos comprometidos con una renovación urbana que embellezca nuestra ciudad y mejore la movilidad, beneficiando directamente a estudiantes, adultos mayores y toda la comunidad de El Coca. Este es el cantón que queremos”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nEste mega proyecto, cuya inversión supera los 11 millones de dólares, representa un paso firme hacia la regeneración urbana de estos sectores, mejorando la infraestructura vial y la calidad de vida de sus habitantes. La obra no solo reducirá los tiempos de desplazamiento, sino que también incrementará la plusvalía y fomentará la economía local mediante el empleo de bienes y servicios regionales, “Nuestro objetivo es embellecer la ciudad, brindar seguridad y fortalecer el desarrollo de la comunidad. Estas acciones son para construir el cantón que queremos”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nCon esta intervención, el Gobierno Municipal ratifica su compromiso con el bienestar y el progreso de Francisco de Orellana. ST.",
+    "imagenes": [
+      {
+        "id": "d742bb6c6e915055",
+        "hash": "d742bb6c6e915055931d7036749600aafb161168cf7aaa85b5e2db9f08342e0f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_NUCANCHI_WASI.png",
+        "rutaOriginal": "/media/originales/d742bb6c6e915055.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d742bb6c6e915055-400.webp",
+          "800w": "/media/derivados/d742bb6c6e915055-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 995301,
+        "alt": "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

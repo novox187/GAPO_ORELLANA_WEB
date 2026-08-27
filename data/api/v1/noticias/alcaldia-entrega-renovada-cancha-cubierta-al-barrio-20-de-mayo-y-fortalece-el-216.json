@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 216,
+    "slug": "alcaldia-entrega-renovada-cancha-cubierta-al-barrio-20-de-mayo-y-fortalece-el-216",
+    "titulo": "Alcaldía entrega renovada cancha cubierta al barrio 20 de Mayo y fortalece el impulso de una comunidad que avanza",
+    "resumen": "Durante años, el deterioro y el abandono marcaron la vida del barrio 20 de Mayo. La cancha cubierta su principal punto de encuentro había dejado de ser un espacio seguro y funcional para las familias, jóvenes y deportistas del sector. Esa realidad ca",
+    "fecha": "2025-12-15",
+    "imagen": {
+      "id": "8b8daa9c55ce9784",
+      "hash": "8b8daa9c55ce9784e95e49883108432a87304ca56c86b3a81c26dc5a0399b506",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_PiyP88I.JPG",
+      "rutaOriginal": "/media/originales/8b8daa9c55ce9784.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8b8daa9c55ce9784-400.webp",
+        "800w": "/media/derivados/8b8daa9c55ce9784-800.webp",
+        "1600w": "/media/derivados/8b8daa9c55ce9784-1600.webp"
+      },
+      "ancho": 5472,
+      "alto": 3648,
+      "bytes": 9809964,
+      "alt": "Alcaldía entrega renovada cancha cubierta al barrio 20 de Mayo y fortalece el impulso de una comunidad que avanza",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+    },
+    "url": "/noticia/216/",
+    "fuente_url": "https://orellana.gob.ec/noticia/216/",
+    "cuerpo": "Durante años, el deterioro y el abandono marcaron la vida del barrio 20 de Mayo. La cancha cubierta su principal punto de encuentro había dejado de ser un espacio seguro y funcional para las familias, jóvenes y deportistas del sector. Esa realidad cambió.\nEl pasado 4 de diciembre, la alcaldesa Shirma Cortés Sanmiguel entregó oficialmente la renovada cancha cubierta, una obra que representa dignidad, seguridad y oportunidades para quienes han esperado por tanto tiempo un espacio digno. Con una inversión de USD 80,200.52, la administración municipal reafirma su compromiso de trabajar por los barrios y de devolverle a la gente lugares que impulsen su desarrollo y bienestar, “Me parece excelente la gestión de la alcaldesa, ya que anteriormente la cancha estaba deteriorada y para los deportistas se les dificultaba jugar.” Isabel Pinzón, opinión ciudadana.\n“Que de hoy en adelante servirá para que nuestros jóvenes hagan deporte en un lugar seguro y más adecuado, también para que nuestras familias y todos los moradores realicemos actividades sociales, culturales, deportivas y recreativas. Por eso, es digo y se merece un gran agradecimiento a nuestra alcaldesa por haber cumplido con esta obra.” Gilbert Salazar, opinión ciudadana.\nEl proyecto incluye la construcción de un escenario principal, dos vestidores equipados, baterías sanitarias, graderíos y un cerramiento metálico que garantiza orden y seguridad. Durante su intervención, la alcaldesa destacó que estas obras reflejan el espíritu de una gestión que cumple y que pone a la gente en el centro de cada decisión: “Hoy es un día especial, un día que refleja lo que somos capaces de lograr cuando caminamos unidos querido presidente, cuando trabajamos con honestidad y cuando ponemos a nuestra gente al centro de cada decisión, estoy aquí frente a ustedes, no solo como alcaldesa sino como una mujer amazónica, que no baja los brazos y que cree profundamente en el poder de transformar un barrio organizado.” Shirma Cortés, alcaldesa de Francisco de Orellana.\n Con esta entrega, el barrio 20 de Mayo renace y celebra un avance más en la construcción de un cantón que progresa con paso firme bajo una administración que cumple, escucha y transforma. JG.",
+    "imagenes": [
+      {
+        "id": "8b8daa9c55ce9784",
+        "hash": "8b8daa9c55ce9784e95e49883108432a87304ca56c86b3a81c26dc5a0399b506",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_PiyP88I.JPG",
+        "rutaOriginal": "/media/originales/8b8daa9c55ce9784.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8b8daa9c55ce9784-400.webp",
+          "800w": "/media/derivados/8b8daa9c55ce9784-800.webp",
+          "1600w": "/media/derivados/8b8daa9c55ce9784-1600.webp"
+        },
+        "ancho": 5472,
+        "alto": 3648,
+        "bytes": 9809964,
+        "alt": "Alcaldía entrega renovada cancha cubierta al barrio 20 de Mayo y fortalece el impulso de una comunidad que avanza",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      }
+    ]
+  }
+}

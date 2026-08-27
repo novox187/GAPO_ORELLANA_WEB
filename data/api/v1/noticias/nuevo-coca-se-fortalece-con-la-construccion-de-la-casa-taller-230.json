@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 230,
+    "slug": "nuevo-coca-se-fortalece-con-la-construccion-de-la-casa-taller-230",
+    "titulo": "Nuevo Coca se fortalece con la construcción de la Casa Taller",
+    "resumen": "Con un 90 % de avance, la Alcaldía de Francisco de Orellana, liderada por la alcaldesa Shirma Cortés Sanmiguel, ejecuta los trabajos finales de la casa taller en el sector Néstor Jiménez del barrio Nuevo Coca, para el ciudadano Franklin Siquigua,",
+    "fecha": "2026-01-06",
+    "imagen": {
+      "id": "e0124a3bbd5b27be",
+      "hash": "e0124a3bbd5b27bebd82631e41f1c63a85077efbef6dcbe20c4fe6ae37e6f7ee",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9883.JPG",
+      "rutaOriginal": "/media/originales/e0124a3bbd5b27be.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e0124a3bbd5b27be-400.webp",
+        "800w": "/media/derivados/e0124a3bbd5b27be-800.webp",
+        "1600w": "/media/derivados/e0124a3bbd5b27be-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8160620,
+      "alt": "Nuevo Coca se fortalece con la construcción de la Casa Taller",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+    },
+    "url": "/noticia/230/",
+    "fuente_url": "https://orellana.gob.ec/noticia/230/",
+    "cuerpo": "Con un 90 % de avance, la Alcaldía de Francisco de Orellana, liderada por la alcaldesa Shirma Cortés Sanmiguel, ejecuta los trabajos finales de la casa taller en el sector Néstor Jiménez del barrio Nuevo Coca, para el ciudadano Franklin Siquigua, este tipo de proyectos fortalecen las oportunidades que el barrio necesita, “Se le agradece a la alcaldesa Shirma Cortés por esta construcción en nuestro sector, y que nos servirá para realizar talleres educativos, reuniones y algunos programas.”\nLa obra cuenta con una inversión de USD 89.972,09 y beneficia directamente a 4.000 habitantes del sector. Actualmente se realizan labores de empastado exterior, instalaciones eléctricas, colocación de cerámica y adoquinado del patio, “Me parece algo muy interesante la edificación de la casa taller, que nos va a ser de mucha ayuda en nuestro sector; por eso, me parece perfecta la iniciativa que ha tomado la alcaldesa.” Jessenia Cueva, moradora del sector. \nEsta infraestructura brindará un espacio digno y funcional para reuniones comunitarias, talleres y procesos de capacitación, fortaleciendo la organización y el desarrollo social en el cantón que queremos. DV.",
+    "imagenes": [
+      {
+        "id": "e0124a3bbd5b27be",
+        "hash": "e0124a3bbd5b27bebd82631e41f1c63a85077efbef6dcbe20c4fe6ae37e6f7ee",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9883.JPG",
+        "rutaOriginal": "/media/originales/e0124a3bbd5b27be.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e0124a3bbd5b27be-400.webp",
+          "800w": "/media/derivados/e0124a3bbd5b27be-800.webp",
+          "1600w": "/media/derivados/e0124a3bbd5b27be-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8160620,
+        "alt": "Nuevo Coca se fortalece con la construcción de la Casa Taller",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      }
+    ]
+  }
+}

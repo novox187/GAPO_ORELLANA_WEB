@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 62,
+    "slug": "alcaldia-coloca-la-primera-piedra-en-la-construccion-del-sistema-de-agua-62",
+    "titulo": "Alcaldía coloca la primera piedra en la construcción del sistema de agua potable de Alto Manduru",
+    "resumen": "Con el firme compromiso de mejorar la calidad de vida de los moradores de la comunidad Alto Manduru de la parroquia San Luis de Armenia",
+    "fecha": "2025-04-08",
+    "imagen": {
+      "id": "730adde5208a0754",
+      "hash": "730adde5208a0754eb875948ee0690ae129fb605c9a26c1a2053a747d06aa00e",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08.png",
+      "rutaOriginal": "/media/originales/730adde5208a0754.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/730adde5208a0754-400.webp",
+        "800w": "/media/derivados/730adde5208a0754-800.webp",
+        "1600w": "/media/derivados/730adde5208a0754-1600.webp"
+      },
+      "ancho": 1920,
+      "alto": 1080,
+      "bytes": 3993119,
+      "alt": "Alcaldía coloca la primera piedra en la construcción del sistema de agua potable de Alto Manduru",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/62/",
+    "fuente_url": "https://orellana.gob.ec/noticia/62/",
+    "cuerpo": "Con el firme compromiso de mejorar la calidad de vida de los moradores de la comunidad Alto Manduru de la parroquia San Luis de Armenia, la Alcaldía que dirige Shirma Cortés Sanmiguel dio un paso histórico al colocar la primera piedra para la construcción del sistema de agua potable, beneficiando a más de 1000 habitantes, así lo manifiesta la primera autoridad cantonal, “Hoy colocamos mucho más que una piedra, colocamos los cimientos de un sueño largamente esperado por esta comunidad, el acceso al agua potable; esta obra no sería posible sin el trabajo conjunto. El proyecto es de ustedes y para ustedes, sépanlo cuidar”.\nLa obra integral se da gracias a la firma de convenio con Petroecuador, quien destinó 1.358.772,52 dólares, mientras que la Alcaldía asignó USD. 66.591,72 para la fiscalización; asimismo, realizó los estudios y diseños con personal técnico de la institución para la ejecución del proyecto que contará con todas las etapas necesarias para garantizar agua segura. Esta es una muestra de lo que se puede lograr cuando hay unidad y trabajo conjunto con los moradores, “Ahora que vamos a recibir el agua nos sentimos orgullosos, felices y contentos por el apoyo de nuestro municipio”. Aira Tapuy, moradora de Alto Manduru.\n“Por primera vez vamos a tener agua potable en la comuna y para todas las familias y para la escuela que nos hacía mucha falta, gracias por apoyarnos”. Katty Grefa, moradora de Alto Manduru.\nLa alcaldesa Shirma Cortés Sanmiguel ratifica su compromiso con las comunidades rurales, trabajando de la mano con su gente para cerrar brechas históricas y garantizar derechos fundamentales como el acceso al agua. Alto Manduru es solo el inicio: donde haya una necesidad, allí estará presente esta administración, transformando promesas en realidades. JG.",
+    "imagenes": [
+      {
+        "id": "730adde5208a0754",
+        "hash": "730adde5208a0754eb875948ee0690ae129fb605c9a26c1a2053a747d06aa00e",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08.png",
+        "rutaOriginal": "/media/originales/730adde5208a0754.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/730adde5208a0754-400.webp",
+          "800w": "/media/derivados/730adde5208a0754-800.webp",
+          "1600w": "/media/derivados/730adde5208a0754-1600.webp"
+        },
+        "ancho": 1920,
+        "alto": 1080,
+        "bytes": 3993119,
+        "alt": "Alcaldía coloca la primera piedra en la construcción del sistema de agua potable de Alto Manduru",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 96,
+    "slug": "alcaldia-conmemora-el-dia-mundial-del-medio-ambiente-96",
+    "titulo": "Alcaldía conmemora el día mundial del medio ambiente",
+    "resumen": "Con música, danzas, juegos tradicionales y una casa abierta, la Alcaldía celebró el Día Mundial del Medio Ambiente, fecha establecida por las Naciones Unidas",
+    "fecha": "2025-06-05",
+    "imagen": {
+      "id": "9477538a1177f002",
+      "hash": "9477538a1177f00219fb471acfb5dc1db70eaba322544211e0b29efb69b10150",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_MVI_5918.jpg",
+      "rutaOriginal": "/media/originales/9477538a1177f002.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9477538a1177f002-400.webp",
+        "800w": "/media/derivados/9477538a1177f002-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 894,
+      "bytes": 147623,
+      "alt": "Alcaldía conmemora el día mundial del medio ambiente",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+    },
+    "url": "/noticia/96/",
+    "fuente_url": "https://orellana.gob.ec/noticia/96/",
+    "cuerpo": "Con música, danzas, juegos tradicionales y una casa abierta, la Alcaldía celebró el Día Mundial del Medio Ambiente, fecha establecida por las Naciones Unidas (ONU) cada 5 de junio, con el propósito de concienciar y promover acciones en favor de la salud del planeta, “Hoy es un día muy especial para la Amazonía, ya que es el corazón del mundo, una zona donde tenemos más presencia de biodiversidad; entonces corresponde cuidarla y hacerle homenaje en este día”. Sergio Orozco, opinión ciudadana. \nDurante la jornada, se desarrollaron múltiples actividades con una alta participación ciudadana y la colaboración de instituciones públicas y privadas. Estas entidades presentaron al público diversos programas y proyectos orientados a la conservación del medio ambiente, destacando la importancia de la educación ambiental y la acción colectiva para proteger los recursos naturales, “Este es una gran actividad que realiza la alcaldesa y me parece que debe mantenerse; más bien, este tipo de actividades deben conservarse con el tiempo”. Silene Pugachi, opinión ciudadana. \nCon esta conmemoración, la Alcaldía reafirma su responsabilidad en la construcción de un futuro más limpio, seguro y sostenible. DV.",
+    "imagenes": [
+      {
+        "id": "9477538a1177f002",
+        "hash": "9477538a1177f00219fb471acfb5dc1db70eaba322544211e0b29efb69b10150",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_MVI_5918.jpg",
+        "rutaOriginal": "/media/originales/9477538a1177f002.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9477538a1177f002-400.webp",
+          "800w": "/media/derivados/9477538a1177f002-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 894,
+        "bytes": 147623,
+        "alt": "Alcaldía conmemora el día mundial del medio ambiente",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      }
+    ]
+  }
+}

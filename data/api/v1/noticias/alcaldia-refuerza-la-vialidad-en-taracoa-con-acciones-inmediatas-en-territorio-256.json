@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 256,
+    "slug": "alcaldia-refuerza-la-vialidad-en-taracoa-con-acciones-inmediatas-en-territorio-256",
+    "titulo": "Alcaldía refuerza la vialidad en Taracoa con acciones inmediatas en territorio",
+    "resumen": "Con liderazgo cercano y gestión en territorio, la alcaldesa Shirma Cortés Sanmiguel, en articulación con la Junta Parroquial de Taracoa, impulsa el fortalecimiento de la infraestructura vial del sector mediante trabajos integrales que incluyen la lim",
+    "fecha": "2026-02-24",
+    "imagen": {
+      "id": "eef2b2dc782313dd",
+      "hash": "eef2b2dc782313dd37bd3ccccf618dd60f70ea22bc77444b10e072665c2b3bac",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_1_IMG_7842.JPG",
+      "rutaOriginal": "/media/originales/eef2b2dc782313dd.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/eef2b2dc782313dd-400.webp",
+        "800w": "/media/derivados/eef2b2dc782313dd-800.webp",
+        "1600w": "/media/derivados/eef2b2dc782313dd-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11330227,
+      "alt": "Alcaldía refuerza la vialidad en Taracoa con acciones inmediatas en territorio",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/256/",
+    "fuente_url": "https://orellana.gob.ec/noticia/256/",
+    "cuerpo": "Con liderazgo cercano y gestión en territorio, la alcaldesa Shirma Cortés Sanmiguel, en articulación con la Junta Parroquial de Taracoa, impulsa el fortalecimiento de la infraestructura vial del sector mediante trabajos integrales que incluyen la limpieza de cunetas, así como el tendido y compactación de material pétreo en 6.368 metros lineales distribuidos en 15 calles, garantizando una circulación más segura y eficiente para cientos de familias, “Es una gran ayuda para la comunidad, para los barrios, porque sufríamos de inundaciones, cuando medio llovía se inundaba varias partes del barrio 24 de Mayo; por eso, estamos agradecidos por la gestión, porque se van a beneficiar muchos vecinos de la parte rural.” Estalin Carreño, morador de Taracoa.\nEstas acciones, ejecutadas con siete volquetes, una motoniveladora, un rodillo y personal de equipo caminero, obedece a una planificación técnica, estratégica y responsable, orientada a maximizar el uso eficiente de los recursos públicos y generar resultados sostenibles para la población, “Nos hemos sentado en una mesa de diálogo con la señora alcaldesa y hemos logrado traer la maquinaria para que se dé el mantenimiento de todas las calles del centro poblado todos los fines de semana, entendiendo que la maquinaria y personal municipal trabajan en otros sectores.” Jessenia Navarrete, presidenta de la Junta Parroquial de Taracoa.\nBajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel, se consolida una administración que escucha, ejecuta y cumple. JG.",
+    "imagenes": [
+      {
+        "id": "eef2b2dc782313dd",
+        "hash": "eef2b2dc782313dd37bd3ccccf618dd60f70ea22bc77444b10e072665c2b3bac",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_1_IMG_7842.JPG",
+        "rutaOriginal": "/media/originales/eef2b2dc782313dd.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/eef2b2dc782313dd-400.webp",
+          "800w": "/media/derivados/eef2b2dc782313dd-800.webp",
+          "1600w": "/media/derivados/eef2b2dc782313dd-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11330227,
+        "alt": "Alcaldía refuerza la vialidad en Taracoa con acciones inmediatas en territorio",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

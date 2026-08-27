@@ -1,0 +1,32 @@
+{
+  "data": {
+    "redes_sociales": [
+      {
+        "red": "x",
+        "url": "https://x.com/GADMFOrellana"
+      },
+      {
+        "red": "facebook",
+        "url": "https://www.facebook.com/MunicipiodeFranciscodeOrellana"
+      },
+      {
+        "red": "youtube",
+        "url": "https://www.youtube.com/@GADFranciscodeOrellana"
+      },
+      {
+        "red": "instagram",
+        "url": "https://www.instagram.com/gadmforellana?igsh=dmJicHdjbW5uN3I3"
+      },
+      {
+        "red": "tiktok",
+        "url": "https://www.tiktok.com/@munifranciscodeorellana?_t=ZM-8uIJM6TtTgE&_r=1"
+      }
+    ],
+    "mapa_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15958.739273364914!2d-76.99832272141695!3d-0.46871210547461534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d7a512a8e9d857%3A0x1ec021d0dcf07f2c!2sGAD%20Municipal%20Francisco%20de%20Orellana!5e0!3m2!1ses!2sec!4v1741195965711!5m2!1ses!2sec",
+    "direccion_fisica": null,
+    "telefono": null,
+    "correo": "alcaldia@orellana.gob.ec",
+    "nota": "La página /contactos/ del sitio original no publica dirección, teléfono ni correo en texto — solo un mapa embebido. El único correo institucional confirmado en todo el sitio (alcaldia@orellana.gob.ec) se encontró en /tramites_m/, en el trámite de Certificación de Documentos de Secretaría General. Dirección física y teléfono deben ser confirmados por la Dirección de Comunicación Social antes de publicarse en el sitio nuevo.",
+    "fuente_url": "https://orellana.gob.ec/contactos/"
+  }
+}

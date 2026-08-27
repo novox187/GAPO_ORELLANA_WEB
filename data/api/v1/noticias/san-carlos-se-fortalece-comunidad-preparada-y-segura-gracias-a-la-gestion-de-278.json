@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 278,
+    "slug": "san-carlos-se-fortalece-comunidad-preparada-y-segura-gracias-a-la-gestion-de-278",
+    "titulo": "San Carlos se fortalece comunidad preparada y segura gracias a la gestión de riesgos municipal",
+    "resumen": "La Dirección de Agua Potable ejecutó trabajos de limpieza integral en la red de alcantarillado sanitario de los barrios El Moretal, 6 de Diciembre, Paraíso Amazónico, 27 de Octubre, Santa Rosa, Barrio Central",
+    "fecha": "2026-04-01",
+    "imagen": {
+      "id": "bbe22468702d5fb4",
+      "hash": "bbe22468702d5fb458cc660ac34952de9057230b73565a86cc10aceb82e93530",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_1_IMG2250.JPG",
+      "rutaOriginal": "/media/originales/bbe22468702d5fb4.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/bbe22468702d5fb4-400.webp",
+        "800w": "/media/derivados/bbe22468702d5fb4-800.webp",
+        "1600w": "/media/derivados/bbe22468702d5fb4-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11466371,
+      "alt": "San Carlos se fortalece comunidad preparada y segura gracias a la gestión de riesgos municipal",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+    },
+    "url": "/noticia/278/",
+    "fuente_url": "https://orellana.gob.ec/noticia/278/",
+    "cuerpo": "La Dirección de Agua Potable ejecutó trabajos de limpieza integral en la red de alcantarillado sanitario de los barrios El Moretal, 6 de Diciembre, Paraíso Amazónico, 27 de Octubre, Santa Rosa, Barrio Central y 30 de Abril. Estas acciones preventivas no solo fortalecen el sistema de drenaje, sino que protegen la salud de las familias y evitan posibles afectaciones.\nPara Augusto Cabrera, es la ciudadanía quienes debemos hacer conciencia y no arrojar basura a la calle, y evitar que el sistema de alcantarillado sanitario y pluvial dejen de funcionar adecuadamente, “Porque si hubiera conciencia personal no tuviéramos estos inconvenientes y por eso vienen los problemas cuando llueve y se tapan rejillas; y, cuando existe eso no saben qué hacer, y se limitan a decir que la autoridad tiene la culpa, que la autoridad tiene que hacer los trabajos y que tiene que dar soluciones.\nNuestra enseñanza debe venir desde nuestra casa, debemos ser muy ordenados y limpios como vivimos nosotros, caso contrario no va a funcionar absolutamente nada y nosotros tenemos que educarnos.”\nEste importante despliegue fue posible gracias a la gestión de la alcaldesa Shirma Cortés Sanmiguel, articulando acciones con la Alcaldía de Lago Agrio para contar con el hidro-succionador (Vactor), herramienta clave que permitió intervenir de manera eficiente y oportuna, “El objetivo es limpiar lo que tiene arena, basura y desechos en la red de alcantarillado, ese es el objetivo con el vactor que está haciendo la limpieza con la succión y con la manguera se realiza el destape; este trabajo va a servir para que no se tapen las rejillas y cuando llueve no se reboten las aguas lluvias.” Gonzalo Andaluz, técnico del GADMFO.\nLa administración de Shirma Cortés Sanmiguel no se detiene y trabaja con liderazgo, planificación y hechos pensando en la saluda e integridad de sus conciudadanos. JG.",
+    "imagenes": [
+      {
+        "id": "bbe22468702d5fb4",
+        "hash": "bbe22468702d5fb458cc660ac34952de9057230b73565a86cc10aceb82e93530",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_1_IMG2250.JPG",
+        "rutaOriginal": "/media/originales/bbe22468702d5fb4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bbe22468702d5fb4-400.webp",
+          "800w": "/media/derivados/bbe22468702d5fb4-800.webp",
+          "1600w": "/media/derivados/bbe22468702d5fb4-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11466371,
+        "alt": "San Carlos se fortalece comunidad preparada y segura gracias a la gestión de riesgos municipal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      }
+    ]
+  }
+}

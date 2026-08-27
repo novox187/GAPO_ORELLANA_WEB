@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 60,
+    "slug": "alcaldia-entrega-nuevo-parque-en-el-barrio-las-americas-60",
+    "titulo": "Alcaldía entrega nuevo parque en el barrio Las Américas",
+    "resumen": "Entre risas, juegos y alegría, los niños del barrio Las Américas recibieron con entusiasmo el nuevo parque construido por la Alcaldía",
+    "fecha": "2025-04-04",
+    "imagen": {
+      "id": "37209897a6d89be5",
+      "hash": "37209897a6d89be5c988120d647590d217b66df5dff49aca7f8823654415c8dd",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_8636.JPG",
+      "rutaOriginal": "/media/originales/37209897a6d89be5.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/37209897a6d89be5-400.webp",
+        "800w": "/media/derivados/37209897a6d89be5-800.webp",
+        "1600w": "/media/derivados/37209897a6d89be5-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 11600834,
+      "alt": "Alcaldía entrega nuevo parque en el barrio Las Américas",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/60/",
+    "fuente_url": "https://orellana.gob.ec/noticia/60/",
+    "cuerpo": "Entre risas, juegos y alegría, los niños del barrio Las Américas recibieron con entusiasmo el nuevo parque construido por la Alcaldía del Cantón Francisco de Orellana, liderada por Shirma Cortés Sanmiguel.\nColumpios, resbaladeras, juegos infantiles y césped sintético convierten a este espacio en un lugar perfecto, para la recreación y el encuentro familiar, fue el sentir de varios niños, “Está bonito, estoy feliz, porque ya tenemos un espacio para jugar, gracias a Dios estoy feliz por esta inauguración, ya que se ha esperado tantos años y por fin hagan el parque”.\nDurante el acto inaugural, la alcaldesa Shirma Cortés Sanmiguel agradeció a la comunidad por confiar en su gestión, “Nosotros nos hemos enfocado en apoyar a los niños y a nuestros jóvenes, dentro de todo esto está la construcción de los parques que mucha falta nos hacen en nuestro cantón, en especial en la parte urbana”.\nLos dirigentes barriales destacaron el compromiso de la administración municipal por mirar hacia los sectores populares y responder a sus necesidades y por contar con un lugar seguro y moderno para compartir tiempo de calidad, “Le agradezco señora alcaldesa por volver los ojos a los barrios, gracias por el ofrecimiento de la casa taller, del alcantarillado que se viene desde la STCTEA para todo nuestro barrio de extremo a extremo va a ser atendido y sé que con la voluntad de usted viene el asfaltado y la vida de todos nosotros va a cambiar”. Ingrid Jaramillo, presidenta del barrio Las Américas.\nCon obras que generan bienestar y alegría, la alcaldía avanza, construyendo un cantón más humano, inclusivo y con espacios dignos para toda la familia. PT.",
+    "imagenes": [
+      {
+        "id": "37209897a6d89be5",
+        "hash": "37209897a6d89be5c988120d647590d217b66df5dff49aca7f8823654415c8dd",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_8636.JPG",
+        "rutaOriginal": "/media/originales/37209897a6d89be5.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/37209897a6d89be5-400.webp",
+          "800w": "/media/derivados/37209897a6d89be5-800.webp",
+          "1600w": "/media/derivados/37209897a6d89be5-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 11600834,
+        "alt": "Alcaldía entrega nuevo parque en el barrio Las Américas",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

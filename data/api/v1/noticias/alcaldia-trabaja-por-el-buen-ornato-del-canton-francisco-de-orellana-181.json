@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 181,
+    "slug": "alcaldia-trabaja-por-el-buen-ornato-del-canton-francisco-de-orellana-181",
+    "titulo": "Alcaldía trabaja por el buen ornato del cantón Francisco de Orellana",
+    "resumen": "Con el objetivo de mantener una ciudad limpia, ordenada y segura, la Alcaldía de Francisco de Orellana, a través de la Comisaría Municipal y Ambiental, realiza la entrega de notificaciones a propietarios de terrenos montosos en el barrio El Moretal.",
+    "fecha": "2025-10-21",
+    "imagen": {
+      "id": "40c555c1627c5e8f",
+      "hash": "40c555c1627c5e8ff1e09cc080f6c3b6992932f7472abc8046e3aeee43fdb115",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21.JPG",
+      "rutaOriginal": "/media/originales/40c555c1627c5e8f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/40c555c1627c5e8f-400.webp",
+        "800w": "/media/derivados/40c555c1627c5e8f-800.webp",
+        "1600w": "/media/derivados/40c555c1627c5e8f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9330030,
+      "alt": "Alcaldía trabaja por el buen ornato del cantón Francisco de Orellana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/181/",
+    "fuente_url": "https://orellana.gob.ec/noticia/181/",
+    "cuerpo": "Con el objetivo de mantener una ciudad limpia, ordenada y segura, la Alcaldía de Francisco de Orellana, a través de la Comisaría Municipal y Ambiental, realiza la entrega de notificaciones a propietarios de terrenos montosos en el barrio El Moretal.\nEstas acciones se enmarcan en las Ordenanzas Municipales OM-007-2011 y 001-2015, que establecen que los propietarios deberán realizar la limpieza del predio, vereda y jardinera hasta la mitad de la calle, así como el cerramiento correspondiente, en un plazo de tres días, “El trabajo del municipio es excelente, ya que vienen primero a notificarnos, avisarnos lo que se tiene que realizar, entonces para nosotros es mejor que nos avisen, con eso nos preparamos y hacemos lo que ustedes solicitan y no tenemos inconvenientes.” Darío Rodríguez, opinión ciudadana. \nEl cumplimiento de esta disposición deberá ser reportado ante la Comisaría Municipal y Ambiental para su respectiva constancia. En caso de incumplimiento, se aplicarán las sanciones administrativas correspondientes, “Estoy totalmente de acuerdo, porque así la gente se pone más activa a tener el lugar limpio y así evitamos la proliferación de mosquitos, para mí es un excelente trabajo que está realizando el municipio.” Esther Cabrera, moradora del barrio El Moretal. \nAdemás, la limpieza de terrenos mejora la seguridad al evitar que estos espacios sean usados para actividades ilícitas o se conviertan en focos de delincuencia.\nLa Alcaldía reafirma su compromiso de preservar el buen ornato y promover la corresponsabilidad ciudadana para hacer de Francisco de Orellana un cantón más limpio y agradable para todos. JG.",
+    "imagenes": [
+      {
+        "id": "40c555c1627c5e8f",
+        "hash": "40c555c1627c5e8ff1e09cc080f6c3b6992932f7472abc8046e3aeee43fdb115",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21.JPG",
+        "rutaOriginal": "/media/originales/40c555c1627c5e8f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/40c555c1627c5e8f-400.webp",
+          "800w": "/media/derivados/40c555c1627c5e8f-800.webp",
+          "1600w": "/media/derivados/40c555c1627c5e8f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9330030,
+        "alt": "Alcaldía trabaja por el buen ornato del cantón Francisco de Orellana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

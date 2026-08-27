@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 81,
+    "slug": "reconocimiento-al-compromiso-y-la-vocacion-de-servicio-a-trabajadores-y-81",
+    "titulo": "Reconocimiento al compromiso y la vocación de servicio a trabajadores y empleados",
+    "resumen": "En el marco del Día del Trabajador, la alcaldesa Shirma Cortés Sanmiguel rindió un merecido homenaje",
+    "fecha": "2025-05-08",
+    "imagen": {
+      "id": "b219cb6392d8c920",
+      "hash": "b219cb6392d8c92072631ad83d33b3aaea1ad5e1175d329d3e25d8b23e708672",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_8137.JPG",
+      "rutaOriginal": "/media/originales/b219cb6392d8c920.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/b219cb6392d8c920-400.webp",
+        "800w": "/media/derivados/b219cb6392d8c920-800.webp",
+        "1600w": "/media/derivados/b219cb6392d8c920-1600.webp"
+      },
+      "ancho": 2400,
+      "alto": 1344,
+      "bytes": 1025718,
+      "alt": "Reconocimiento al compromiso y la vocación de servicio a trabajadores y empleados",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/81/",
+    "fuente_url": "https://orellana.gob.ec/noticia/81/",
+    "cuerpo": "En el marco del Día del Trabajador, la alcaldesa Shirma Cortés Sanmiguel rindió un merecido homenaje a 37 funcionarios municipales, cuyo compromiso y vocación de servicio fortalecen día a día el desarrollo de nuestro cantón.\nDurante un acto emotivo, la alcaldesa dirigió unas palabras de agradecimiento que reflejaron su cercanía y valoración hacia el equipo municipal: “Pedirles que sigamos caminando juntos con respeto, con compromiso y esperanza. Quiero desearles desde lo más profundo de mi corazón no solo el 1 de mayo sino todos los días del año un feliz día a cada uno de ustedes, gracias por estar aquí.”\nLos reconocimientos fueron recibidos con emoción por los funcionarios. Ángel Moreno, con 17 años de servicio, destacó: “Es la primera vez que se toma esta iniciativa. Muy agradecido con la alcaldesa y con todos los que hicieron posible este reconocimiento.”\nPor su parte, Rosalba Abarca expresó: “Me siento muy honrada. Nos motiva a seguir trabajando con equidad, honestidad y solidaridad.”\nLa jornada no solo fue un acto de celebración, sino también un gesto institucional que dignifica la labor pública y renueva el compromiso de quienes día a día contribuyen al bienestar de la ciudadanía.\nCon este homenaje, la alcaldesa Shirma Cortés Sanmiguel reafirma su voluntad de liderar una gestión que valora el talento humano, reconoce el esfuerzo silencioso y promueve una cultura institucional basada en el respeto, la equidad y la gratitud. ÉV.",
+    "imagenes": [
+      {
+        "id": "b219cb6392d8c920",
+        "hash": "b219cb6392d8c92072631ad83d33b3aaea1ad5e1175d329d3e25d8b23e708672",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_8137.JPG",
+        "rutaOriginal": "/media/originales/b219cb6392d8c920.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/b219cb6392d8c920-400.webp",
+          "800w": "/media/derivados/b219cb6392d8c920-800.webp",
+          "1600w": "/media/derivados/b219cb6392d8c920-1600.webp"
+        },
+        "ancho": 2400,
+        "alto": 1344,
+        "bytes": 1025718,
+        "alt": "Reconocimiento al compromiso y la vocación de servicio a trabajadores y empleados",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

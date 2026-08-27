@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 248,
+    "slug": "muy-pronto-la-cancha-cubierta-del-barrio-luis-guerra-estara-al-servicio-de-la-248",
+    "titulo": "Muy pronto, la cancha cubierta del barrio Luis Guerra estará al servicio de la ciudadanía",
+    "resumen": "Con liderazgo, decisión y una visión de desarrollo integral, la Alcaldía, bajo la administración de Shirma Cortés Sanmiguel, registra un 98 % de avance en los trabajos de mantenimiento de la cancha cubierta del barrio Luis Guerra, una obra que reafir",
+    "fecha": "2026-02-07",
+    "imagen": {
+      "id": "598b852a8933aae4",
+      "hash": "598b852a8933aae48b43724043f34579bf8b71f8c322634695d74829c4a0b3eb",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG.JPG",
+      "rutaOriginal": "/media/originales/598b852a8933aae4.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/598b852a8933aae4-400.webp",
+        "800w": "/media/derivados/598b852a8933aae4-800.webp",
+        "1600w": "/media/derivados/598b852a8933aae4-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8599166,
+      "alt": "Muy pronto, la cancha cubierta del barrio Luis Guerra estará al servicio de la ciudadanía",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/248/",
+    "fuente_url": "https://orellana.gob.ec/noticia/248/",
+    "cuerpo": "Con liderazgo, decisión y una visión de desarrollo integral, la Alcaldía, bajo la administración de Shirma Cortés Sanmiguel, registra un 98 % de avance en los trabajos de mantenimiento de la cancha cubierta del barrio Luis Guerra, una obra que reafirma el compromiso municipal con el deporte, la recreación y la recuperación de espacios públicos para la ciudadanía.\nEsta intervención responde a una política clara de la actual administración: invertir en obras que dignifiquen a los barrios, fortalezcan el tejido social y generen oportunidades para niños, jóvenes y familias, “Ahora está muy bonita nuestra canchita, porque antes estaba abandonado y ahorita los jóvenes podrán recrearse jugando y divirtiéndose en familia.” Yuli Mosquera, opinión ciudadana. \nLa recuperación de esta infraestructura deportiva, tiene una inversión de USD 77.212,05, que permaneció por años en estado de abandono, hoy se convierte en un espacio seguro y funcional para el encuentro y la sana convivencia, “Gracias a la alcaldesa Shirma Cortés que está remodelando esta cancha, ayudando así mismo al pueblo, donde uno ya puede venir a jugar.” María Mosquera, opinión ciudadana. \nCon liderazgo femenino y compromiso político, la administración municipal continúa cumpliendo con obras que fortalecen el tejido social y promueven el bienestar ciudadano. DV.",
+    "imagenes": [
+      {
+        "id": "598b852a8933aae4",
+        "hash": "598b852a8933aae48b43724043f34579bf8b71f8c322634695d74829c4a0b3eb",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG.JPG",
+        "rutaOriginal": "/media/originales/598b852a8933aae4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/598b852a8933aae4-400.webp",
+          "800w": "/media/derivados/598b852a8933aae4-800.webp",
+          "1600w": "/media/derivados/598b852a8933aae4-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8599166,
+        "alt": "Muy pronto, la cancha cubierta del barrio Luis Guerra estará al servicio de la ciudadanía",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

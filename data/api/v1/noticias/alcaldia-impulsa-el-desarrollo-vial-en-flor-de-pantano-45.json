@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 45,
+    "slug": "alcaldia-impulsa-el-desarrollo-vial-en-flor-de-pantano-45",
+    "titulo": "Alcaldía impulsa el desarrollo vial en Flor de Pantano",
+    "resumen": "Con una inversión de 276,535 dólares y un plazo de ejecución de 120 días, esta obra marcará el inicio de la regeneración urbana",
+    "fecha": "2025-03-07",
+    "imagen": {
+      "id": "e2a43f12a48b97e4",
+      "hash": "e2a43f12a48b97e4771d2c80d401abae17d6a267feb2a3162cf1e886458fd214",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_2089.JPG",
+      "rutaOriginal": "/media/originales/e2a43f12a48b97e4.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e2a43f12a48b97e4-400.webp",
+        "800w": "/media/derivados/e2a43f12a48b97e4-800.webp",
+        "1600w": "/media/derivados/e2a43f12a48b97e4-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 4640,
+      "bytes": 12333532,
+      "alt": "Alcaldía impulsa el desarrollo vial en Flor de Pantano",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/45/",
+    "fuente_url": "https://orellana.gob.ec/noticia/45/",
+    "cuerpo": "El alcalde encargado, Víctor Ruiz, junto a técnicos municipales, socializó con los habitantes de Flor de Pantano el proyecto de construcción de aceras, bordillos y cunetas en las calles Porvenir, El Refugio, San Francisco y El Triunfo.\nCon una inversión de 276,535 dólares y un plazo de ejecución de 120 días, esta obra marcará el inicio de la regeneración urbana del barrio, mejorando la infraestructura vial y garantizando la seguridad de los peatones, \"Esta obra es un compromiso con la ciudadanía, buscamos mejorar la movilidad y la seguridad de los habitantes del barrio Flor de Pantano. Con estas intervenciones, garantizamos espacios adecuados para el tránsito peatonal y una mejor canalización de aguas lluvias.\"\nPor su parte José Montero dirigente barrial, reconoció el compromiso de la alcaldía con los barrios y se comprometió en apoyar en todo lo necesario en la ejecución de esta obra, “Nos comprometemos a coordinar un trabajo eficiente y de calidad, respetando los tiempos establecidos y asegurando que los habitantes del barrio cuenten con una infraestructura segura y duradera”.\nLa alcaldía reafirma su compromiso con el desarrollo urbano y el bienestar ciudadano, apostando por una mejor calidad de vida para Flor de Pantano. PT.",
+    "imagenes": [
+      {
+        "id": "e2a43f12a48b97e4",
+        "hash": "e2a43f12a48b97e4771d2c80d401abae17d6a267feb2a3162cf1e886458fd214",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_2089.JPG",
+        "rutaOriginal": "/media/originales/e2a43f12a48b97e4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e2a43f12a48b97e4-400.webp",
+          "800w": "/media/derivados/e2a43f12a48b97e4-800.webp",
+          "1600w": "/media/derivados/e2a43f12a48b97e4-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 4640,
+        "bytes": 12333532,
+        "alt": "Alcaldía impulsa el desarrollo vial en Flor de Pantano",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

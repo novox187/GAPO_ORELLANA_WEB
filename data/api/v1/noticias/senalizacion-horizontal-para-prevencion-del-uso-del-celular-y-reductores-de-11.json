@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 11,
+    "slug": "senalizacion-horizontal-para-prevencion-del-uso-del-celular-y-reductores-de-11",
+    "titulo": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+    "resumen": "Promover la seguridad vial",
+    "fecha": "2025-01-10",
+    "imagen": {
+      "id": "68a8b27cbcce2525",
+      "hash": "68a8b27cbcce25250dc332d36487252858b078fdabd14d257960b08a4f940304",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_NO_USO_CELULAR.png",
+      "rutaOriginal": "/media/originales/68a8b27cbcce2525.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/68a8b27cbcce2525-400.webp",
+        "800w": "/media/derivados/68a8b27cbcce2525-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1185470,
+      "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/11/",
+    "fuente_url": "https://orellana.gob.ec/noticia/11/",
+    "cuerpo": "La Alcaldía implementa una serie de medidas de urbanismo táctico a través de la señalización horizontal preventiva en la ciudad de El Coca como es el no uso del teléfono y reductores de velocidad, el fin es promover la seguridad vial, reducir accidentes y fomentar un entorno urbano más seguro y accesible para todos los usuarios de la vía, el contratista Rómulo Carchi, detalla los trabajos ejecutados, “Antes de poner el material sobre la calzada, debemos hacer una limpieza, luego se le pone un prímer que tiene dos componentes, el A y B que es material epóxico, la cual sirve para sellar el piso para que no salga la humedad y no levante el material; de acuerdo a eso, quemamos con la antorcha de propano hasta 180 grados de temperatura o calor para que tenga adherencia con el piso y el material no se vuelva a levantar”. \nEn muchas ciudades, el exceso de velocidad y el uso del teléfono siguen siendo problemáticas recurrentes que incrementan significativamente el riesgo de accidentes viales. Por lo que la alcaldía, a través de esta actividad busca reducir notablemente el número de siniestros, “Son señales regulatorias, que nos regulariza lo que bebemos y no hacer; los 50 kilómetros nos indica que debemos rodar máximo a este límite; mientras que la señal del teléfono nos indica que no debemos utilizar este aparato mientras conducimos el vehículo en las avenidas”. Rómulo Carchi, contratista. \nLa implementación de esta señalización horizontal no solo busca mejorar la seguridad vial, sino también generar un cambio en los hábitos y comportamientos de los usuarios en el espacio público. JG.",
+    "imagenes": [
+      {
+        "id": "68a8b27cbcce2525",
+        "hash": "68a8b27cbcce25250dc332d36487252858b078fdabd14d257960b08a4f940304",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_NO_USO_CELULAR.png",
+        "rutaOriginal": "/media/originales/68a8b27cbcce2525.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/68a8b27cbcce2525-400.webp",
+          "800w": "/media/derivados/68a8b27cbcce2525-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1185470,
+        "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

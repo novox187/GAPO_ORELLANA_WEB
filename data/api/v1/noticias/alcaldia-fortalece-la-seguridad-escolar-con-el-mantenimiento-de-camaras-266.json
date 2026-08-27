@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 266,
+    "slug": "alcaldia-fortalece-la-seguridad-escolar-con-el-mantenimiento-de-camaras-266",
+    "titulo": "Alcaldía fortalece la seguridad escolar con el mantenimiento de cámaras",
+    "resumen": "Con el objetivo de fortalecer la seguridad y velar por el bienestar de los estudiantes. La Alcaldía liderada por Shirma Cortés Sanmiguel, realizó trabajos de mantenimiento a las cámaras de",
+    "fecha": "2026-03-12",
+    "imagen": {
+      "id": "03187add60f7d2f3",
+      "hash": "03187add60f7d2f328a5b4d3573e58b8d2fcb7182be918cd95ccb59a254a6d33",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG1071.JPG",
+      "rutaOriginal": "/media/originales/03187add60f7d2f3.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/03187add60f7d2f3-400.webp",
+        "800w": "/media/derivados/03187add60f7d2f3-800.webp",
+        "1600w": "/media/derivados/03187add60f7d2f3-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 8865841,
+      "alt": "Alcaldía fortalece la seguridad escolar con el mantenimiento de cámaras",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/266/",
+    "fuente_url": "https://orellana.gob.ec/noticia/266/",
+    "cuerpo": "Con el objetivo de fortalecer la seguridad y velar por el bienestar de los estudiantes. La Alcaldía liderada por Shirma Cortés Sanmiguel, realizó trabajos de mantenimiento a las cámaras de videovigilancia ubicadas en los exteriores de la Unidad Educativa del milenio Jorge Rodríguez Román del barrio El Moretal, la ciudadana Roxana Gómez, aprueba el mantenimiento de dispositivos que realiza la municipalidad, “Me parece muy bien los trabajos, porque nos ayuda a cuidar a los niños y a los jóvenes, ya que estamos en tiempos bastante peligrosos; y a las autoridades, gracias por trabajar por la seguridad de la ciudadanía.” opinión ciudadana. \n Durante la jornada, las cámaras UNV que se encuentran enlazadas al sistema de emergencias ECU 911, recibieron mantenimiento técnico. Para estas labores se utilizó un carro canasta, que facilita el acceso a la altura donde se encuentran instalados los dispositivos, “Bien que la señora alcaldesa trabaje por la seguridad de todos; porque ahora con tanta delincuencia que hay, estos trabajos ayudan mucho a prevenir la inseguridad,” recuerda Graciela Lagua, con su opinión ciudadana. \nDesde la Municipalidad se reitera que estas intervenciones forman parte del compromiso de la administración actual con la seguridad ciudadana y el bienestar de las familias que habitan en la ciudad y el cantón. DV.",
+    "imagenes": [
+      {
+        "id": "03187add60f7d2f3",
+        "hash": "03187add60f7d2f328a5b4d3573e58b8d2fcb7182be918cd95ccb59a254a6d33",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG1071.JPG",
+        "rutaOriginal": "/media/originales/03187add60f7d2f3.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/03187add60f7d2f3-400.webp",
+          "800w": "/media/derivados/03187add60f7d2f3-800.webp",
+          "1600w": "/media/derivados/03187add60f7d2f3-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 8865841,
+        "alt": "Alcaldía fortalece la seguridad escolar con el mantenimiento de cámaras",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

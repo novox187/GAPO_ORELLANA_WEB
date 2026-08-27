@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 145,
+    "slug": "por-un-futuro-limpio-y-seguro-alcaldia-refuerza-el-control-ambiental-en-145",
+    "titulo": "¡Por un futuro limpio y seguro! Alcaldía refuerza el control ambiental en beneficio de todos",
+    "resumen": "La Municipalidad de Francisco de Orellana reafirma su compromiso con el bienestar de la ciudadanía y la protección del entorno natural, trabajando día a día para que nuestro cantón sea un lugar más limpio, ordenado y seguro para vivir.",
+    "fecha": "2025-08-15",
+    "imagen": {
+      "id": "10d180f51e9ce937",
+      "hash": "10d180f51e9ce9378c9a7fb9270745b17d3e02ba667545cf8fad00d03a7f8c79",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG7129.JPG",
+      "rutaOriginal": "/media/originales/10d180f51e9ce937.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/10d180f51e9ce937-400.webp",
+        "800w": "/media/derivados/10d180f51e9ce937-800.webp",
+        "1600w": "/media/derivados/10d180f51e9ce937-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10339597,
+      "alt": "¡Por un futuro limpio y seguro! Alcaldía refuerza el control ambiental en beneficio de todos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/145/",
+    "fuente_url": "https://orellana.gob.ec/noticia/145/",
+    "cuerpo": "La Municipalidad de Francisco de Orellana reafirma su compromiso con el bienestar de la ciudadanía y la protección del entorno natural, trabajando día a día para que nuestro cantón sea un lugar más limpio, ordenado y seguro para vivir.\nEn este marco, se iniciarán operativos de inspección en empresas públicas y privadas del cantón, con el objetivo de verificar el adecuado manejo de desechos hospitalarios, químicos y peligrosos. Esta iniciativa busca prevenir riesgos para la salud pública y minimizar el impacto ambiental que generan estos residuos si no son tratados de forma responsable, “Se está trabajando con la comisaría para visitar las empresas que tengan estos servicios, como farmacias, clínicas y otros centros más; asimismo, se verifica que tengan el registro, caso contrario habrá sanciones”, manifiesta Wálter Lara, funcionario Municipal. \nLas inspecciones estarán a cargo de personal técnico especializado y se realizarán en cumplimiento de la normativa ambiental vigente, promoviendo una cultura de responsabilidad y sostenibilidad entre los actores productivos del territorio, el ciudadano Emanuel Cortez, aprueba la iniciativa que está realizando la municipalidad en la ciudad de El Coca, “Qué bueno que se motive a la ciudadanía para que puedan reciclar la basura en los lugares adecuados y evitar inconvenientes con quienes lo recogen; invito a sacar los desechos a la hora indicada para poder tener una mejor forma de vivir”.\nEstas acciones forman parte de una gestión firme y comprometida con el desarrollo integral del cantón, garantizando espacios más limpios, seguros y saludables para todos los habitantes.\nTu colaboración marca la diferencia, protege tu ciudad, protege a tu gente. DV.",
+    "imagenes": [
+      {
+        "id": "10d180f51e9ce937",
+        "hash": "10d180f51e9ce9378c9a7fb9270745b17d3e02ba667545cf8fad00d03a7f8c79",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG7129.JPG",
+        "rutaOriginal": "/media/originales/10d180f51e9ce937.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/10d180f51e9ce937-400.webp",
+          "800w": "/media/derivados/10d180f51e9ce937-800.webp",
+          "1600w": "/media/derivados/10d180f51e9ce937-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10339597,
+        "alt": "¡Por un futuro limpio y seguro! Alcaldía refuerza el control ambiental en beneficio de todos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

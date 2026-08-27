@@ -1,0 +1,65 @@
+{
+  "data": {
+    "id": 7,
+    "slug": "sepulturas-en-los-cementerios-municipales-7",
+    "nombre": "Sepulturas en los cementerios municipales",
+    "direccion": {
+      "id": 6,
+      "slug": "direccion-de-servicios-municipales",
+      "nombre": "DIRECCIÓN DE SERVICIOS MUNICIPALES"
+    },
+    "categorias": [
+      "otros-tramites"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Este servicio es la sepultura de cadáveres.",
+    "que_es": "Este servicio es la sepultura de cadáveres.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": false,
+      "detalle": "La Municipalidad entrega el espacio físico de manera gratuita. No tiene costo."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Oficio de solicitud dirigido al director o directora de Servicios Municipales del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Copia de cédula del representante",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Copia de la cédula de ciudadanía del difunto.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Copia del certificado de defunción (Registro Civil)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Certificado de no adeudar al Municipio",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

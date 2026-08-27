@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 111,
+    "slug": "nino-de-proyecto-eti-recibe-ayuda-para-radiografias-111",
+    "titulo": "Niño de proyecto ETI recibe ayuda para radiografías",
+    "resumen": "La Alcaldía de Francisco de Orellana, a través de la Dirección de Desarrollo Social y en coordinación con el MIES, continúa trabajando con los grupos prioritarios de nuestro cantón. Es esta ocasión se gestionó con la empresa privada Radiología e imag",
+    "fecha": "2025-06-25",
+    "imagen": {
+      "id": "017cd63e04048339",
+      "hash": "017cd63e0404833973bd7fb2ad02158ce5c5c2d0008e4d81bb9aa78c0ade22ce",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_9749.JPG",
+      "rutaOriginal": "/media/originales/017cd63e04048339.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/017cd63e04048339-400.webp",
+        "800w": "/media/derivados/017cd63e04048339-800.webp",
+        "1600w": "/media/derivados/017cd63e04048339-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 4378726,
+      "alt": "Niño de proyecto ETI recibe ayuda para radiografías",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/111/",
+    "fuente_url": "https://orellana.gob.ec/noticia/111/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, a través de la Dirección de Desarrollo Social y en coordinación con el MIES, continúa trabajando con los grupos prioritarios de nuestro cantón.\nEs esta ocasión se gestionó con la empresa privada Radiología e imagen dental, quien brindó atención gratuita a un niño de 11 años de la parroquia Guayusa que necesitaba radiografías para continuar su tratamiento y evitar que los tejidos se infecten y causen daños mayores en la salud bucal, Marcela Vera, técnica municipal, expresa que la primera autoridad municipal tramitó la ayuda de manera personal, “Este granito de arena que desde la Alcaldía ponemos, dejamos una huella en cada niño, en el cual no tienen a veces recursos económicos, con la ayuda de cada uno de nosotros hacemos posible las ayudas”. \nGracias al proyecto de Erradicación del Trabajo Infantil, y con el valioso apoyo de la empresa privada, hoy celebramos una nueva acción solidaria, “Nosotros estamos ayudando con el tema de las radiografías, estamos trabajando con la municipalidad para servir al público y ayudarles cuando se amerita”, revela Adrián Velásquez, representante de Imagen Dental.\n¡Juntos erradicamos el trabajo infantil y sembramos futuro! PT.",
+    "imagenes": [
+      {
+        "id": "017cd63e04048339",
+        "hash": "017cd63e0404833973bd7fb2ad02158ce5c5c2d0008e4d81bb9aa78c0ade22ce",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_9749.JPG",
+        "rutaOriginal": "/media/originales/017cd63e04048339.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/017cd63e04048339-400.webp",
+          "800w": "/media/derivados/017cd63e04048339-800.webp",
+          "1600w": "/media/derivados/017cd63e04048339-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 4378726,
+        "alt": "Niño de proyecto ETI recibe ayuda para radiografías",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

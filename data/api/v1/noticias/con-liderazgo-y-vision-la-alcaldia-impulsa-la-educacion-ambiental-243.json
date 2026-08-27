@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 243,
+    "slug": "con-liderazgo-y-vision-la-alcaldia-impulsa-la-educacion-ambiental-243",
+    "titulo": "Con liderazgo y visión, la Alcaldía impulsa la educación ambiental",
+    "resumen": "Educar para cuidar la vida es una forma de gobernar con visión. En el marco del Día Mundial de la Educación Ambiental, el Municipio fue parte de la capacitación “Liderazgo Verde: Transformando la Gestión Escolar”, apostando por la formación como eje",
+    "fecha": "2026-01-28",
+    "imagen": {
+      "id": "a0f4033748b0324c",
+      "hash": "a0f4033748b0324ce89c7865a0c23aefbb2fdb8e172eb14095a8a0ac13135ff3",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG.JPG",
+      "rutaOriginal": "/media/originales/a0f4033748b0324c.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a0f4033748b0324c-400.webp",
+        "800w": "/media/derivados/a0f4033748b0324c-800.webp",
+        "1600w": "/media/derivados/a0f4033748b0324c-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6580484,
+      "alt": "Con liderazgo y visión, la Alcaldía impulsa la educación ambiental",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/243/",
+    "fuente_url": "https://orellana.gob.ec/noticia/243/",
+    "cuerpo": "Educar para cuidar la vida es una forma de gobernar con visión. En el marco del Día Mundial de la Educación Ambiental, el Municipio fue parte de la capacitación “Liderazgo Verde: Transformando la Gestión Escolar”, apostando por la formación como eje de transformación ambiental, para Kenia Chinga, docente de la Unidad Educativa Presidente Tamayo, la charla ayuda a reforzar las clases e incentivar a los alumnos para cuidar nuestro ambiente, “Me parece muy importante la capacitación, porque nos hace apreciar lo significativo de cuidar nuestro medio ambiente y la biodiversidad; luego de este taller, vamos a hacer la réplica en nuestra unidad educativa, porque es importante hacer hincapié y rescatar la biodiversidad de nuestro planeta y el cuidado del mismo.” \nEn representación de la alcaldesa Shirma Cortés Sanmiguel, el concejal Paúl Valladolid, junto a técnicos de la Dirección de Ambiente, destacó las acciones que impulsa el Municipio en el manejo técnico del sitio de disposición final y en la implementación de políticas locales orientadas a la protección del entorno natural, “Nos complace mucho que, como municipio de Francisco de Orellana seamos parte de este importante evento; y, a su vez resaltar el papel que cumple cada uno de los educadores en sus planteles y reciban siempre ese compromiso de parte de la municipalidad.” \nCon decisiones firmes, trabajo articulado y liderazgo, la administración de la alcaldesa Shirma Cortés Sanmiguel consolida una gestión que entiende que cuidar el ambiente es gobernar con visión, empoderando a la ciudadanía y sembrando conciencia para las futuras generaciones. DV.",
+    "imagenes": [
+      {
+        "id": "a0f4033748b0324c",
+        "hash": "a0f4033748b0324ce89c7865a0c23aefbb2fdb8e172eb14095a8a0ac13135ff3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG.JPG",
+        "rutaOriginal": "/media/originales/a0f4033748b0324c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a0f4033748b0324c-400.webp",
+          "800w": "/media/derivados/a0f4033748b0324c-800.webp",
+          "1600w": "/media/derivados/a0f4033748b0324c-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6580484,
+        "alt": "Con liderazgo y visión, la Alcaldía impulsa la educación ambiental",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

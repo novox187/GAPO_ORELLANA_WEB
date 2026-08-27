@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 22,
+    "slug": "alcaldia-adquiere-bombas-para-mejorar-los-sistemas-de-alcantarillado-y-agua-22",
+    "titulo": "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable",
+    "resumen": "sistema de alcantarillado sanitario sea más eficiente y confiable en la ciudad de El Coca.",
+    "fecha": "2025-01-24",
+    "imagen": {
+      "id": "538f3e30565e84d7",
+      "hash": "538f3e30565e84d7fecf9a884b5cafdeae08bb42561c6f7716609697f958377a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_BOMBAS_SUMERGIBLES.png",
+      "rutaOriginal": "/media/originales/538f3e30565e84d7.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/538f3e30565e84d7-400.webp",
+        "800w": "/media/derivados/538f3e30565e84d7-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1323013,
+      "alt": "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/22/",
+    "fuente_url": "https://orellana.gob.ec/noticia/22/",
+    "cuerpo": "La Alcaldía que preside Shirma Cortés Sanmiguel, en su compromiso con el bienestar de los ciudadanos y la mejora de los servicios públicos, adquirió 17 bombas sumergibles de última tecnología para que el sistema de alcantarillado sanitario sea más eficiente y confiable en la ciudad de El Coca.\nDe la misma manera, arribaron 7 bombas más, con el objetivo de optimizar la distribución de agua potable en diversas zonas del cantón. La inversión de USD. 395.990.00 más IVA, forma parte de un plan integral para mejorar los servicios y reducir las interrupciones, así lo asegura Omar Proaño, director de agua potable y alcantarillado sanitario del GADMFO, “Nuestra alcaldesa Shirma Cortés, acertadamente ha puesto prioridad para que esto sea indispensable, tanto en la rehabilitación y reinicio del bombeo de alcantarillado y el mejoramiento del sistema de agua potable para la ciudad”.\nCon esta adquisición, la alcaldía refuerza su compromiso para brindar un entorno más limpio, seguro y agua potable de calidad para todos. JG.",
+    "imagenes": [
+      {
+        "id": "538f3e30565e84d7",
+        "hash": "538f3e30565e84d7fecf9a884b5cafdeae08bb42561c6f7716609697f958377a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_BOMBAS_SUMERGIBLES.png",
+        "rutaOriginal": "/media/originales/538f3e30565e84d7.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/538f3e30565e84d7-400.webp",
+          "800w": "/media/derivados/538f3e30565e84d7-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1323013,
+        "alt": "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

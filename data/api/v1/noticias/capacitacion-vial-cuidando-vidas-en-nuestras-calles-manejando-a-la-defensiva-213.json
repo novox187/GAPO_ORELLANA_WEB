@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 213,
+    "slug": "capacitacion-vial-cuidando-vidas-en-nuestras-calles-manejando-a-la-defensiva-213",
+    "titulo": "Capacitación vial: cuidando vidas en nuestras calles manejando a la defensiva",
+    "resumen": "Con el objetivo de fortalecer los conocimientos en seguridad vial entre los gremios de transporte liviano del cantón, la Alcaldía, a través de la Dirección de Tránsito y en coordinación con la empresa privada Halliburton, desarrolló una jornada de ca",
+    "fecha": "2025-12-10",
+    "imagen": {
+      "id": "2ee63b492bdc8a88",
+      "hash": "2ee63b492bdc8a889c0de46884c3bae0ae3238bc8dc02687cf3f5cad855f0041",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_HZuFAl1.JPG",
+      "rutaOriginal": "/media/originales/2ee63b492bdc8a88.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/2ee63b492bdc8a88-400.webp",
+        "800w": "/media/derivados/2ee63b492bdc8a88-800.webp",
+        "1600w": "/media/derivados/2ee63b492bdc8a88-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9100223,
+      "alt": "Capacitación vial: cuidando vidas en nuestras calles manejando a la defensiva",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+    },
+    "url": "/noticia/213/",
+    "fuente_url": "https://orellana.gob.ec/noticia/213/",
+    "cuerpo": "Con el objetivo de fortalecer los conocimientos en seguridad vial entre los gremios de transporte liviano del cantón, la Alcaldía, a través de la Dirección de Tránsito y en coordinación con la empresa privada Halliburton, desarrolló una jornada de capacitación dirigida a cerca conductores y socios de cooperativas de taxis liviano, transporte ejecutivo, escolar y urbano, “Se articuló con la empresa privada Halliburton para que nos ayude con un facilitador con temas de manejo defensivo y seguridad y para hacer un recordativo a todos los conocimientos que tienen los conductores de nuestro cantón.” Danny Grefa, técnica de tránsito municipal. \nDurante el taller, los participantes recibieron formación en aspectos clave para promover una movilidad responsable y segura, protegiendo tanto a conductores como a peatones y disminuyendo los factores de riesgo en las vías, “Es importante tener estas charlas, porque de algún modo nos recuerda de cómo debemos conducir en las vías, ya que nosotros todos los días estamos expuestos a cualquier situación que se nos presente.” Edith Jiménez, transportista local. \nLa Alcaldía, liderada por Shirma Cortés Sanmiguel, sigue fortaleciendo la seguridad vial y avanza hacia ‘El cantón que queremos’. Recuerda: conducir con responsabilidad. JG.",
+    "imagenes": [
+      {
+        "id": "2ee63b492bdc8a88",
+        "hash": "2ee63b492bdc8a889c0de46884c3bae0ae3238bc8dc02687cf3f5cad855f0041",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_HZuFAl1.JPG",
+        "rutaOriginal": "/media/originales/2ee63b492bdc8a88.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/2ee63b492bdc8a88-400.webp",
+          "800w": "/media/derivados/2ee63b492bdc8a88-800.webp",
+          "1600w": "/media/derivados/2ee63b492bdc8a88-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9100223,
+        "alt": "Capacitación vial: cuidando vidas en nuestras calles manejando a la defensiva",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      }
+    ]
+  }
+}

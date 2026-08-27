@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 198,
+    "slug": "alcaldia-impulsa-el-empleo-local-con-la-socializacion-de-la-ordenanza-de-empleo-198",
+    "titulo": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
+    "resumen": "Con la visión de fortalecer la economía local y garantizar oportunidades para los habitantes del cantón, la administración liderada por Shirma Cortés Sanmiguel impulsa la Ordenanza de Empleo Preferente, una propuesta que busca asegurar la contratació",
+    "fecha": "2025-11-18",
+    "imagen": {
+      "id": "0c363a2917e2ac83",
+      "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
+      "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
+        "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
+        "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6360537,
+      "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+    },
+    "url": "/noticia/198/",
+    "fuente_url": "https://orellana.gob.ec/noticia/198/",
+    "cuerpo": "Con la visión de fortalecer la economía local y garantizar oportunidades para los habitantes del cantón, la administración liderada por Shirma Cortés Sanmiguel impulsa la Ordenanza de Empleo Preferente, una propuesta que busca asegurar la contratación de mano de obra local, así como la adquisición de bienes y servicios dentro del territorio, “Nosotros queremos ver que se diga o se nombre la inclusión de personas pertenecientes a pueblos y nacionalidades, esas dos palabras tienen que ir en la ordenanza y es el pedido de nosotros.” Kléver Rosado, opinión ciudadana. \nEn representación de la alcaldesa, los concejales Paul Valladolid y Washington Cardona participaron en la socialización del borrador de la normativa, realizada en la parroquia Dayuma, donde se expusieron los alcances y beneficios de esta herramienta legal que busca hacer cumplir lo establecido en la Ley Especial Amazónica, “Nos parece muy bueno que se haya dado esta ordenanza y es la primera vez que veo interés desde el GAD Municipal y nosotros estamos encantados de poder formar parte de la solución.” Ronal Moreno, opinión ciudadana. \nLa jornada permitió recoger observaciones y sugerencias de la comunidad, que serán analizadas en una próxima convocatoria, reafirmando la política de diálogo abierto y participación ciudadana que caracteriza a la gestión de la alcaldesa Shirma Cortés Sanmiguel. DV.",
+    "imagenes": [
+      {
+        "id": "0c363a2917e2ac83",
+        "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
+        "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
+          "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
+          "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6360537,
+        "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      }
+    ]
+  }
+}

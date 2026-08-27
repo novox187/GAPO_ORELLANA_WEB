@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 205,
+    "slug": "alcaldia-fortalece-la-seguridad-en-san-luis-de-armenia-con-la-colocacion-de-205",
+    "titulo": "Alcaldía fortalece la seguridad en San Luis de Armenia con la colocación de cámaras",
+    "resumen": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, continúa ejecutando acciones firmes para fortalecer la seguridad ciudadana en San Luis de Armenia. En esta ocasión, se instalaron tres modernas cámaras de videovigilancia, equipos que permitirán moni",
+    "fecha": "2025-11-27",
+    "imagen": {
+      "id": "fc4f62353a60af40",
+      "hash": "fc4f62353a60af40f1422e97655fd15375c04aab4233d0b717d415ac3fa037cd",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27.JPG",
+      "rutaOriginal": "/media/originales/fc4f62353a60af40.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/fc4f62353a60af40-400.webp",
+        "800w": "/media/derivados/fc4f62353a60af40-800.webp",
+        "1600w": "/media/derivados/fc4f62353a60af40-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6969195,
+      "alt": "Alcaldía fortalece la seguridad en San Luis de Armenia con la colocación de cámaras",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/205/",
+    "fuente_url": "https://orellana.gob.ec/noticia/205/",
+    "cuerpo": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, continúa ejecutando acciones firmes para fortalecer la seguridad ciudadana en San Luis de Armenia. En esta ocasión, se instalaron tres modernas cámaras de videovigilancia, equipos que permitirán monitorear de manera permanente el espacio público y prevenir hechos delictivos registrados anteriormente en el sector, “Hemos pedido esta colaboración, porque aquí han pasado cosas anormales y nunca quedaba evidencia. Con estas cámaras se ve que las autoridades sí están pendientes de nosotros.” Enrique Shiguango, morador de San Luis de Armenia.\nEsta intervención responde a una solicitud de la comunidad, que busca contar con herramientas efectivas para mejorar la vigilancia y actuar oportunamente ante cualquier emergencia, “Esto es lo que queremos: trabajo coordinado. Nosotros también debemos cuidar estas cosas, porque es un gasto público, es nuestro dinero, y entre todos los vecinos tenemos que proteger lo que viene de parte del estado.” Enrique Shiguango, morador de San Luis de Armenia.\nLa administración municipal reafirma su compromiso de trabajar junto a la ciudadanía para construir un cantón más seguro. Con la instalación actual y la futura incorporación de tres cámaras adicionales, se continúa avanzando hacia “El cantón que queremos”, mediante acciones preventivas y orientadas al bienestar colectivo. EG.",
+    "imagenes": [
+      {
+        "id": "fc4f62353a60af40",
+        "hash": "fc4f62353a60af40f1422e97655fd15375c04aab4233d0b717d415ac3fa037cd",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27.JPG",
+        "rutaOriginal": "/media/originales/fc4f62353a60af40.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/fc4f62353a60af40-400.webp",
+          "800w": "/media/derivados/fc4f62353a60af40-800.webp",
+          "1600w": "/media/derivados/fc4f62353a60af40-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6969195,
+        "alt": "Alcaldía fortalece la seguridad en San Luis de Armenia con la colocación de cámaras",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 142,
+    "slug": "agentes-de-control-promueven-tenencia-responsable-de-mascotas-en-la-ciclovia-de-142",
+    "titulo": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
+    "resumen": "Con el objetivo de mantener la ciclovía en condiciones óptimas para el disfrute de todos, Agentes de Control Municipal emprendieron una campaña de socialización dirigida a los dueños de mascotas,",
+    "fecha": "2025-08-12",
+    "imagen": {
+      "id": "df4f41bfa7b51f7c",
+      "hash": "df4f41bfa7b51f7c0fa95216333711bc3078c345c61cda1fda34c40f70fc86e2",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG0151.JPG",
+      "rutaOriginal": "/media/originales/df4f41bfa7b51f7c.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/df4f41bfa7b51f7c-400.webp",
+        "800w": "/media/derivados/df4f41bfa7b51f7c-800.webp",
+        "1600w": "/media/derivados/df4f41bfa7b51f7c-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11089336,
+      "alt": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/142/",
+    "fuente_url": "https://orellana.gob.ec/noticia/142/",
+    "cuerpo": "Con el objetivo de mantener la ciclovía en condiciones óptimas para el disfrute de todos, Agentes de Control Municipal emprendieron una campaña de socialización dirigida a los dueños de mascotas, recordándoles la importancia de portar el kit de limpieza al momento de pasear a sus animales en este espacio público, “Hay una corresponsabilidad de aquellos que traen a sus mascotitas, que también recojan el popó, porque hay personas que a veces vienen en la noche y quizá distraídas, conversando y pueden pisar los popó; y también a los vecinos de alrededor, porque ellos también salen y obviamente comienzan a marcar territorio, y eso quiere decir que van a volver”. Jorge Vidal, opinión ciudadana.\nLa medida se enmarca en la Ordenanza Municipal 01-2015, que regula la protección de los espacios públicos y la convivencia ciudadana. En su artículo 49 se contemplan sanciones económicas para quienes incumplan con estas disposiciones.\nDesde el área de limpieza municipal también se hizo un llamado a la colaboración ciudadana: “De favor les pido que, si van a sacar a su mascota a la calle, que traigan una fundita y también la boten, también lo pueden dejar en una parte visible para uno poderlo recoger”. Olga Cabezas, personal de limpieza municipal.\nCuidarla es tarea de todos, y pequeñas acciones como recoger los desechos de nuestras mascotas marcan la diferencia para que este lugar siga siendo limpio, seguro y agradable para todos. JG.",
+    "imagenes": [
+      {
+        "id": "df4f41bfa7b51f7c",
+        "hash": "df4f41bfa7b51f7c0fa95216333711bc3078c345c61cda1fda34c40f70fc86e2",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG0151.JPG",
+        "rutaOriginal": "/media/originales/df4f41bfa7b51f7c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/df4f41bfa7b51f7c-400.webp",
+          "800w": "/media/derivados/df4f41bfa7b51f7c-800.webp",
+          "1600w": "/media/derivados/df4f41bfa7b51f7c-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11089336,
+        "alt": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

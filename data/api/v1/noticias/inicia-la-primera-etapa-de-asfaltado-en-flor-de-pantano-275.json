@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 275,
+    "slug": "inicia-la-primera-etapa-de-asfaltado-en-flor-de-pantano-275",
+    "titulo": "Inicia la primera etapa de asfaltado en Flor de Pantano",
+    "resumen": "Cientos de familias del barrio Flor de Pantano celebran el inicio de la primera etapa del asfaltado, un proyecto ejecutado por la Alcaldía bajo la dirección de Shirma Cortés Sanmiguel, Margot Peña,",
+    "fecha": "2026-03-25",
+    "imagen": {
+      "id": "ed4c458377622794",
+      "hash": "ed4c4583776227943b258c388c4636e391f8ec724b161ad6c4c60b990f6dc40f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_2748.JPG",
+      "rutaOriginal": "/media/originales/ed4c458377622794.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ed4c458377622794-400.webp",
+        "800w": "/media/derivados/ed4c458377622794-800.webp",
+        "1600w": "/media/derivados/ed4c458377622794-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 11514974,
+      "alt": "Inicia la primera etapa de asfaltado en Flor de Pantano",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+    },
+    "url": "/noticia/275/",
+    "fuente_url": "https://orellana.gob.ec/noticia/275/",
+    "cuerpo": "Cientos de familias del barrio Flor de Pantano celebran el inicio de la primera etapa del asfaltado, un proyecto ejecutado por la Alcaldía bajo la dirección de Shirma Cortés Sanmiguel, Margot Peña, presidenta del barrio Flor de Pantano, se siente alegre por los trabajos que llegaron hasta su sector, “Estamos muy felices, porque nuestra alcaldesa inició con el cambio del suelo para ya empezar lo que es el asfaltado, porque después de la tormenta vienen las calmas y las alegrías de muchos moradores que vivimos aquí en este barrio Flor del Pantano.” \nCon este trabajo, que abarcará las calles principales del lugar, se busca mejorar la movilidad y la calidad de vida de los habitantes, quienes ya cuentan con alcantarillado sanitario y pluvial, aceras y bordillos, el señor Miguel Azas, habitante del sector, está de acuerdo que se intervenga las vías y que mejoran la vida cotidiana del sector, “Estoy agradecido con las autoridades que están trabajando por mejorar nuestro barrio, y pedirle a la alcaldesa que no desmaye en sus labores diarias, trabajando por nuestro cantón.” \nMás que asfalto, la obra representa esperanza y desarrollo para la comunidad. De esta forma, la Municipalidad demuestra su compromiso con los vecinos por una vialidad más segura y accesible para todos. DV.",
+    "imagenes": [
+      {
+        "id": "ed4c458377622794",
+        "hash": "ed4c4583776227943b258c388c4636e391f8ec724b161ad6c4c60b990f6dc40f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_2748.JPG",
+        "rutaOriginal": "/media/originales/ed4c458377622794.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ed4c458377622794-400.webp",
+          "800w": "/media/derivados/ed4c458377622794-800.webp",
+          "1600w": "/media/derivados/ed4c458377622794-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 11514974,
+        "alt": "Inicia la primera etapa de asfaltado en Flor de Pantano",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      }
+    ]
+  }
+}

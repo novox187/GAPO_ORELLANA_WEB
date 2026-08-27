@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 134,
+    "slug": "alcaldia-inaugura-mantenimiento-integral-de-cancha-cubierta-del-barrio-12-de-134",
+    "titulo": "Alcaldía inaugura mantenimiento integral de cancha cubierta del barrio 12 de Noviembre",
+    "resumen": "En un ambiente festivo, la alcaldesa Shirma Cortés Sanmiguel, inauguró el mantenimiento integral de la cancha cubierta del barrio 12 de Noviembre; el evento inició con atención ciudadana, donde los",
+    "fecha": "2025-07-28",
+    "imagen": {
+      "id": "72922dd720be95b3",
+      "hash": "72922dd720be95b3d8acb86f7cab0231ee0ee67a3cdaaf915fa92cdaa9bbe398",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_1_IMG8099.JPG",
+      "rutaOriginal": "/media/originales/72922dd720be95b3.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/72922dd720be95b3-400.webp",
+        "800w": "/media/derivados/72922dd720be95b3-800.webp",
+        "1600w": "/media/derivados/72922dd720be95b3-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 10769416,
+      "alt": "Alcaldía inaugura mantenimiento integral de cancha cubierta del barrio 12 de Noviembre",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+    },
+    "url": "/noticia/134/",
+    "fuente_url": "https://orellana.gob.ec/noticia/134/",
+    "cuerpo": "En un ambiente festivo, la alcaldesa Shirma Cortés Sanmiguel, inauguró el mantenimiento integral de la cancha cubierta del barrio 12 de Noviembre; el evento inició con atención ciudadana, donde los moradores fueron escuchados en territorio por la primera autoridad cantonal que propuso soluciones a diferentes problemáticas del sector, “Fue excelente la atención y muy gentil, muy amable, nos atendió a todas las personas, yo la felicito, porque atiende con una educación única y a todas las personas por igual”. Carlos Farías, opinión ciudadana.\nComo parte del evento, hubo la participación de varios grupos de danza, la intervención de moradores y autoridades presentes que con entusiasmo recibieron tan importante noticia para el sector; para cerrar con broche de oro, la alcaldesa dio el puntapié inicial como símbolo de inauguración para que se desarrolle un partido amistoso de índor fútbol entre representantes de la municipalidad y del barrio 12 de Noviembre, “En realidad me siento muy contenta, de ver que cada día se van plasmando estos proyectos que en algún momento planificamos con mi equipo técnico y dentro de esa planificación está la recuperación de los espacios deportivos para el beneficio de nuestras familias, jóvenes y niños”. Shirma Cortés, alcaldesa de Francisco de Orellana.\n“Un espacio que sin duda alguna será de gran beneficio para todos nosotros, especialmente para nuestros jóvenes, quienes ahora contarán con un lugar seguro y adecuado para la práctica deportiva y la recreación”. Nelly Arellano, opinión ciudadana.\nEntre sonrisas y aromas de nuestra deliciosa gastronomía local, nuestros emprendedores demostraron cómo se fortalece la economía de nuestro cantón. Con la recuperación de estos espacios públicos, la Alcaldía sigue construyendo lugares donde la comunidad se une, disfruta y sueña con El Cantón Que Queremos. JG.",
+    "imagenes": [
+      {
+        "id": "72922dd720be95b3",
+        "hash": "72922dd720be95b3d8acb86f7cab0231ee0ee67a3cdaaf915fa92cdaa9bbe398",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_1_IMG8099.JPG",
+        "rutaOriginal": "/media/originales/72922dd720be95b3.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/72922dd720be95b3-400.webp",
+          "800w": "/media/derivados/72922dd720be95b3-800.webp",
+          "1600w": "/media/derivados/72922dd720be95b3-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 10769416,
+        "alt": "Alcaldía inaugura mantenimiento integral de cancha cubierta del barrio 12 de Noviembre",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "logo_header": {
+      "id": "b9d447548480ce66",
+      "hash": "b9d447548480ce6680e855e16e2393c1bb4274b214b9812c2ca68089f10dd403",
+      "urlOriginal": "https://orellana.gob.ec/static/img/header-main.svg",
+      "rutaOriginal": "/media/originales/b9d447548480ce66.svg",
+      "rutaDerivados": {},
+      "ancho": null,
+      "alto": null,
+      "bytes": 37771,
+      "alt": "Logotipo GAD Municipal Francisco de Orellana (logo_header)",
+      "altPendiente": false,
+      "seccion": "marca",
+      "fuenteUrl": "https://orellana.gob.ec/"
+    },
+    "logo_blanco": {
+      "id": "bb8427d68644fd48",
+      "hash": "bb8427d68644fd48698e6ad9d26ad8f29a1867955b4bbaf873afa57b5f4083a3",
+      "urlOriginal": "https://orellana.gob.ec/static/img/logo-blanco.svg",
+      "rutaOriginal": "/media/originales/bb8427d68644fd48.svg",
+      "rutaDerivados": {},
+      "ancho": null,
+      "alto": null,
+      "bytes": 315691,
+      "alt": "Logotipo GAD Municipal Francisco de Orellana (logo_blanco)",
+      "altPendiente": false,
+      "seccion": "marca",
+      "fuenteUrl": "https://orellana.gob.ec/"
+    },
+    "favicon": {
+      "id": "ada9fd527f61885d",
+      "hash": "ada9fd527f61885d62237f7ad440b3a4531c89f88b3557e68be902dbee338f82",
+      "urlOriginal": "https://orellana.gob.ec/static/img/favicon.ico",
+      "rutaOriginal": "/media/originales/ada9fd527f61885d.ico",
+      "rutaDerivados": {},
+      "ancho": null,
+      "alto": null,
+      "bytes": 13825,
+      "alt": "Logotipo GAD Municipal Francisco de Orellana (favicon)",
+      "altPendiente": false,
+      "seccion": "marca",
+      "fuenteUrl": "https://orellana.gob.ec/"
+    }
+  }
+}

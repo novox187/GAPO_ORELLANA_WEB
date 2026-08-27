@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 87,
+    "slug": "gran-avance-la-cancha-de-futbol-y-mini-parque-de-el-moretal-ya-alcanza-el-60-de-87",
+    "titulo": "¡Gran avance! La cancha de fútbol y mini parque de El Moretal ya alcanza el 60% de construcción",
+    "resumen": "Moradores del barrio El Moretal están cada vez más cerca de disfrutar de un nuevo espacio deportivo de primer nivel.",
+    "fecha": "2025-05-21",
+    "imagen": {
+      "id": "e23abfa496fa47ab",
+      "hash": "e23abfa496fa47abb0de683366621935a3b3e4425284e648a49f758c3a4b85c6",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2290.JPG",
+      "rutaOriginal": "/media/originales/e23abfa496fa47ab.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e23abfa496fa47ab-400.webp",
+        "800w": "/media/derivados/e23abfa496fa47ab-800.webp",
+        "1600w": "/media/derivados/e23abfa496fa47ab-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10179470,
+      "alt": "¡Gran avance! La cancha de fútbol y mini parque de El Moretal ya alcanza el 60% de construcción",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/87/",
+    "fuente_url": "https://orellana.gob.ec/noticia/87/",
+    "cuerpo": "Moradores del barrio El Moretal están cada vez más cerca de disfrutar de un nuevo espacio deportivo de primer nivel. La construcción de la cancha y el mini parque ya alcanza un 60% de ejecución, “Estoy agradecido con la señora alcaldesa por darnos este importante proyecto, más que todo para la gente que somos de El Coca y nos sentimos alagados por habernos dado la oportunidad de trabajar a la gente que vivimos acá en Orellana; asimismo, es un área recreativa para los fines de semana venir con la familia a disfrutar; porque es una obra que hoy en día no se la ve en cualquier parte”. José Pincay, opinión ciudadana.\nEn la obra que tiene una inversión de $588.198,79, se ha desarrollado según el cronograma previsto, incluyendo el relleno, base y drenaje de la cancha, construcción de los camerinos con baños e instalaciones eléctricas. \nEn los próximos días se procederá a colocar la cubierta de graderíos, asimismo, se tenderá y compactará la base del suelo para iniciar con la colocación del césped sintético, una de las fases más esperadas por la ciudadanía, “Verificamos que se cumpla con todas las especificaciones y toda la metodología correcta para que quede con la mejor calidad, se está garantizando que se cumpla con todas las medidas de seguridad y que todos tengan su EPP, y que se cumpla con todas las condiciones para dar la mayor seguridad de la obra”. Karla González, técnica del GADMFO.\nLa nueva cancha no solo elevará la calidad del deporte local, sino que también contribuirá al bienestar social y comunitario que es lo que busca la alcaldía que lidera Shirma Cortés Sanmiguel. JG.",
+    "imagenes": [
+      {
+        "id": "e23abfa496fa47ab",
+        "hash": "e23abfa496fa47abb0de683366621935a3b3e4425284e648a49f758c3a4b85c6",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2290.JPG",
+        "rutaOriginal": "/media/originales/e23abfa496fa47ab.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e23abfa496fa47ab-400.webp",
+          "800w": "/media/derivados/e23abfa496fa47ab-800.webp",
+          "1600w": "/media/derivados/e23abfa496fa47ab-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10179470,
+        "alt": "¡Gran avance! La cancha de fútbol y mini parque de El Moretal ya alcanza el 60% de construcción",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

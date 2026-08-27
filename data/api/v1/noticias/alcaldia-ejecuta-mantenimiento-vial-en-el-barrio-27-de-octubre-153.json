@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 153,
+    "slug": "alcaldia-ejecuta-mantenimiento-vial-en-el-barrio-27-de-octubre-153",
+    "titulo": "Alcaldía ejecuta mantenimiento vial en el barrio 27 de Octubre",
+    "resumen": "Con el objetivo de mejorar la movilidad y la seguridad, la Alcaldía ejecuta trabajos de mantenimiento vial en el barrio 27 de Octubre. Maquinaria y personal operativo realizan labores de nivelación y compactación en varias calles,",
+    "fecha": "2025-08-28",
+    "imagen": {
+      "id": "d2cdf683df8940a7",
+      "hash": "d2cdf683df8940a7d9c34602b6c8c1518ac07842b89c89a0a9baaae22cf45242",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG8524.JPG",
+      "rutaOriginal": "/media/originales/d2cdf683df8940a7.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d2cdf683df8940a7-400.webp",
+        "800w": "/media/derivados/d2cdf683df8940a7-800.webp",
+        "1600w": "/media/derivados/d2cdf683df8940a7-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9097312,
+      "alt": "Alcaldía ejecuta mantenimiento vial en el barrio 27 de Octubre",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/153/",
+    "fuente_url": "https://orellana.gob.ec/noticia/153/",
+    "cuerpo": "Con el objetivo de mejorar la movilidad y la seguridad, la Alcaldía ejecuta trabajos de mantenimiento vial en el barrio 27 de Octubre.\nMaquinaria y personal operativo realizan labores de nivelación y compactación en varias calles, respondiendo a una necesidad prioritaria de la comunidad, la moradora Rosa Sarango aprueba los trabajos que realiza la alcaldía para beneficio de todos, “Está muy bien, que siempre vengan a arreglar las calles, para todos estar contentos y que sigan trabajando en por una ciudad más bonita.” \nLa Dirección de Obras Públicas informó que estas acciones se enmarcan en el plan de mantenimiento vial que se desarrolla en distintos barrios del cantón, “Para mí, es excelente que dejen arreglando las calles, así como ahora está quedando bonito”, Blanca Oña, moradora del sector.\nLa Alcaldía sigue construyendo una ciudad más segura, ordenada y digna para todos. EG.",
+    "imagenes": [
+      {
+        "id": "d2cdf683df8940a7",
+        "hash": "d2cdf683df8940a7d9c34602b6c8c1518ac07842b89c89a0a9baaae22cf45242",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG8524.JPG",
+        "rutaOriginal": "/media/originales/d2cdf683df8940a7.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d2cdf683df8940a7-400.webp",
+          "800w": "/media/derivados/d2cdf683df8940a7-800.webp",
+          "1600w": "/media/derivados/d2cdf683df8940a7-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9097312,
+        "alt": "Alcaldía ejecuta mantenimiento vial en el barrio 27 de Octubre",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 191,
+    "slug": "capacitacion-a-personas-con-discapacidad-en-participacion-ciudadana-191",
+    "titulo": "Capacitación a personas con discapacidad en participación ciudadana",
+    "resumen": "Con el propósito de fortalecer la inclusión y la participación activa de los sectores más vulnerables del cantón, en la parroquia Dayuma se desarrolló una jornada de capacitación dirigida a 30 usuarios del Proyecto Social de Personas con Discapacidad",
+    "fecha": "2025-11-07",
+    "imagen": {
+      "id": "d862857412302923",
+      "hash": "d862857412302923bb60e933ffb576c52ae1dd5ef51fadd9480b2203b6439e13",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07.JPG",
+      "rutaOriginal": "/media/originales/d862857412302923.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d862857412302923-400.webp",
+        "800w": "/media/derivados/d862857412302923-800.webp",
+        "1600w": "/media/derivados/d862857412302923-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6885290,
+      "alt": "Capacitación a personas con discapacidad en participación ciudadana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+    },
+    "url": "/noticia/191/",
+    "fuente_url": "https://orellana.gob.ec/noticia/191/",
+    "cuerpo": "Con el propósito de fortalecer la inclusión y la participación activa de los sectores más vulnerables del cantón, en la parroquia Dayuma se desarrolló una jornada de capacitación dirigida a 30 usuarios del Proyecto Social de Personas con Discapacidad que impulsa la Alcaldía de Francisco de Orellana, bajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel, “Gracias a nuestra alcaldesa Shirma Cortés, que hace las gestiones con otras instituciones para que vengan a capacitar a nuestros usuarios y tengan un mejor conocimiento respecto al tema.” Janella Zambrano, facilitadora del proyecto de discapacidad. \nLa jornada fue impartida por el Consejo Nacional Electoral (CNE) y se desarrolló en el marco del convenio interinstitucional entre la Municipalidad de Francisco de Orellana y el Ministerio de Desarrollo Humano, con el objetivo de fortalecer los conocimientos sobre derechos y obligaciones ciudadanas en el ámbito electoral, “Esta capacitación me gustó mucho y es importante para que las personas con discapacidad conozcamos esa consulta que va a ver; por eso, estoy muy agradecido con la alcaldesa Shirma Cortés, porque ayuda a las personas con discapacidad.” Bartolomé Tibiera, persona con discapacidad. \nLa Alcaldía de Francisco de Orellana, bajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel, reafirma su compromiso con la inclusión social y el empoderamiento de los grupos más vulnerables, promoviendo espacios de aprendizaje y participación que contribuyan a una sociedad más justa y equitativa. DV.",
+    "imagenes": [
+      {
+        "id": "d862857412302923",
+        "hash": "d862857412302923bb60e933ffb576c52ae1dd5ef51fadd9480b2203b6439e13",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07.JPG",
+        "rutaOriginal": "/media/originales/d862857412302923.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d862857412302923-400.webp",
+          "800w": "/media/derivados/d862857412302923-800.webp",
+          "1600w": "/media/derivados/d862857412302923-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6885290,
+        "alt": "Capacitación a personas con discapacidad en participación ciudadana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      }
+    ]
+  }
+}

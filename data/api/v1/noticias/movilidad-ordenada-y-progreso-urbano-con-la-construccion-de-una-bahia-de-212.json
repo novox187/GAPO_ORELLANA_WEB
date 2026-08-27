@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 212,
+    "slug": "movilidad-ordenada-y-progreso-urbano-con-la-construccion-de-una-bahia-de-212",
+    "titulo": "Movilidad ordenada y progreso urbano: con la construcción de una bahía de transporte en el barrio 28 de Marzo",
+    "resumen": "Con una visión clara de desarrollo y orden para la ciudad de El Coca, la alcaldesa Shirma Cortés Sanmiguel lidera la construcción de una bahía de estacionamiento para el transporte urbano en el barrio 28 de Marzo, una obra que responde a la necesidad",
+    "fecha": "2025-12-09",
+    "imagen": {
+      "id": "4e6c1581b7346a36",
+      "hash": "4e6c1581b7346a36ffbf5789b3b7d5a4abd3795ad2e1e8d72210a03ed7e8e1b6",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.JPG",
+      "rutaOriginal": "/media/originales/4e6c1581b7346a36.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4e6c1581b7346a36-400.webp",
+        "800w": "/media/derivados/4e6c1581b7346a36-800.webp",
+        "1600w": "/media/derivados/4e6c1581b7346a36-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10933283,
+      "alt": "Movilidad ordenada y progreso urbano: con la construcción de una bahía de transporte en el barrio 28 de Marzo",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+    },
+    "url": "/noticia/212/",
+    "fuente_url": "https://orellana.gob.ec/noticia/212/",
+    "cuerpo": "Con una visión clara de desarrollo y orden para la ciudad de El Coca, la alcaldesa Shirma Cortés Sanmiguel lidera la construcción de una bahía de estacionamiento para el transporte urbano en el barrio 28 de Marzo, una obra que responde a la necesidad de optimizar la movilidad y brindar mayor seguridad a conductores y peatones. también permitirá mejorar la circulación vial, evitar el congestionamiento del sector. \n“Vamos a tener mejor espacio para caminar, no va a ver peligro con los carros, también vamos a tener una moderna parada para tomar el bus de transporte para protegernos del agua y sol.” Frank Cerda, opinión ciudadana.\nLa iniciativa, forma parte del plan integral de reordenamiento urbano que busca consolidar una ciudad moderna, funcional y accesible donde se incluye la construcción de 480 metros lineales de aceras y bordillos, una parada de cuatro metros de largo por 1.20 metros de ancho con estructura metálica y hormigón, con una inversión de USD. 65.290,77.\n“A pesar del mal tiempo que hemos tenido estos días, la obra de la bahía de estacionamiento tiene un 80% de avance, hemos ejecutado los trabajos sin ninguna novedad y estamos verificando que se cumpla con todos los parámetros contractuales.” Karla González, fiscalizadora de la obra.\nCon este proyecto que tiene un 80% de avance, la alcaldesa Shirma Cortés Sanmiguel reafirma su compromiso de seguir transformando los espacios públicos y fortaleciendo el sistema de transporte urbano, demostrando que con planificación y voluntad política se construye futuro. Obras como esta reflejan el avance constante hacia “El cantón que queremos.” JG.",
+    "imagenes": [
+      {
+        "id": "4e6c1581b7346a36",
+        "hash": "4e6c1581b7346a36ffbf5789b3b7d5a4abd3795ad2e1e8d72210a03ed7e8e1b6",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.JPG",
+        "rutaOriginal": "/media/originales/4e6c1581b7346a36.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4e6c1581b7346a36-400.webp",
+          "800w": "/media/derivados/4e6c1581b7346a36-800.webp",
+          "1600w": "/media/derivados/4e6c1581b7346a36-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10933283,
+        "alt": "Movilidad ordenada y progreso urbano: con la construcción de una bahía de transporte en el barrio 28 de Marzo",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      }
+    ]
+  }
+}

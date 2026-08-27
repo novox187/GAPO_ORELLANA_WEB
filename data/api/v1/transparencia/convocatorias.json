@@ -1,0 +1,18 @@
+{
+  "data": {
+    "slug": "convocatorias",
+    "seccion": "transparencia",
+    "titulo": "Convocatorias a Sesión de Concejo",
+    "bloques": [
+      {
+        "tipo": "titulo",
+        "nivel": 1,
+        "texto": "Convocatorias Sesión de Consejo"
+      }
+    ],
+    "texto": "Convocatorias Sesión de Consejo",
+    "imagenes": [],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/convocatoria_consejo/"
+  }
+}

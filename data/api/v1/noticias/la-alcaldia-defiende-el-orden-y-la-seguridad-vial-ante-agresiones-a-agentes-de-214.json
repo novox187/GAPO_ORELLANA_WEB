@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 214,
+    "slug": "la-alcaldia-defiende-el-orden-y-la-seguridad-vial-ante-agresiones-a-agentes-de-214",
+    "titulo": "La alcaldía defiende el orden y la seguridad vial ante agresiones a agentes de control por conductores incumplidos",
+    "resumen": "La alcaldía rechaza enérgicamente la mala actitud y los intentos de agresión protagonizadas por ciertos conductores de volquetes que transportan material pétreo por la vía a San José de Guayusa, quienes actuaron contra los agentes de control y guardi",
+    "fecha": "2025-12-11",
+    "imagen": {
+      "id": "28cae161dc19988e",
+      "hash": "28cae161dc19988e1fada5364ecfc7e306c8c360d4dadb138a0f28cc2d65fb6c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.jpg",
+      "rutaOriginal": "/media/originales/28cae161dc19988e.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/28cae161dc19988e-400.webp",
+        "800w": "/media/derivados/28cae161dc19988e-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 720,
+      "bytes": 89144,
+      "alt": "La alcaldía defiende el orden y la seguridad vial ante agresiones a agentes de control por conductores incumplidos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+    },
+    "url": "/noticia/214/",
+    "fuente_url": "https://orellana.gob.ec/noticia/214/",
+    "cuerpo": "La alcaldía rechaza enérgicamente la mala actitud y los intentos de agresión protagonizadas por ciertos conductores de volquetes que transportan material pétreo por la vía a San José de Guayusa, quienes actuaron contra los agentes de control y guardias municipales mientras cumplían con su labor. Estas acciones irrespetuosas vulneran lo dispuesto por el Comité de Operaciones de Emergencia (COE) Provincial en la sesión del 2 de noviembre de 2025, donde se estableció la restricción de circulación en el área de labores para determinados operadores de transporte, con el fin de proteger la integridad de los usuarios de la vía y garantizar el avance técnico de los trabajos, “Nos encontrábamos en el lugar realizando el control que se fundamenta en la ordenanza 010-2015, artículo 73, la cual estipula que se realice el control en horarios de lunes a sábado de 07:00 a 17:30 y los domingos de 07:00 a 14:30. Asimismo, invitamos a la ciudadanía y a los choferes de transporte pesado que hagan conciencia y respeten el trabajo de los agentes de control y de los guardias municipales.” Jorge Sánchez, guardia de seguridad municipal.\nEs importante recalcar que el COE Provincial ejecuta medidas de contención frente a la erosión que afecta la ribera del río Coca, fenómeno que compromete la estabilidad de la vía hacia la cabecera parroquial. En esta línea, la alcaldesa Shirma Cortés Sanmiguel dispuso el apoyo operativo de agentes de control y guardias municipales para asegurar el desvío del tránsito hacia la parroquia Nuevo Paraíso, sector La Palma, como parte de una estrategia integral destinada a mantener un flujo vehicular seguro, ordenado y libre de riesgos, “Nosotros lo que tratamos es de evitar accidentes y que el ingreso que hay a las diferentes comunidades que existen en el lugar se sigan colapsando hasta que se realice el respectivo mantenimiento del lugar y se pueda habilitar con normalidad el tránsito para los señores conductores.” Jorge Sánchez, guardia de seguridad municipal.\nLa administración de la alcaldesa Shirma Cortés Sanmiguel ratifica su compromiso de actuar con firmeza, responsabilidad y visión de futuro, protegiendo la seguridad vial y el bienestar de toda la ciudadanía. JG.",
+    "imagenes": [
+      {
+        "id": "28cae161dc19988e",
+        "hash": "28cae161dc19988e1fada5364ecfc7e306c8c360d4dadb138a0f28cc2d65fb6c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.jpg",
+        "rutaOriginal": "/media/originales/28cae161dc19988e.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/28cae161dc19988e-400.webp",
+          "800w": "/media/derivados/28cae161dc19988e-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 720,
+        "bytes": 89144,
+        "alt": "La alcaldía defiende el orden y la seguridad vial ante agresiones a agentes de control por conductores incumplidos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      }
+    ]
+  }
+}

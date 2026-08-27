@@ -1,0 +1,87 @@
+{
+  "data": {
+    "id": 63,
+    "slug": "requerimientos-y-servicios-63",
+    "nombre": "Requerimientos y servicios",
+    "direccion": {
+      "id": 11,
+      "slug": "desarrollo-social",
+      "nombre": "DESARROLLO SOCIAL"
+    },
+    "categorias": [
+      "familia-y-bienestar"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "REQUISITOS 1. Copia de la cédula o partida de nacimiento del niño y niña. 2. Carnet de vacunas. 3. Formulario o ficha de inscripción del proyecto GADMFO-MDH. 4. Copia de cédula de los padres del niño/a. 5. Planilla de lu",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "Proyecto de Centros de Desarrollo Infantil",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula o partida de nacimiento del niño y niña.<br>2. Carnet de vacunas.<br>3. Formulario o ficha de inscripción del proyecto GADMFO-MDH.<br>4. Copia de cédula de los padres del niño/a.<br>5. Planilla de luz.<br>6. Certificado médico (peso, talla y examen de hemoglobina), una vez que cuenten con el cupo.</p>"
+      },
+      {
+        "titulo": "Capacitación de grupos de mujeres en actividades artesanales (gastronomía, panadería y pastelería, belleza, corte y confección con enfoque de género)",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula y papeleta de votación.</p>"
+      },
+      {
+        "titulo": "Proyecto de erradicación del trabajo infantil",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Ficha de identificación de la niña, niño o adolescente en trabajo infantil.</p>"
+      },
+      {
+        "titulo": "Proyecto de atención integral al adulto mayo- Centro Gerontológico",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula del usuario/a del representante legal.<br>2. Llenar hoja de ingreso.<br>3. Acta de compromiso del representante legal.</p>"
+      },
+      {
+        "titulo": "Proyecto de Atención Integral al Adulto Mayor- Atención Domiciliaria",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula del usuario/a y del representante legal.<br>2. Llenar ficha de ingreso.<br>3. Acta de compromiso del representante legal.</p>"
+      },
+      {
+        "titulo": "Proyecto de atención en el hogar y la comunidad (personas con discapacidad)",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula del usuario/a que registre el tipo y porcentaje de discapacidad.<br>2. Copia de cédula del representante legal.<br>3. Acta de compromiso del usuario/a y representante legal.<br>4. Tener un quintil de pobreza máximo 29,30%</p>"
+      },
+      {
+        "titulo": "Preparación de eventos sociales y deportivos para el apoyo del desarrollo cultural amazónico",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Solicitud dirigida a la máxima autoridad (alcaldesa o alcalde)</p>"
+      },
+      {
+        "titulo": "Formación deportiva-recreacional en fútbol y baloncesto, para el buen uso del tiempo libre",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula del beneficiario/a y del representante legal.<br>2. Llenar la ficha de inscripción.</p>"
+      },
+      {
+        "titulo": "Formación deportiva-recreacional en gimnasia, para el buen uso del tiempo libre",
+        "html": "<p class=\"text-justify\">REQUERIMIENTOS<br><br>1. Copia de la cédula del beneficiario/a y del representante legal.<br>2. Llenar la ficha de inscripción.</p>"
+      },
+      {
+        "titulo": "Fortalecimiento a la recreación integral para las familias (Bailoterapia)",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula del beneficiario/a del representante legal.<br>2. Llenar la ficha de asistencia.</p>"
+      },
+      {
+        "titulo": "Fortalecimiento y formación artística intergeneracional en Danza",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula del beneficiario/a y del representante legal.<br>2. Llenar la ficha de inscripción.</p>"
+      },
+      {
+        "titulo": "Fortalecimiento y formación artística intergeneracional en música",
+        "html": "<p class=\"text-justify\">REQUISITOS<br><br>1. Copia de la cédula del beneficiario/a y del representante legal.<br>2. Llenar la ficha de inscripción.</p>"
+      },
+      {
+        "titulo": "Cursos vacacionales \"Jugando Aprendo\"",
+        "html": "<p class=\"text-justify\">REQUISITOS <br><br>1. Copia de la cédula del beneficiario/a y del representante legal.<br>2. Llenar la ficha de inscripción.</p>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

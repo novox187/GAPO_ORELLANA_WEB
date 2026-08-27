@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 158,
+    "slug": "san-bartolo-define-limites-y-caminos-replanteo-de-linderos-beneficia-a-mas-de-158",
+    "titulo": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
+    "resumen": "En el sector San Bartolo de la parroquia Nuevo Paraíso, personal de la Dirección de Ordenamiento Territorial realizó un replanteo de puntos y coordenadas a más de 20 familias propietarias de fincas. Esta acción se realizó debido a inconvenientes gene",
+    "fecha": "2025-09-04",
+    "imagen": {
+      "id": "d45608990a53e259",
+      "hash": "d45608990a53e25901c0e945e62530afe2a0118aef2797e0d1d40690574e3fd9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4_IMG0296.JPG",
+      "rutaOriginal": "/media/originales/d45608990a53e259.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d45608990a53e259-400.webp",
+        "800w": "/media/derivados/d45608990a53e259-800.webp",
+        "1600w": "/media/derivados/d45608990a53e259-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9637142,
+      "alt": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/158/",
+    "fuente_url": "https://orellana.gob.ec/noticia/158/",
+    "cuerpo": "En el sector San Bartolo de la parroquia Nuevo Paraíso, personal de la Dirección de Ordenamiento Territorial realizó un replanteo de puntos y coordenadas a más de 20 familias propietarias de fincas. Esta acción se realizó debido a inconvenientes generados por la delimitación de linderos y accesos viales, “En nuestra comunidad teníamos un inconveniente que era permanente, y gracias al municipio que han venido hasta nuestro sector y juntos hemos solucionado el problema que teníamos de años atrás; y, con los trabajos realizados ya no los vamos a tener.” Nelly Noteno, moradora de San Bartolo. \nGracias al diálogo y al apoyo entre la comunidad y la máxima autoridad cantonal, Shirma Cortés Sanmiguel, se logró solventar los conflictos existentes en el sector, llegando a un acuerdo para mantener libres las vías de acceso, “Por disposición de la máxima autoridad hemos cumplido ya con esa meta y están siendo beneficiarios todos los moradores de este sector San Bartolo.” William Ramos, director de Ordenamiento Territorial. \nEste trabajo refleja el compromiso de la municipalidad para promover la buena convivencia ciudadana en el cantón que todos queremos. DV.",
+    "imagenes": [
+      {
+        "id": "d45608990a53e259",
+        "hash": "d45608990a53e25901c0e945e62530afe2a0118aef2797e0d1d40690574e3fd9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4_IMG0296.JPG",
+        "rutaOriginal": "/media/originales/d45608990a53e259.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d45608990a53e259-400.webp",
+          "800w": "/media/derivados/d45608990a53e259-800.webp",
+          "1600w": "/media/derivados/d45608990a53e259-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9637142,
+        "alt": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

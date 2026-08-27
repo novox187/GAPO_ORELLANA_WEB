@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 253,
+    "slug": "operativo-conjunto-pone-freno-a-irregularidades-taxis-foraneos-y-conductores-253",
+    "titulo": "Operativo conjunto pone freno a irregularidades: taxis foráneos y conductores infractores son sancionados",
+    "resumen": "Cada señal de tránsito, cada norma y cada control existen por una razón: proteger la vida. Con este principio, la Dirección de Tránsito Municipal, Agentes de Control y Policía Nacional ejecutan operativos conjuntos orientados no solo a sancionar, sin",
+    "fecha": "2026-02-13",
+    "imagen": {
+      "id": "ced05bb3007b225f",
+      "hash": "ced05bb3007b225f401839f23d3e68ae3b209c4bf4cc6e5f79c86ec0e092830c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG7003.JPG",
+      "rutaOriginal": "/media/originales/ced05bb3007b225f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ced05bb3007b225f-400.webp",
+        "800w": "/media/derivados/ced05bb3007b225f-800.webp",
+        "1600w": "/media/derivados/ced05bb3007b225f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9847469,
+      "alt": "Operativo conjunto pone freno a irregularidades: taxis foráneos y conductores infractores son sancionados",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/253/",
+    "fuente_url": "https://orellana.gob.ec/noticia/253/",
+    "cuerpo": "Cada señal de tránsito, cada norma y cada control existen por una razón: proteger la vida. Con este principio, la Dirección de Tránsito Municipal, Agentes de Control y Policía Nacional ejecutan operativos conjuntos orientados no solo a sancionar, sino a educar y prevenir accidentes en las vías.\nDurante estas acciones se detectó a operadoras de taxi de los cantones Loreto y La Joya de los Sachas prestando servicio fuera de su ámbito autorizado, situación que conlleva sanciones equivalentes al 30 % de un Salario Básico Unificado. Estas medidas buscan ordenar el transporte y garantizar un servicio legal y seguro para la ciudadanía, “Pido respetar nuestro permiso de operación, para así trabajar sin ningún inconveniente, porque a nadie le gustaría que se vaya a trabajar en la plaza de otro cantón, e igual, respetando creo que no habría ningún inconveniente y evitaríamos ser multados.” Manifiesta con total preocupación, Katty Camacho, Gerente de la Cooperativa Taxis amazónico.\nAdemás, se sancionaron a conductores que incumplen normas básicas de seguridad, como no usar taxímetro, no portar documentos habilitantes, circular con vidrios polarizados o no utilizar casco de protección, “Debemos cumplir con las reglas y buscar proteger nuestra vida en caso de un accidente; por ejemplo, el casco le salvaría su vida si lo usamos correctamente.” Asegura el ciudadano Carlos Sanmartín.\nLa Alcaldía hace un llamado educativo y responsable a conductores y usuarios a respetar las señales de tránsito. Cumplir la normativa no es solo evitar una multa, es asumir un compromiso con la vida, la seguridad y el bienestar de todos. JG.",
+    "imagenes": [
+      {
+        "id": "ced05bb3007b225f",
+        "hash": "ced05bb3007b225f401839f23d3e68ae3b209c4bf4cc6e5f79c86ec0e092830c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG7003.JPG",
+        "rutaOriginal": "/media/originales/ced05bb3007b225f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ced05bb3007b225f-400.webp",
+          "800w": "/media/derivados/ced05bb3007b225f-800.webp",
+          "1600w": "/media/derivados/ced05bb3007b225f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9847469,
+        "alt": "Operativo conjunto pone freno a irregularidades: taxis foráneos y conductores infractores son sancionados",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

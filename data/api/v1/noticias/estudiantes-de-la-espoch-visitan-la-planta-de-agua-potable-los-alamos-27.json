@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 27,
+    "slug": "estudiantes-de-la-espoch-visitan-la-planta-de-agua-potable-los-alamos-27",
+    "titulo": "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos",
+    "resumen": "El recorrido brindó a los estudiantes una valiosa oportunidad",
+    "fecha": "2025-01-31",
+    "imagen": {
+      "id": "4496c5b7b3c83b7c",
+      "hash": "4496c5b7b3c83b7cad4fdb5c8abf7703afd1121cca3c49c9e1d2cf449ce0dd80",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_ESTUDIANTES_ESPOCH.png",
+      "rutaOriginal": "/media/originales/4496c5b7b3c83b7c.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4496c5b7b3c83b7c-400.webp",
+        "800w": "/media/derivados/4496c5b7b3c83b7c-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1058083,
+      "alt": "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    "url": "/noticia/27/",
+    "fuente_url": "https://orellana.gob.ec/noticia/27/",
+    "cuerpo": "Un total de 38 estudiantes del sexto semestre de la carrera de Ingeniería Ambiental de la Escuela Superior Politécnica de Chimborazo (SPOCH), extensión Norte Amazónica, sede Orellana, realizaron un recorrido por las instalaciones de la Planta de Agua Potable Los Álamos, operada por la Municipalidad de Francisco de Orellana. Esta visita les permitió conocer en detalle el proceso de potabilización del agua que se distribuye a los habitantes del cantón, “Es importante para ellos conocer el por qué aquí existe la infraestructura, la ingeniería que obviamente ellos requieren conocer para los futuros proyectos que desean conocer y aprender”. Byron Aguilar, supervisor de agua potable del GADMFO. \nEl recorrido brindó a los estudiantes una valiosa oportunidad para aplicar de manera práctica los conocimientos adquiridos en su carrera, especialmente en la materia de hidráulica, al conocer de primera mano los procedimientos técnicos involucrados en el tratamiento del agua, “Quiero agradecer a la alcaldesa Shirma Cortés, porque nos da la apertura para que nosotros fortalezcamos nuestros conocimientos como academia, estamos satisfechos, agradecidos por la gestión que se está realizando y que esto sea como refuerzo para futuras generaciones”. Derian Alarcón, estudiante de la ESPOCH. \nA través de iniciativas como estas, se busca sensibilizar a las nuevas generaciones sobre la importancia de la preservación del agua y el manejo adecuado de los recursos hídricos. DV.",
+    "imagenes": [
+      {
+        "id": "4496c5b7b3c83b7c",
+        "hash": "4496c5b7b3c83b7cad4fdb5c8abf7703afd1121cca3c49c9e1d2cf449ce0dd80",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_ESTUDIANTES_ESPOCH.png",
+        "rutaOriginal": "/media/originales/4496c5b7b3c83b7c.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4496c5b7b3c83b7c-400.webp",
+          "800w": "/media/derivados/4496c5b7b3c83b7c-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1058083,
+        "alt": "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 210,
+    "slug": "lugares-emblematicos-para-preservar-su-historia-y-sus-raices-como-patrimonio-210",
+    "titulo": "Lugares emblemáticos para preservar su historia y sus raíces como patrimonio cultural",
+    "resumen": "La Alcaldía, continúa fortaleciendo la identidad y la memoria colectiva del cantón mediante la revisión y creación de acciones destinadas a proteger y poner en valor el patrimonio de la ciudad de El Coca. Esta iniciativa busca que la ciudadanía conoz",
+    "fecha": "2025-12-04",
+    "imagen": {
+      "id": "561406fed6b9ea26",
+      "hash": "561406fed6b9ea261a2fdc23699a62510f45d44a9ec5aacaa3c319bf80c9e493",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.JPG",
+      "rutaOriginal": "/media/originales/561406fed6b9ea26.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/561406fed6b9ea26-400.webp",
+        "800w": "/media/derivados/561406fed6b9ea26-800.webp",
+        "1600w": "/media/derivados/561406fed6b9ea26-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 7964496,
+      "alt": "Lugares emblemáticos para preservar su historia y sus raíces como patrimonio cultural",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+    },
+    "url": "/noticia/210/",
+    "fuente_url": "https://orellana.gob.ec/noticia/210/",
+    "cuerpo": "La Alcaldía, continúa fortaleciendo la identidad y la memoria colectiva del cantón mediante la revisión y creación de acciones destinadas a proteger y poner en valor el patrimonio de la ciudad de El Coca. Esta iniciativa busca que la ciudadanía conozca, aprecie y preserve aquellos espacios que representan nuestra historia, nuestras raíces y la esencia amazónica que nos distingue, “El MACCO, desde el 2023 viene revisando el inventario de viernes de patrimonio cultural, tenemos varios yacimientos arqueológicos, la colección que conservamos aquí en el MACCO y cinco edificios que están reconocidos como patrimonio cultural del cantón.” Álvaro Gundín, funcionario del MACCO EP.\nEntre los lugares destacados constan zonas emblemáticas del centro de la ciudad, senderos naturales y puntos históricos vinculados a la construcción social y cultural del cantón, seleccionados por su importancia patrimonial, “Es fundamental proteger estos sitios y fomentar su difusión. El patrimonio no solo es pasado, también es futuro; y su conservación impulsa educación, turismo y orgullo comunitario.” Álvaro Gundín, funcionario del MACCO EP.\nCon estas acciones, la municipalidad invita a todas las familias a recorrer, conocer y respetar cada uno de estos espacios, promoviendo una ciudad que honra su historia y construye identidad para las próximas generaciones. PT.",
+    "imagenes": [
+      {
+        "id": "561406fed6b9ea26",
+        "hash": "561406fed6b9ea261a2fdc23699a62510f45d44a9ec5aacaa3c319bf80c9e493",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.JPG",
+        "rutaOriginal": "/media/originales/561406fed6b9ea26.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/561406fed6b9ea26-400.webp",
+          "800w": "/media/derivados/561406fed6b9ea26-800.webp",
+          "1600w": "/media/derivados/561406fed6b9ea26-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 7964496,
+        "alt": "Lugares emblemáticos para preservar su historia y sus raíces como patrimonio cultural",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      }
+    ]
+  }
+}

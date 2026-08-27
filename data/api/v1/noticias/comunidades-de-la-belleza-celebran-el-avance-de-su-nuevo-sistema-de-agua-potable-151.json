@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 151,
+    "slug": "comunidades-de-la-belleza-celebran-el-avance-de-su-nuevo-sistema-de-agua-potable-151",
+    "titulo": "Comunidades de La Belleza celebran el avance de su nuevo sistema de agua potable",
+    "resumen": "Las comunidades de La Delicia, Ayuruno, Cavernas de Jumandy y Manguilla de los Omaguas celebran el avance del nuevo Sistema de Agua Potable. Actualmente se trabaja en EL replanteo, nivelación, excavación de zanjas e instalación de tuberías PVC para l",
+    "fecha": "2025-08-26",
+    "imagen": {
+      "id": "f550126220a1ab06",
+      "hash": "f550126220a1ab0676c083dcb1ee0ef7fbc974929bd395074287fc6febe0d7c9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG0286.JPG",
+      "rutaOriginal": "/media/originales/f550126220a1ab06.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/f550126220a1ab06-400.webp",
+        "800w": "/media/derivados/f550126220a1ab06-800.webp",
+        "1600w": "/media/derivados/f550126220a1ab06-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11093989,
+      "alt": "Comunidades de La Belleza celebran el avance de su nuevo sistema de agua potable",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/151/",
+    "fuente_url": "https://orellana.gob.ec/noticia/151/",
+    "cuerpo": "Las comunidades de La Delicia, Ayuruno, Cavernas de Jumandy y Manguilla de los Omaguas celebran el avance del nuevo Sistema de Agua Potable.\nActualmente se trabaja en EL replanteo, nivelación, excavación de zanjas e instalación de tuberías PVC para la red de distribución que simboliza desarrollo, dignidad y el cumplimiento de un anhelo que por años han mantenido más de 200 familias, “Con el agua potable que va a ver, ya no tendríamos la necesidad de esperar agua lluvia y del río; ya tendremos agua potable que será buena y de calidad, porque llegará hasta nuestros hogares; gracias señora alcaldesa por apoyarnos con esta obra.” Juan Morocho, Obrero del sector.\n“Me siento conforme, porque nunca pensamos contar con agua, ya que teníamos años peleando por el agua; y decirle a la alcaldesa, que Dios me la bendiga y siga haciendo muchas obras.” Francisco Muñoz, Obrero del sector.\nGracias a la gestión de la alcaldesa Shirma Cortés Sanmiguel y el trabajo articulado con la Secretaría Técnica Amazónica, se asignó una inversión de 2,928,003.99 dólares, que hoy transforma las comunidades más alejadas del cantón, llevando salud, bienestar y desarrollo con obras que marcan la vida de futuras generaciones, “Le agradezco a la señora alcaldesa por darnos la oportunidad de trabajar en esta obra y poder tener un ingreso para mi hogar.” Jorge Maldonado, opinión ciudadana.\nCon un avance del 19%, este ambicioso proyecto es evidencia concreta de que el desarrollo es posible cuando se suman la voluntad política, visión de futuro y participación ciudadana para forjar el cantón que queremos. JG.",
+    "imagenes": [
+      {
+        "id": "f550126220a1ab06",
+        "hash": "f550126220a1ab0676c083dcb1ee0ef7fbc974929bd395074287fc6febe0d7c9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG0286.JPG",
+        "rutaOriginal": "/media/originales/f550126220a1ab06.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f550126220a1ab06-400.webp",
+          "800w": "/media/derivados/f550126220a1ab06-800.webp",
+          "1600w": "/media/derivados/f550126220a1ab06-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11093989,
+        "alt": "Comunidades de La Belleza celebran el avance de su nuevo sistema de agua potable",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

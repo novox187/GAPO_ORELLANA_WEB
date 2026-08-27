@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 249,
+    "slug": "aprovecha-el-descuento-en-tu-impuesto-predial-urbano-y-rural-249",
+    "titulo": "Aprovecha el descuento en tu impuesto predial urbano y rural",
+    "resumen": "Desde el 5 de enero de 2026, la Municipalidad de Francisco de Orellana inició el cobro del impuesto predial del cantón, otorgando un 10 % de descuento a los contribuyentes que realicen el pago hasta el 15 de enero, de conformidad con la normativa vig",
+    "fecha": "2026-02-08",
+    "imagen": {
+      "id": "da466de6ea5da039",
+      "hash": "da466de6ea5da03913b6ce666ef1ba535a064ec3689541de1233e0ec47929f46",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_0415_VBxsm2F.JPG",
+      "rutaOriginal": "/media/originales/da466de6ea5da039.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/da466de6ea5da039-400.webp",
+        "800w": "/media/derivados/da466de6ea5da039-800.webp",
+        "1600w": "/media/derivados/da466de6ea5da039-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7474603,
+      "alt": "Aprovecha el descuento en tu impuesto predial urbano y rural",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/249/",
+    "fuente_url": "https://orellana.gob.ec/noticia/249/",
+    "cuerpo": "Desde el 5 de enero de 2026, la Municipalidad de Francisco de Orellana inició el cobro del impuesto predial del cantón, otorgando un 10 % de descuento a los contribuyentes que realicen el pago hasta el 15 de enero, de conformidad con la normativa vigente, asegura Diana Silva, jefa de rentas del GADMFO, “Hemos tenido bastante afluencia de usurarios desde la mañana, hemos atendido a toda la ciudadanía; por eso quiero recordarles que, si tienen algún tipo de discapacidad o son personas de la tercera edad, por favor acercarse con la cédula para acceder al beneficio de las exoneraciones en el impuesto predial y en los demás tributos.”\nLos pagos pueden efectuarse de lunes a viernes, de 08h00 a 17h00, y sábados de 08h00 a 14h00, a través de la red Facilito o en las ventanillas de recaudación municipal, “Estoy agradecida, porque están atendiendo bien el personal del municipio, he pagado los impuestos; y, a la ciudadanía, sugiero que vengan a cancelar estos primeros días del año para beneficiarse de los descuentos.” Tairyn Caicedo, opinión ciudadana. \nComo incentivo por los pagos a inicio de este año, los contribuyentes recibirán una planta ornamental o frutal, promoviendo el cuidado ambiental y el desarrollo del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "da466de6ea5da039",
+        "hash": "da466de6ea5da03913b6ce666ef1ba535a064ec3689541de1233e0ec47929f46",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_0415_VBxsm2F.JPG",
+        "rutaOriginal": "/media/originales/da466de6ea5da039.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/da466de6ea5da039-400.webp",
+          "800w": "/media/derivados/da466de6ea5da039-800.webp",
+          "1600w": "/media/derivados/da466de6ea5da039-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7474603,
+        "alt": "Aprovecha el descuento en tu impuesto predial urbano y rural",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

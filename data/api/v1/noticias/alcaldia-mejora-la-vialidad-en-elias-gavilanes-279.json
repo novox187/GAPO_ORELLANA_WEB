@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 279,
+    "slug": "alcaldia-mejora-la-vialidad-en-elias-gavilanes-279",
+    "titulo": "Alcaldía mejora la vialidad en Elías Gavilanes",
+    "resumen": "En el sector de Elías Gavilanes, barrio Guadalupe Larriva, continúan los trabajos de mantenimiento vial liderados por la alcaldesa Shirma Cortés Sanmiguel, con el objetivo de mejorar la calidad de vida de cientos de familias; el señor Ángel Albuja, m",
+    "fecha": "2026-04-03",
+    "imagen": {
+      "id": "fb6bedf382ebd0f5",
+      "hash": "fb6bedf382ebd0f577e1257ddbce2aaab47b3028e16f4e2e2e0614e4baafe2cc",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_IMG9750.JPG",
+      "rutaOriginal": "/media/originales/fb6bedf382ebd0f5.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/fb6bedf382ebd0f5-400.webp",
+        "800w": "/media/derivados/fb6bedf382ebd0f5-800.webp",
+        "1600w": "/media/derivados/fb6bedf382ebd0f5-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 10742149,
+      "alt": "Alcaldía mejora la vialidad en Elías Gavilanes",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+    },
+    "url": "/noticia/279/",
+    "fuente_url": "https://orellana.gob.ec/noticia/279/",
+    "cuerpo": "En el sector de Elías Gavilanes, barrio Guadalupe Larriva, continúan los trabajos de mantenimiento vial liderados por la alcaldesa Shirma Cortés Sanmiguel, con el objetivo de mejorar la calidad de vida de cientos de familias; el señor Ángel Albuja, morador del sector, ve con buenos ojos los trabajos que realiza la Alcaldía, “Siempre el mejoramiento de las vías es bienvenido, porque cuando llueve torrencialmente las calles se dañan rápidamente y eso hace que tanto peatones y vehículos circulen con inconvenientes.”\nLa intervención incluye el uso de motoniveladora, rodillo y volquetes con material pétreo de la cantera municipal, garantizando un mejor acceso peatonal y vehicular, especialmente durante la temporada invernal, “Es apropiado los trabajos que realiza la municipalidad, ya que nos permite caminar con seguridad y también nos ayuda que el agua circule pronto y no nos inundemos,” menciona Jessenia Calle, moradora de Elías Gavilanes. \nLa administración municipal hace un llamado a la comunidad a no arrojar escombros ni basura en las alcantarillas, evitando taponamientos que afecten la circulación en estas calles. DV.",
+    "imagenes": [
+      {
+        "id": "fb6bedf382ebd0f5",
+        "hash": "fb6bedf382ebd0f577e1257ddbce2aaab47b3028e16f4e2e2e0614e4baafe2cc",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_IMG9750.JPG",
+        "rutaOriginal": "/media/originales/fb6bedf382ebd0f5.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/fb6bedf382ebd0f5-400.webp",
+          "800w": "/media/derivados/fb6bedf382ebd0f5-800.webp",
+          "1600w": "/media/derivados/fb6bedf382ebd0f5-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 10742149,
+        "alt": "Alcaldía mejora la vialidad en Elías Gavilanes",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      }
+    ]
+  }
+}

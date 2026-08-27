@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 14,
+    "slug": "alcaldia-y-mies-firman-convenios-para-la-inclusion-social-14",
+    "titulo": "Alcaldía y MIES firman convenios para la inclusión social",
+    "resumen": "Alcaldía invertirá un total de USD 751,482.82",
+    "fecha": "2025-01-14",
+    "imagen": {
+      "id": "7e2b48491a95696a",
+      "hash": "7e2b48491a95696a78fb22727d76ba9a52f33e1e10c7d2bbdfa43795fe9e227a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_FIRMA_CONVENIO_MIES.png",
+      "rutaOriginal": "/media/originales/7e2b48491a95696a.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/7e2b48491a95696a-400.webp",
+        "800w": "/media/derivados/7e2b48491a95696a-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 866321,
+      "alt": "Alcaldía y MIES firman convenios para la inclusión social",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/14/",
+    "fuente_url": "https://orellana.gob.ec/noticia/14/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel, formalizó hoy la firma de convenios de cooperación técnico-económica con el Ministerio de Inclusión Económica y Social (MIES), un paso importante para avanzar en la construcción de un cantón más inclusivo y solidario, “Estoy contenta, porque los tiempos nos van a permitir lograr lo planificado durante este año y también hay que felicitar al gobierno central, porque esta vez se han financiado los proyectos para los 12 meses, los usuarios están muy felices de escuchar esta importante noticia”. Shirma Cortés, alcaldes de Francisco de Orellana.\nEntre los proyectos más destacados se incluyen la atención a grupos de atención prioritaria como: nuestros abuelitos, por quienes forman parte de los CDIs, personas con discapacidad, del proyecto ETI, entre otros, “Gracias a ustedes por trabajar por sus adultos mayores, por los niños y niñas de la primera infancia, por las personas con discapacidad, por los niños y niñas que hay que erradicar el trabajo infantil y la mendicidad y por la gente de movilidad humana”. David Flores, subsecretario de protección del MIES.\nA través de estos convenios, la Alcaldía invertirá un total de USD 751,482.82 en la implementación de proyectos que aseguren la atención integral y el bienestar de los grupos prioritarios del cantón Francisco de Orellana. Esta inversión refuerza el compromiso de la alcaldía en promover la inclusión y la justicia social en el territorio. JG.",
+    "imagenes": [
+      {
+        "id": "7e2b48491a95696a",
+        "hash": "7e2b48491a95696a78fb22727d76ba9a52f33e1e10c7d2bbdfa43795fe9e227a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_FIRMA_CONVENIO_MIES.png",
+        "rutaOriginal": "/media/originales/7e2b48491a95696a.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7e2b48491a95696a-400.webp",
+          "800w": "/media/derivados/7e2b48491a95696a-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 866321,
+        "alt": "Alcaldía y MIES firman convenios para la inclusión social",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

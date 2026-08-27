@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 162,
+    "slug": "alcaldia-impulsa-capacitacion-para-fortalecer-a-emprendedores-locales-en-162",
+    "titulo": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
+    "resumen": "La Alcaldía continúa fortaleciendo las oportunidades de crecimiento para los emprendedores del cantón con el proceso de capacitación en normativa sanitaria para el procesamiento de alimentos y cosméticos, con el fin de mejorar la calidad de sus produ",
+    "fecha": "2025-09-12",
+    "imagen": {
+      "id": "3574af6b16f77409",
+      "hash": "3574af6b16f7740975e62bfb258a54066f45cc9efbac86331550ac0cb5c2a1b0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_1_IMG5728.JPG",
+      "rutaOriginal": "/media/originales/3574af6b16f77409.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/3574af6b16f77409-400.webp",
+        "800w": "/media/derivados/3574af6b16f77409-800.webp",
+        "1600w": "/media/derivados/3574af6b16f77409-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7668747,
+      "alt": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/162/",
+    "fuente_url": "https://orellana.gob.ec/noticia/162/",
+    "cuerpo": "La Alcaldía continúa fortaleciendo las oportunidades de crecimiento para los emprendedores del cantón con el proceso de capacitación en normativa sanitaria para el procesamiento de alimentos y cosméticos, con el fin de mejorar la calidad de sus productos y garantizar el cumplimiento de los estándares exigidos en el país, “Estoy aprendiendo sobre el registro sanitario, sobre cómo tenemos que elaborar los productos, cómo tenemos que comercializarlos; y, más que todo, cómo tenemos que legalizarlos para no tener problemas con las leyes.” Clara Capa, emprendedora. \n“La capacitación es muy necesaria para poder fortalecer nuestros emprendimientos y mejorar nuestra atención al cliente.” Francisco Mora, emprendedor.\nEl evento se llevó a cabo en el auditorio del Cuerpo de Bomberos de Francisco de Orellana por personal de la ARCSA y de la Dirección de Turismo, con temas de manipulación adecuada de alimentos, elaboración de cosméticos con insumos permitidos, etiquetado correcto de los productos y el cumplimiento de los protocolos de higiene y seguridad exigidos por la normativa vigente, “Es grato agradecerle a nuestra señora alcaldesa que, ha creado todos estos espacios para fortalecer los emprendimientos de nuestro cantón. Se continuará con más capacitaciones para fortalecer y abarcar más emprendimientos de nuestro cantón”, Jazmín Cutia, analista de desarrollo económico municipal.\nLa municipalidad, bajo el liderazgo de Shirma Cortés Sanmiguel, confirma su compromiso con el desarrollo económico local y ratifica que, el esfuerzo conjunto construye “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "3574af6b16f77409",
+        "hash": "3574af6b16f7740975e62bfb258a54066f45cc9efbac86331550ac0cb5c2a1b0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_1_IMG5728.JPG",
+        "rutaOriginal": "/media/originales/3574af6b16f77409.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/3574af6b16f77409-400.webp",
+          "800w": "/media/derivados/3574af6b16f77409-800.webp",
+          "1600w": "/media/derivados/3574af6b16f77409-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7668747,
+        "alt": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

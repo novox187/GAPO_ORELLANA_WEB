@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 120,
+    "slug": "con-nuevas-unidades-la-alcaldia-mejora-el-servicio-de-recoleccion-de-basura-120",
+    "titulo": "Con nuevas unidades, la Alcaldía mejora el servicio de recolección de basura",
+    "resumen": "La Alcaldía de Francisco de Orellana, a través de la Dirección de Ambiente, contrató el servicio de cinco carros recolectores de 10 toneladas con carga posterior y compactación, para mejorar la recolección de residuos sólidos no peligrosos,",
+    "fecha": "2025-07-08",
+    "imagen": {
+      "id": "e487de0cd9a8d706",
+      "hash": "e487de0cd9a8d706e30d60cc9b1dd8e844479a27879a895ce0ce60967070e00a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_4558.JPG",
+      "rutaOriginal": "/media/originales/e487de0cd9a8d706.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e487de0cd9a8d706-400.webp",
+        "800w": "/media/derivados/e487de0cd9a8d706-800.webp",
+        "1600w": "/media/derivados/e487de0cd9a8d706-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8434542,
+      "alt": "Con nuevas unidades, la Alcaldía mejora el servicio de recolección de basura",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+    },
+    "url": "/noticia/120/",
+    "fuente_url": "https://orellana.gob.ec/noticia/120/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, a través de la Dirección de Ambiente, contrató el servicio de cinco carros recolectores de 10 toneladas con carga posterior y compactación, para mejorar la recolección de residuos sólidos no peligrosos, “Este servicio nos ayudará para poder mejorar el servicio que damos a la ciudadanía, se mejorarán las rutas ya que son unidades nuevas”. Erika Félix, dirección de ambiente.\nEste servicio optimiza los tiempos de recolección en zonas urbanas y rurales, garantizando una cobertura eficiente y continua, “Estos carros están más grandes, esto ayudará a una mejor recolección en nuestro sector”. María Grefa, opinión ciudadana.\nCon acciones concretas, la alcaldía continúa trabajando por el bienestar, la limpieza y la salud del cantón. PT.",
+    "imagenes": [
+      {
+        "id": "e487de0cd9a8d706",
+        "hash": "e487de0cd9a8d706e30d60cc9b1dd8e844479a27879a895ce0ce60967070e00a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_4558.JPG",
+        "rutaOriginal": "/media/originales/e487de0cd9a8d706.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e487de0cd9a8d706-400.webp",
+          "800w": "/media/derivados/e487de0cd9a8d706-800.webp",
+          "1600w": "/media/derivados/e487de0cd9a8d706-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8434542,
+        "alt": "Con nuevas unidades, la Alcaldía mejora el servicio de recolección de basura",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      }
+    ]
+  }
+}

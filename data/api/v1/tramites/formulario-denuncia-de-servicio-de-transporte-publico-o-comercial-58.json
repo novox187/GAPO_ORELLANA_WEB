@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": 58,
+    "slug": "formulario-denuncia-de-servicio-de-transporte-publico-o-comercial-58",
+    "nombre": "Formulario denuncia de servicio de transporte público o comercial",
+    "direccion": {
+      "id": 9,
+      "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+      "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+    },
+    "categorias": [
+      "vehiculos-y-transporte",
+      "negocios"
+    ],
+    "perfiles": [
+      "ciudadano",
+      "emprendedor"
+    ],
+    "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DENUNCIAS DE SERVICIO DE TRANSPORTE PÚBLICO O COMERCIAL\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DENUNCIAS DE SERVICIO DE TRANSPORTE PÚBLICO",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [
+      {
+        "nombre": "Descargar FORMULARIO DENUNCIAS DE SERVICIO DE TRANSPORTE PÚBLICO O COMERCIAL",
+        "url": "https://orellana.gob.ec/media/tramites_documentos/FORMULARIO_DENUNCIAS_DE_SERVICIO_DE_TRANSPORTE_PUBLICO_O_COMERCIAL.pdf",
+        "tipo": "pdf"
+      }
+    ],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "Información adicional",
+        "html": "<div class=\"mt-4\">\n                                                <p class=\"font-bold\">DOCUMENTOS DESCARGABLES:</p>\n                                                <ul class=\"list-unstyled\">\n                                                    \n                                                        <li>\n                                                            <a href=\"/media/tramites_documentos/FORMULARIO_DENUNCIAS_DE_SERVICIO_DE_TRANSPORTE_PUBLICO_O_COMERCIAL.pdf\" target=\"_blank\" class=\"btn-download-elegant\">\n                                                                <i class=\"fas fa-file-download\" style=\"margin-right: 8px;\"></i> Descargar FORMULARIO DENUNCIAS DE SERVICIO DE TRANSPORTE PÚBLICO O COMERCIAL\n                                                            </a>\n                                                        </li>\n                                                    \n                                                </ul>\n                                            </div>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

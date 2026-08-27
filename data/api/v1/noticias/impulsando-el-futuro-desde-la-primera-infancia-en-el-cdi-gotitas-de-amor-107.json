@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 107,
+    "slug": "impulsando-el-futuro-desde-la-primera-infancia-en-el-cdi-gotitas-de-amor-107",
+    "titulo": "Impulsando el futuro desde la primera infancia, en el CDI Gotitas de Amor",
+    "resumen": "El Centro de Desarrollo Infantil Gotitas de Amor, en la parroquia Alejandro Labaka, se llenó de alegría, sonrisas y emoción. Allí, la alcaldesa Shirma Cortés Sanmiguel, junto al ministro de Inclusión Económica y Social, Harold Burbano, inauguraron nu",
+    "fecha": "2025-06-19",
+    "imagen": {
+      "id": "1770b471be3de7a3",
+      "hash": "1770b471be3de7a37809041f8606459ccde602aa362331c45e5705f548160649",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_DJI_0015.JPG",
+      "rutaOriginal": "/media/originales/1770b471be3de7a3.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1770b471be3de7a3-400.webp",
+        "800w": "/media/derivados/1770b471be3de7a3-800.webp",
+        "1600w": "/media/derivados/1770b471be3de7a3-1600.webp"
+      },
+      "ancho": 4000,
+      "alto": 2250,
+      "bytes": 4076939,
+      "alt": "Impulsando el futuro desde la primera infancia, en el CDI Gotitas de Amor",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/107/",
+    "fuente_url": "https://orellana.gob.ec/noticia/107/",
+    "cuerpo": "El Centro de Desarrollo Infantil Gotitas de Amor, en la parroquia Alejandro Labaka, se llenó de alegría, sonrisas y emoción. Allí, la alcaldesa Shirma Cortés Sanmiguel, junto al ministro de Inclusión Económica y Social, Harold Burbano, inauguraron nuevas y esperadas instalaciones que marcarán un antes y un después en la vida de los más pequeños y sus familias, “Primero pensamos siempre en nuestros niños, no podemos hablar de una vida sana o calidad de educación si las instalaciones no están adecuadas, como municipalidad hemos hecho esa inversión para instalaciones de primera y cuentan con todo lo básico; la municipalidad siempre pendiente de las necesidades de nuestro querido cantón”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nCon una inversión de $94.799,45, se construyeron dos aulas, un comedor, una bodega y un área de juegos cubierta, creando un espacio seguro, acogedor y lleno de estímulos para los 36 niños y niñas que asisten cada día. Un entorno donde el juego, el aprendizaje y el cariño se unen para impulsar su desarrollo desde los primeros años, “Necesitamos trabajar unidos y en conjunto, tanto las instituciones públicas como cada uno de sus hogares, construir ese nuevo Ecuador que todos tenemos, depende de darnos la mano y poner ese granito de arena para poder tener días mejores”. Harold Burbano, ministro del MIES.\nEstas obras no solo mejoran un espacio físico, sino que fortalecen los pilares del desarrollo infantil en Francisco de Orellana. Son un reflejo del compromiso de la administración municipal con la educación, la dignidad y el amor desde los primeros años de vida, “Me siento muy feliz, gracias a la alcaldesa por darnos este hermoso lugar para nuestros niños, y ahora tenemos más tiempo libre, ya que cuando vamos a la finca los niños nos dejan trabajar; entonces ahora los venimos a dejar acá en el CDI y por eso estamos más tranquilos”. Évelin Mamallacta, opinión ciudadana.\nPorque crecer con amor sí es posible, y lo estamos haciendo realidad cada día. JG.",
+    "imagenes": [
+      {
+        "id": "1770b471be3de7a3",
+        "hash": "1770b471be3de7a37809041f8606459ccde602aa362331c45e5705f548160649",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_DJI_0015.JPG",
+        "rutaOriginal": "/media/originales/1770b471be3de7a3.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1770b471be3de7a3-400.webp",
+          "800w": "/media/derivados/1770b471be3de7a3-800.webp",
+          "1600w": "/media/derivados/1770b471be3de7a3-1600.webp"
+        },
+        "ancho": 4000,
+        "alto": 2250,
+        "bytes": 4076939,
+        "alt": "Impulsando el futuro desde la primera infancia, en el CDI Gotitas de Amor",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

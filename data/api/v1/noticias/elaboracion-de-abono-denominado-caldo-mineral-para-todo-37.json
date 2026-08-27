@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 37,
+    "slug": "elaboracion-de-abono-denominado-caldo-mineral-para-todo-37",
+    "titulo": "Elaboración de abono denominado caldo mineral para todo",
+    "resumen": "Este abono se elabora con cal, roca fosfórica, sal en grano y ceniza,",
+    "fecha": "2025-02-14",
+    "imagen": {
+      "id": "f3cc5a6a9120766b",
+      "hash": "f3cc5a6a9120766b1db7b0dee7385ffc85fd154080547b40d053af1dbc009efa",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_ELABORACION_ABONO.png",
+      "rutaOriginal": "/media/originales/f3cc5a6a9120766b.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/f3cc5a6a9120766b-400.webp",
+        "800w": "/media/derivados/f3cc5a6a9120766b-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1346134,
+      "alt": "Elaboración de abono denominado caldo mineral para todo",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/37/",
+    "fuente_url": "https://orellana.gob.ec/noticia/37/",
+    "cuerpo": "La Alcaldía, bajo la dirección de Shirma Cortés Sanmiguel, en colaboración con la Unión de Afectados por Texaco (UAPT), ha implementado la producción del abono natural “Caldo Mineral para Todo”. Esta iniciativa tiene como objetivo proporcionar una alternativa ecológica y económica para la fertilización de cultivos, beneficiando a las personas con discapacidad de la parroquia San José de Guayusa, “Damos gracias a nuestra alcaldesa Shirma Cortés, quien ha venido que se mantengan estos grupos prioritarios y seguir fortaleciendo los conocimientos de nuestros usuarios para mejorar sus productos y puedan tener mejor calidad del producto para su venta”. Noemí Aguaysa, técnica del GADMFO.\nEste abono se elabora con cal, roca fosfórica, sal en grano y ceniza, creando un fertilizante que favorece la vida agroecológica sin afectar la salud humana ni el medio ambiente, “Este abono es bueno para las matas de cacao, para que dé un mejor producto, es bueno para el café, para las matas de verde, la piña, entre otros”. Miguel López, beneficiario.\nEste proyecto no solo empodera a las personas con discapacidad, sino que también refleja el compromiso de la Alcaldía con el desarrollo sostenible y la inclusión social en la comunidad. JG.",
+    "imagenes": [
+      {
+        "id": "f3cc5a6a9120766b",
+        "hash": "f3cc5a6a9120766b1db7b0dee7385ffc85fd154080547b40d053af1dbc009efa",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_ELABORACION_ABONO.png",
+        "rutaOriginal": "/media/originales/f3cc5a6a9120766b.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f3cc5a6a9120766b-400.webp",
+          "800w": "/media/derivados/f3cc5a6a9120766b-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1346134,
+        "alt": "Elaboración de abono denominado caldo mineral para todo",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

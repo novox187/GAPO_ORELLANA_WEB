@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 166,
+    "slug": "alcaldesa-shirma-cortes-llega-a-la-zona-rural-con-apoyo-a-familias-en-situacion-166",
+    "titulo": "Alcaldesa Shirma Cortés llega a la zona rural con apoyo a familias en situación de vulnerabilidad",
+    "resumen": "En medio de la adversidad, cuando la esperanza parece desvanecerse, la solidaridad se convierte en luz: hasta la comunidad Jaguar II llegó la alcaldesa Shirma Cortés Sanmiguel, llevando apoyo a doña Esther, quien tras perder el techo de su casa en un",
+    "fecha": "2025-09-22",
+    "imagen": {
+      "id": "1b604c1fbb852e3f",
+      "hash": "1b604c1fbb852e3fc0a5e4de2f81e1343907e0547ce5fdbb15504a72cc1492fa",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG8340.JPG",
+      "rutaOriginal": "/media/originales/1b604c1fbb852e3f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1b604c1fbb852e3f-400.webp",
+        "800w": "/media/derivados/1b604c1fbb852e3f-800.webp",
+        "1600w": "/media/derivados/1b604c1fbb852e3f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9170190,
+      "alt": "Alcaldesa Shirma Cortés llega a la zona rural con apoyo a familias en situación de vulnerabilidad",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/166/",
+    "fuente_url": "https://orellana.gob.ec/noticia/166/",
+    "cuerpo": "En medio de la adversidad, cuando la esperanza parece desvanecerse, la solidaridad se convierte en luz: hasta la comunidad Jaguar II llegó la alcaldesa Shirma Cortés Sanmiguel, llevando apoyo a doña Esther, quien tras perder el techo de su casa en un incendio y enfrentar la enfermedad de su hijo, recibió materiales que no solo reconstruyen su hogar, también fortalecen su fe y recuerdan que en los momentos más difíciles nunca están solos, “Yo le agradezco de todo corazón a la alcaldesa Shirma Cortés que haya venido y nos apoye con un granito de arena para nuestra familia,” manifiesta entre lágrimas la señora Esther. \n“Estamos en la comunidad Jaguar de la parroquia La Belleza entregando estas hojas de zinc para la familia que lo perdió todo; también vamos a ver si articulamos acciones para hacer un telemaratón y recoger fondos para apoyar a esta familia,” manifestó Shirma Cortés Sanmiguel, alcaldesa Francisco de Orellana.\nEl compromiso no se detuvo ahí. En San Luis de Armenia, Laura Flores vio cómo un viento huracanado desprendió el techo de su hogar.\nEl miedo, la angustia y la impotencia fueron reemplazados hoy por la esperanza. Porque ser autoridad es más que construir calles o levantar obras, es tender la mano donde la gente más lo necesita, asegura la alcaldesa Shirma Cortés Sanmiguel. ST.",
+    "imagenes": [
+      {
+        "id": "1b604c1fbb852e3f",
+        "hash": "1b604c1fbb852e3fc0a5e4de2f81e1343907e0547ce5fdbb15504a72cc1492fa",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG8340.JPG",
+        "rutaOriginal": "/media/originales/1b604c1fbb852e3f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1b604c1fbb852e3f-400.webp",
+          "800w": "/media/derivados/1b604c1fbb852e3f-800.webp",
+          "1600w": "/media/derivados/1b604c1fbb852e3f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9170190,
+        "alt": "Alcaldesa Shirma Cortés llega a la zona rural con apoyo a familias en situación de vulnerabilidad",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

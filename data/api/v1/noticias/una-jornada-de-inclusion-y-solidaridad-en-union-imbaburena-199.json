@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 199,
+    "slug": "una-jornada-de-inclusion-y-solidaridad-en-union-imbaburena-199",
+    "titulo": "Una jornada de inclusión y solidaridad en Unión Imbabureña",
+    "resumen": "Queremos contarles algo muy especial. Llegamos al barrio Unión Imbabureña para vivir una tarde llena de alegría y solidaridad junto a las personas del Proyecto de Discapacidad de la Unidad de Atención Puerto Francisco de Orellana. Entre risas y abraz",
+    "fecha": "2025-11-19",
+    "imagen": {
+      "id": "5564379f2e3fcfbd",
+      "hash": "5564379f2e3fcfbdb64787ff272703a4480ffcca6acbce71ae0a5b86fcce4751",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19.JPG",
+      "rutaOriginal": "/media/originales/5564379f2e3fcfbd.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/5564379f2e3fcfbd-400.webp",
+        "800w": "/media/derivados/5564379f2e3fcfbd-800.webp",
+        "1600w": "/media/derivados/5564379f2e3fcfbd-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6551284,
+      "alt": "Una jornada de inclusión y solidaridad en Unión Imbabureña",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/199/",
+    "fuente_url": "https://orellana.gob.ec/noticia/199/",
+    "cuerpo": "Queremos contarles algo muy especial. Llegamos al barrio Unión Imbabureña para vivir una tarde llena de alegría y solidaridad junto a las personas del Proyecto de Discapacidad de la Unidad de Atención Puerto Francisco de Orellana.\nEntre risas y abrazos, disfrutamos de la tradicional colada morada y guaguas de pan, resaltando la importancia de crear lazos fuertes y espacios de convivencia para todos, “Estoy muy contenta el día de hoy, compartiendo la colada morada y la guagüita de pan que han preparado quienes conforman el proyecto de personas con discapacidad que lo lleva la municipalidad, y también se ha procedido a hacer la entrega de kits de alimentos que se lo realiza cada año.” Shirma Cortés, alcaldesa de Francisco de Orellana. \nLas personas beneficiadas recibieron esta ayuda con emoción y gratitud, reconociendo el compromiso de la alcaldesa Shirma Cortés Sanmiguel con el impulso de políticas sociales que promueven el bienestar, la inclusión y la igualdad de oportunidades, “Estoy contento con todo lo que la señora alcaldesa nos ha dado a los beneficiarios del proyecto de discapacidad, que siga siempre apoyando a este grupo.” Manuel Quintero, usuario del proyecto de discapacidad. \nY eso no es todo, porque continuaremos llevando estas ayudas a cada rincón de nuestro cantón, apoyando a quienes más lo necesitan. Juntos estamos construyendo un cantón más humano, justo y solidario. PT.",
+    "imagenes": [
+      {
+        "id": "5564379f2e3fcfbd",
+        "hash": "5564379f2e3fcfbdb64787ff272703a4480ffcca6acbce71ae0a5b86fcce4751",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19.JPG",
+        "rutaOriginal": "/media/originales/5564379f2e3fcfbd.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5564379f2e3fcfbd-400.webp",
+          "800w": "/media/derivados/5564379f2e3fcfbd-800.webp",
+          "1600w": "/media/derivados/5564379f2e3fcfbd-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6551284,
+        "alt": "Una jornada de inclusión y solidaridad en Unión Imbabureña",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "id": 27,
+    "slug": "requisitos-para-tramite-de-escritura-27",
+    "nombre": "Requisitos para trámite de escritura",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion",
+      "documentos-y-certificados"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es el documento que avala la propiedad de un terreno.",
+    "que_es": "Es el documento que avala la propiedad de un terreno.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "El valor de la escritura dependerá de la ubicación del terreno, del costo valor por metro cuadrado de la tenencia de la tierra en el sector donde se le adjudica el bien inmueble."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Solicitud a la primera autoridad del GADMFO para el trámite de la escritura (original y copia).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Formulario de línea de fábrica (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Formulario de solicitud de lote (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "2 copias de la cédula de ciudadanía y papeleta de votación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Original y copia del Certificado de no poseer bienes (Registro de la Propiedad)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Original y copia del Certificado de no poseer bienes (Avalúos y Catastros GADMFO)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Original y copia de la partida de matrimonio o declaración juramentada que acredite la unión de hecho de ser el caso",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

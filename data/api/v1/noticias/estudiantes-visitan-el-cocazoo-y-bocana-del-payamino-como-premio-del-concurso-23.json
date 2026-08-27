@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 23,
+    "slug": "estudiantes-visitan-el-cocazoo-y-bocana-del-payamino-como-premio-del-concurso-23",
+    "titulo": "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología",
+    "resumen": "Este certamen tiene como objetivo sensibilizar a los jóvenes",
+    "fecha": "2025-01-27",
+    "imagen": {
+      "id": "4a705e3282de2273",
+      "hash": "4a705e3282de2273d0ad29ecf91555e8aca02de824a275df907a13c6c01f6af3",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_VISITA_ESTUDIANTES.png",
+      "rutaOriginal": "/media/originales/4a705e3282de2273.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4a705e3282de2273-400.webp",
+        "800w": "/media/derivados/4a705e3282de2273-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1392808,
+      "alt": "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/23/",
+    "fuente_url": "https://orellana.gob.ec/noticia/23/",
+    "cuerpo": "Estudiantes de las Unidades Educativas “Ciudad del Coca” y “Padre Miguel Gamboa” tuvieron la oportunidad de disfrutar de una enriquecedora experiencia en el Zoológico Municipal Coca Zoo y la Bocana del Payamino, como parte del premio por su destacada participación en el concurso ambiental “Aviecología”, organizado por el Gobierno Municipal, “Fue una experiencia muy bonita, hemos compartido con nuestros queridos estudiantes, algo que para muchos fue nuevo lo del zoológico ya que algunos lo conocían y otros no; y acá en la Bocana pasamos una bonita experiencia. Señora alcaldesa nuestro agradecimiento como institución por habernos permitido ser parte de este recorrido”. Luis Estrella, docente del U.E Ciudad del Coca. \nEste certamen tiene como objetivo sensibilizar a los jóvenes sobre la importancia de la conservación ambiental, impulsando la participación activa de los estudiantes en actividades que promuevan el cuidado del entorno, “Estoy agradecida con la señora alcaldesa por el apoyo ambiental que da a las unidades educativas, a las escuelitas, eso es también educar con el ejemplo, educar con la experiencia vivida”. Carmen Pereira, docente del colegio Padre Gamboa. \nSe agradece la colaboración del Cuerpo de Bomberos de Francisco de Orellana, que brindó su apoyo en el transporte y la custodia de los estudiantes durante las visitas turísticas, garantizando la seguridad de todos los participantes. DV.",
+    "imagenes": [
+      {
+        "id": "4a705e3282de2273",
+        "hash": "4a705e3282de2273d0ad29ecf91555e8aca02de824a275df907a13c6c01f6af3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_VISITA_ESTUDIANTES.png",
+        "rutaOriginal": "/media/originales/4a705e3282de2273.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4a705e3282de2273-400.webp",
+          "800w": "/media/derivados/4a705e3282de2273-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1392808,
+        "alt": "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

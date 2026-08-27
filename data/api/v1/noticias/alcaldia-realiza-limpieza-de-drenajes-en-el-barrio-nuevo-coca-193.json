@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 193,
+    "slug": "alcaldia-realiza-limpieza-de-drenajes-en-el-barrio-nuevo-coca-193",
+    "titulo": "Alcaldía realiza Limpieza de drenajes en el barrio Nuevo Coca",
+    "resumen": "Personal y maquinaria pesada de la Dirección de Obras Públicas de la Alcaldía, realizan trabajos de limpieza de drenajes entre las calles Transversal I y Cabo Minacho, en el barrio Nuevo Coca. Estas labores tienen como objetivo prevenir inundaciones",
+    "fecha": "2025-11-11",
+    "imagen": {
+      "id": "be62d6d4406191d8",
+      "hash": "be62d6d4406191d8209b1ac7f470e18f15974dda1d34cbd6a2ed1d2373321b40",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.JPG",
+      "rutaOriginal": "/media/originales/be62d6d4406191d8.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/be62d6d4406191d8-400.webp",
+        "800w": "/media/derivados/be62d6d4406191d8-800.webp",
+        "1600w": "/media/derivados/be62d6d4406191d8-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11912238,
+      "alt": "Alcaldía realiza Limpieza de drenajes en el barrio Nuevo Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+    },
+    "url": "/noticia/193/",
+    "fuente_url": "https://orellana.gob.ec/noticia/193/",
+    "cuerpo": "Personal y maquinaria pesada de la Dirección de Obras Públicas de la Alcaldía, realizan trabajos de limpieza de drenajes entre las calles Transversal I y Cabo Minacho, en el barrio Nuevo Coca.\nEstas labores tienen como objetivo prevenir inundaciones y evitar la proliferación de enfermedades como la malaria, beneficiando directamente a los moradores del sector, “Muy bien que se haga esta labor, porque la verdad sí pasaba en mal estado, por eso se inundaba cuando llovía; es muy bueno que se esté realizando este tipo de trabajos.” Silvia Aguinda, moradora del barrio Nuevo Coca.\nComo Municipalidad, continuaremos ejecutando acciones de limpieza y mantenimiento en diferentes sectores del cantón, con el compromiso de mantener un entorno más limpio y saludable. Asimismo, se recomienda a la ciudadanía mantener sus predios limpios y evitar arrojar desechos en las zanjas o alcantarillas, ya que esto ocasiona taponamientos y acumulación de aguas lluvias, “También pido a los vecinos que pongan de su parte y no voten basura para que el agua no se estanque y no haya sancudos, más por los niños, nosotros y nuestra salud.” Katty Méndez, moradora del barrio Nuevo Coca.\nCon estas acciones, la Alcaldía reafirma su compromiso con el bienestar y el cuidado del entorno urbano, promoviendo un cantón más seguro, limpio y saludable para todos. DV.",
+    "imagenes": [
+      {
+        "id": "be62d6d4406191d8",
+        "hash": "be62d6d4406191d8209b1ac7f470e18f15974dda1d34cbd6a2ed1d2373321b40",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.JPG",
+        "rutaOriginal": "/media/originales/be62d6d4406191d8.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/be62d6d4406191d8-400.webp",
+          "800w": "/media/derivados/be62d6d4406191d8-800.webp",
+          "1600w": "/media/derivados/be62d6d4406191d8-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11912238,
+        "alt": "Alcaldía realiza Limpieza de drenajes en el barrio Nuevo Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      }
+    ]
+  }
+}

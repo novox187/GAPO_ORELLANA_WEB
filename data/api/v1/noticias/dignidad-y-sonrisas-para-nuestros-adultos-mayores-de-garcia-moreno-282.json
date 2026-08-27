@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 282,
+    "slug": "dignidad-y-sonrisas-para-nuestros-adultos-mayores-de-garcia-moreno-282",
+    "titulo": "Dignidad y sonrisas para nuestros adultos mayores de García Moreno",
+    "resumen": "En la parroquia García Moreno, la Alcaldía, bajo el liderazgo de Shirma Cortés Sanmiguel, llevó adelante una jornada integral dedicada al bienestar de los adultos mayores, reafirmando su firme compromiso",
+    "fecha": "2026-04-09",
+    "imagen": {
+      "id": "656624fdf4c72307",
+      "hash": "656624fdf4c723075534547d88cc2bdf7d4af1c47af9c210a842ecd8436311d7",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG3939.JPG",
+      "rutaOriginal": "/media/originales/656624fdf4c72307.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/656624fdf4c72307-400.webp",
+        "800w": "/media/derivados/656624fdf4c72307-800.webp",
+        "1600w": "/media/derivados/656624fdf4c72307-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 6905313,
+      "alt": "Dignidad y sonrisas para nuestros adultos mayores de García Moreno",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/282/",
+    "fuente_url": "https://orellana.gob.ec/noticia/282/",
+    "cuerpo": "En la parroquia García Moreno, la Alcaldía, bajo el liderazgo de Shirma Cortés Sanmiguel, llevó adelante una jornada integral dedicada al bienestar de los adultos mayores, reafirmando su firme compromiso con quienes han construido la historia y el presente de nuestro cantón.\nA través del proyecto social de atención al hogar y la comunidad, promotores y estudiantes del programa “Aprende Emprendedor” brindaron servicios de belleza como cortes de cabello, tintes, manicura y pedicura, generando momentos de alegría y cuidado, “Quiero dar las gracias a la señora alcaldesa Shirma Cortés por darnos prioridad y una atención muy buena a nosotros los adultos mayores.” María Moreno, adulta mayor. \nLa jornada también incluyó el taller “Sembrando Respeto y Buen Trato en la Vejez”, un espacio de reflexión que fortalece valores esenciales como el respeto, la empatía y la solidaridad hacia nuestros adultos mayores, especialmente en las zonas rurales, “Las charlas que nos dan las funcionarias municipales son excelentes, porque nos ayudan a cuidarnos en nuestro aseo personal.” Melesio Cuenca, adulto mayor. \nCon acciones como esta, la Alcaldía consolida una gestión cercana, humana y profundamente social, donde el bienestar de los adultos mayores es una prioridad, promoviendo una vejez digna, activa y respetada en cada rincón del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "656624fdf4c72307",
+        "hash": "656624fdf4c723075534547d88cc2bdf7d4af1c47af9c210a842ecd8436311d7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG3939.JPG",
+        "rutaOriginal": "/media/originales/656624fdf4c72307.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/656624fdf4c72307-400.webp",
+          "800w": "/media/derivados/656624fdf4c72307-800.webp",
+          "1600w": "/media/derivados/656624fdf4c72307-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 6905313,
+        "alt": "Dignidad y sonrisas para nuestros adultos mayores de García Moreno",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

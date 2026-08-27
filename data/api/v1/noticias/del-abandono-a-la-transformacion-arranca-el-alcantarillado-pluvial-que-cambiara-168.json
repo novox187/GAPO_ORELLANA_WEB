@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 168,
+    "slug": "del-abandono-a-la-transformacion-arranca-el-alcantarillado-pluvial-que-cambiara-168",
+    "titulo": "Del abandono a la transformación: arranca el alcantarillado pluvial que cambiará la vida de cuatro barrios",
+    "resumen": "En el coliseo del barrio Paraíso Amazónico se vivió un día histórico: la alcaldesa Shirma Cortés Sanmiguel, socializó con los moradores el inicio de la construcción del sistema de alcantarillado pluvial que beneficiará a los barrios 27 de Octubre, Ju",
+    "fecha": "2025-09-25",
+    "imagen": {
+      "id": "bd2ee91103146d55",
+      "hash": "bd2ee91103146d554b85bf1b4f42fb5a772baf61a454410d1ce5225a67d8e04d",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IM.jpg",
+      "rutaOriginal": "/media/originales/bd2ee91103146d55.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/bd2ee91103146d55-400.webp",
+        "800w": "/media/derivados/bd2ee91103146d55-800.webp",
+        "1600w": "/media/derivados/bd2ee91103146d55-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 8613740,
+      "alt": "Del abandono a la transformación: arranca el alcantarillado pluvial que cambiará la vida de cuatro barrios",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/168/",
+    "fuente_url": "https://orellana.gob.ec/noticia/168/",
+    "cuerpo": "En el coliseo del barrio Paraíso Amazónico se vivió un día histórico: la alcaldesa Shirma Cortés Sanmiguel, socializó con los moradores el inicio de la construcción del sistema de alcantarillado pluvial que beneficiará a los barrios 27 de Octubre, Julio Llori, Las Américas y Paraíso Amazónico, dando respuesta a un clamor que por décadas había sido ignorado, “Hemos esperado como 38 años en el barrio Las Américas y nunca se ha visto las obras y ahora dentro de un mes ya van a empezar los trabajos en los cuatro barrios, gracias a la señora alcaldesa.” Gavino Nazareno, morador del barrio Las Américas.\nCon una inversión de USD 6’522.947,65, financiada por la Secretaría Técnica de la Circunscripción Territorial Especial Amazónica (STCTEA), esta obra mitigará las inundaciones, reducirá riesgos sanitarios y permitirá mejorar la planificación urbana, beneficiando directamente a más de 8.000 familias que hoy ven renacer la esperanza de vivir con dignidad, “Y agradecer a la señora alcaldesa, a todo su equipo técnico, a los concejales que estuvieron ahí pujantemente luchando en la STCTEA para que este proyecto sea una realidad.” Ingrid Jaramillo, presidenta del barrio Las Américas.\nPara la alcaldesa Shirma Cortés Sanmiguel, esta obra es un símbolo de la nueva forma de gobernar en Orellana: con hechos, con soluciones y con resultados que transforman vidas, “Y podríamos manifestarlo de una manera fehaciente y con alegría, haberlo logrado y concretado en nuestra administración; proyecto que más adelante también nos va a permitir un mantenimiento definitivo de las vías de cada uno de los barrios.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa administración municipal reafirma así su compromiso con las obras prioritarias que por años fueron postergadas. El alcantarillado pluvial no solo representa una solución técnica, sino un acto de justicia social, que devuelve la tranquilidad y la confianza a miles de familias. JG.",
+    "imagenes": [
+      {
+        "id": "bd2ee91103146d55",
+        "hash": "bd2ee91103146d554b85bf1b4f42fb5a772baf61a454410d1ce5225a67d8e04d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IM.jpg",
+        "rutaOriginal": "/media/originales/bd2ee91103146d55.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bd2ee91103146d55-400.webp",
+          "800w": "/media/derivados/bd2ee91103146d55-800.webp",
+          "1600w": "/media/derivados/bd2ee91103146d55-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 8613740,
+        "alt": "Del abandono a la transformación: arranca el alcantarillado pluvial que cambiará la vida de cuatro barrios",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

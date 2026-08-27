@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 131,
+    "slug": "mantenimiento-vial-en-el-barrio-turismo-ecologico-131",
+    "titulo": "Mantenimiento vial en el barrio Turismo Ecológico",
+    "resumen": "La Alcaldía de Francisco de Orellana avanza con la ejecución del mantenimiento vial en varias calles del barrio Turismo Ecológico, como parte del compromiso municipal con la conectividad de los diferentes",
+    "fecha": "2025-07-23",
+    "imagen": {
+      "id": "1b54b56a2f7846f4",
+      "hash": "1b54b56a2f7846f4e5d273fecb5a4f05d05bec87c7f8a58cece31e21c909a278",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG4159.JPG",
+      "rutaOriginal": "/media/originales/1b54b56a2f7846f4.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1b54b56a2f7846f4-400.webp",
+        "800w": "/media/derivados/1b54b56a2f7846f4-800.webp",
+        "1600w": "/media/derivados/1b54b56a2f7846f4-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12666223,
+      "alt": "Mantenimiento vial en el barrio Turismo Ecológico",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+    },
+    "url": "/noticia/131/",
+    "fuente_url": "https://orellana.gob.ec/noticia/131/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana avanza con la ejecución del mantenimiento vial en varias calles del barrio Turismo Ecológico, como parte del compromiso municipal con la conectividad de los diferentes sectores de la ciudad, “Me parece muy bien que se haya retomado esta actividad del mantenimiento de las calles, porque estaban en pésimo estado; felicitamos a la señora alcaldesa y que siga adelante y estamos orando siempre por ella”. Eduardo Morales, opinión ciudadana.\nPara la realización de estas tareas se cuenta con el uso de maquinaria pesada, entre la que se incluye una motoniveladora, un rodillo, varios volquetes y material pétreo, lo que garantiza una intervención técnica de calidad, “Muy bien los trabajos, porque hacía falta, estaba la vía dañada y espero que continúen dando mantenimiento cada vez que las vías estén en mal estado”. Cecilia Cando, opinión ciudadana. \nLa administración municipal liderada por la alcaldesa Shirma Cortés Sanmiguel mantiene su compromiso con la ciudadanía para seguir mejorando el acceso vehicular y peatonal, especialmente en temporada invernal, contribuyendo al bienestar y desarrollo integral de la comunidad. DV.",
+    "imagenes": [
+      {
+        "id": "1b54b56a2f7846f4",
+        "hash": "1b54b56a2f7846f4e5d273fecb5a4f05d05bec87c7f8a58cece31e21c909a278",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG4159.JPG",
+        "rutaOriginal": "/media/originales/1b54b56a2f7846f4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1b54b56a2f7846f4-400.webp",
+          "800w": "/media/derivados/1b54b56a2f7846f4-800.webp",
+          "1600w": "/media/derivados/1b54b56a2f7846f4-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12666223,
+        "alt": "Mantenimiento vial en el barrio Turismo Ecológico",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      }
+    ]
+  }
+}

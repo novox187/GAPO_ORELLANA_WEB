@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 250,
+    "slug": "municipalidad-impulsa-educacion-ambiental-en-la-comunidad-amarum-mesa-250",
+    "titulo": "Municipalidad impulsa educación ambiental en la comunidad Amarum Mesa",
+    "resumen": "Con el objetivo de fortalecer la conciencia ambiental desde la niñez, la Alcaldía bajo el liderazgo de Shirma Cortés Sanmiguel, desarrolló un taller de Educación Ambiental dirigido a más de 250 estudiantes de la Unidad Educativa Manabí, ubicada en la",
+    "fecha": "2026-02-09",
+    "imagen": {
+      "id": "09f7c4f421e6969b",
+      "hash": "09f7c4f421e6969be122d0776fad09d8978cde10db625cad01cfb8d652ee39a3",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG.JPG",
+      "rutaOriginal": "/media/originales/09f7c4f421e6969b.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/09f7c4f421e6969b-400.webp",
+        "800w": "/media/derivados/09f7c4f421e6969b-800.webp",
+        "1600w": "/media/derivados/09f7c4f421e6969b-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7820195,
+      "alt": "Municipalidad impulsa educación ambiental en la comunidad Amarum Mesa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/250/",
+    "fuente_url": "https://orellana.gob.ec/noticia/250/",
+    "cuerpo": "Con el objetivo de fortalecer la conciencia ambiental desde la niñez, la Alcaldía bajo el liderazgo de Shirma Cortés Sanmiguel, desarrolló un taller de Educación Ambiental dirigido a más de 250 estudiantes de la Unidad Educativa Manabí, ubicada en la comunidad kichwa Amarum Mesa.\nEsta actividad forma parte del trabajo permanente que impulsa el Municipio para sensibilizar a niños y jóvenes sobre el cuidado del ambiente, promoviendo prácticas responsables como el reciclaje y el adecuado manejo de los residuos sólidos, como fue el caso de Abraham Tanguila, estudiante de la U.E Manabí, “Para mí, fue un honor que hayan venido hasta acá de parte del municipio, a darnos esta charla sobre el manejo de residuos sólidos y como estudiantes tener más conocimientos e ir reciclando la basura en nuestra escuela y desde nuestro hogar.” \nDurante la jornada, el equipo técnico de la Dirección de Ambiente, abordó temas sobre la clasificación de residuos orgánicos e inorgánicos y la importancia de proteger la naturaleza, resaltando que cuidar el ambiente es cuidar la salud y el futuro de nuestras comunidades, “Es necesario educar a los niños desde temprana edad a reciclar y que comprendan que el cartón, el vidrio, o cualquier material inorgánico, puede contaminar el medio ambiente y eso va en contra de la salud y en contra de una educación de calidad.” Concluye José Rodríguez, inspector de la U.E Manabí. \nCon estas acciones, la Alcaldía reafirma su trabajo permanente junto a las comunidades educativas, fortaleciendo la conciencia ambiental y el respeto por la naturaleza en el cantón. DV.",
+    "imagenes": [
+      {
+        "id": "09f7c4f421e6969b",
+        "hash": "09f7c4f421e6969be122d0776fad09d8978cde10db625cad01cfb8d652ee39a3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG.JPG",
+        "rutaOriginal": "/media/originales/09f7c4f421e6969b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/09f7c4f421e6969b-400.webp",
+          "800w": "/media/derivados/09f7c4f421e6969b-800.webp",
+          "1600w": "/media/derivados/09f7c4f421e6969b-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7820195,
+        "alt": "Municipalidad impulsa educación ambiental en la comunidad Amarum Mesa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

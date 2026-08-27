@@ -1,0 +1,37 @@
+{
+  "data": {
+    "slug": "publicidad",
+    "seccion": "transparencia",
+    "titulo": "Informe de Inversión en Publicidad",
+    "bloques": [
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "informe_de_inversion_publica.pdf",
+            "url": null
+          },
+          {
+            "texto": "INFORME_DE_INVERSION_PUBLICA_EN_PUBLICIDAD_Y_PROPAGANDA_PERIODO.pdf",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "texto": "informe_de_inversion_publica.pdf. INFORME_DE_INVERSION_PUBLICA_EN_PUBLICIDAD_Y_PROPAGANDA_PERIODO.pdf",
+    "imagenes": [],
+    "documentos": [
+      {
+        "nombre": "informe_de_inversion_publica.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/InformePublicidad/informe_de_inversion_publica.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "INFORME_DE_INVERSION_PUBLICA_EN_PUBLICIDAD_Y_PROPAGANDA_PERIODO.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/InformePublicidad/INFORME_DE_INVERSION_PUBLICA_EN_PUBLICIDAD_Y_PROPAGANDA_PERIODO.pdf",
+        "tipo": "pdf"
+      }
+    ],
+    "fuente_url": "https://orellana.gob.ec/informe_publicidad/"
+  }
+}

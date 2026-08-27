@@ -1,0 +1,12 @@
+{
+  "generado_en": "2026-08-27T07:49:39.107Z",
+  "etapa_ejecutada": "all",
+  "fuente": "https://orellana.gob.ec",
+  "version": "1.0.0",
+  "conteos": {
+    "tramites": 60,
+    "noticias": 280,
+    "paginas_institucionales_turismo_transparencia": 18
+  },
+  "nota": "Extracción completa. El índice de búsqueda (search/index.json, search/chunks.json) refleja esta ejecución."
+}

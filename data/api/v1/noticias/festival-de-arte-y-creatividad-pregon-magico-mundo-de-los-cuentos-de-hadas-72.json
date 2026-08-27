@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 72,
+    "slug": "festival-de-arte-y-creatividad-pregon-magico-mundo-de-los-cuentos-de-hadas-72",
+    "titulo": "Festival de arte y creatividad “Pregón Mágico Mundo de los Cuentos de Hadas”",
+    "resumen": "a alegría, el color y la fantasía se tomaron las calles de El Coca en el inicio de las celebraciones por su nuevo aniversario",
+    "fecha": "2025-04-25",
+    "imagen": {
+      "id": "4c340947b3225ab4",
+      "hash": "4c340947b3225ab4d08acc75d095c9cf654cf8448184b58b7902f1ac6fcd6cd7",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_4211.JPG",
+      "rutaOriginal": "/media/originales/4c340947b3225ab4.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4c340947b3225ab4-400.webp",
+        "800w": "/media/derivados/4c340947b3225ab4-800.webp",
+        "1600w": "/media/derivados/4c340947b3225ab4-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 11889126,
+      "alt": "Festival de arte y creatividad “Pregón Mágico Mundo de los Cuentos de Hadas”",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/72/",
+    "fuente_url": "https://orellana.gob.ec/noticia/72/",
+    "cuerpo": "La alegría, el color y la fantasía se tomaron las calles de El Coca en el inicio de las celebraciones por su nuevo aniversario. Con un despliegue de arte, creatividad, magia acompañados de carros alegóricos la Alcaldía dio inicio oficial a las festividades por los 56 años de cantonización con el tradicional pregón, que este año tuvo como temática central el “Mágico Mundo de los Cuentos de Hadas”, “La verdad que está maravilloso, me siento muy feliz, me siento muy coqueña y de Francisco de Orellana, tengo mis años vividos acá; pero llenos de mucha felicidad y me da mucho gusto ver a mi Francisco de Orellana cumpliendo sus 56 años de cantonización”. Margarita Ordóñez, opinión ciudadana.\n“Está muy bonita la organización y para compartir en integración de todos los ciudadanos y ¡Que viva los 56 años de Francisco de Orellana!”. Mónica Zambrano, opinión ciudadana.\nEl programa contó con la presencia de niños, jóvenes y adultos que disfrutaron de un desfile lleno de coloridas comparsas, trajes, danzas, música y representaciones teatrales inspiradas en los cuentos clásicos que marcaron generaciones, “La municipalidad ha preparado una agenda para que todos ustedes la disfrutemos, seamos parte de ella, son momentos de unidad, de confraternidad, de compartir entre amigos, entre la familia, estamos celebrando las fiestas de nuestro hermoso cantón donde todos deberíamos mostrar ese amor y ese compromiso con nuestra querida ciudad, desde nuestra casa, desde nuestro negocio y desde cualquier espacio ser parte del desarrollo de nuestro querido cantón”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa Alcaldía busca mantener vivas las tradiciones y fortalecer el sentido de pertenencia en la ciudadanía. Felicitamos al grupo Integración Cultural Juvenil por ser el ganador del concurso. JG.",
+    "imagenes": [
+      {
+        "id": "4c340947b3225ab4",
+        "hash": "4c340947b3225ab4d08acc75d095c9cf654cf8448184b58b7902f1ac6fcd6cd7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_4211.JPG",
+        "rutaOriginal": "/media/originales/4c340947b3225ab4.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4c340947b3225ab4-400.webp",
+          "800w": "/media/derivados/4c340947b3225ab4-800.webp",
+          "1600w": "/media/derivados/4c340947b3225ab4-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 11889126,
+        "alt": "Festival de arte y creatividad “Pregón Mágico Mundo de los Cuentos de Hadas”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

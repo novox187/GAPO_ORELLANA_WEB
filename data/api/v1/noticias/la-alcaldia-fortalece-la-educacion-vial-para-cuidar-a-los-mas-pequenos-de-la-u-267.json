@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 267,
+    "slug": "la-alcaldia-fortalece-la-educacion-vial-para-cuidar-a-los-mas-pequenos-de-la-u-267",
+    "titulo": "La Alcaldía fortalece la educación vial para cuidar a los más pequeños de la U. E. Santiago de Quito",
+    "resumen": "Con el objetivo de fomentar una cultura de prevención desde temprana edad, la Dirección de Tránsito de la Alcaldía, llegó hasta la Unidad Educativa Santiago de Quito para brindar charlas de educación vial a estudiantes de cuarto año de educación",
+    "fecha": "2026-03-13",
+    "imagen": {
+      "id": "afb03982bb74d4dd",
+      "hash": "afb03982bb74d4dddc016871e90d2456b6daa288610cea1f5009cdaf2039ddf6",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG0103.JPG",
+      "rutaOriginal": "/media/originales/afb03982bb74d4dd.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/afb03982bb74d4dd-400.webp",
+        "800w": "/media/derivados/afb03982bb74d4dd-800.webp",
+        "1600w": "/media/derivados/afb03982bb74d4dd-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 7723685,
+      "alt": "La Alcaldía fortalece la educación vial para cuidar a los más pequeños de la U. E. Santiago de Quito",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/267/",
+    "fuente_url": "https://orellana.gob.ec/noticia/267/",
+    "cuerpo": "Con el objetivo de fomentar una cultura de prevención desde temprana edad, la Dirección de Tránsito de la Alcaldía, llegó hasta la Unidad Educativa Santiago de Quito para brindar charlas de educación vial a estudiantes de cuarto año de educación básica. Durante la jornada, los niños aprendieron sobre normas de tránsito, el uso del casco, cinturón de seguridad y el respeto al peatón, el estudiante Gabriel Herrera, nos detalla lo aprendido en el taller, “Hoy aprendimos que siempre debemos usar el casco cuando vamos en moto y mirar a los dos lados antes de cruzar la calle. Gracias a la alcaldía por enseñarnos a cuidarnos.”\nLa docente Yolanda Lara, coincide que las capacitaciones buscan fortalecer la responsabilidad ciudadana y generar conciencia en los más pequeños, quienes también se convierten en multiplicadores del mensaje de seguridad vial dentro de sus hogares, “Es muy importante que las instituciones trabajen con los niños en estos temas. Agradecemos a la alcaldía por traer este tipo de capacitaciones que ayudan a prevenir accidentes.” \nDesde la municipalidad se continuará impulsando este tipo de actividades en las instituciones educativas del cantón, con el propósito de formar ciudadanos responsables y contribuir a una movilidad más segura para todos. ST.",
+    "imagenes": [
+      {
+        "id": "afb03982bb74d4dd",
+        "hash": "afb03982bb74d4dddc016871e90d2456b6daa288610cea1f5009cdaf2039ddf6",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG0103.JPG",
+        "rutaOriginal": "/media/originales/afb03982bb74d4dd.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/afb03982bb74d4dd-400.webp",
+          "800w": "/media/derivados/afb03982bb74d4dd-800.webp",
+          "1600w": "/media/derivados/afb03982bb74d4dd-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 7723685,
+        "alt": "La Alcaldía fortalece la educación vial para cuidar a los más pequeños de la U. E. Santiago de Quito",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

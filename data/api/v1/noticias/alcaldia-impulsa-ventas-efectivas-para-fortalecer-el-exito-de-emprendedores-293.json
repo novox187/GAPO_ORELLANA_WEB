@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 293,
+    "slug": "alcaldia-impulsa-ventas-efectivas-para-fortalecer-el-exito-de-emprendedores-293",
+    "titulo": "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales",
+    "resumen": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, junto a la ESPOCH Sede Orellana, impulsa el taller “Ventas Efectivas”, el objetivo es fortalecer las capacidades de los emprendedores y dinamizar la economía local, reafirmando su compromiso con el d",
+    "fecha": "2026-04-15",
+    "imagen": {
+      "id": "452c78b8c27d521d",
+      "hash": "452c78b8c27d521d89b2d83d73482329323516dbfcc5c14e7a3356e92b156e1c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_1_IMG9714_lL8ralN.JPG",
+      "rutaOriginal": "/media/originales/452c78b8c27d521d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/452c78b8c27d521d-400.webp",
+        "800w": "/media/derivados/452c78b8c27d521d-800.webp",
+        "1600w": "/media/derivados/452c78b8c27d521d-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 6871463,
+      "alt": "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/293/",
+    "fuente_url": "https://orellana.gob.ec/noticia/293/",
+    "cuerpo": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, junto a la ESPOCH Sede Orellana, impulsa el taller “Ventas Efectivas”, el objetivo es fortalecer las capacidades de los emprendedores y dinamizar la economía local, reafirmando su compromiso con el desarrollo desde la ciudadanía, “Quiero agradecerle a la alcaldesa Shirma Cortés, que ha hecho posible el curso de ventas efectivas, ya que nos ayudan a capacitarnos de manera técnica en lo que es las ventas; y, lo que es perder el temor para poder seguir con el emprendimiento y siempre hacia adelante.” Lizeth Rodas, emprendedora local.\nDurante 40 horas de capacitación intensiva, 25 emprendedores fortalecen sus habilidades en ventas, atención al cliente y estrategias comerciales con el respaldo de expertos. Al finalizar, recibirán una certificación que impulsa su crecimiento y abre nuevas oportunidades para consolidar sus negocios, “Capacitarse siempre es muy importante, porque uno no tiene todos los conocimientos y siempre es bueno contar de la mano de profesionales que nos brindan parte de su experiencia, y todo lo que puedan transmitirnos es súper importante para nosotros los emprendedores.” Geovanny Cumbicus, emprendedor local. \nEste tipo de alianzas reafirman el liderazgo de una gestión que apuesta por la gente, que cree en su talento y que invierte en el desarrollo como motor del cambio de nuestro cantón. JG.",
+    "imagenes": [
+      {
+        "id": "452c78b8c27d521d",
+        "hash": "452c78b8c27d521d89b2d83d73482329323516dbfcc5c14e7a3356e92b156e1c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_1_IMG9714_lL8ralN.JPG",
+        "rutaOriginal": "/media/originales/452c78b8c27d521d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/452c78b8c27d521d-400.webp",
+          "800w": "/media/derivados/452c78b8c27d521d-800.webp",
+          "1600w": "/media/derivados/452c78b8c27d521d-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 6871463,
+        "alt": "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

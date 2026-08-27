@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 85,
+    "slug": "alcaldia-socializa-levantamiento-topografico-previo-a-obras-de-infraestructura-85",
+    "titulo": "Alcaldía socializa levantamiento topográfico previo a obras de infraestructura en Ñukanchi Wasi y Los Sauces",
+    "resumen": "Como parte de la planificación integral para el mejoramiento urbano de la ciudad, la alcaldesa Shirma Cortés Sanmiguel solicitó al personal",
+    "fecha": "2025-05-19",
+    "imagen": {
+      "id": "15e570dff80d7151",
+      "hash": "15e570dff80d71516e45257641b3ff33a47a495388d25324ca5349f3941153cd",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_4038.JPG",
+      "rutaOriginal": "/media/originales/15e570dff80d7151.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/15e570dff80d7151-400.webp",
+        "800w": "/media/derivados/15e570dff80d7151-800.webp",
+        "1600w": "/media/derivados/15e570dff80d7151-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8310476,
+      "alt": "Alcaldía socializa levantamiento topográfico previo a obras de infraestructura en Ñukanchi Wasi y Los Sauces",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/85/",
+    "fuente_url": "https://orellana.gob.ec/noticia/85/",
+    "cuerpo": "Como parte de la planificación integral para el mejoramiento urbano de la ciudad, la alcaldesa Shirma Cortés Sanmiguel solicitó al personal de la Dirección de Ordenamiento Territorial llevar a cabo una jornada de socialización con los moradores de los barrios Ñukanchi Wasi y Los Sauces, con el objetivo de informar sobre el levantamiento de líneas de fábrica conforme a escrituras de cada predio, “En estos momentos, las casas que están en parte de las calles, que por favor los moradores seamos conscientes en colaborar, porque las calles van a ser adoquinadas y el beneficio es para todos; porque por A o B circunstancias nuestro solar sale a la calle, hagamos consciencia de que nos vamos a beneficiar nuestras familias y al barrio”. Mery Alvarado, opinión ciudadana.\nLos técnicos municipales explicaron que este proceso es fundamental para el diseño y planificación para la construcción del alcantarillado pluvial, aceras, bordillos y adoquinado con una inversión de USD. 11, 489.999.97 con fondos del Banco de Desarrollo del Ecuador, BDE, “Pedimos a la ciudadanía su colaboración, hemos identificado que muchas casetas de madera y zinc que están salidos hacia el espacio público y por favor respeten sus puntos de líneas de fábrica y que esta obra pueda continuar y no haya retraso al momento de la ejecución”. William Ramos, director de ordenamiento territorial.\nCon esta acción, la Alcaldía, busca recoger observaciones, generar confianza y promover la participación ciudadana durante todo el proceso que está enfocada en el desarrollo urbano ordenado y sostenible. JG.",
+    "imagenes": [
+      {
+        "id": "15e570dff80d7151",
+        "hash": "15e570dff80d71516e45257641b3ff33a47a495388d25324ca5349f3941153cd",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_4038.JPG",
+        "rutaOriginal": "/media/originales/15e570dff80d7151.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/15e570dff80d7151-400.webp",
+          "800w": "/media/derivados/15e570dff80d7151-800.webp",
+          "1600w": "/media/derivados/15e570dff80d7151-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8310476,
+        "alt": "Alcaldía socializa levantamiento topográfico previo a obras de infraestructura en Ñukanchi Wasi y Los Sauces",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

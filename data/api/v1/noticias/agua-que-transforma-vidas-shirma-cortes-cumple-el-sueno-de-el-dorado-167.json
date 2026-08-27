@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 167,
+    "slug": "agua-que-transforma-vidas-shirma-cortes-cumple-el-sueno-de-el-dorado-167",
+    "titulo": "Agua que transforma vidas: Shirma Cortés cumple el sueño de El Dorado",
+    "resumen": "Durante años, las familias de El Dorado vivieron con la incertidumbre de abrir la llave y ver salir agua amarillenta, turbia y escasa. Esa realidad quedó atrás. Hoy, los vecinos de la cabecera parroquial celebran emocionados la llegada de agua limpia",
+    "fecha": "2025-09-24",
+    "imagen": {
+      "id": "f59f845b9aeece8f",
+      "hash": "f59f845b9aeece8f53d8378416a8e77db77ffbf828927519418d1ac69a026b84",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_DD.JPG",
+      "rutaOriginal": "/media/originales/f59f845b9aeece8f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/f59f845b9aeece8f-400.webp",
+        "800w": "/media/derivados/f59f845b9aeece8f-800.webp",
+        "1600w": "/media/derivados/f59f845b9aeece8f-1600.webp"
+      },
+      "ancho": 4000,
+      "alto": 2256,
+      "bytes": 2289664,
+      "alt": "Agua que transforma vidas: Shirma Cortés cumple el sueño de El Dorado",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/167/",
+    "fuente_url": "https://orellana.gob.ec/noticia/167/",
+    "cuerpo": "Durante años, las familias de El Dorado vivieron con la incertidumbre de abrir la llave y ver salir agua amarillenta, turbia y escasa. Esa realidad quedó atrás. Hoy, los vecinos de la cabecera parroquial celebran emocionados la llegada de agua limpia, abundante y segura, gracias a la nueva planta de potabilización construida por la alcaldía de Francisco de Orellana, “Anteriormente el agua nos llegaba de color amarillo, llena de lodo; pero ahora está súper buena el agua, le agradecemos mucho a la alcaldesa, porque la verdad ha hecho una buena obra en El Dorado y estamos muy agradecidos con ella.” Julia Chamba, moradora de la cabecera parroquial El Dorado.\nLa emoción se repite en cada casa. Rodrigo Chinchay recuerda los tiempos en que apenas contaban con agua dos o tres horas al día, “Ahora tenemos agua las 24 horas, lo que anteriormente sólo teníamos dos o tres horas y nada más, ahora estamos agradecidos por la gestión de la señora alcaldesa.” Rodrigo Chinchay, morador de la cabecera parroquial El Dorado.\n“En este momento veo que está llegando el agua con fuerza y todos los días, gracias primeramente a Dios y a la alcaldesa, que Dios me la bendiga siempre.” Miguel Cunalata, morador de la cabecera parroquial El Dorado.” Miguel Cunalata, morador de la cabecera parroquial El Dorado.\nCon una inversión de USD 241.321,21, la planta compacta produce 15 litros por segundo de agua tratada, garantizando un servicio constante para cerca de 2.000 habitantes. Para El Dorado, esta obra no es solo infraestructura: es salud, dignidad y una esperanza largamente esperada.\nPero más allá de las cifras, lo que más conmovió a los vecinos fue verla recorrer cada barrio, entrar casa por casa para asegurarse de que el agua llegue con fuerza y calidad, e incluso cocinar junto a las familias para comprobar que realmente sea apta para el consumo diario. Un gesto sencillo, humano y cercano, que refleja una forma distinta de gobernar: con hechos y con el corazón, “Para nosotros es fundamental el buen vivir de nuestros conciudadanos en las diferentes parroquias y comunidades, y priorizar estos fortalecimientos y de abastecer de agua potable en este caso de El Dorado. Nosotros como municipio hacemos un trabajo: primero articulado, dos planificado y tres con resultados, siempre trabajando, por el cantón que queremos” Shirma Cortés, alcaldesa de Francisco de Orellana.\nCon obras que transforman la vida de la gente, la alcaldía reafirma su compromiso de construir “El cantón que queremos”, llevando progreso, bienestar y esperanza a cada rincón de Francisco de Orellana. JG.",
+    "imagenes": [
+      {
+        "id": "f59f845b9aeece8f",
+        "hash": "f59f845b9aeece8f53d8378416a8e77db77ffbf828927519418d1ac69a026b84",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_DD.JPG",
+        "rutaOriginal": "/media/originales/f59f845b9aeece8f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f59f845b9aeece8f-400.webp",
+          "800w": "/media/derivados/f59f845b9aeece8f-800.webp",
+          "1600w": "/media/derivados/f59f845b9aeece8f-1600.webp"
+        },
+        "ancho": 4000,
+        "alto": 2256,
+        "bytes": 2289664,
+        "alt": "Agua que transforma vidas: Shirma Cortés cumple el sueño de El Dorado",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

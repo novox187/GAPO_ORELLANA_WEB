@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 159,
+    "slug": "la-vision-de-la-alcaldesa-shirma-cortes-impulsa-progreso-en-nukanchi-wasi-159",
+    "titulo": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
+    "resumen": "La Alcaldía realizó la socialización e inicio de la construcción del escenario, graderíos y cerramiento de la cancha cubierta del barrio 20 de mayo, obra que beneficiará directamente a más de 400 familias del sector.",
+    "fecha": "2025-09-08",
+    "imagen": {
+      "id": "dfa839368b5adaa9",
+      "hash": "dfa839368b5adaa91b1df60fe6a7d4f47a871b82afaf6694ae6c0dbb68cf7f85",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/8_1_IMG2201.JPG",
+      "rutaOriginal": "/media/originales/dfa839368b5adaa9.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/dfa839368b5adaa9-400.webp",
+        "800w": "/media/derivados/dfa839368b5adaa9-800.webp",
+        "1600w": "/media/derivados/dfa839368b5adaa9-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7700245,
+      "alt": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/159/",
+    "fuente_url": "https://orellana.gob.ec/noticia/159/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel, acompañada de técnicos municipales y de los concejales Víctor Ruiz y Washington Cardona, recorrieron el barrio Ñukanchi Wasi para supervisar el avance de la gran obra de transformación urbana, que ya registra un progreso significativo y marca el inicio de una nueva etapa de desarrollo para el cantón, “Estamos contentos de ver que la obra está avanzando y desde luego que estamos siempre pendiente de todas las actividades que realizamos a diario en beneficio de cada uno de los moradores; en este caso, en el barrio Ñukanchi Wasi; con estas actividades, siempre trabajamos por el cantón que queremos.” Shirma Cortés, alcaldesa Francisco de Orellana.\nEl proyecto integral incluye alcantarillado pluvial, aceras, bordillos y adoquinado, trabajos que ya son visibles en calles como Víctor Ron y Nicolás Torres, donde se observan los primeros tramos adoquinados, mientras que en otros sectores avanza la instalación de tuberías, “Yo me siento contento; porque esta obra la hemos estado esperando por mucho tiempo; porque ahora ya no van a ver más inundaciones y las calles quedarán hermosas para toda la gente de aquí del barrio.” Darwin Zambrano, morador de Ñukanchi Wasi.\nLa Municipalidad de Francisco de Orellana, bajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel, reafirma su compromiso de seguir construyendo un cantón moderno y con más oportunidades para todos, demostrando que con decisión y gestión responsable las obras sí llegan a los barrios de nuestro cantón. RH.",
+    "imagenes": [
+      {
+        "id": "dfa839368b5adaa9",
+        "hash": "dfa839368b5adaa91b1df60fe6a7d4f47a871b82afaf6694ae6c0dbb68cf7f85",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/8_1_IMG2201.JPG",
+        "rutaOriginal": "/media/originales/dfa839368b5adaa9.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/dfa839368b5adaa9-400.webp",
+          "800w": "/media/derivados/dfa839368b5adaa9-800.webp",
+          "1600w": "/media/derivados/dfa839368b5adaa9-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7700245,
+        "alt": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 25,
+    "slug": "alcaldia-realiza-capacitacion-ambiental-a-comerciantes-25",
+    "titulo": "Alcaldía realiza capacitación ambiental a comerciantes",
+    "resumen": "Durante la jornada, los técnicos municipales brindaron valiosos consejos",
+    "fecha": "2025-01-29",
+    "imagen": {
+      "id": "d8b84868748f9368",
+      "hash": "d8b84868748f936822ec623bbc78504bd9b009f8247f4611165ad1efb9254207",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_CAPACITACION_COMERCIANTES.png",
+      "rutaOriginal": "/media/originales/d8b84868748f9368.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d8b84868748f9368-400.webp",
+        "800w": "/media/derivados/d8b84868748f9368-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 952843,
+      "alt": "Alcaldía realiza capacitación ambiental a comerciantes",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/25/",
+    "fuente_url": "https://orellana.gob.ec/noticia/25/",
+    "cuerpo": "En el auditorio del MACCO la alcaldía realizó una capacitación ambiental sobre el buen manejo de los residuos sólidos a comerciantes y dueños de establecimientos de alimentos, “La intención de nosotros es orientarles para que en el momento que piden los permisos de uso de suelo, ya sepan lo que tienen que entregar cuando esté vinculado con el tema de ambiente”. Marcos Baño, jefe de calidad de ambiental. \nDurante la jornada, los técnicos municipales brindaron valiosos consejos sobre prácticas preventivas, tales como la separación adecuada de grasas y la clasificación de residuos orgánicos e inorgánicos, en concordancia con las ordenanzas vigentes. Estas medidas están diseñadas para fomentar una gestión más responsable de los desechos y contribuir al cuidado del medio ambiente, “Me parece súper bueno esto, nos dan a conocer qué medidas debemos tomar para tener todo en orden, en regla lo que nos compete a nosotros”. Eddy Tambaco, comerciante local. \nEsta capacitación también refleja el compromiso de la alcaldesa Shirma Cortés Sanmiguel con el bienestar de los comerciantes locales y la sostenibilidad ambiental mostrando una preocupación constante por fomentar prácticas responsables que aseguren un entorno más limpio y ordenado. DV.",
+    "imagenes": [
+      {
+        "id": "d8b84868748f9368",
+        "hash": "d8b84868748f936822ec623bbc78504bd9b009f8247f4611165ad1efb9254207",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_CAPACITACION_COMERCIANTES.png",
+        "rutaOriginal": "/media/originales/d8b84868748f9368.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d8b84868748f9368-400.webp",
+          "800w": "/media/derivados/d8b84868748f9368-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 952843,
+        "alt": "Alcaldía realiza capacitación ambiental a comerciantes",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 241,
+    "slug": "universitarios-imbaburenos-apuestan-por-la-conservacion-y-la-innovacion-241",
+    "titulo": "Universitarios imbabureños apuestan por la conservación y la innovación ambiental en el Cocazoo",
+    "resumen": "Estudiantes de carrera de energía renovables de la Universidad Técnica del Norte de Ibarra realizaron una visita formativa al Cocazoo, donde conocieron de cerca los protocolos y procedimientos veterinarios aplicados a animales rescatados del tráfico",
+    "fecha": "2026-01-26",
+    "imagen": {
+      "id": "9b3303514dcae271",
+      "hash": "9b3303514dcae2712610db66afb558a3e8b8c90d017d69b609f0220632acf78e",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_jymiIN8.JPG",
+      "rutaOriginal": "/media/originales/9b3303514dcae271.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9b3303514dcae271-400.webp",
+        "800w": "/media/derivados/9b3303514dcae271-800.webp",
+        "1600w": "/media/derivados/9b3303514dcae271-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 13176030,
+      "alt": "Universitarios imbabureños apuestan por la conservación y la innovación ambiental en el Cocazoo",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/241/",
+    "fuente_url": "https://orellana.gob.ec/noticia/241/",
+    "cuerpo": "Estudiantes de carrera de energía renovables de la Universidad Técnica del Norte de Ibarra realizaron una visita formativa al Cocazoo, donde conocieron de cerca los protocolos y procedimientos veterinarios aplicados a animales rescatados del tráfico ilegal, evidenciando el trabajo técnico y humano que impulsa la administración municipal para defender la vida y preservar la biodiversidad del territorio, “Venir a comprender, por qué ciertas especies que están aquí rescatadas no pueden ser insertadas en su ecosistema, nos da una idea de cómo nosotros podemos aportar a que la vida de estas especies pueda desarrollarse de una mejor manera.” Manifiesta emocionada Melina Cisneros, estudiante de la UTNI.\nPara Santiago Salazar, docente de la institución y Rafael Arias, zootecnista del Cocazoo, los aprendizajes se enmarcan muy bien al currículum de los estudiantes, porque una cosa es presenciar en situ las realidades cotidianas, “Estos procesos son muy importantes para el proceso de formación de los estudiantes, donde aprenden a complementar su proceso de formación académica, a través de este tipo de iniciativas.” Santiago Salazar, docente de la UTNI.\n“El Cocazoo siempre busca ser esa entidad que promueva el cuidado y el uso responsable de la naturaleza.” Rafael Arias, zootecnista del Cocazoo. \nPara finalizar, los jóvenes presentaron proyectos de purificación de agua con energía solar y maquetas elaboradas con guadúa, reflejando la educación aplicada al desarrollo sostenible. Esta iniciativa reafirma el compromiso de la alcaldesa Shirma Cortés Sanmiguel con el aprendizaje, la conciencia ambiental y el futuro del cantón. JG.",
+    "imagenes": [
+      {
+        "id": "9b3303514dcae271",
+        "hash": "9b3303514dcae2712610db66afb558a3e8b8c90d017d69b609f0220632acf78e",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_jymiIN8.JPG",
+        "rutaOriginal": "/media/originales/9b3303514dcae271.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9b3303514dcae271-400.webp",
+          "800w": "/media/derivados/9b3303514dcae271-800.webp",
+          "1600w": "/media/derivados/9b3303514dcae271-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 13176030,
+        "alt": "Universitarios imbabureños apuestan por la conservación y la innovación ambiental en el Cocazoo",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

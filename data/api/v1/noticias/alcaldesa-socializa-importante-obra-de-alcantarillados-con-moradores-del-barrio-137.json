@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 137,
+    "slug": "alcaldesa-socializa-importante-obra-de-alcantarillados-con-moradores-del-barrio-137",
+    "titulo": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
+    "resumen": "Con el compromiso de seguir transformando la calidad de vida en Francisco de Orellana, la alcaldesa Shirma Cortés Sanmiguel, junto al vicealcalde y concejales se reunió con los moradores del barrio Perla",
+    "fecha": "2025-08-04",
+    "imagen": {
+      "id": "7fecebaba2fbc703",
+      "hash": "7fecebaba2fbc703bcb11e31094d1890bb42211825d5bb33a3eca1565f2405ac",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG0301.JPG",
+      "rutaOriginal": "/media/originales/7fecebaba2fbc703.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/7fecebaba2fbc703-400.webp",
+        "800w": "/media/derivados/7fecebaba2fbc703-800.webp",
+        "1600w": "/media/derivados/7fecebaba2fbc703-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 9762389,
+      "alt": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/137/",
+    "fuente_url": "https://orellana.gob.ec/noticia/137/",
+    "cuerpo": "Con el compromiso de seguir transformando la calidad de vida en Francisco de Orellana, la alcaldesa Shirma Cortés Sanmiguel, junto al vicealcalde y concejales se reunió con los moradores del barrio Perla Amazónica para presentar el proyecto de renovación de la red de alcantarillado sanitario y pluvial en un tramo de la avenida Alejandro Labaka y la calle Transversal 15, una obra que representará una inversión cercana a los 198 mil dólares, “El día de hoy se va a cristalizar esto que es tan fundamental e importante y ya no se siga generando inundaciones que ustedes mismo han sido testigos de ese malestar que se ha generado por años.\nQuerida ciudadanía, el municipio está trabajando en beneficio de cada uno de ustedes y por el cantón que queremos”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa socialización del proyecto se convirtió en un espacio de cercanía y participación, donde los vecinos agradecieron la apertura del Municipio para escuchar sus necesidades y priorizar soluciones, “Señora alcaldesa, gracias a usted por darnos oídos y escucharnos las necesidades que tiene cada barrio”. María Solís, opinión ciudadana.\n“Nosotros estamos satisfechos que se haga esta obra, que va en beneficio de todo el barrio”. Natacha Carpio, opinión ciudadana.\nDesde la administración municipal se ratifica el compromiso de seguir ejecutando obras con transparencia, eficacia y enfoque social, priorizando aquellas que generen un impacto directo en el bienestar de las familias del cantón. JG.",
+    "imagenes": [
+      {
+        "id": "7fecebaba2fbc703",
+        "hash": "7fecebaba2fbc703bcb11e31094d1890bb42211825d5bb33a3eca1565f2405ac",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG0301.JPG",
+        "rutaOriginal": "/media/originales/7fecebaba2fbc703.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7fecebaba2fbc703-400.webp",
+          "800w": "/media/derivados/7fecebaba2fbc703-800.webp",
+          "1600w": "/media/derivados/7fecebaba2fbc703-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 9762389,
+        "alt": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

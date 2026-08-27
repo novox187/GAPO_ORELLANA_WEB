@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 66,
+    "slug": "alcaldia-construye-paradas-inteligentes-para-una-ciudad-mas-segura-y-conectada-66",
+    "titulo": "Alcaldía construye paradas inteligentes para una ciudad más segura y conectada",
+    "resumen": "Con visión, compromiso y corazón, la Alcaldía, liderada por Shirma Cortés Sanmiguel",
+    "fecha": "2025-04-16",
+    "imagen": {
+      "id": "c8f17f2ce84d14fc",
+      "hash": "c8f17f2ce84d14fce90c5e6192718b1168c72c6583a18c5f3f436b55a78e4c61",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_6309.JPG",
+      "rutaOriginal": "/media/originales/c8f17f2ce84d14fc.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c8f17f2ce84d14fc-400.webp",
+        "800w": "/media/derivados/c8f17f2ce84d14fc-800.webp",
+        "1600w": "/media/derivados/c8f17f2ce84d14fc-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9499643,
+      "alt": "Alcaldía construye paradas inteligentes para una ciudad más segura y conectada",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/66/",
+    "fuente_url": "https://orellana.gob.ec/noticia/66/",
+    "cuerpo": "Con visión, compromiso y corazón, la Alcaldía, liderada por Shirma Cortés Sanmiguel, avanza en la construcción de paradas inteligentes en puntos estratégicos de El Coca. Esta iniciativa busca brindar más comodidad, seguridad y tecnología a todos los ciudadanos que utilizan el transporte público, “Se está realizando la construcción de estas paradas inteligentes, las cuales van a constar de cámaras de video vigilancia, de botón de pánico, unas constan con puntos de hidratación y paneles solares, los cuales nos van a ayudar a tener energía, vamos a tener internet gratuito y va a ser un punto donde los usuarios van a estar más cómodos”. Danipza Yuri, técnica municipal. \nEl proyecto cuenta con una inversión de $137.453,09 y un plazo contractual de 90 días calendario, con un avance actual del 40%. Esta obra es parte de una visión integral para mejorar la movilidad y calidad de vida en El Coca, “Yo lo veo muy bien; por ejemplo, en este momento tengo mi celular y si no tengo internet no me puedo comunicar con nadie, entonces es muy buena la obra que ejecutan, felicito a la señora alcaldesa”. Euclides Rivas, opinión ciudadana. \nDesde la alcaldía, reafirmamos nuestro compromiso con el bienestar de las familias.\n¡Seguimos construyendo el cantón que queremos! DV.",
+    "imagenes": [
+      {
+        "id": "c8f17f2ce84d14fc",
+        "hash": "c8f17f2ce84d14fce90c5e6192718b1168c72c6583a18c5f3f436b55a78e4c61",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_6309.JPG",
+        "rutaOriginal": "/media/originales/c8f17f2ce84d14fc.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c8f17f2ce84d14fc-400.webp",
+          "800w": "/media/derivados/c8f17f2ce84d14fc-800.webp",
+          "1600w": "/media/derivados/c8f17f2ce84d14fc-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9499643,
+        "alt": "Alcaldía construye paradas inteligentes para una ciudad más segura y conectada",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

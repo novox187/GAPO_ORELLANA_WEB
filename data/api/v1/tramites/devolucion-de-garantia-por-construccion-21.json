@@ -1,0 +1,83 @@
+{
+  "data": {
+    "id": 21,
+    "slug": "devolucion-de-garantia-por-construccion-21",
+    "nombre": "Devolución de garantía por construcción",
+    "direccion": {
+      "id": 8,
+      "slug": "direccion-financiera",
+      "nombre": "DIRECCIÓN FINANCIERA"
+    },
+    "categorias": [
+      "vivienda-y-construccion"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es un fondo de terceros que se recauda como garantía para la construcción de una vivienda, la misma que es devuelta al finalizar la obra de acuerdo al informe del fiscalizador de Obras Públicas y de la Dirección de Orden",
+    "que_es": "Es un fondo de terceros que se recauda como garantía para la construcción de una vivienda, la misma que es devuelta al finalizar la obra de acuerdo al informe del fiscalizador de Obras Públicas y de la Dirección de Ordenamiento Territorial.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Solicitud del contribuyente original.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Certificado de no adeudar al municipio (Rentas).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Formulario de revisión aprobación de planos (copia) (Rentas).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Informe de favorable o negativo de la devolución de garantía original (Dirección de Obras Públicas y Dirección de Ordenamiento Territorial).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Cédula de ciudadanía y papeleta de votación copia.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Título de Crédito del impuesto predial (copia).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Título de Crédito del pago de la garantía original.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Cuenta bancaria del contribuyente.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

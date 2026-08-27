@@ -1,0 +1,70 @@
+{
+  "data": {
+    "id": 9,
+    "slug": "adecuacion-de-boveda-9",
+    "nombre": "Adecuación de bóveda",
+    "direccion": {
+      "id": 6,
+      "slug": "direccion-de-servicios-municipales",
+      "nombre": "DIRECCIÓN DE SERVICIOS MUNICIPALES"
+    },
+    "categorias": [
+      "otros-tramites"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "La Municipalidad entrega este servicio de forma gratuita previa solicitud del familiar directo del difunto.",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Oficio de solicitud dirigido al director o directora de Servicios Públicos Municipales (1 original y 2 copias)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Copia de la cédula del representante o de la persona que realiza el trámite.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Copia a color de la cédula del difunto.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Certificado de defunción",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Certificado de no adeudar al municipio de la persona que firma la solicitud",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "Adecuación de bóvedas",
+        "html": "<p class=\"text-justify\">La Municipalidad entrega este servicio de forma gratuita previa solicitud del familiar directo del difunto.</p>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 83,
+    "slug": "inician-cursos-gratuitos-de-contabilidad-basica-en-el-macco-83",
+    "titulo": "Inician cursos gratuitos de contabilidad básica en el MACCO",
+    "resumen": "Con una amplia participación de jóvenes y adultos la Alcaldía está llevando a cabo cursos de contabilidad básica",
+    "fecha": "2025-05-13",
+    "imagen": {
+      "id": "2368760c1e7fec70",
+      "hash": "2368760c1e7fec708b07f4b802db3ab57ed9fe5b62f8b54405c5bd8a8cec95c2",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_2140_sNX808t.JPG",
+      "rutaOriginal": "/media/originales/2368760c1e7fec70.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/2368760c1e7fec70-400.webp",
+        "800w": "/media/derivados/2368760c1e7fec70-800.webp",
+        "1600w": "/media/derivados/2368760c1e7fec70-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7057872,
+      "alt": "Inician cursos gratuitos de contabilidad básica en el MACCO",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/83/",
+    "fuente_url": "https://orellana.gob.ec/noticia/83/",
+    "cuerpo": "Con una amplia participación de jóvenes y adultos la Alcaldía está llevando a cabo cursos de contabilidad básica en el MACCO estos talleres tienen una duración de 120 horas, con una metodología teórico y práctico, “Es un curso que sirve no solamente para los emprendedores, sino para las personas que desean conocer este mundo de los números, es muy importante para nuestro diario vivir”. Ramón Mena, técnico del GADMFO. \nDurante el curso, los estudiantes reciben formación en temas fundamentales como:\n• Conceptos de contabilidad\n• Objetivos y características de la contabilidad\n• Documentos mercantiles\n• Ecuaciones contables.\nAl finalizar el curso, los participantes obtendrán certificados de aprobación avalados por el GAD Municipal, la Escuela Superior Politécnica de Chimborazo (ESPOCH), Banecuador y el Servicio de Rentas Internas (SRI), “Es una excelente oportunidad que nos brinda la alcaldesa, tanto para jóvenes y nosotros como adultos que tengamos la oportunidad de tener un emprendimiento y saber manejarlo”. Martha Calle, estudiante del taller. \n¡Aún estás a tiempo para inscribirte! Solo necesitas tu copia a color de la cédula de identidad y muchas ganas de aprender.",
+    "imagenes": [
+      {
+        "id": "2368760c1e7fec70",
+        "hash": "2368760c1e7fec708b07f4b802db3ab57ed9fe5b62f8b54405c5bd8a8cec95c2",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_2140_sNX808t.JPG",
+        "rutaOriginal": "/media/originales/2368760c1e7fec70.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/2368760c1e7fec70-400.webp",
+          "800w": "/media/derivados/2368760c1e7fec70-800.webp",
+          "1600w": "/media/derivados/2368760c1e7fec70-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7057872,
+        "alt": "Inician cursos gratuitos de contabilidad básica en el MACCO",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

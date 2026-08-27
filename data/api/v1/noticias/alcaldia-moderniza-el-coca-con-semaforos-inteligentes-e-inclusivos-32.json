@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 32,
+    "slug": "alcaldia-moderniza-el-coca-con-semaforos-inteligentes-e-inclusivos-32",
+    "titulo": "Alcaldía moderniza El Coca con semáforos inteligentes e inclusivos",
+    "resumen": "Madres y padres de familia destacan la importancia de esta obra para la seguridad de sus hijos",
+    "fecha": "2025-02-07",
+    "imagen": {
+      "id": "d562d81df02d6b80",
+      "hash": "d562d81df02d6b808f945057df95a22cd10dd7353991ee6418b37c90d8cab8f2",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_SENALIZACION_VIAL.png",
+      "rutaOriginal": "/media/originales/d562d81df02d6b80.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d562d81df02d6b80-400.webp",
+        "800w": "/media/derivados/d562d81df02d6b80-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1000327,
+      "alt": "Alcaldía moderniza El Coca con semáforos inteligentes e inclusivos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    "url": "/noticia/32/",
+    "fuente_url": "https://orellana.gob.ec/noticia/32/",
+    "cuerpo": "La Alcaldía continúa modernizando la infraestructura urbana con la instalación de semáforos inteligentes e inclusivos, una iniciativa que busca mejorar la seguridad vial y la accesibilidad, especialmente en zonas de alto tránsito peatonal, “Me gusta mucho el piso, que alumbra con varios colores y es hermoso, se mira bonito los colores hasta arriba, por eso se ve muy interesante ya que alumbra bastante la señalización de tránsito, a los peatones y todos esos trabajos están muy elegantes”. Alexis Shiguango, opinión ciudadana.\nUno de estos nuevos dispositivos ha sido colocado a las afueras de las unidades educativas. Beneficiando a cientos de estudiantes y familias que transitan diariamente por la zona. Recuerde también que en cualquier momento puede hacer uso del pulsador para cruzar de manera segura las calle.\nMadres y padres de familia destacan la importancia de esta obra para la seguridad de sus hijos, “Los semáforos inteligentes no solo mejoran la circulación vehicular, sino que también prioriza la circulación de los peatones especialmente de quienes tienen alguna discapacidad invertimos más de 800mil dólares en esta iniciativa que al Coca en el camino de una ciudad más segura, moderna y accesible”. Shirma Cortés, alcaldesa de Francisco de Orellana. \nRecuerde que en cualquier momento puede hacer uso del pulsador para cruzar de manera segura las calles.\nSe ha ubicado un pórtico informativo tipo bandera en la Av. Alejandro Labaka, cerca de la Unidad Educativa Ciudad del Coca. Con información del límite de velocidad, así como de lugares turísticos del cantón. En la intersección del 9 de octubre y El Moretal, se instalarán pantallas de mensajes variables para ofrecer información vial en tiempo real, “Es excelente la obra que realizó la alcaldesa, quedó chévere, está muy lindo, felicitaciones”. John Morales, opinión ciudadana.\nEste proyecto refleja el compromiso de la Alcaldía por transformar la ciudad con infraestructura moderna, segura y accesible, cumpliendo con estándares internacionales de movilidad y accesibilidad.\nLa Alcaldía agradece a peatones y conductores por su paciencia ante las molestias temporales causadas por estas mejoras.\nCon estas acciones, El Coca avanza hacia una ciudad más moderna, segura e inclusiva para todos sus habitantes. PT.",
+    "imagenes": [
+      {
+        "id": "d562d81df02d6b80",
+        "hash": "d562d81df02d6b808f945057df95a22cd10dd7353991ee6418b37c90d8cab8f2",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_SENALIZACION_VIAL.png",
+        "rutaOriginal": "/media/originales/d562d81df02d6b80.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d562d81df02d6b80-400.webp",
+          "800w": "/media/derivados/d562d81df02d6b80-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1000327,
+        "alt": "Alcaldía moderniza El Coca con semáforos inteligentes e inclusivos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      }
+    ]
+  }
+}

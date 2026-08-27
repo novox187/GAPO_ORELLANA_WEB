@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 196,
+    "slug": "casa-taller-nestor-jimenez-un-proyecto-que-une-a-la-comunidad-y-marca-el-196",
+    "titulo": "Casa Taller Néstor Jiménez: un proyecto que une a la comunidad y marca el progreso de El Coca",
+    "resumen": "“Me siento orgulloso de ser parte de esta obra que están construyendo en nuestro sector, gracias a la alcaldía que nos toma en cuenta a todos los moradores del sector y nos apoya con esta obra.” Es el sentir de Galo Ávila, morador del sector Néstor J",
+    "fecha": "2025-11-14",
+    "imagen": {
+      "id": "0c363a2917e2ac83",
+      "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
+      "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
+        "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
+        "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6360537,
+      "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+    },
+    "url": "/noticia/196/",
+    "fuente_url": "https://orellana.gob.ec/noticia/196/",
+    "cuerpo": "“Me siento orgulloso de ser parte de esta obra que están construyendo en nuestro sector, gracias a la alcaldía que nos toma en cuenta a todos los moradores del sector y nos apoya con esta obra.” Es el sentir de Galo Ávila, morador del sector Néstor Jiménez que con alegría y optimismo, junto a los moradores del barrio Nuevo Coca ven hacerse realidad uno de sus más anhelados proyectos: la construcción de la Casa Taller en el sector Néstor Jiménez, una obra que se proyecta como un punto de encuentro que fortalecerá la organización barrial, la capacitación y la convivencia ciudadana, “Gracias a Dios ya vamos a tener esta obra para realizar los eventos culturales y sociales de la comunidad; y a la alcaldía también quiero agradecerle y que siga haciendo estas actividades en los demás sectores de El Coca.” Jhonny Loor, trabajador de la obra.\nCon una inversión de $89.972,09, este espacio avanza con un 65% de ejecución, el proyecto incluye la construcción de un escenario multifuncional, cocina, oficina administrativa, modernos baños, además de un tanque elevado, un biodigestor, aires acondicionados y acometidas eléctricas que garantizan la funcionalidad y confort del lugar, “Como fiscalización estamos verificando que toda la obra cumpla con las especificaciones técnicas, el uso de mano de obra local y que estén con todas las medidas de seguridad y ambientales.” Karla González, fiscalizadora de la obra.\nLa administración municipal ratifica su compromiso de trabajar junto a la comunidad en obras que mejoran la calidad de vida y fomentan el progreso sostenible, como la Casa Taller de Néstor Jiménez, símbolo de esperanza, participación y unidad en la construcción del cantón que todos queremos. JG.",
+    "imagenes": [
+      {
+        "id": "0c363a2917e2ac83",
+        "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
+        "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
+          "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
+          "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6360537,
+        "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      }
+    ]
+  }
+}

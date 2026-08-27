@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 217,
+    "slug": "visita-tecnica-de-juez-confirma-grandes-progresos-en-gestion-de-desechos-217",
+    "titulo": "Visita técnica de juez confirma grandes progresos en gestión de desechos sólidos en el sitio de disposición final",
+    "resumen": "En una jornada decisiva para el futuro ambiental de Francisco de Orellana, la alcaldesa Shirma Cortés Sanmiguel, acompañada por concejales, funcionarios municipales, el juez del Tribunal de Garantías Penales, Joel Bustos Tello, y representantes de la",
+    "fecha": "2025-12-16",
+    "imagen": {
+      "id": "8211235eec48f186",
+      "hash": "8211235eec48f186892915a825f211fe4039a744095101f8318cb111978bbf17",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_7ddyoCy.JPG",
+      "rutaOriginal": "/media/originales/8211235eec48f186.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8211235eec48f186-400.webp",
+        "800w": "/media/derivados/8211235eec48f186-800.webp",
+        "1600w": "/media/derivados/8211235eec48f186-1600.webp"
+      },
+      "ancho": 5472,
+      "alto": 3648,
+      "bytes": 11053543,
+      "alt": "Visita técnica de juez confirma grandes progresos en gestión de desechos sólidos en el sitio de disposición final",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+    },
+    "url": "/noticia/217/",
+    "fuente_url": "https://orellana.gob.ec/noticia/217/",
+    "cuerpo": "En una jornada decisiva para el futuro ambiental de Francisco de Orellana, la alcaldesa Shirma Cortés Sanmiguel, acompañada por concejales, funcionarios municipales, el juez del Tribunal de Garantías Penales, Joel Bustos Tello, y representantes de las comunidades aledañas al sitio de disposición final, realizó una visita técnica para verificar el cumplimiento de la sentencia de 2021 derivada de la acción de protección interpuesta por las familias del área de influencia directa. El recorrido permitió constatar avances reales y transparentes, en un proceso donde la participación ciudadana y la vigilancia comunitaria se han consolidado como pilares de la gestión municipal.\nLa alcaldesa recordó que fue la actual administración, bajo su liderazgo, la que dio el paso que durante décadas se había postergado: el 13 de diciembre de 2024 tomó la decisión firme y valiente de iniciar el cierre técnico del botadero municipal, impulsando la implementación de un sistema integral de manejo de residuos sólidos, respaldado por estudios técnicos aprobados por el Ministerio del Ambiente y así dar cumplimiento de la sentencia del año 2021. Esta decisión marcó un antes y un después en la historia local, demostrando voluntad política, responsabilidad ambiental y un compromiso innegociable con la salud y el bienestar de la población.\nDurante la visita, Shirma Cortés ratificó que su administración continuará trabajando con rigor, transparencia y diálogo permanente con las comunidades, avanzando hacia un modelo de gestión ambiental moderno y sostenible y demuestra que el desarrollo responsable sí es posible cuando existe liderazgo y decisión. JG.",
+    "imagenes": [
+      {
+        "id": "8211235eec48f186",
+        "hash": "8211235eec48f186892915a825f211fe4039a744095101f8318cb111978bbf17",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_7ddyoCy.JPG",
+        "rutaOriginal": "/media/originales/8211235eec48f186.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8211235eec48f186-400.webp",
+          "800w": "/media/derivados/8211235eec48f186-800.webp",
+          "1600w": "/media/derivados/8211235eec48f186-1600.webp"
+        },
+        "ancho": 5472,
+        "alto": 3648,
+        "bytes": 11053543,
+        "alt": "Visita técnica de juez confirma grandes progresos en gestión de desechos sólidos en el sitio de disposición final",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      }
+    ]
+  }
+}

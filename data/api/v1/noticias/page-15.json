@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "id": 162,
+      "slug": "alcaldia-impulsa-capacitacion-para-fortalecer-a-emprendedores-locales-en-162",
+      "titulo": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
+      "resumen": "La Alcaldía continúa fortaleciendo las oportunidades de crecimiento para los emprendedores del cantón con el proceso de capacitación en normativa sanitaria para el procesamiento de alimentos y cosméticos, con el fin de mejorar la calidad de sus produ",
+      "fecha": "2025-09-12",
+      "imagen": {
+        "id": "3574af6b16f77409",
+        "hash": "3574af6b16f7740975e62bfb258a54066f45cc9efbac86331550ac0cb5c2a1b0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_1_IMG5728.JPG",
+        "rutaOriginal": "/media/originales/3574af6b16f77409.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/3574af6b16f77409-400.webp",
+          "800w": "/media/derivados/3574af6b16f77409-800.webp",
+          "1600w": "/media/derivados/3574af6b16f77409-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7668747,
+        "alt": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/162/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 161,
+      "slug": "con-esperanza-y-compromiso-arranca-la-construccion-de-la-casa-taller-en-nestor-161",
+      "titulo": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
+      "resumen": "La transformación de Francisco de Orellana continúa avanzando. La alcaldesa Shirma Cortés Sanmiguel colocó la primera piedra de la Casa Taller en el sector Néstor Jiménez, en el barrio Nuevo Coca, una obra largamente esperada por sus moradores y que",
+      "fecha": "2025-09-11",
+      "imagen": {
+        "id": "a1882a44a006a898",
+        "hash": "a1882a44a006a898a87bd360cfcb8913cfaaa3a194ef48b0acad8ac341cf6a97",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG4033.JPG",
+        "rutaOriginal": "/media/originales/a1882a44a006a898.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a1882a44a006a898-400.webp",
+          "800w": "/media/derivados/a1882a44a006a898-800.webp",
+          "1600w": "/media/derivados/a1882a44a006a898-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9159338,
+        "alt": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/161/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 160,
+      "slug": "shirma-cortes-cumple-alcantarillado-pluvial-para-el-barrio-el-moretal-160",
+      "titulo": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
+      "resumen": "Durante años, las familias del barrio El Moretal viven cada invierno con temor. Una lluvia fuerte basta para que las calles se convirtieran en ríos, las alcantarillas colapsaran y los hogares se llenaran de malos olores y riesgos de enfermedades.",
+      "fecha": "2025-09-09",
+      "imagen": {
+        "id": "6b81efe48b36cb3b",
+        "hash": "6b81efe48b36cb3b7180f0bd77deffc71bc5c6db3f0cda49c182ea7d05b1cd57",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/9_IMG3096.JPG",
+        "rutaOriginal": "/media/originales/6b81efe48b36cb3b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6b81efe48b36cb3b-400.webp",
+          "800w": "/media/derivados/6b81efe48b36cb3b-800.webp",
+          "1600w": "/media/derivados/6b81efe48b36cb3b-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7578127,
+        "alt": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/160/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 159,
+      "slug": "la-vision-de-la-alcaldesa-shirma-cortes-impulsa-progreso-en-nukanchi-wasi-159",
+      "titulo": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
+      "resumen": "La Alcaldía realizó la socialización e inicio de la construcción del escenario, graderíos y cerramiento de la cancha cubierta del barrio 20 de mayo, obra que beneficiará directamente a más de 400 familias del sector.",
+      "fecha": "2025-09-08",
+      "imagen": {
+        "id": "dfa839368b5adaa9",
+        "hash": "dfa839368b5adaa91b1df60fe6a7d4f47a871b82afaf6694ae6c0dbb68cf7f85",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/8_1_IMG2201.JPG",
+        "rutaOriginal": "/media/originales/dfa839368b5adaa9.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/dfa839368b5adaa9-400.webp",
+          "800w": "/media/derivados/dfa839368b5adaa9-800.webp",
+          "1600w": "/media/derivados/dfa839368b5adaa9-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7700245,
+        "alt": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/159/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 158,
+      "slug": "san-bartolo-define-limites-y-caminos-replanteo-de-linderos-beneficia-a-mas-de-158",
+      "titulo": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
+      "resumen": "En el sector San Bartolo de la parroquia Nuevo Paraíso, personal de la Dirección de Ordenamiento Territorial realizó un replanteo de puntos y coordenadas a más de 20 familias propietarias de fincas. Esta acción se realizó debido a inconvenientes gene",
+      "fecha": "2025-09-04",
+      "imagen": {
+        "id": "d45608990a53e259",
+        "hash": "d45608990a53e25901c0e945e62530afe2a0118aef2797e0d1d40690574e3fd9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4_IMG0296.JPG",
+        "rutaOriginal": "/media/originales/d45608990a53e259.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d45608990a53e259-400.webp",
+          "800w": "/media/derivados/d45608990a53e259-800.webp",
+          "1600w": "/media/derivados/d45608990a53e259-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9637142,
+        "alt": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/158/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 157,
+      "slug": "80-ninos-y-ninas-del-proyecto-eti-recibieron-kits-escolares-157",
+      "titulo": "80 niños y niñas del proyecto ETI recibieron kits escolares",
+      "resumen": "Sonrisas, ilusiones y mochilas llenas de esperanza. Así es como 80 niños y niñas del proyecto ETI recibieron kits escolares, una iniciativa que se desarrolló gracias al convenio de Cooperación Técnico Económico suscrito entre el Ministerio de Desarro",
+      "fecha": "2025-09-03",
+      "imagen": {
+        "id": "368585ad1f575361",
+        "hash": "368585ad1f575361c11d8e86f5c98c742e4a9cc912cbe5b31313fc2f16ed021d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_IMG1685.JPG",
+        "rutaOriginal": "/media/originales/368585ad1f575361.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/368585ad1f575361-400.webp",
+          "800w": "/media/derivados/368585ad1f575361-800.webp",
+          "1600w": "/media/derivados/368585ad1f575361-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6697242,
+        "alt": "80 niños y niñas del proyecto ETI recibieron kits escolares",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/157/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 156,
+      "slug": "agentes-fortalecen-el-control-en-unidades-educativas-156",
+      "titulo": "Agentes fortalecen el control en unidades educativas",
+      "resumen": "Con el propósito de precautelar el orden y la seguridad en el inicio del nuevo año escolar, la Dirección de Seguridad y Gobernabilidad Municipal ejecuta de manera permanente operativos de control en distintos puntos estratégicos de la ciudad de El Co",
+      "fecha": "2025-09-02",
+      "imagen": {
+        "id": "9297213f365de947",
+        "hash": "9297213f365de947c2f6dfb181ace6b4e49d1b88d58ef569d42f14158b98cfb4",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/2_IMG0532.JPG",
+        "rutaOriginal": "/media/originales/9297213f365de947.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9297213f365de947-400.webp",
+          "800w": "/media/derivados/9297213f365de947-800.webp",
+          "1600w": "/media/derivados/9297213f365de947-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6577405,
+        "alt": "Agentes fortalecen el control en unidades educativas",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/156/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 155,
+      "slug": "planificacion-2026-una-agenda-construida-junto-a-barrios-y-parroquias-155",
+      "titulo": "Planificación 2026: una agenda construída junto a barrios y parroquias",
+      "resumen": "En el auditorio del Terminal Terrestre se desarrolló la asamblea de socialización de obras, programas y proyectos de inversión del presupuesto participativo 2026. Un espacio democrático impulsado por la Alcaldía de Francisco de Orellana, liderada por",
+      "fecha": "2025-09-01",
+      "imagen": {
+        "id": "a26e91de37158551",
+        "hash": "a26e91de37158551ad568d30d141ce804b5eeccdee3c9d0d227c962c520fcec5",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG9345.JPG",
+        "rutaOriginal": "/media/originales/a26e91de37158551.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a26e91de37158551-400.webp",
+          "800w": "/media/derivados/a26e91de37158551-800.webp",
+          "1600w": "/media/derivados/a26e91de37158551-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6746778,
+        "alt": "Planificación 2026: una agenda construída junto a barrios y parroquias",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/155/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    {
+      "id": 154,
+      "slug": "alcaldia-siembra-esperanza-en-los-adultos-mayores-154",
+      "titulo": "Alcaldía siembra esperanza en los adultos mayores",
+      "resumen": "El día despertó con lluvia, como si el cielo también quisiera acompañar la jornada. Pero ni el barro ni la distancia fueron obstáculo para los técnicos de Desarrollo Social, quienes en representación de nuestra alcaldesa Shirma Cortés Sanmiguel",
+      "fecha": "2025-08-29",
+      "imagen": {
+        "id": "c9a3b709717416c7",
+        "hash": "c9a3b709717416c7ef35f40dde35f8e50451651b9ff36e7da41fe517f11dd9f0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG9382.JPG",
+        "rutaOriginal": "/media/originales/c9a3b709717416c7.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c9a3b709717416c7-400.webp",
+          "800w": "/media/derivados/c9a3b709717416c7-800.webp",
+          "1600w": "/media/derivados/c9a3b709717416c7-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9551841,
+        "alt": "Alcaldía siembra esperanza en los adultos mayores",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      },
+      "url": "/noticia/154/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
+    }
+  ],
+  "meta": {
+    "current_page": 15,
+    "last_page": 32,
+    "per_page": 9
+  },
+  "links": {
+    "first": "/api/v1/noticias/page-1.json",
+    "last": "/api/v1/noticias/page-32.json",
+    "prev": "/api/v1/noticias/page-14.json",
+    "next": "/api/v1/noticias/page-16.json"
+  }
+}

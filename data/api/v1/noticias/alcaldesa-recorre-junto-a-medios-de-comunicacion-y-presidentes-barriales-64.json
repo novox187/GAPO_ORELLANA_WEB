@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 64,
+    "slug": "alcaldesa-recorre-junto-a-medios-de-comunicacion-y-presidentes-barriales-64",
+    "titulo": "Alcaldesa recorre junto a medios de comunicación y presidentes barriales estaciones de bombeo",
+    "resumen": "La alcaldesa Shirma Cortés Sanmiguel realizó un recorrido por las estaciones de bombeo de aguas residuales de la ciudad de El Coca",
+    "fecha": "2025-04-11",
+    "imagen": {
+      "id": "66523612028cab83",
+      "hash": "66523612028cab83a869dbb15ff509189fde9b968b5158fb7245817973746333",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11__1_IMG_9623.JPG",
+      "rutaOriginal": "/media/originales/66523612028cab83.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/66523612028cab83-400.webp",
+        "800w": "/media/derivados/66523612028cab83-800.webp",
+        "1600w": "/media/derivados/66523612028cab83-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 4640,
+      "bytes": 10441537,
+      "alt": "Alcaldesa recorre junto a medios de comunicación y presidentes barriales estaciones de bombeo",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/64/",
+    "fuente_url": "https://orellana.gob.ec/noticia/64/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel realizó un recorrido por las estaciones de bombeo de aguas residuales de la ciudad de El Coca, acompañada por representantes de los medios de comunicación, presidentes barriales y técnicos de la institución, el objetivo fue supervisar los avances en los trabajos de mantenimiento y mejoras, “La municipalidad está haciendo una inversión de más de un millón de dólares en este año y medio que estamos al frente para realizar todos estos trabajos que se requieren de manera urgente; en administraciones anteriores no se consideraron más de 180 mil dólares en cuatro años para hacer estos trabajos; esto significa que no se le dio la importancia necesaria al sistema de alcantarillado sanitario”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nEl personal técnico explicó a los presentes los procesos que se están implementando para optimizar el funcionamiento de las estaciones, incluyendo la modernización de sistemas eléctricos, mejoras en la capacidad de bombeo, en la limpieza de equipos que, lamentablemente reciben basura y plásticos e impiden su normal funcionamiento, “Imagínense ver en la estación número cinco, cómo la tubería se encuentra tapada con trapos, de ver como obstruye, cómo daña y que no dejan trabajar a las bombas”. Lucía Elizalde, presidenta del barrio Santa Rosa.\n“Yo sí invito a la ciudadanía a hacer consciencia, porque más adelante van a ver las fotografías de que se encuentra horrible y terrible se podría decir; entonces, hagamos cada uno consciencia y esto mejorará con el pasar del tiempo”. Milton Jiménez, representante del barrio Paraíso Amazónico.\nLa Alcaldía reitera su compromiso con el desarrollo de infraestructura sanitaria y continuará con el monitoreo constante de estas obras para asegurar su correcta ejecución y funcionamiento. JG.",
+    "imagenes": [
+      {
+        "id": "66523612028cab83",
+        "hash": "66523612028cab83a869dbb15ff509189fde9b968b5158fb7245817973746333",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11__1_IMG_9623.JPG",
+        "rutaOriginal": "/media/originales/66523612028cab83.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/66523612028cab83-400.webp",
+          "800w": "/media/derivados/66523612028cab83-800.webp",
+          "1600w": "/media/derivados/66523612028cab83-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 4640,
+        "bytes": 10441537,
+        "alt": "Alcaldesa recorre junto a medios de comunicación y presidentes barriales estaciones de bombeo",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

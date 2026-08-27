@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": 34,
+    "slug": "requisitos-para-permiso-de-construccion-y-aprobacion-de-planos-34",
+    "nombre": "Requisitos para permiso de construcción y aprobación de planos",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion",
+      "documentos-y-certificados"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es el documento que avala al propietario del terreno realizar su construcción.",
+    "que_es": "Es el documento que avala al propietario del terreno realizar su construcción.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "El valor por los servicios administrativos estará en función de los metros cuadrados de la construcción."
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "FICHA CATASTRAL",
+        "html": "<div class=\"text-justify table-responsive\"><ul>\n                            <li>Formulario línea de fábrica (adquirir en recaudación).</li>\n                            <li>Formulario revisado y aprobado de planos (adquirir en recaudación).</li>\n                            <li>Formulario permiso de construcción (adquirir en recaudación).</li>\n                            <li>2 copias del pago de impuesto predial 2020 (recaudación).</li>\n                            <li>Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.</li>\n                            <li>Original y copia del Certificado de gravámenes actualizado (Registro de la Propiedad).</li>\n                            <li>1 copia de la escritura.</li>\n                            <li>2 copias de la cédula de ciudadanía y papeleta de votación</li>\n                        </ul></div>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

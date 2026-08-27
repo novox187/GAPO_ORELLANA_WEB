@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 240,
+    "slug": "cuidar-el-coca-es-tarea-de-todos-municipio-actua-ante-afectacion-ambiental-240",
+    "titulo": "Cuidar El Coca es tarea de todos: Municipio actúa ante afectación ambiental",
+    "resumen": "El cuidado del ambiente es una responsabilidad compartida. Ante una alerta por posible afectación ambiental, personal de la Comisaría Municipal, Desechos Sólidos y Agentes de Control realizó una inspección en los exteriores de la planta de tratamient",
+    "fecha": "2026-01-23",
+    "imagen": {
+      "id": "dcd052eada98ea63",
+      "hash": "dcd052eada98ea630307520b10430ebfdd95e73220886e593443924888e9e50d",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_Y8Npu3V.JPG",
+      "rutaOriginal": "/media/originales/dcd052eada98ea63.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/dcd052eada98ea63-400.webp",
+        "800w": "/media/derivados/dcd052eada98ea63-800.webp",
+        "1600w": "/media/derivados/dcd052eada98ea63-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 14530753,
+      "alt": "Cuidar El Coca es tarea de todos: Municipio actúa ante afectación ambiental",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/240/",
+    "fuente_url": "https://orellana.gob.ec/noticia/240/",
+    "cuerpo": "El cuidado del ambiente es una responsabilidad compartida. Ante una alerta por posible afectación ambiental, personal de la Comisaría Municipal, Desechos Sólidos y Agentes de Control realizó una inspección en los exteriores de la planta de tratamiento del alcantarillado sanitario de El Coca, ubicada en el kilómetro 3 de la vía al Auca.\nDurante la verificación se constató la acumulación de basura, plásticos, escombros, partes de automotores, colchones, madera y cartones, residuos arrojados de forma irresponsable que ponen en riesgo el ambiente, la salud de la ciudadanía y el funcionamiento de esta infraestructura, “Pedimos a la ciudadanía, tomar conciencia de los actos que está cometiendo, tienen que apegarse al margen de la ley y poder hacer todos los trámites correspondientes para poder deshacerse de toda esta basura y escombros como debe de ser.” Wálter Lara, funcionario municipal. \nEl Municipio levantó el informe técnico, programó la limpieza del área y dará seguimiento para identificar a los responsables y aplicar las sanciones correspondientes, protegiendo el ambiente y la salud de todos los habitantes de El Coca. DV.",
+    "imagenes": [
+      {
+        "id": "dcd052eada98ea63",
+        "hash": "dcd052eada98ea630307520b10430ebfdd95e73220886e593443924888e9e50d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_Y8Npu3V.JPG",
+        "rutaOriginal": "/media/originales/dcd052eada98ea63.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/dcd052eada98ea63-400.webp",
+          "800w": "/media/derivados/dcd052eada98ea63-800.webp",
+          "1600w": "/media/derivados/dcd052eada98ea63-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 14530753,
+        "alt": "Cuidar El Coca es tarea de todos: Municipio actúa ante afectación ambiental",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

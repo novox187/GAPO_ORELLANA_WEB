@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 104,
+    "slug": "inspeccion-tecnica-de-paradas-de-bus-en-el-coca-104",
+    "titulo": "Inspección técnica de paradas de bus en El Coca",
+    "resumen": "Como parte de la etapa final del proyecto de instalación de paradas inteligentes en la ciudad de El Coca, técnicos de la Dirección de Tránsito, realizaron una inspección técnica de la infraestructura instalada.",
+    "fecha": "2025-06-16",
+    "imagen": {
+      "id": "9ca01eae56f5978e",
+      "hash": "9ca01eae56f5978ebb65a5c143828f47b5640754e12ea4b9b4f49373efa26f0c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_1_IMG_5852.JPG",
+      "rutaOriginal": "/media/originales/9ca01eae56f5978e.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9ca01eae56f5978e-400.webp",
+        "800w": "/media/derivados/9ca01eae56f5978e-800.webp",
+        "1600w": "/media/derivados/9ca01eae56f5978e-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7846670,
+      "alt": "Inspección técnica de paradas de bus en El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/104/",
+    "fuente_url": "https://orellana.gob.ec/noticia/104/",
+    "cuerpo": "Como parte de la etapa final del proyecto de instalación de paradas inteligentes en la ciudad de El Coca, técnicos de la Dirección de Tránsito, realizaron una inspección técnica de la infraestructura instalada.\nEsta actividad tuvo como finalidad verificar que las estructuras cumplan con los estándares técnicos y de seguridad establecidos, garantizando así su correcto funcionamiento y durabilidad, “Es innovador lo que han hecho en el Coca, porque no había y la verdad que ayuda bastante para estar cómodos como usuarios”. Dayana Cruz, opinión ciudadana. \nEstas paradas han sido ubicadas estratégicamente en distintos puntos de la ciudad con el objetivo de modernizar el transporte público, brindar mayor seguridad a los usuarios y promover espacios innovadores dentro de la ciudad, “La verdad que es muy bueno lo que han hecho la verdad, porque se protege del sol, la lluvia; gracias a la alcaldesa que se preocupa por la ciudadanía”. Sandra Chumbi, opinión ciudadana. \nLa administración municipal, liderada por la Shirma Cortés Sanmiguel, ratifica su compromiso con el desarrollo urbano sostenible y la implementación de soluciones tecnológicas que mejoren la calidad de vida de los ciudadanos. DV.",
+    "imagenes": [
+      {
+        "id": "9ca01eae56f5978e",
+        "hash": "9ca01eae56f5978ebb65a5c143828f47b5640754e12ea4b9b4f49373efa26f0c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_1_IMG_5852.JPG",
+        "rutaOriginal": "/media/originales/9ca01eae56f5978e.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9ca01eae56f5978e-400.webp",
+          "800w": "/media/derivados/9ca01eae56f5978e-800.webp",
+          "1600w": "/media/derivados/9ca01eae56f5978e-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7846670,
+        "alt": "Inspección técnica de paradas de bus en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

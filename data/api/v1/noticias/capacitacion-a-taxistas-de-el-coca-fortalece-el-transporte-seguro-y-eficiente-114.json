@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 114,
+    "slug": "capacitacion-a-taxistas-de-el-coca-fortalece-el-transporte-seguro-y-eficiente-114",
+    "titulo": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
+    "resumen": "Con el objetivo de fortalecer la legalidad, el orden y la eficiencia del sistema de transporte en el cantón, cerca de 400 taxistas de la localidad participaron en jornadas de capacitaciones impartidas por personal técnico de la Dirección de Tránsito",
+    "fecha": "2025-07-31",
+    "imagen": {
+      "id": "6a8073d5628bd770",
+      "hash": "6a8073d5628bd77098e7b42a3a5d3d30cf451c8e21e4f19ad5d100654c3122f8",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG9045.JPG",
+      "rutaOriginal": "/media/originales/6a8073d5628bd770.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/6a8073d5628bd770-400.webp",
+        "800w": "/media/derivados/6a8073d5628bd770-800.webp",
+        "1600w": "/media/derivados/6a8073d5628bd770-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7264103,
+      "alt": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/114/",
+    "fuente_url": "https://orellana.gob.ec/noticia/114/",
+    "cuerpo": "Con el objetivo de fortalecer la legalidad, el orden y la eficiencia del sistema de transporte en el cantón, cerca de 400 taxistas de la localidad participaron en jornadas de capacitaciones impartidas por personal técnico de la Dirección de Tránsito y del Servicio de Rentas Internas SRI. Durante el taller, los asistentes recibieron orientación detallada sobre el proceso de obtención de títulos habilitantes, un requisito indispensable para operar legalmente en el sector del transporte, “La intención es que ellos conozcan los procedimientos y los requisitos para habilitar su nueva unidad y que preste todas las condiciones técnicas para dar un buen servicio a la ciudadanía”. Sofía Zambrano, técnica del GADMFO.\n“Agradecemos a la dirección de tránsito por estas capacitaciones que son para mejorar y que nuestra ciudad de El Coca sea un referente a nivel nacional en tránsito y movilidad”. Elba, Arévalo, taxista.\nAdemás, se abordaron aspectos clave sobre las obligaciones tributarias que deben cumplir los prestadores del servicio de taxi, con el fin de promover una cultura de responsabilidad y cumplimiento normativo entre los trabajadores del volante, “Muchas de las veces por desconocimiento a las leyes de tributación, nosotros hemos evadido o hemos errado en la forma de facturar y en la forma de declarar al SRI; hemos aprendido también, si declaramos bajo el RIMPE normal o el de emprendedores”. Érika Rubio, taxista.\nEstas capacitaciones se desarrollaron durante el mes de julio en las instalaciones de la Terminal Terrestre. Desde la Alcaldía, fortalecemos la seguridad vial y garantizamos un sistema de transporte que responda a las necesidades de la población para juntos seguir construyendo el cantón que queremos. JG.",
+    "imagenes": [
+      {
+        "id": "6a8073d5628bd770",
+        "hash": "6a8073d5628bd77098e7b42a3a5d3d30cf451c8e21e4f19ad5d100654c3122f8",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG9045.JPG",
+        "rutaOriginal": "/media/originales/6a8073d5628bd770.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6a8073d5628bd770-400.webp",
+          "800w": "/media/derivados/6a8073d5628bd770-800.webp",
+          "1600w": "/media/derivados/6a8073d5628bd770-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7264103,
+        "alt": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

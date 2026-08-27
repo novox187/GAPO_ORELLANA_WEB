@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 170,
+    "slug": "alcaldia-presente-en-la-ii-feria-de-biodiversidad-y-ciencia-ciudadana-170",
+    "titulo": "Alcaldía presente en la II feria de biodiversidad y ciencia ciudadana",
+    "resumen": "La Alcaldía de Francisco de Orellana, a través del Zoológico Municipal Coca Zoo, participó en la II Feria de Biodiversidad y Ciencia Ciudadana, en la ciudad del Puyo. El objetivo de este encuentro fue promover la educación ambiental y la conservación",
+    "fecha": "2025-09-30",
+    "imagen": {
+      "id": "788474ab46cb78eb",
+      "hash": "788474ab46cb78ebb57cbcd3345cb1aa5e7f58b72680ffb74f0806e19975d27e",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_qRvDhax.JPG",
+      "rutaOriginal": "/media/originales/788474ab46cb78eb.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/788474ab46cb78eb-400.webp",
+        "800w": "/media/derivados/788474ab46cb78eb-800.webp",
+        "1600w": "/media/derivados/788474ab46cb78eb-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 9436910,
+      "alt": "Alcaldía presente en la II feria de biodiversidad y ciencia ciudadana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/170/",
+    "fuente_url": "https://orellana.gob.ec/noticia/170/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, a través del Zoológico Municipal Coca Zoo, participó en la II Feria de Biodiversidad y Ciencia Ciudadana, en la ciudad del Puyo.\nEl objetivo de este encuentro fue promover la educación ambiental y la conservación de la biodiversidad amazónica, un compromiso que la administración municipal liderada por la alcaldesa Shirma Cortés Sanmiguel impulsa de manera permanente, recuerda Danny Zambrano, funcionario del Coca Zoo, “En el zoológico estamos trabajando con materiales lúdicos para niños, les enseñamos, por ejemplo, los beneficios que tiene la caña de guadúa y a cuidar la selva que también es nuestro hogar.” \nLa feria reunió a instituciones, reservas naturales, proyectos dedicados a la protección del ambiente y emprendimientos locales comprometidos con la conservación, “Mi experiencia el día de hoy ha sido bastante gratificante, ya que todo los estands y los emprendimientos que se encuentran el día de hoy aquí son enriquecedoras en cuanto a información científica sobre todo de la región Amazónica.” Estefanía Morales, opinión ciudadana. \nCon estas acciones, la Alcaldía fortalece la cultura ambiental, fomentando el respeto a la naturaleza y reafirmando su compromiso con la educación, la ciencia ciudadana y el desarrollo sostenible. DV.",
+    "imagenes": [
+      {
+        "id": "788474ab46cb78eb",
+        "hash": "788474ab46cb78ebb57cbcd3345cb1aa5e7f58b72680ffb74f0806e19975d27e",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_qRvDhax.JPG",
+        "rutaOriginal": "/media/originales/788474ab46cb78eb.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/788474ab46cb78eb-400.webp",
+          "800w": "/media/derivados/788474ab46cb78eb-800.webp",
+          "1600w": "/media/derivados/788474ab46cb78eb-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 9436910,
+        "alt": "Alcaldía presente en la II feria de biodiversidad y ciencia ciudadana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

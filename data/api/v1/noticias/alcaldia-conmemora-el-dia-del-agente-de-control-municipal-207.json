@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 207,
+    "slug": "alcaldia-conmemora-el-dia-del-agente-de-control-municipal-207",
+    "titulo": "Alcaldía conmemora el Día del Agente de Control Municipal",
+    "resumen": "Con profunda emoción, la administración municipal liderada por la alcaldesa Shirma Cortés Sanmiguel conmemoró el Día del Agente de Control Municipal, reconociendo el esfuerzo, la entrega y el compromiso de quienes trabajan cada día por la convivencia",
+    "fecha": "2025-12-01",
+    "imagen": {
+      "id": "448decd18c60a6b9",
+      "hash": "448decd18c60a6b9aac37065caa04be5153f2dcf0fe9d7057470a16621f776e7",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_kSAP05X.JPG",
+      "rutaOriginal": "/media/originales/448decd18c60a6b9.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/448decd18c60a6b9-400.webp",
+        "800w": "/media/derivados/448decd18c60a6b9-800.webp",
+        "1600w": "/media/derivados/448decd18c60a6b9-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 6506801,
+      "alt": "Alcaldía conmemora el Día del Agente de Control Municipal",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/207/",
+    "fuente_url": "https://orellana.gob.ec/noticia/207/",
+    "cuerpo": "Con profunda emoción, la administración municipal liderada por la alcaldesa Shirma Cortés Sanmiguel conmemoró el Día del Agente de Control Municipal, reconociendo el esfuerzo, la entrega y el compromiso de quienes trabajan cada día por la convivencia y el orden en Francisco de Orellana.\nEl momento más especial llegó cuando los agentes recibieron sus insignias de manos de sus familias, un gesto que reflejó el sacrificio diario, el orgullo y la unión que sostienen su labor, “La verdad estoy muy contento, feliz, porque mi esposa ha sido homenajeada en su primer año como agente de control, quiero agradecerle a la tecnóloga Shirma Cortés por las facilidades que ha dado para que la ciudad se vuelva más tecnificada y agentes predispuestos para servir.” Miguel Macías, familiar de agente de control.\nTambién se rindió homenaje a exagentes que durante años sirvieron con responsabilidad y disciplina, “Le agradecemos a la tecnóloga Shirma Cortes, por tomarnos en cuenta y siempre apoyar al cuerpo de agentes de control.” Álex Troya, agente de control.\nDurante su mensaje, la alcaldesa Shirma Cortés Sanmiguel habló desde el corazón, resaltando el valor humano del servicio público: “Ustedes representan esa presencia necesaria que mantiene la armonía en el espacio público, que vela por el cumplimiento de la ley, que tiende la mano a quien más lo necesita, y que demuestra que la autoridad puede ser cercana, humana y empática.” Shirma Cortés Sanmiguel, alcaldesa de Francisco de Orellana.\nEste homenaje no solo reconoce la labor de quienes visten el uniforme: también reafirma que en esta administración las personas están en el centro. Porque cuando se cuida a los servidores, se cuida también a la comunidad.\nCon acciones concretas, capacitación constante y mejores herramientas, la municipalidad avanza hacia una ciudad más ordenada, segura y profundamente humana, donde cada agente es parte esencial de la construcción de “el cantón que queremos”. ST.",
+    "imagenes": [
+      {
+        "id": "448decd18c60a6b9",
+        "hash": "448decd18c60a6b9aac37065caa04be5153f2dcf0fe9d7057470a16621f776e7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_kSAP05X.JPG",
+        "rutaOriginal": "/media/originales/448decd18c60a6b9.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/448decd18c60a6b9-400.webp",
+          "800w": "/media/derivados/448decd18c60a6b9-800.webp",
+          "1600w": "/media/derivados/448decd18c60a6b9-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 6506801,
+        "alt": "Alcaldía conmemora el Día del Agente de Control Municipal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

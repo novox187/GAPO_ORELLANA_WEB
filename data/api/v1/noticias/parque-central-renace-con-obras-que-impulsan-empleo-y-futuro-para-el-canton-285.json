@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 285,
+    "slug": "parque-central-renace-con-obras-que-impulsan-empleo-y-futuro-para-el-canton-285",
+    "titulo": "Parque Central renace con obras que impulsan empleo y futuro para el cantón",
+    "resumen": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, avanza de manera firme en la regeneración integral del Parque Central, una obra que transforma espacios y eleva la calidad de vida de la ciudadanía.",
+    "fecha": "2026-04-14",
+    "imagen": {
+      "id": "e3d5fe7b9cc349b6",
+      "hash": "e3d5fe7b9cc349b69d322b07d420e781569147bcaadc6b8eb9105ce56f88f9dd",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_1_IMG.JPG",
+      "rutaOriginal": "/media/originales/e3d5fe7b9cc349b6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e3d5fe7b9cc349b6-400.webp",
+        "800w": "/media/derivados/e3d5fe7b9cc349b6-800.webp",
+        "1600w": "/media/derivados/e3d5fe7b9cc349b6-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 12401097,
+      "alt": "Parque Central renace con obras que impulsan empleo y futuro para el cantón",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/285/",
+    "fuente_url": "https://orellana.gob.ec/noticia/285/",
+    "cuerpo": "La Alcaldía, liderada por Shirma Cortés Sanmiguel, avanza de manera firme en la regeneración integral del Parque Central, una obra que transforma espacios y eleva la calidad de vida de la ciudadanía. Devolviéndole orden, seguridad y modernidad a este emblemático punto de encuentro ciudadano, Valeria Jiménez, residente de obra, nos da detalles de los trabajos ejecutados, “Estamos realizando trabajos preliminares como remoción de cerámica en las partes de las rampas se van a cambiar por unas nuevas, el adoquín perimetral de la parte exterior, se realizó el retiro de la madera que se encontraba deteriorada y la estructura metálica que ya estaba corroída.” \nCon una inversión de $ 384.191,60 y un plazo de ejecución de 120 días, el proyecto está a cargo del Consorcio CDI Central y refleja una administración que cumple y ejecuta; porque cada obra se convierte también en una oportunidad para dinamizar la economía local y la creación de fuentes de trabajo, “Agradecerle a la señora Shirma Cortés, alcaldesa de nuestro cantón, por brindarnos esa oportunidad a los jóvenes de poder adquirir experiencia; asimismo, poder llevar alimento a nuestros hogares.” manifiesta Josselyn Aguinda, trabajadora de la obra.\n“Me siento contento, porque ahora tengo trabajito para sobrevivir y llevar el sustento a mi familia,” recuerda Gonzalo Muñiz, trabajador de la obra.\nAsí, la administración de Shirma Cortés Sanmiguel reafirma su compromiso con una gestión eficiente, humana y visionaria, construyendo día a día El cantón que queremos. JG.",
+    "imagenes": [
+      {
+        "id": "e3d5fe7b9cc349b6",
+        "hash": "e3d5fe7b9cc349b69d322b07d420e781569147bcaadc6b8eb9105ce56f88f9dd",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_1_IMG.JPG",
+        "rutaOriginal": "/media/originales/e3d5fe7b9cc349b6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e3d5fe7b9cc349b6-400.webp",
+          "800w": "/media/derivados/e3d5fe7b9cc349b6-800.webp",
+          "1600w": "/media/derivados/e3d5fe7b9cc349b6-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 12401097,
+        "alt": "Parque Central renace con obras que impulsan empleo y futuro para el cantón",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

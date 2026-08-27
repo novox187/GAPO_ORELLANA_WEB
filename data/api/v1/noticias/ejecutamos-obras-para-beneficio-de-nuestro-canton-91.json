@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 91,
+    "slug": "ejecutamos-obras-para-beneficio-de-nuestro-canton-91",
+    "titulo": "Ejecutamos obras para beneficio de nuestro cantón",
+    "resumen": "Con el firme propósito de mejorar las condiciones de vida de los habitantes del cantón, la Alcaldía de Francisco de Orellana",
+    "fecha": "2025-05-30",
+    "imagen": {
+      "id": "30fd03ea387645de",
+      "hash": "30fd03ea387645dee54d237545fecbe7fbbac550cfa01b7829a0c116c1df5112",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_1_IMG_2194.JPG",
+      "rutaOriginal": "/media/originales/30fd03ea387645de.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/30fd03ea387645de-400.webp",
+        "800w": "/media/derivados/30fd03ea387645de-800.webp",
+        "1600w": "/media/derivados/30fd03ea387645de-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9955789,
+      "alt": "Ejecutamos obras para beneficio de nuestro cantón",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+    },
+    "url": "/noticia/91/",
+    "fuente_url": "https://orellana.gob.ec/noticia/91/",
+    "cuerpo": "Con el firme propósito de mejorar las condiciones de vida de los habitantes del cantón, la Alcaldía de Francisco de Orellana, bajo el liderazgo de la Shirma Cortés Sanmiguel, ejecuta varias obras de suma importancia que reflejan el compromiso con el desarrollo urbano y el bienestar ciudadano.\nEstas iniciativas no solo responden a las necesidades colectivas, sino que también generan oportunidades laborales para mano de obra local calificada y no calificada, contribuyendo a la dinamización de la economía en el territorio, como es el caso del señor José Pincay, “Estoy agradecido con la señora alcaldesa, nos sentimos alagados por ella, por habernos dado la oportunidad de trabajar aquí con la gente que somos de la provincia de Orellana”.\nEntre las obras más destacadas que actualmente se encuentran en ejecución se incluyen:\n• Construcción de una cancha de fútbol y un mini parque en el barrio El Moretal, espacios pensados para promover la recreación, el deporte y la integración comunitaria.\n• Construcción de aceras, bordillos y cunetas en el barrio Flor de Pantano, lo que permitirá mejorar la infraestructura vial y peatonal.\n• Construcción de alcantarillado, aceras, bordillos y adoquinado del barrio Ñukanchi Wasi y Los Sauces I Etapa, fundamental para el saneamiento ambiental y el ordenamiento urbano, en donde se está realizando la planimetría del sector para iniciar con las primeras intervenciones, “Quiero agradecerle a la señora alcaldesa por esta obra tan importante para nuestro barrio y que incentiva a que los jóvenes y las personas adultas hagamos deporte y mantengamos las buenas costumbres”. Priscila Méndez, opinión ciudadana. \nLa Alcaldía de Francisco de Orellana reafirma así su compromiso con el progreso integral del cantón, trabajando día a día en la construcción de un futuro más digno y próspero para todos sus ciudadanos. DV.",
+    "imagenes": [
+      {
+        "id": "30fd03ea387645de",
+        "hash": "30fd03ea387645dee54d237545fecbe7fbbac550cfa01b7829a0c116c1df5112",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_1_IMG_2194.JPG",
+        "rutaOriginal": "/media/originales/30fd03ea387645de.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/30fd03ea387645de-400.webp",
+          "800w": "/media/derivados/30fd03ea387645de-800.webp",
+          "1600w": "/media/derivados/30fd03ea387645de-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9955789,
+        "alt": "Ejecutamos obras para beneficio de nuestro cantón",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      }
+    ]
+  }
+}

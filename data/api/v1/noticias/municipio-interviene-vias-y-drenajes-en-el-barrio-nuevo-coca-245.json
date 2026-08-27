@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 245,
+    "slug": "municipio-interviene-vias-y-drenajes-en-el-barrio-nuevo-coca-245",
+    "titulo": "Municipio interviene vías y drenajes en el barrio Nuevo Coca",
+    "resumen": "Con el compromiso de cuidar a su gente y mejorar las condiciones de vida en los barrios, la Alcaldía, liderada por la alcaldesa Shirma Cortés Sanmiguel, continúa con trabajos de mantenimiento vial en el barrio Nuevo Coca, sector El Rancho, “Es muy bu",
+    "fecha": "2026-01-30",
+    "imagen": {
+      "id": "cc7163abe604a8d3",
+      "hash": "cc7163abe604a8d392868c1aa3b9f913dea0351d10faf920f38f7a1201726d80",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_IMG.JPG",
+      "rutaOriginal": "/media/originales/cc7163abe604a8d3.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/cc7163abe604a8d3-400.webp",
+        "800w": "/media/derivados/cc7163abe604a8d3-800.webp",
+        "1600w": "/media/derivados/cc7163abe604a8d3-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12142489,
+      "alt": "Municipio interviene vías y drenajes en el barrio Nuevo Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/245/",
+    "fuente_url": "https://orellana.gob.ec/noticia/245/",
+    "cuerpo": "Con el compromiso de cuidar a su gente y mejorar las condiciones de vida en los barrios, la Alcaldía, liderada por la alcaldesa Shirma Cortés Sanmiguel, continúa con trabajos de mantenimiento vial en el barrio Nuevo Coca, sector El Rancho, “Es muy bueno que la señora alcaldesa se preocupe por el mantenimiento de las calles, ya que es muy importante para el bienestar de los barrios.” Antonio Mendoza, morador del sector. \nDe manera paralela, se ejecuta la limpieza de drenajes con maquinaria pesada, retirando sedimentos y desechos acumulados que provocaban inundaciones y afectaban la salud y seguridad de los moradores, “Pido encarecidamente a todos los moradores del sector El Rancho, no botar la basura a las zanjas, porque esto genera taponamientos y que el agua nos inunde.” Paulina Crespo, moradora del sector. \nLa Alcaldía continuará trabajando junto a los representantes barriales para atender sus necesidades, porque una ciudad se construye cuidando a su gente y mejorando su calidad de vida. DV.",
+    "imagenes": [
+      {
+        "id": "cc7163abe604a8d3",
+        "hash": "cc7163abe604a8d392868c1aa3b9f913dea0351d10faf920f38f7a1201726d80",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_IMG.JPG",
+        "rutaOriginal": "/media/originales/cc7163abe604a8d3.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/cc7163abe604a8d3-400.webp",
+          "800w": "/media/derivados/cc7163abe604a8d3-800.webp",
+          "1600w": "/media/derivados/cc7163abe604a8d3-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12142489,
+        "alt": "Municipio interviene vías y drenajes en el barrio Nuevo Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

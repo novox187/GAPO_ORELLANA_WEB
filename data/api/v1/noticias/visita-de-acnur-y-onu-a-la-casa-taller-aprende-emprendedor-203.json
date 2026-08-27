@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 203,
+    "slug": "visita-de-acnur-y-onu-a-la-casa-taller-aprende-emprendedor-203",
+    "titulo": "Visita de ACNUR y ONU a la Casa Taller “Aprende Emprendedor”",
+    "resumen": "La Alcaldía de Francisco de Orellana liderada por Shirma Cortes Sanmiguel y representantes de ACNUR realizaron una visita técnica en la Casa Taller Artesanal “Aprende Emprendedor” en el barrio Flor de Pantano, junto a la coordinadora residente de la",
+    "fecha": "2025-11-25",
+    "imagen": {
+      "id": "8d25771648e72389",
+      "hash": "8d25771648e72389453dff500257f59939488c8cf111d98fa0c6aa5a10a5d2af",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.JPG",
+      "rutaOriginal": "/media/originales/8d25771648e72389.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8d25771648e72389-400.webp",
+        "800w": "/media/derivados/8d25771648e72389-800.webp",
+        "1600w": "/media/derivados/8d25771648e72389-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7211470,
+      "alt": "Visita de ACNUR y ONU a la Casa Taller “Aprende Emprendedor”",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/203/",
+    "fuente_url": "https://orellana.gob.ec/noticia/203/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana liderada por Shirma Cortes Sanmiguel y representantes de ACNUR realizaron una visita técnica en la Casa Taller Artesanal “Aprende Emprendedor” en el barrio Flor de Pantano, junto a la coordinadora residente de la ONU en Ecuador, Laura Melu, y representantes de la Organización Internacional para las Migraciones (OIM) y ONGs aliadas, “El día de hoy hemos tenido una visita muy importante de nuestros aliados estratégicos, donde lo satisfactorio como autoridad refleja que esa visita es porque estamos caminando bien y la única intención es seguir trabajando articuladamente y también ir fortaleciendo los aportes que lo han venido haciendo hasta el día de hoy.” Shirma Cortés Sanmiguel, alcaldesa de Francisco de Orellana.\nLas autoridades, recibidas por nuestra máxima autoridad, recorrieron las áreas de corte y confección, belleza y panadería para constatar el uso de los equipos e insumos entregados por ACNUR y los incentivos económicos de capital semilla para emprendedores destacados, “Me parece un ejemplo muy bonito de colaboración del sistema de Naciones Unidas, diferentes agencias como también las diferentes autoridades para promover la vida de la gente, con una dedicación y una fuerza, pero esto les da una oportunidad a ellos, a sus familias y a su comunidad.” Laura Melu, coordinadora de la ONU en Ecuador. \nLa jornada culminó con la degustación de productos elaborados por los estudiantes, reafirmando el compromiso de mantener y fortalecer estos espacios de formación para mejorar la calidad de vida de la ciudadanía del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "8d25771648e72389",
+        "hash": "8d25771648e72389453dff500257f59939488c8cf111d98fa0c6aa5a10a5d2af",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.JPG",
+        "rutaOriginal": "/media/originales/8d25771648e72389.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8d25771648e72389-400.webp",
+          "800w": "/media/derivados/8d25771648e72389-800.webp",
+          "1600w": "/media/derivados/8d25771648e72389-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7211470,
+        "alt": "Visita de ACNUR y ONU a la Casa Taller “Aprende Emprendedor”",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

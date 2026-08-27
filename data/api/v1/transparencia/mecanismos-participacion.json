@@ -1,0 +1,155 @@
+{
+  "data": {
+    "slug": "mecanismos-participacion",
+    "seccion": "transparencia",
+    "titulo": "Mecanismos de Participación",
+    "bloques": [
+      {
+        "tipo": "parrafo",
+        "texto": "Audiencias Públicas.- Son una instancia de participación habilitada por la autoridad responsable, ya sea por iniciativa propia o un pedido de la ciudadanía. Sirven para atender pronunciamientos o peticiones ciudadanas y para fundamentar decisiones o acciones de gobierno. \n \nAsambleas ciudadanas.- La Asamblea es una organización social, conformada por la ciudadanía como un espacio de deliberación pública entre los ciudadanos y ciudadanas."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Funciones determinadas por la Ley Orgánica de Participación Ciudadana:"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Respetar los derechos y exigir su cumplimiento.",
+            "url": null
+          },
+          {
+            "texto": "Proponer agendas de desarrollo, planes, programas y políticas públicas locales.",
+            "url": null
+          },
+          {
+            "texto": "Promover la organización social y la formación ciudadana.",
+            "url": null
+          },
+          {
+            "texto": "Organizar de manera independiente el ejercicio de rendición de cuentas de las autoridades.",
+            "url": null
+          },
+          {
+            "texto": "Propiciar el debate, la deliberación y la concertación.",
+            "url": null
+          },
+          {
+            "texto": "Ejecutar el control social.",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Integrantes de la Asamblea ciudadana Local:"
+      },
+      {
+        "tipo": "tabla",
+        "filas": [
+          [
+            "DIGNIDAD",
+            "NOMBRE Y APELLIDO",
+            "CARGA"
+          ],
+          [
+            "Señor",
+            "Marco Tandazo",
+            "PRESIDENTE DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señorita",
+            "Cynthia Mariela Jiménez Sánchez",
+            "VICEPRESIDENTA DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señor",
+            "William Espín Hugo",
+            "SECRETARIO DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señorita",
+            "Karina Rocío Verdezoto López",
+            "TESORERA DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señor",
+            "Rodolfo Edmundo Rodríguez Salazar",
+            "PRIMER VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señor",
+            "Andrés Alejandro Santi Hidalgo",
+            "SEGUNDO VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señora",
+            "Paola Guerrero",
+            "TERCER VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señora",
+            "Eliza Flora Andi Alvarado",
+            "PRIMER VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señora",
+            "Irma Inés Altamirano Miranda",
+            "SEGUNDO VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA"
+          ],
+          [
+            "Señora",
+            "Alicia Illanes",
+            "TERCER VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA"
+          ]
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Silla vacía.- La Constitución establece que las sesiones de los Gobiernos Autónomos descentralizados son públicas y en ellas habrá una silla vacía que será ocupada por una o un representante, varios o varios representantes de la ciudadanía, en función de los temas que se van a tratar. \n \nÉl o el representante participará en el debate y en la toma de decisiones, dentro de las sesiones del Consejo Municipal y se sujetará a la ley, ordenanzas y reglamentos del GADMFO."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Presupuestos Participativos.- espacio común y compartido de toma de decisiones entre la Autoridad, ciudadanía y organizaciones sociales en torno a la distribución equitativa de los presupuestos públicos. \n \nLa asignación de los recursos se hará conforme a las prioridades de los planes de desarrollo para propiciar la equidad territorial sobre la base de la disponibilidad financiera del GADMFO."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Las fases del ciclo del PP"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "AUDIENCIA PÚBLICA"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "CABILDO POPULAR"
+      }
+    ],
+    "texto": "Audiencias Públicas.- Son una instancia de participación habilitada por la autoridad responsable, ya sea por iniciativa propia o un pedido de la ciudadanía. Sirven para atender pronunciamientos o peticiones ciudadanas y para fundamentar decisiones o acciones de gobierno. \n \nAsambleas ciudadanas.- La Asamblea es una organización social, conformada por la ciudadanía como un espacio de deliberación pública entre los ciudadanos y ciudadanas.\n\nFunciones determinadas por la Ley Orgánica de Participación Ciudadana:\n\nRespetar los derechos y exigir su cumplimiento.. Proponer agendas de desarrollo, planes, programas y políticas públicas locales.. Promover la organización social y la formación ciudadana.. Organizar de manera independiente el ejercicio de rendición de cuentas de las autoridades.. Propiciar el debate, la deliberación y la concertación.. Ejecutar el control social.\n\nIntegrantes de la Asamblea ciudadana Local:\n\nDIGNIDAD | NOMBRE Y APELLIDO | CARGA\nSeñor | Marco Tandazo | PRESIDENTE DE LA ASAMBLEA LOCAL CIUDADANA\nSeñorita | Cynthia Mariela Jiménez Sánchez | VICEPRESIDENTA DE LA ASAMBLEA LOCAL CIUDADANA\nSeñor | William Espín Hugo | SECRETARIO DE LA ASAMBLEA LOCAL CIUDADANA\nSeñorita | Karina Rocío Verdezoto López | TESORERA DE LA ASAMBLEA LOCAL CIUDADANA\nSeñor | Rodolfo Edmundo Rodríguez Salazar | PRIMER VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA\nSeñor | Andrés Alejandro Santi Hidalgo | SEGUNDO VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA\nSeñora | Paola Guerrero | TERCER VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA\nSeñora | Eliza Flora Andi Alvarado | PRIMER VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA\nSeñora | Irma Inés Altamirano Miranda | SEGUNDO VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA\nSeñora | Alicia Illanes | TERCER VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA\n\nSilla vacía.- La Constitución establece que las sesiones de los Gobiernos Autónomos descentralizados son públicas y en ellas habrá una silla vacía que será ocupada por una o un representante, varios o varios representantes de la ciudadanía, en función de los temas que se van a tratar. \n \nÉl o el representante participará en el debate y en la toma de decisiones, dentro de las sesiones del Consejo Municipal y se sujetará a la ley, ordenanzas y reglamentos del GADMFO.\n\nPresupuestos Participativos.- espacio común y compartido de toma de decisiones entre la Autoridad, ciudadanía y organizaciones sociales en torno a la distribución equitativa de los presupuestos públicos. \n \nLa asignación de los recursos se hará conforme a las prioridades de los planes de desarrollo para propiciar la equidad territorial sobre la base de la disponibilidad financiera del GADMFO.\n\nLas fases del ciclo del PP\n\nAUDIENCIA PÚBLICA\n\nCABILDO POPULAR",
+    "imagenes": [
+      {
+        "id": "67ed11036f213cc1",
+        "hash": "67ed11036f213cc1f3ec10323da1d2c2cb3e7862e4d2d15025f284e073f7244c",
+        "urlOriginal": "https://orellana.gob.ec/static/img/presupuestos-participativos.png",
+        "rutaOriginal": "/media/originales/67ed11036f213cc1.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/67ed11036f213cc1-400.webp",
+          "800w": "/media/derivados/67ed11036f213cc1-800.webp",
+          "1600w": "/media/derivados/67ed11036f213cc1-1600.webp"
+        },
+        "ancho": 2033,
+        "alto": 1474,
+        "bytes": 305332,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "transparencia",
+        "fuenteUrl": "https://orellana.gob.ec/mecanismos_participacion/"
+      }
+    ],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/mecanismos_participacion/"
+  }
+}

@@ -1,0 +1,843 @@
+{
+  "data": {
+    "slug": "calidad-agua",
+    "seccion": "transparencia",
+    "titulo": "Calidad de Agua",
+    "bloques": [
+      {
+        "tipo": "titulo",
+        "nivel": 1,
+        "texto": "Estudios de calidad del servicio de Agua Potable"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El GADM Francisco de Orellana provee del servicio de agua potable en el terrotorio cantonal, en este espacio usted puede evidenciar la calidad del líquido vital que estamos produciendo diariamente a través de la planta \"Los Álamos\""
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2025"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "permiso_funcionamiento_2025.pdf",
+            "url": null
+          },
+          {
+            "texto": "01._INFORME_No_GADMFO-DAPA-NC-2025-011-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "02._INFORME_No_GADMFO-DAPA-NC-2025-018-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "03._INFORME_No_GADMFO-DAPA-NC-2025-020-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "04._INFORME_No_GADMFO-DAPA-NC-2025-021-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "05._INFORME_No_GADMFO-DAPA-NC-2025-039-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "06._INFORME_No_GADMFO-DAPA-NC-2025-041-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "07._INFORME_No_GADMFO-DAPA-NC-2025-042-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "08._INFORME_No_GADMFO-DAPA-NC-2025-043-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "05._INFORME_No043-GADMFO-DAPA-LABO-LM-2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "08._INFORME_No_GADMFO-DAPA-LABO-NC-2022-069.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2024"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "06._INFORME_No_GADMFO-DAPA-NC-2024-028-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "01._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "02._INFORME_No_GADMFO-DAPA-NC-2024-013-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "03._INFORME_No_GADMFO-DAPA-NC-2024-016-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "04._INFORME_No_GADMFO-DAPA-NC-2024-019-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "05._INFORME_No_GADMFO-DAPA-NC-2024-023-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "08._INFORME_No_GADMFO-DAPA-NC-2024-036-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "09._INFORME_No_GADMFO-DAPA-NC-2024-043-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "10._INFORME_No_GADMFO-DAPA-NC-2024-047-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "11._INFORME_No_GADMFO-DAPA-NC-2024-049-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "12._INFORME_No_GADMFO-DAPA-NC-2025-001-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "permiso_funcionamiento_2024.pdf",
+            "url": null
+          },
+          {
+            "texto": "07._INFORME_No_GADMFO-DAPA-NC-2024-033-signed.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2023"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "09._INFORME_No_GADMFO-DAPA-NC-2023-041-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "01._INFORME_No_GADMFO-DAPA-LABO-NC-2023-007-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "03._INFORME_No_GADMFO-DAPA-LABO-NC-2023-015-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "04._INFORME_No_GADMFO-DAPA-LABO-NC-2023-020.pdf",
+            "url": null
+          },
+          {
+            "texto": "05._INFORME_No_GADMFO-DAPA-LABO-NC-2023-021-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "permiso_funcionamiento_2023.pdf",
+            "url": null
+          },
+          {
+            "texto": "06._INFORME_No_GADMFO-DAPA-LABO-NC-2023-025-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "07._INFORME_No_GADMFO-DAPA-LABO-NC-2023-033-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "08._INFORME_No_GADMFO-DAPA-LABO-NC-2023-040-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "10._INFORME_No_GADMFO-DAPA-NC-2023-044-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "11._INFORME_No_GADMFO-DAPA-NC-2023-046-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "12._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "02._INFORME_No_GADMFO-DAPA-LABO-NC-2023-014-signed.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2022"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "12._INFORME_No_GADMFO-DAPA-LABO-NC-2023-004-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "11._INFORME_No_GADMFO-DAPA-LABO-NC-2022-089-signed.pdf",
+            "url": null
+          },
+          {
+            "texto": "01._INFORME_No004-GADMFO-DAPA-LABO-LM-2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "02._INFORME_No009-GADMFO-DAPA-LABO-LM-2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "03._INFORME_No012-GADMFO-DAPA-LABO-LM-2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "04._INFORME_No018-GADMFO-DAPA-LABO-LM-2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "06._INFORME_No047-GADMFO-DAPA-LABO-NS-2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "07._INFORME_No058-GADMFO-DAPA-LABO-NS-2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "09._INFORME_No_GADMFO-DAPA-LABO-NC-2022-077.pdf",
+            "url": null
+          },
+          {
+            "texto": "permiso_funcionamiento_2022.pdf",
+            "url": null
+          },
+          {
+            "texto": "10._INFORME_No_GADMFO-DAPA-LABO-NC-2022-080-signed.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2021"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "01._INFORME_No._11-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "02._INFORME_No._023-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "03._INFORME_No._026-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "04._INFORME_No._031-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "05._INFORME_No._036-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "07._INFORME_No._048-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "08._INFORME_No._140-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "09._INFORME_No._146-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "10._INFORME_No._150-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "11._INFORME_No._155-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "12._INFORME_No._001-GADMFO-DAPA-LABO-LM-2022.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2020"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "permiso_funcionamiento_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "2._Febrero_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "1._Enero_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "3._Marzo_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "4._Abril_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "5._Mayo_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "6._Junio_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "7._Julio_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "8._Agosto_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "9._Septiembre_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "10._Octubre_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "11._Noviembre_2020.pdf",
+            "url": null
+          },
+          {
+            "texto": "12._Diciembre_2020.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2019"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf",
+            "url": null
+          },
+          {
+            "texto": "permiso_funcionamiento_2019.pdf",
+            "url": null
+          },
+          {
+            "texto": "2019_y_2020_no_se_realizaron_contrataciones_por_la_pandemia_de_COVID.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2018"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "permiso_funcionamiento_2018.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2017"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Conglomerado_Analisis_Laboratorio_2017.pdf",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "ANÁLISIS DE LA CALIDAD DEL AGUA 2016"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Informe_de_calidad_ano_2016may_jun_jul_ago_sep_oct_nov_dic.pdf",
+            "url": null
+          },
+          {
+            "texto": "permiso_funcionamiento_2016.pdf",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "texto": "Estudios de calidad del servicio de Agua Potable\n\nEl GADM Francisco de Orellana provee del servicio de agua potable en el terrotorio cantonal, en este espacio usted puede evidenciar la calidad del líquido vital que estamos produciendo diariamente a través de la planta \"Los Álamos\"\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2025\n\npermiso_funcionamiento_2025.pdf. 01._INFORME_No_GADMFO-DAPA-NC-2025-011-signed.pdf. 02._INFORME_No_GADMFO-DAPA-NC-2025-018-signed.pdf. 03._INFORME_No_GADMFO-DAPA-NC-2025-020-signed.pdf. 04._INFORME_No_GADMFO-DAPA-NC-2025-021-signed.pdf. 05._INFORME_No_GADMFO-DAPA-NC-2025-039-signed.pdf. 06._INFORME_No_GADMFO-DAPA-NC-2025-041-signed.pdf. 07._INFORME_No_GADMFO-DAPA-NC-2025-042-signed.pdf. 08._INFORME_No_GADMFO-DAPA-NC-2025-043-signed.pdf. 05._INFORME_No043-GADMFO-DAPA-LABO-LM-2022.pdf. 08._INFORME_No_GADMFO-DAPA-LABO-NC-2022-069.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2024\n\n06._INFORME_No_GADMFO-DAPA-NC-2024-028-signed.pdf. 01._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf. 02._INFORME_No_GADMFO-DAPA-NC-2024-013-signed.pdf. 03._INFORME_No_GADMFO-DAPA-NC-2024-016-signed.pdf. 04._INFORME_No_GADMFO-DAPA-NC-2024-019-signed.pdf. 05._INFORME_No_GADMFO-DAPA-NC-2024-023-signed.pdf. 08._INFORME_No_GADMFO-DAPA-NC-2024-036-signed.pdf. 09._INFORME_No_GADMFO-DAPA-NC-2024-043-signed.pdf. 10._INFORME_No_GADMFO-DAPA-NC-2024-047-signed.pdf. 11._INFORME_No_GADMFO-DAPA-NC-2024-049-signed.pdf. 12._INFORME_No_GADMFO-DAPA-NC-2025-001-signed.pdf. permiso_funcionamiento_2024.pdf. 07._INFORME_No_GADMFO-DAPA-NC-2024-033-signed.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2023\n\n09._INFORME_No_GADMFO-DAPA-NC-2023-041-signed.pdf. 01._INFORME_No_GADMFO-DAPA-LABO-NC-2023-007-signed.pdf. 03._INFORME_No_GADMFO-DAPA-LABO-NC-2023-015-signed.pdf. 04._INFORME_No_GADMFO-DAPA-LABO-NC-2023-020.pdf. 05._INFORME_No_GADMFO-DAPA-LABO-NC-2023-021-signed.pdf. permiso_funcionamiento_2023.pdf. 06._INFORME_No_GADMFO-DAPA-LABO-NC-2023-025-signed.pdf. 07._INFORME_No_GADMFO-DAPA-LABO-NC-2023-033-signed.pdf. 08._INFORME_No_GADMFO-DAPA-LABO-NC-2023-040-signed.pdf. 10._INFORME_No_GADMFO-DAPA-NC-2023-044-signed.pdf. 11._INFORME_No_GADMFO-DAPA-NC-2023-046-signed.pdf. 12._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf. 02._INFORME_No_GADMFO-DAPA-LABO-NC-2023-014-signed.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2022\n\n12._INFORME_No_GADMFO-DAPA-LABO-NC-2023-004-signed.pdf. 11._INFORME_No_GADMFO-DAPA-LABO-NC-2022-089-signed.pdf. 01._INFORME_No004-GADMFO-DAPA-LABO-LM-2022.pdf. 02._INFORME_No009-GADMFO-DAPA-LABO-LM-2022.pdf. 03._INFORME_No012-GADMFO-DAPA-LABO-LM-2022.pdf. 04._INFORME_No018-GADMFO-DAPA-LABO-LM-2022.pdf. 06._INFORME_No047-GADMFO-DAPA-LABO-NS-2022.pdf. 07._INFORME_No058-GADMFO-DAPA-LABO-NS-2022.pdf. 09._INFORME_No_GADMFO-DAPA-LABO-NC-2022-077.pdf. permiso_funcionamiento_2022.pdf. 10._INFORME_No_GADMFO-DAPA-LABO-NC-2022-080-signed.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2021\n\n01._INFORME_No._11-GADMFO-DAPA-LABO-LM-2021.pdf. 02._INFORME_No._023-GADMFO-DAPA-LABO-LM-2021.pdf. 03._INFORME_No._026-GADMFO-DAPA-LABO-LM-2021.pdf. 04._INFORME_No._031-GADMFO-DAPA-LABO-LM-2021.pdf. 05._INFORME_No._036-GADMFO-DAPA-LABO-LM-2021.pdf. 06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf. 07._INFORME_No._048-GADMFO-DAPA-LABO-LM-2021.pdf. 08._INFORME_No._140-GADMFO-DAPA-LABO-LM-2021.pdf. 09._INFORME_No._146-GADMFO-DAPA-LABO-LM-2021.pdf. 10._INFORME_No._150-GADMFO-DAPA-LABO-LM-2021.pdf. 11._INFORME_No._155-GADMFO-DAPA-LABO-LM-2021.pdf. 12._INFORME_No._001-GADMFO-DAPA-LABO-LM-2022.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2020\n\npermiso_funcionamiento_2020.pdf. 2._Febrero_2020.pdf. 1._Enero_2020.pdf. 3._Marzo_2020.pdf. 4._Abril_2020.pdf. 5._Mayo_2020.pdf. 6._Junio_2020.pdf. 7._Julio_2020.pdf. 8._Agosto_2020.pdf. 9._Septiembre_2020.pdf. 10._Octubre_2020.pdf. 11._Noviembre_2020.pdf. 12._Diciembre_2020.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2019\n\n06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf. permiso_funcionamiento_2019.pdf. 2019_y_2020_no_se_realizaron_contrataciones_por_la_pandemia_de_COVID.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2018\n\npermiso_funcionamiento_2018.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2017\n\nConglomerado_Analisis_Laboratorio_2017.pdf\n\nANÁLISIS DE LA CALIDAD DEL AGUA 2016\n\nInforme_de_calidad_ano_2016may_jun_jul_ago_sep_oct_nov_dic.pdf. permiso_funcionamiento_2016.pdf",
+    "imagenes": [],
+    "documentos": [
+      {
+        "nombre": "permiso_funcionamiento_2025.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/permiso_funcionamiento_2025.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "01._INFORME_No_GADMFO-DAPA-NC-2025-011-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/01._INFORME_No_GADMFO-DAPA-NC-2025-011-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "02._INFORME_No_GADMFO-DAPA-NC-2025-018-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/02._INFORME_No_GADMFO-DAPA-NC-2025-018-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "03._INFORME_No_GADMFO-DAPA-NC-2025-020-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/03._INFORME_No_GADMFO-DAPA-NC-2025-020-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "04._INFORME_No_GADMFO-DAPA-NC-2025-021-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/04._INFORME_No_GADMFO-DAPA-NC-2025-021-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "05._INFORME_No_GADMFO-DAPA-NC-2025-039-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/05._INFORME_No_GADMFO-DAPA-NC-2025-039-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "06._INFORME_No_GADMFO-DAPA-NC-2025-041-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/06._INFORME_No_GADMFO-DAPA-NC-2025-041-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "07._INFORME_No_GADMFO-DAPA-NC-2025-042-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/07._INFORME_No_GADMFO-DAPA-NC-2025-042-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "08._INFORME_No_GADMFO-DAPA-NC-2025-043-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/08._INFORME_No_GADMFO-DAPA-NC-2025-043-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "05._INFORME_No043-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/05._INFORME_No043-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "08._INFORME_No_GADMFO-DAPA-LABO-NC-2022-069.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2025/08._INFORME_No_GADMFO-DAPA-LABO-NC-2022-069.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "06._INFORME_No_GADMFO-DAPA-NC-2024-028-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/06._INFORME_No_GADMFO-DAPA-NC-2024-028-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "01._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/01._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "02._INFORME_No_GADMFO-DAPA-NC-2024-013-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/02._INFORME_No_GADMFO-DAPA-NC-2024-013-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "03._INFORME_No_GADMFO-DAPA-NC-2024-016-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/03._INFORME_No_GADMFO-DAPA-NC-2024-016-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "04._INFORME_No_GADMFO-DAPA-NC-2024-019-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/04._INFORME_No_GADMFO-DAPA-NC-2024-019-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "05._INFORME_No_GADMFO-DAPA-NC-2024-023-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/05._INFORME_No_GADMFO-DAPA-NC-2024-023-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "08._INFORME_No_GADMFO-DAPA-NC-2024-036-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/08._INFORME_No_GADMFO-DAPA-NC-2024-036-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "09._INFORME_No_GADMFO-DAPA-NC-2024-043-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/09._INFORME_No_GADMFO-DAPA-NC-2024-043-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "10._INFORME_No_GADMFO-DAPA-NC-2024-047-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/10._INFORME_No_GADMFO-DAPA-NC-2024-047-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "11._INFORME_No_GADMFO-DAPA-NC-2024-049-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/11._INFORME_No_GADMFO-DAPA-NC-2024-049-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "12._INFORME_No_GADMFO-DAPA-NC-2025-001-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/12._INFORME_No_GADMFO-DAPA-NC-2025-001-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "permiso_funcionamiento_2024.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/permiso_funcionamiento_2024.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "07._INFORME_No_GADMFO-DAPA-NC-2024-033-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2024/07._INFORME_No_GADMFO-DAPA-NC-2024-033-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "09._INFORME_No_GADMFO-DAPA-NC-2023-041-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/09._INFORME_No_GADMFO-DAPA-NC-2023-041-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "01._INFORME_No_GADMFO-DAPA-LABO-NC-2023-007-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/01._INFORME_No_GADMFO-DAPA-LABO-NC-2023-007-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "03._INFORME_No_GADMFO-DAPA-LABO-NC-2023-015-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/03._INFORME_No_GADMFO-DAPA-LABO-NC-2023-015-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "04._INFORME_No_GADMFO-DAPA-LABO-NC-2023-020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/04._INFORME_No_GADMFO-DAPA-LABO-NC-2023-020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "05._INFORME_No_GADMFO-DAPA-LABO-NC-2023-021-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/05._INFORME_No_GADMFO-DAPA-LABO-NC-2023-021-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "permiso_funcionamiento_2023.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/permiso_funcionamiento_2023.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "06._INFORME_No_GADMFO-DAPA-LABO-NC-2023-025-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/06._INFORME_No_GADMFO-DAPA-LABO-NC-2023-025-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "07._INFORME_No_GADMFO-DAPA-LABO-NC-2023-033-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/07._INFORME_No_GADMFO-DAPA-LABO-NC-2023-033-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "08._INFORME_No_GADMFO-DAPA-LABO-NC-2023-040-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/08._INFORME_No_GADMFO-DAPA-LABO-NC-2023-040-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "10._INFORME_No_GADMFO-DAPA-NC-2023-044-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/10._INFORME_No_GADMFO-DAPA-NC-2023-044-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "11._INFORME_No_GADMFO-DAPA-NC-2023-046-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/11._INFORME_No_GADMFO-DAPA-NC-2023-046-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "12._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/12._INFORME_No_GADMFO-DAPA-NC-2024-001-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "02._INFORME_No_GADMFO-DAPA-LABO-NC-2023-014-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2023/02._INFORME_No_GADMFO-DAPA-LABO-NC-2023-014-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "12._INFORME_No_GADMFO-DAPA-LABO-NC-2023-004-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/12._INFORME_No_GADMFO-DAPA-LABO-NC-2023-004-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "11._INFORME_No_GADMFO-DAPA-LABO-NC-2022-089-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/11._INFORME_No_GADMFO-DAPA-LABO-NC-2022-089-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "01._INFORME_No004-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/01._INFORME_No004-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "02._INFORME_No009-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/02._INFORME_No009-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "03._INFORME_No012-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/03._INFORME_No012-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "04._INFORME_No018-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/04._INFORME_No018-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "06._INFORME_No047-GADMFO-DAPA-LABO-NS-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/06._INFORME_No047-GADMFO-DAPA-LABO-NS-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "07._INFORME_No058-GADMFO-DAPA-LABO-NS-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/07._INFORME_No058-GADMFO-DAPA-LABO-NS-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "09._INFORME_No_GADMFO-DAPA-LABO-NC-2022-077.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/09._INFORME_No_GADMFO-DAPA-LABO-NC-2022-077.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "permiso_funcionamiento_2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/permiso_funcionamiento_2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "10._INFORME_No_GADMFO-DAPA-LABO-NC-2022-080-signed.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2022/10._INFORME_No_GADMFO-DAPA-LABO-NC-2022-080-signed.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "01._INFORME_No._11-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/01._INFORME_No._11-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "02._INFORME_No._023-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/02._INFORME_No._023-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "03._INFORME_No._026-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/03._INFORME_No._026-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "04._INFORME_No._031-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/04._INFORME_No._031-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "05._INFORME_No._036-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/05._INFORME_No._036-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "07._INFORME_No._048-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/07._INFORME_No._048-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "08._INFORME_No._140-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/08._INFORME_No._140-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "09._INFORME_No._146-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/09._INFORME_No._146-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "10._INFORME_No._150-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/10._INFORME_No._150-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "11._INFORME_No._155-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/11._INFORME_No._155-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "12._INFORME_No._001-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2021/12._INFORME_No._001-GADMFO-DAPA-LABO-LM-2022.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "permiso_funcionamiento_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/permiso_funcionamiento_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "2._Febrero_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/2._Febrero_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "1._Enero_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/1._Enero_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "3._Marzo_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/3._Marzo_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "4._Abril_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/4._Abril_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "5._Mayo_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/5._Mayo_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "6._Junio_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/6._Junio_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "7._Julio_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/7._Julio_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "8._Agosto_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/8._Agosto_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "9._Septiembre_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/9._Septiembre_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "10._Octubre_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/10._Octubre_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "11._Noviembre_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/11._Noviembre_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "12._Diciembre_2020.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2020/12._Diciembre_2020.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2019/06._INFORME_No._040-GADMFO-DAPA-LABO-LM-2021.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "permiso_funcionamiento_2019.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2019/permiso_funcionamiento_2019.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "2019_y_2020_no_se_realizaron_contrataciones_por_la_pandemia_de_COVID.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2019/2019_y_2020_no_se_realizaron_contrataciones_por_la_pandemia_de_COVID.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "permiso_funcionamiento_2018.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2018/permiso_funcionamiento_2018.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "Conglomerado_Analisis_Laboratorio_2017.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2017/Conglomerado_Analisis_Laboratorio_2017.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "Informe_de_calidad_ano_2016may_jun_jul_ago_sep_oct_nov_dic.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2016/Informe_de_calidad_ano_2016may_jun_jul_ago_sep_oct_nov_dic.pdf",
+        "tipo": "pdf"
+      },
+      {
+        "nombre": "permiso_funcionamiento_2016.pdf",
+        "url": "https://orellana.gob.ec/media/archivos/Calidad_agua/2016/permiso_funcionamiento_2016.pdf",
+        "tipo": "pdf"
+      }
+    ],
+    "fuente_url": "https://orellana.gob.ec/calidad_agua/"
+  }
+}

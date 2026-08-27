@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 69,
+    "slug": "alcaldia-coloca-la-primera-piedra-del-sistema-de-agua-potable-la-delicia-69",
+    "titulo": "Alcaldía coloca la primera piedra del sistema de agua potable La Delicia",
+    "resumen": "Alcaldía, liderada por Shirma Cortés Sanmiguel, en coordinación con la Secretaría Técnica del Consejo de Planificación Amazónica, dio inicio a una de las obras más esperadas",
+    "fecha": "2025-04-21",
+    "imagen": {
+      "id": "6fdbe46e6b07d276",
+      "hash": "6fdbe46e6b07d276ec433acf1b01366b8ba8da16cd0dc0ce6ab9517d9316df29",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2163.JPG",
+      "rutaOriginal": "/media/originales/6fdbe46e6b07d276.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/6fdbe46e6b07d276-400.webp",
+        "800w": "/media/derivados/6fdbe46e6b07d276-800.webp",
+        "1600w": "/media/derivados/6fdbe46e6b07d276-1600.webp"
+      },
+      "ancho": 3472,
+      "alto": 2320,
+      "bytes": 2883901,
+      "alt": "Alcaldía coloca la primera piedra del sistema de agua potable La Delicia",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/69/",
+    "fuente_url": "https://orellana.gob.ec/noticia/69/",
+    "cuerpo": "“Cuando no hay agua, nuestras guaguas toman agua sucia, les da diarrea, fiebre; y ahora que ya viene el proyecto de agua potable, será mucho mejor y tendremos salud buena y gracias por la obra”. \nAsí lo expresó María Grefa, vecina de La Delicia, con emoción contenida. Sus palabras reflejan lo que durante años fue la realidad de su comunidad: vivir sin acceso a agua segura.\nEsa realidad empieza a cambiar. Con la colocación de la primera piedra del sistema de agua potable, la Alcaldía, liderada por Shirma Cortés Sanmiguel, en coordinación con la Secretaría Técnica del Consejo de Planificación Amazónica, dio inicio a una de las obras más esperadas por las comunidades de La Delicia, Ayuruno, Cavernas de Jumandy y Manguilla de los Omaguas, pertenecientes a la parroquia La Belleza, “Hemos luchado por muchos años, pero no habían resultados, gracias a la gestión de la alcaldesa Shirma Cortés, ahora sí estamos comenzando los trabajos”. Mariano Tapay, presidente de la Junta de Agua.\n“El día de hoy es un orgullo y una felicidad grande que tenemos entre todos los vecinos de que vamos a tener el agua en casa”. Yuly Illanes, moradora de La Delicia.\n“Nosotros los que estamos al frente de las carteras de estado, con justo derecho debemos trabajar para que este tipo de obras retornen con los recursos amazónicos de manera eficiente, ágil y oportuna”. Luis Huilcapi, ministro de la Amazonía.\nLa obra contempla una infraestructura moderna, diseñada con estándares técnicos de calidad y sostenibilidad para garantizar agua limpia las 24 horas del día. La inversión total es de 2,928,003.99 dólares del Fondo Común Amazónico. Un proyecto de esta magnitud no solo transforma el entorno: salva vidas, cuida la salud y devuelve la dignidad a más de 200 familias, asegura Shirma Cortés, alcaldesa de Francisco de Orellana, “Por fin ha llegado el día crucial que es la colocación de la primera piedra de esta importante obra, queridos moradores este trascendental proyecto es de ustedes y para ustedes y sépanlo cuidar para que perdure con el tiempo”. \nEste proyecto no habría sido posible sin la firme voluntad política y el compromiso humano de Shirma Cortés Sanmiguel. Su gestión cercana, sensible y decidida ha sido clave para hacer realidad un derecho básico: el acceso al agua potable. Hoy, las comunidades de La Belleza tienen motivos para celebrar y mirar el futuro con más esperanza. JG.",
+    "imagenes": [
+      {
+        "id": "6fdbe46e6b07d276",
+        "hash": "6fdbe46e6b07d276ec433acf1b01366b8ba8da16cd0dc0ce6ab9517d9316df29",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2163.JPG",
+        "rutaOriginal": "/media/originales/6fdbe46e6b07d276.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6fdbe46e6b07d276-400.webp",
+          "800w": "/media/derivados/6fdbe46e6b07d276-800.webp",
+          "1600w": "/media/derivados/6fdbe46e6b07d276-1600.webp"
+        },
+        "ancho": 3472,
+        "alto": 2320,
+        "bytes": 2883901,
+        "alt": "Alcaldía coloca la primera piedra del sistema de agua potable La Delicia",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 264,
+    "slug": "alcaldia-fortalece-la-seguridad-vial-con-senalizacion-horizontal-en-la-via-coca-264",
+    "titulo": "Alcaldía fortalece la seguridad vial con señalización horizontal en la vía Coca-Loreto",
+    "resumen": "La seguridad vial es una prioridad en la gestión de la Alcaldía, liderada por Shirma Cortés Sanmiguel, quien impulsa acciones orientadas a fortalecer una movilidad segura y reducir riesgos para conductores y peatones. Por lo que, personal municipal r",
+    "fecha": "2026-03-10",
+    "imagen": {
+      "id": "87d5ef5b83712c73",
+      "hash": "87d5ef5b83712c732a9364d07c10bf9e42a02b507793220a45841464f1540bc0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_1_IMG0138.JPG",
+      "rutaOriginal": "/media/originales/87d5ef5b83712c73.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/87d5ef5b83712c73-400.webp",
+        "800w": "/media/derivados/87d5ef5b83712c73-800.webp",
+        "1600w": "/media/derivados/87d5ef5b83712c73-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 6661231,
+      "alt": "Alcaldía fortalece la seguridad vial con señalización horizontal en la vía Coca-Loreto",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/264/",
+    "fuente_url": "https://orellana.gob.ec/noticia/264/",
+    "cuerpo": "La seguridad vial es una prioridad en la gestión de la Alcaldía, liderada por Shirma Cortés Sanmiguel, quien impulsa acciones orientadas a fortalecer una movilidad segura y reducir riesgos para conductores y peatones. Por lo que, personal municipal realiza la señalización horizontal con pintura de alto tráfico en aproximadamente 600 metros lineales de simulación de parterres y bahías de la vía que conecta El Coca con Loreto, “Es un buen trabajo que ejecuta la alcaldía, porque así evitamos accidentes de tránsito, siempre y cuando la ciudadanía colabore,” recuerda Manuel Pérez, con su opinión ciudadana. \nLa intervención contempla criterios técnicos que permiten ordenar de mejor manera la circulación en esta avenida de cuatro carriles, delimitando claramente los espacios de tránsito vehicular y peatonal, “Qué bueno que se le dé prioridad al peatón con las señales de tránsito en las vías; hay que considerar que la mayoría no tenemos una buena educación vial; entonces estos trabajos ayudan a orientar mejor a la ciudadanía.” opina la ciudadana Carolina Riesgos. \nCon esta actividad se busca disminuir maniobras riesgosas y prevenir accidentes, aportando a una movilidad más segura para la ciudadanía y consolidando el compromiso municipal con el bienestar y la planificación urbana de la ciudad. DV.",
+    "imagenes": [
+      {
+        "id": "87d5ef5b83712c73",
+        "hash": "87d5ef5b83712c732a9364d07c10bf9e42a02b507793220a45841464f1540bc0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_1_IMG0138.JPG",
+        "rutaOriginal": "/media/originales/87d5ef5b83712c73.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/87d5ef5b83712c73-400.webp",
+          "800w": "/media/derivados/87d5ef5b83712c73-800.webp",
+          "1600w": "/media/derivados/87d5ef5b83712c73-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 6661231,
+        "alt": "Alcaldía fortalece la seguridad vial con señalización horizontal en la vía Coca-Loreto",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

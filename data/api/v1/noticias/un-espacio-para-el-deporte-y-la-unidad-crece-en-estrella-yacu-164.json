@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 164,
+    "slug": "un-espacio-para-el-deporte-y-la-unidad-crece-en-estrella-yacu-164",
+    "titulo": "Un espacio para el deporte y la unidad crece en Estrella Yacu",
+    "resumen": "“Este sector era pura selva, ahora estamos muy agradecidos como moradores de la comunidad por esta obra que la alcaldesa nos está colaborando y nosotros como moradores debemos valorar este tipo de proyectos.”",
+    "fecha": "2025-09-17",
+    "imagen": {
+      "id": "ee65533e6c1d4256",
+      "hash": "ee65533e6c1d4256028ce710733981a9124e8c89562825b3151b6325c41cef58",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG5947.JPG",
+      "rutaOriginal": "/media/originales/ee65533e6c1d4256.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ee65533e6c1d4256-400.webp",
+        "800w": "/media/derivados/ee65533e6c1d4256-800.webp",
+        "1600w": "/media/derivados/ee65533e6c1d4256-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8263513,
+      "alt": "Un espacio para el deporte y la unidad crece en Estrella Yacu",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/164/",
+    "fuente_url": "https://orellana.gob.ec/noticia/164/",
+    "cuerpo": "“Este sector era pura selva, ahora estamos muy agradecidos como moradores de la comunidad por esta obra que la alcaldesa nos está colaborando y nosotros como moradores debemos valorar este tipo de proyectos.” \nEste es el sentir de Vladimir Huatatoca, morador de Estrella Yacu al ver que a paso firme avanza la construcción de la moderna cancha cubierta integral que ejecuta la Alcaldía, en un espacio de 840 metros cuadrados que permitirá desarrollar encuentros deportivos, culturales y sociales en condiciones seguras y adecuadas, “A nuestra alcaldesa Shirma Cortés, quiero agradecerle por el futuro de nuestros hijos y nietos que vendrán, les va a servir mucho el espacio público y es un adelanto para nuestra comunidad.” Moisés Noteno, obrero del sector.\nCon una inversión de USD 199.047,77, la municipalidad ha priorizado la mano de obra local, generando fuentes de trabajo y dinamizando la economía del sector; asimismo, se verifica que la obra cumpla con todas las especificaciones técnicas que se determinan en el contrato, “Nosotros verificamos que todos los materiales sean de calidad, todo está conforme a las especificaciones técnicas, cada una de los detalles de trabajos se ha ido supervisando para que la obra salga lo más óptimo posible”. Willington Enríquez, fiscalizador de la obra.\nCon responsabilidad, compromiso y visión de futuro, la Alcaldía que dirige Shirma Cortés Sanmiguel ratifica su compromiso con la ciudadanía en “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "ee65533e6c1d4256",
+        "hash": "ee65533e6c1d4256028ce710733981a9124e8c89562825b3151b6325c41cef58",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG5947.JPG",
+        "rutaOriginal": "/media/originales/ee65533e6c1d4256.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ee65533e6c1d4256-400.webp",
+          "800w": "/media/derivados/ee65533e6c1d4256-800.webp",
+          "1600w": "/media/derivados/ee65533e6c1d4256-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8263513,
+        "alt": "Un espacio para el deporte y la unidad crece en Estrella Yacu",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

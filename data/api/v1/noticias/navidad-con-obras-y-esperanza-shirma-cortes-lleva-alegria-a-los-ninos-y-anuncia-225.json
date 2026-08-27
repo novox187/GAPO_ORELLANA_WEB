@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 225,
+    "slug": "navidad-con-obras-y-esperanza-shirma-cortes-lleva-alegria-a-los-ninos-y-anuncia-225",
+    "titulo": "Navidad con obras y esperanza: Shirma Cortés lleva alegría a los niños y anuncia proyectos que transforman el cantón",
+    "resumen": "Con cercanía, sensibilidad social y vocación de servicio, la alcaldesa Shirma Cortés Sanmiguel recorrió parroquias, comunidades y barrios del cantón para llevar el verdadero espíritu de la Navidad a los niños y niñas, compartiendo momentos de alegría",
+    "fecha": "2025-12-26",
+    "imagen": {
+      "id": "d86625b6b1157e42",
+      "hash": "d86625b6b1157e42e74db474792b266e8bdfa13ff649a7f18f2d26733dbd5c0c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_Y69SPjG.JPG",
+      "rutaOriginal": "/media/originales/d86625b6b1157e42.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d86625b6b1157e42-400.webp",
+        "800w": "/media/derivados/d86625b6b1157e42-800.webp",
+        "1600w": "/media/derivados/d86625b6b1157e42-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9602558,
+      "alt": "Navidad con obras y esperanza: Shirma Cortés lleva alegría a los niños y anuncia proyectos que transforman el cantón",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+    },
+    "url": "/noticia/225/",
+    "fuente_url": "https://orellana.gob.ec/noticia/225/",
+    "cuerpo": "Con cercanía, sensibilidad social y vocación de servicio, la alcaldesa Shirma Cortés Sanmiguel recorrió parroquias, comunidades y barrios del cantón para llevar el verdadero espíritu de la Navidad a los niños y niñas, compartiendo momentos de alegría junto a sus padres y entregando aguinaldos que iluminaron sonrisas y esperanzas, “Son detalles pequeños que engrandecen a cada uno de los niños y a las familias de nuestro sector El Rancho, estamos muy agradecidos por su presencia.” Luz García, opinión ciudadana.\n“Un agradecimiento especial y que Dios la bendiga para que siga trabajando de esa forma, cumpliendo con una labor especial.” Víctor Terreros, opinión ciudadana.\nEste recorrido navideño también fue escenario de anuncios que reflejan una administración con visión de futuro. En el barrio 24 de Mayo, la alcaldesa anunció la remodelación de la cancha cubierta, una obra que fortalecerá los espacios de recreación, integración y desarrollo comunitario. Asimismo, en la parroquia San José de Guayusa, informó que en el año 2026 se construirá la nueva infraestructura integral del CDI El Edén, “Al momento tenemos una infraestructura que no está adecuada, no cumple con las especificaciones técnicas para dar esa atención integral de los tres primeros años de nuestros niños de la parroquia San José de Guayusa; nosotros como municipalidad y muy responsables en la atención de nuestros niños se ha dejado ya en el presupuesto del 2026 más de USD. 200.000.00 para la construcción del nuevo CDI El Edén, donde va a cumplir con todas las especificaciones y normativas técnicas.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nEsta Navidad no solo deja regalos, sino anuncios que proyectan desarrollo, inclusión y esperanza para las nuevas generaciones, ratificando un liderazgo que gobierna con el corazón y con responsabilidad. JG.",
+    "imagenes": [
+      {
+        "id": "d86625b6b1157e42",
+        "hash": "d86625b6b1157e42e74db474792b266e8bdfa13ff649a7f18f2d26733dbd5c0c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_Y69SPjG.JPG",
+        "rutaOriginal": "/media/originales/d86625b6b1157e42.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d86625b6b1157e42-400.webp",
+          "800w": "/media/derivados/d86625b6b1157e42-800.webp",
+          "1600w": "/media/derivados/d86625b6b1157e42-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9602558,
+        "alt": "Navidad con obras y esperanza: Shirma Cortés lleva alegría a los niños y anuncia proyectos que transforman el cantón",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      }
+    ]
+  }
+}

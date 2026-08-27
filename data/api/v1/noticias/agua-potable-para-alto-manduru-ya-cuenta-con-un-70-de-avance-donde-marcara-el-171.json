@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 171,
+    "slug": "agua-potable-para-alto-manduru-ya-cuenta-con-un-70-de-avance-donde-marcara-el-171",
+    "titulo": "Agua potable para Alto Manduru ya cuenta con un 70% de avance, donde marcará el futuro de miles de habitantes",
+    "resumen": "La La Alcaldía que lidera Shirma Cortés Sanmiguel avanza a paso firme en la construcción del sistema de agua potable para Alto Manduru, en la parroquia San Luis de Armenia. Esta obra, que registra ya un 70% de ejecución, representa un hito en la vida",
+    "fecha": "2025-10-01",
+    "imagen": {
+      "id": "60259805f46be4a6",
+      "hash": "60259805f46be4a6618a88e374a8b3dd4a5e575f2a81808fc2d1bca9394edeaf",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.JPG",
+      "rutaOriginal": "/media/originales/60259805f46be4a6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/60259805f46be4a6-400.webp",
+        "800w": "/media/derivados/60259805f46be4a6-800.webp",
+        "1600w": "/media/derivados/60259805f46be4a6-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9323331,
+      "alt": "Agua potable para Alto Manduru ya cuenta con un 70% de avance, donde marcará el futuro de miles de habitantes",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/171/",
+    "fuente_url": "https://orellana.gob.ec/noticia/171/",
+    "cuerpo": "La La Alcaldía que lidera Shirma Cortés Sanmiguel avanza a paso firme en la construcción del sistema de agua potable para Alto Manduru, en la parroquia San Luis de Armenia. Esta obra, que registra ya un 70% de ejecución, representa un hito en la vida de más de 1.000 habitantes que por décadas esperaron con anhelo un servicio básico digno y seguro, “Antes los alcaldes que estaban de turno nos decían que nos iban a apoyar, pero nunca lo hicieron; pero, en este año sí nos está apoyando nuestra alcaldesa, porque el agua es muy importante para nuestra salud, es el líquido vital que tendremos todas las familias que vivimos en la comunidad de Alto Manduru.” Rosa Alvarado, moradora de Alto Manduru.\nLa alcaldía y Petroecuador destinaron una inversión de USD. 1.425.364,24 para garantizar transparencia en la edificación y fiscalización del proceso constructivo y que permitan cimentar confianza y progreso en las comunidades rurales, donde el acceso al agua potable es sinónimo de salud, desarrollo y bienestar colectivo, “Me siento muy contento y agradecerle a la alcaldesa, porque con el apoyo de ella tenemos este proyecto que nos va a beneficiar a todos; también nos ha dado la oportunidad de trabajar donde sea que salga otro proyecto.” Ramón Tunqui, morador de Alto Manduru.\nCada avance refleja el liderazgo de una alcaldía que escucha, planifica y cumple, sembrando las bases de un futuro sostenible. Porque cada gota de agua que llegará a los hogares de Alto Manduru es también una muestra de que juntos se construye “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "60259805f46be4a6",
+        "hash": "60259805f46be4a6618a88e374a8b3dd4a5e575f2a81808fc2d1bca9394edeaf",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.JPG",
+        "rutaOriginal": "/media/originales/60259805f46be4a6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/60259805f46be4a6-400.webp",
+          "800w": "/media/derivados/60259805f46be4a6-800.webp",
+          "1600w": "/media/derivados/60259805f46be4a6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9323331,
+        "alt": "Agua potable para Alto Manduru ya cuenta con un 70% de avance, donde marcará el futuro de miles de habitantes",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

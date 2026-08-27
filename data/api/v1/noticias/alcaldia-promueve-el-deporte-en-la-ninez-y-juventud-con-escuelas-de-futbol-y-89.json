@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 89,
+    "slug": "alcaldia-promueve-el-deporte-en-la-ninez-y-juventud-con-escuelas-de-futbol-y-89",
+    "titulo": "Alcaldía promueve el deporte en la niñez y juventud con escuelas de fútbol y básquet",
+    "resumen": "Con la finalidad de brindar espacios de sano esparcimiento y recreación para el beneficio de niños, niñas y adolescentes",
+    "fecha": "2025-05-26",
+    "imagen": {
+      "id": "0265d14b9470d845",
+      "hash": "0265d14b9470d845992cc3f6b3f6dab510398952793ea5109c0fba2068a0e4db",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_1_IMG_3661.JPG",
+      "rutaOriginal": "/media/originales/0265d14b9470d845.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/0265d14b9470d845-400.webp",
+        "800w": "/media/derivados/0265d14b9470d845-800.webp",
+        "1600w": "/media/derivados/0265d14b9470d845-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6527380,
+      "alt": "Alcaldía promueve el deporte en la niñez y juventud con escuelas de fútbol y básquet",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/89/",
+    "fuente_url": "https://orellana.gob.ec/noticia/89/",
+    "cuerpo": "Con la finalidad de brindar espacios de sano esparcimiento y recreación para el beneficio de niños, niñas y adolescentes, la Alcaldía de Francisco de Orellana, realiza cursos gratuitos permanentes de fútbol y básquet en las Escuelas Deportivas Municipales, José Perea, jefe de deportes y recreación del GADMFO explica el cuál es el propósito de la alcaldesa Shirma Cortés Sanmiguel, “El objetivo de estas actividades es fomentar las actividades deportivas y recreativas, crear espacios de libre esparcimiento y recreación que van en beneficio de los grupos de atención prioritaria y ciudadanía en general”. \nEstas actividades deportivas cuentan con la participación activa de más de 500 deportistas, y son impartidas por promotores sociales en los barrios y parroquias:\n• Flor de Oriente\n• Los Sauces\n• Paraíso Amazónico\n• Dayuma \n• San José de Guayusa\nLos entrenamientos se desarrollan en horarios matutinos y vespertinos, de lunes a viernes, “Me siento muy bien, porque estamos aprendiendo y nuestro profesor nos hace jugar; también, nos lleva de viaje a compartir con otros deportistas. Quiero agradecer a la alcaldesa por estos cursos que nos está dando para entretenernos sanamente”. Guadalupe Loor, deportista local. \nSi deseas formar parte de nuestra Escuela Deportiva Municipal, acércate con una copia de tu cédula y en compañía de tu representante legal a las oficinas de la Dirección de Desarrollo Social, ubicadas entre las calles avenida 9 de Octubre y Miguel Gamboa.\n¡Súmate al deporte y vive una experiencia llena de aprendizaje, disciplina y diversión! DV.",
+    "imagenes": [
+      {
+        "id": "0265d14b9470d845",
+        "hash": "0265d14b9470d845992cc3f6b3f6dab510398952793ea5109c0fba2068a0e4db",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_1_IMG_3661.JPG",
+        "rutaOriginal": "/media/originales/0265d14b9470d845.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0265d14b9470d845-400.webp",
+          "800w": "/media/derivados/0265d14b9470d845-800.webp",
+          "1600w": "/media/derivados/0265d14b9470d845-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6527380,
+        "alt": "Alcaldía promueve el deporte en la niñez y juventud con escuelas de fútbol y básquet",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

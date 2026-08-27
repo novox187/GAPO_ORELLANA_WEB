@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 283,
+    "slug": "inspeccion-de-contaminantes-en-zanjas-de-guadalupe-larriva-283",
+    "titulo": "Inspección de contaminantes en zanjas de Guadalupe Larriva",
+    "resumen": "Tras una reunión entre representantes del barrio Guadalupe Larriva y la alcaldesa Shirma Cortés Sanmiguel, se realizó una inspección técnica en los sectores 1, 2, 19 de Octubre y Nueva Esperanza,",
+    "fecha": "2026-04-10",
+    "imagen": {
+      "id": "01d296f711460040",
+      "hash": "01d296f71146004062d764442875ec1aa271fce1716e377c18f16d0969f7ce48",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG4303.JPG",
+      "rutaOriginal": "/media/originales/01d296f711460040.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/01d296f711460040-400.webp",
+        "800w": "/media/derivados/01d296f711460040-800.webp",
+        "1600w": "/media/derivados/01d296f711460040-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 9906238,
+      "alt": "Inspección de contaminantes en zanjas de Guadalupe Larriva",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/283/",
+    "fuente_url": "https://orellana.gob.ec/noticia/283/",
+    "cuerpo": "Tras una reunión entre representantes del barrio Guadalupe Larriva y la alcaldesa Shirma Cortés Sanmiguel, se realizó una inspección técnica en los sectores 1, 2, 19 de Octubre y Nueva Esperanza, con el objetivo de verificar posibles focos de contaminación en varias zanjas del sector, “El día martes estuvimos de comisión en el municipio y dialogamos con la señora alcaldesa y los técnicos y comprendieron la situación; por eso, queremos agradecerles, porque dieron una respuesta inmediata a nuestra problemática.” Ana López, presidenta del barrio Guadalupe Larriva. \nDurante el recorrido, se constató la presencia de acumulación de basura, conexiones clandestinas en los drenajes pluviales y vertido de aceites, lo que genera malos olores y riesgos para la salud de la población, “Hacemos un llamado a los vecinos, que por favor cuidemos nuestras zanjas, no poner obstáculos, no poner escombros, porque el bien lo hacemos para todos.” Jonny Chaquinga, morador del barrio Gudalupe Larriva. \nLas autoridades invitan a la ciudadanía a realizar conexiones de forma legal y colocar los desechos en lugares indicados para que no obstaculicen las zanjas. De esta manera, se levantará el informe correspondiente para brindar una solución oportuna a la problemática. DV.",
+    "imagenes": [
+      {
+        "id": "01d296f711460040",
+        "hash": "01d296f71146004062d764442875ec1aa271fce1716e377c18f16d0969f7ce48",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG4303.JPG",
+        "rutaOriginal": "/media/originales/01d296f711460040.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/01d296f711460040-400.webp",
+          "800w": "/media/derivados/01d296f711460040-800.webp",
+          "1600w": "/media/derivados/01d296f711460040-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 9906238,
+        "alt": "Inspección de contaminantes en zanjas de Guadalupe Larriva",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

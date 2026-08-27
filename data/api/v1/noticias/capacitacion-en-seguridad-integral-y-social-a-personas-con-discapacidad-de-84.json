@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 84,
+    "slug": "capacitacion-en-seguridad-integral-y-social-a-personas-con-discapacidad-de-84",
+    "titulo": "Capacitación en seguridad integral y social a personas con discapacidad de Taracoa",
+    "resumen": "Con rostros atentos y corazones dispuestos a aprender, 30 personas con discapacidad participaron en una valiosa jornada de capacitación",
+    "fecha": "2025-05-14",
+    "imagen": {
+      "id": "2d19b2d2d7d97483",
+      "hash": "2d19b2d2d7d97483f2d4fd560450729adde6f641e45932a4e3cd382cc2a8c67d",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG_2659.JPG",
+      "rutaOriginal": "/media/originales/2d19b2d2d7d97483.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/2d19b2d2d7d97483-400.webp",
+        "800w": "/media/derivados/2d19b2d2d7d97483-800.webp",
+        "1600w": "/media/derivados/2d19b2d2d7d97483-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6496531,
+      "alt": "Capacitación en seguridad integral y social a personas con discapacidad de Taracoa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/84/",
+    "fuente_url": "https://orellana.gob.ec/noticia/84/",
+    "cuerpo": "Con rostros atentos y corazones dispuestos a aprender, 30 personas con discapacidad participaron en una valiosa jornada de capacitación sobre seguridad integral y social, organizada por la Alcaldía. Durante la charla, se abordaron temas relacionados con la seguridad ciudadana, pero desde una mirada cercana y participativa, “El objetivo de esta capacitación, es que las personas con discapacidad logren entender las obligaciones que tienen tanto el Unidades de Policía Comunitarias y como la tenencia política en beneficio de las personas con discapacidad”. Carlos Albán, promotor social del GADMFO. \nEste tipo de iniciativas son parte del compromiso firme de la administración municipal, liderada por la alcaldesa Shirma Cortés Sanmiguel, que continúa impulsando programas sociales para los grupos más vulnerables del cantón, “Yo le agradezco a la señora alcaldesa por ese apoyo que nos brinda con estas charlas y nosotros poder tener conocimientos y emplearlos en nuestro diario vivir”. Elvia Armijos, usuaria del proyecto social. \nDesde la Municipalidad se insiste en que “la seguridad la hacemos todos”, y por eso se seguirá trabajando de la mano con la comunidad para construir un cantón más inclusivo, solidario y seguro para todos. DV.",
+    "imagenes": [
+      {
+        "id": "2d19b2d2d7d97483",
+        "hash": "2d19b2d2d7d97483f2d4fd560450729adde6f641e45932a4e3cd382cc2a8c67d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG_2659.JPG",
+        "rutaOriginal": "/media/originales/2d19b2d2d7d97483.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/2d19b2d2d7d97483-400.webp",
+          "800w": "/media/derivados/2d19b2d2d7d97483-800.webp",
+          "1600w": "/media/derivados/2d19b2d2d7d97483-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6496531,
+        "alt": "Capacitación en seguridad integral y social a personas con discapacidad de Taracoa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

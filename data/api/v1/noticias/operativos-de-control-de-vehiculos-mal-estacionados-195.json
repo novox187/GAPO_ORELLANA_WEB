@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 195,
+    "slug": "operativos-de-control-de-vehiculos-mal-estacionados-195",
+    "titulo": "Operativos de control de vehículos mal estacionados",
+    "resumen": "Como parte de la planificación mensual de movilidad, la Alcaldía de Francisco de Orellana, en coordinación con la Policía Nacional del Ecuador, ejecutó un operativo de control vehicular móvil dirigido a vehículos mal estacionados en distintos puntos",
+    "fecha": "2025-11-13",
+    "imagen": {
+      "id": "f72254baf146cb4f",
+      "hash": "f72254baf146cb4f961a8a95fe16ca525e27f9b41e906a7028ff6f2329bfc300",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_rbyAvod.JPG",
+      "rutaOriginal": "/media/originales/f72254baf146cb4f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/f72254baf146cb4f-400.webp",
+        "800w": "/media/derivados/f72254baf146cb4f-800.webp",
+        "1600w": "/media/derivados/f72254baf146cb4f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9813755,
+      "alt": "Operativos de control de vehículos mal estacionados",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+    },
+    "url": "/noticia/195/",
+    "fuente_url": "https://orellana.gob.ec/noticia/195/",
+    "cuerpo": "Como parte de la planificación mensual de movilidad, la Alcaldía de Francisco de Orellana, en coordinación con la Policía Nacional del Ecuador, ejecutó un operativo de control vehicular móvil dirigido a vehículos mal estacionados en distintos puntos estratégicos de la ciudad, entre ellos la calle Quito y César Andy, y el terminal de transferencia, “Se trabaja en conjunto con la Policía Nacional con el objetivo de concientizar, educar a los conductores para el respeto a las señales de tránsito.” Robert Alarcón, funcionario municipal. \n“Está bien que hagan estos trabajos, porque las calles son pequeñas e interrumpen el paso para los carros; igualmente, espero que hagan todos los días los operativos.” Ricardo Apolo, opinión ciudadana. \nDe acuerdo con el Artículo 391, numeral 5 del Código Orgánico Integral Penal (COIP), el mal estacionamiento se sanciona con una multa equivalente al 10% de un Salario Básico Unificado (SBU) y la reducción de tres puntos en la licencia de conducir, “En este momento se está regularizando el tráfico de los vehículos, igualmente se les está dando las recomendaciones necesarias para que no incumplan las leyes de tránsito.” Augusto Cerda, Policía Nacional. \nEl operativo dio como resultado varios conductores sancionados y vehículos retenidos, los cuales fueron trasladados a los patios de la entidad de control.\nLa Municipalidad reafirma su compromiso con el orden, la movilidad y la seguridad vial en beneficio de la ciudadanía de El Coca. DV.",
+    "imagenes": [
+      {
+        "id": "f72254baf146cb4f",
+        "hash": "f72254baf146cb4f961a8a95fe16ca525e27f9b41e906a7028ff6f2329bfc300",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_rbyAvod.JPG",
+        "rutaOriginal": "/media/originales/f72254baf146cb4f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f72254baf146cb4f-400.webp",
+          "800w": "/media/derivados/f72254baf146cb4f-800.webp",
+          "1600w": "/media/derivados/f72254baf146cb4f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9813755,
+        "alt": "Operativos de control de vehículos mal estacionados",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      }
+    ]
+  }
+}

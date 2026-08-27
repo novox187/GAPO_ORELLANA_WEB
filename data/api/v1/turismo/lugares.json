@@ -1,0 +1,846 @@
+{
+  "data": {
+    "slug": "lugares",
+    "seccion": "turismo",
+    "titulo": "Lugares por visitar",
+    "bloques": [
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Supay Kucha"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A 15 minutos de la ciudad de El Coca, en la comunidad Kichwa Yana Rumi. Puedes trasladarte vía fluvial a través de operadoras turísticas."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Supay Kucha que traducido al español significa diablo de la laguna, cuenta con recorridos por senderos de plantas medicinales, gastronomía, danzas ancestrales y más."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Amaru Yaya"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A 15 minutos de la ciudad de El Coca."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Conoce la cultura ancestral y forma de vida de la nacionalidad Kichwa, sus costumbres y tradiciones. \n Podrás aprender como estos habitantes ponen en práctica la caza, el uso de plantas medicinales y demás conocimientos para sobrevivir en la selva."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Yasuní Land"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se encuentra en la Bocana del Río Payamino y Coca, a pocos minutos del centro de la ciudad. Podrás trasladarte vía fluvial hasta este encantador lugar en el que disfrutarás del contacto directo con la naturaleza."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El principal atractivo son los árboles de ceibo cuya altura puede alcanzar los 70 metros y un diámetros de 3 metros ; también podrá subir a por una torres de 30 metros de alto y visualizar el follaje de la amazonía de una manera única e incomparable. \nEl parque cuenta con más de 50 hectáreas en el que se puede observar diferentes especies de plantas, anfibios y reptiles. Comparte esta experiencia junto a los gigantes de la selva."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Isla de los monos"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se encuentra a 45 minutos de la ciudad de El Coca en la isla Sumak Alpa. Este es lugar de conservación."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Población de primates. \nSi eres amante de los animales y la fotografía, podrás conjugar estas dos actividades y disfrutar de un lugar mágico en el que podrás aprender más acerca de estos seres; observando su comportamiento en total libertad. \nEsta isla cuenta con más de 115 hectáreas en las que se puede realizar caminatas por senderos para la observación de los monos y algunas especies de aves. \nEl parque cuenta con más de 50 hectáreas en el que se puede observar diferentes especies de plantas, anfibios y reptiles. Comparte esta experiencia junto a los gigantes de la selva."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Los Tres Ríos"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ríos Napo, Coca y Payamino bordean la ciudad de El Coca."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A bordo de cualquier tipo de transporte fluvial, usted podrá salir desde el puerto de la ciudad y recorrer los tres ríos que conjugan la belleza de la naturaleza con un tiempo de descanso y esparcimiento; una actividad muy común y fija en tu aventura turística."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Coca Zoo"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Kilómetro 9 vía al Auca. Puedes llegar en autobus o vehículo particular."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Conoce la fauna silvestre de más de 50 especies en un recorrido por senderos naturales. Víve una experiencia única y diferente junto a varios animalitos de la zona como la guanta o el tapir."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Reserva Ecológica Yarina"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A 25 kilómetros vía fluvial desde la ciudad de El Coca."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se puede disfrutar de la laguna con paseos en canoa, caminatas por diferentes senderos y disfrutar de la naturaleza con el avistamiento de aves y flora silvestre."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Saladero de los Loros"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Parroquia Alejandro Labaka, Comunidad Kichwa Añangu."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este lugar presta las facilidades para realizar fotografías o videos de los loros, pericos, guacamayos; entre otras especies que llegan hasta el peñasco para alimentarse de los minerales de la tierra. \n¡Una experiencia realmente fascinante!"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Laguna de Añangu"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Parque Nacional Yasuní."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este lugar se encuentra dentro de la zona con mayor biodiversidad del mundo.\n \n Se puede realizar paseos en canoa, observación de aves, flora y varias especies de peces. También podrá hospedarse en uno de los ecolodge con mayor confort de la amazonía, el Napo Wildlife Center."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Ila Kucha"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Ubicación:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ubicada en la parroquia Taracoa, aproximadamente a 30 minutos de la ciudad de El Coca."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Atractivos:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es la laguna más grande del cantón con más de 2 kilómetros de longitud, ofrece una experiencia única por la observación de fauna y flora; además de su agua cristalina que en ciertas horas del día brinda la sensación de convertirse en el espejo del cielo."
+      }
+    ],
+    "texto": "Supay Kucha\n\nUbicación:\n\nA 15 minutos de la ciudad de El Coca, en la comunidad Kichwa Yana Rumi. Puedes trasladarte vía fluvial a través de operadoras turísticas.\n\nAtractivos:\n\nSupay Kucha que traducido al español significa diablo de la laguna, cuenta con recorridos por senderos de plantas medicinales, gastronomía, danzas ancestrales y más.\n\nAmaru Yaya\n\nUbicación:\n\nA 15 minutos de la ciudad de El Coca.\n\nAtractivos:\n\nConoce la cultura ancestral y forma de vida de la nacionalidad Kichwa, sus costumbres y tradiciones. \n Podrás aprender como estos habitantes ponen en práctica la caza, el uso de plantas medicinales y demás conocimientos para sobrevivir en la selva.\n\nYasuní Land\n\nUbicación:\n\nSe encuentra en la Bocana del Río Payamino y Coca, a pocos minutos del centro de la ciudad. Podrás trasladarte vía fluvial hasta este encantador lugar en el que disfrutarás del contacto directo con la naturaleza.\n\nAtractivos:\n\nEl principal atractivo son los árboles de ceibo cuya altura puede alcanzar los 70 metros y un diámetros de 3 metros ; también podrá subir a por una torres de 30 metros de alto y visualizar el follaje de la amazonía de una manera única e incomparable. \nEl parque cuenta con más de 50 hectáreas en el que se puede observar diferentes especies de plantas, anfibios y reptiles. Comparte esta experiencia junto a los gigantes de la selva.\n\nIsla de los monos\n\nUbicación:\n\nSe encuentra a 45 minutos de la ciudad de El Coca en la isla Sumak Alpa. Este es lugar de conservación.\n\nAtractivos:\n\nPoblación de primates. \nSi eres amante de los animales y la fotografía, podrás conjugar estas dos actividades y disfrutar de un lugar mágico en el que podrás aprender más acerca de estos seres; observando su comportamiento en total libertad. \nEsta isla cuenta con más de 115 hectáreas en las que se puede realizar caminatas por senderos para la observación de los monos y algunas especies de aves. \nEl parque cuenta con más de 50 hectáreas en el que se puede observar diferentes especies de plantas, anfibios y reptiles. Comparte esta experiencia junto a los gigantes de la selva.\n\nLos Tres Ríos\n\nUbicación:\n\nLos ríos Napo, Coca y Payamino bordean la ciudad de El Coca.\n\nAtractivos:\n\nA bordo de cualquier tipo de transporte fluvial, usted podrá salir desde el puerto de la ciudad y recorrer los tres ríos que conjugan la belleza de la naturaleza con un tiempo de descanso y esparcimiento; una actividad muy común y fija en tu aventura turística.\n\nCoca Zoo\n\nUbicación:\n\nKilómetro 9 vía al Auca. Puedes llegar en autobus o vehículo particular.\n\nAtractivos:\n\nConoce la fauna silvestre de más de 50 especies en un recorrido por senderos naturales. Víve una experiencia única y diferente junto a varios animalitos de la zona como la guanta o el tapir.\n\nReserva Ecológica Yarina\n\nUbicación:\n\nA 25 kilómetros vía fluvial desde la ciudad de El Coca.\n\nAtractivos:\n\nSe puede disfrutar de la laguna con paseos en canoa, caminatas por diferentes senderos y disfrutar de la naturaleza con el avistamiento de aves y flora silvestre.\n\nSaladero de los Loros\n\nUbicación:\n\nParroquia Alejandro Labaka, Comunidad Kichwa Añangu.\n\nAtractivos:\n\nEste lugar presta las facilidades para realizar fotografías o videos de los loros, pericos, guacamayos; entre otras especies que llegan hasta el peñasco para alimentarse de los minerales de la tierra. \n¡Una experiencia realmente fascinante!\n\nLaguna de Añangu\n\nUbicación:\n\nParque Nacional Yasuní.\n\nAtractivos:\n\nEste lugar se encuentra dentro de la zona con mayor biodiversidad del mundo.\n \n Se puede realizar paseos en canoa, observación de aves, flora y varias especies de peces. También podrá hospedarse en uno de los ecolodge con mayor confort de la amazonía, el Napo Wildlife Center.\n\nIla Kucha\n\nUbicación:\n\nUbicada en la parroquia Taracoa, aproximadamente a 30 minutos de la ciudad de El Coca.\n\nAtractivos:\n\nEs la laguna más grande del cantón con más de 2 kilómetros de longitud, ofrece una experiencia única por la observación de fauna y flora; además de su agua cristalina que en ciertas horas del día brinda la sensación de convertirse en el espejo del cielo.",
+    "imagenes": [
+      {
+        "id": "644ebd3e1a73af2b",
+        "hash": "644ebd3e1a73af2bd0169c0fd1bc3ce1837d3cfc16d5e5198ff1fb73f0d50b16",
+        "urlOriginal": "https://orellana.gob.ec/static/img/lugares-por-visitar.png",
+        "rutaOriginal": "/media/originales/644ebd3e1a73af2b.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/644ebd3e1a73af2b-400.webp",
+          "800w": "/media/derivados/644ebd3e1a73af2b-800.webp",
+          "1600w": "/media/derivados/644ebd3e1a73af2b-1600.webp"
+        },
+        "ancho": 1635,
+        "alto": 229,
+        "bytes": 13431,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "7220d2efca8ee036",
+        "hash": "7220d2efca8ee036e86fd32edd2390df52497cc5401ab0f19e9c004efade3bcf",
+        "urlOriginal": "https://orellana.gob.ec/static/img/amanecer.jpg",
+        "rutaOriginal": "/media/originales/7220d2efca8ee036.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7220d2efca8ee036-400.webp"
+        },
+        "ancho": 781,
+        "alto": 501,
+        "bytes": 84699,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "a63b805f0bbfb39c",
+        "hash": "a63b805f0bbfb39cb4c8ab5898875684f40ba622cb0875e9ac18bb3812f3c213",
+        "urlOriginal": "https://orellana.gob.ec/static/img/atardecer-comunidad-pompeya.jpg",
+        "rutaOriginal": "/media/originales/a63b805f0bbfb39c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a63b805f0bbfb39c-400.webp"
+        },
+        "ancho": 781,
+        "alto": 501,
+        "bytes": 42329,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "af2c1997650e8558",
+        "hash": "af2c1997650e85582a1a93b870c43377204b7c2b1818dad003a544765d49c4f6",
+        "urlOriginal": "https://orellana.gob.ec/static/img/bocana-rio-payamino.jpg",
+        "rutaOriginal": "/media/originales/af2c1997650e8558.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/af2c1997650e8558-400.webp"
+        },
+        "ancho": 781,
+        "alto": 501,
+        "bytes": 56876,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "d691ce970c4028b2",
+        "hash": "d691ce970c4028b2018271df66d6bb9b9a09bef0631152c4a81941e979803021",
+        "urlOriginal": "https://orellana.gob.ec/static/img/laguna-de-anangu.jpg",
+        "rutaOriginal": "/media/originales/d691ce970c4028b2.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d691ce970c4028b2-400.webp"
+        },
+        "ancho": 781,
+        "alto": 501,
+        "bytes": 92966,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "bffa89f3c901cd47",
+        "hash": "bffa89f3c901cd47867d8daa7cc71186ad7d2ee71c9eeddb8d97b6ee966f2a39",
+        "urlOriginal": "https://orellana.gob.ec/static/img/laguna-de-taracoa.jpg",
+        "rutaOriginal": "/media/originales/bffa89f3c901cd47.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bffa89f3c901cd47-400.webp"
+        },
+        "ancho": 781,
+        "alto": 511,
+        "bytes": 180281,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "c700026bfff8b35c",
+        "hash": "c700026bfff8b35c6b4ab2076852e066d24e2d4fb0266ea492cd13438f66e0b7",
+        "urlOriginal": "https://orellana.gob.ec/static/img/malocas.jpg",
+        "rutaOriginal": "/media/originales/c700026bfff8b35c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c700026bfff8b35c-400.webp"
+        },
+        "ancho": 781,
+        "alto": 511,
+        "bytes": 126186,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "cd82af8e6d7e3b30",
+        "hash": "cd82af8e6d7e3b3039c2d23ad7cd1278430171e86679d323bb95ce9e1a8923ee",
+        "urlOriginal": "https://orellana.gob.ec/static/img/mirardor-comunidad-anangu.jpg",
+        "rutaOriginal": "/media/originales/cd82af8e6d7e3b30.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/cd82af8e6d7e3b30-400.webp"
+        },
+        "ancho": 781,
+        "alto": 501,
+        "bytes": 159801,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "c6647ada5832ee2b",
+        "hash": "c6647ada5832ee2b94a047fd0b5e42c78a13d5dc02467dd307d6d2b501bcc92d",
+        "urlOriginal": "https://orellana.gob.ec/static/img/banner-primero.gif",
+        "rutaOriginal": "/media/originales/c6647ada5832ee2b.gif",
+        "rutaDerivados": {},
+        "ancho": null,
+        "alto": null,
+        "bytes": 256047,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "a14bddb9f754396a",
+        "hash": "a14bddb9f754396a912b94a22936e5e01ad83b748779031cea53eac1ff946b9a",
+        "urlOriginal": "https://orellana.gob.ec/static/img/supay-kucha.png",
+        "rutaOriginal": "/media/originales/a14bddb9f754396a.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a14bddb9f754396a-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 749257,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "6f268707ae544183",
+        "hash": "6f268707ae54418382c53986eef3319cd47b02eb2a6f71bc4b2e57f57b584690",
+        "urlOriginal": "https://orellana.gob.ec/static/img/amaru-yaya.png",
+        "rutaOriginal": "/media/originales/6f268707ae544183.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6f268707ae544183-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 627274,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "61f31767ea8ae975",
+        "hash": "61f31767ea8ae975f420f6d5513cd65ed93da5676049d3da9e8c4298008e30d8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/yasuni-land.png",
+        "rutaOriginal": "/media/originales/61f31767ea8ae975.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/61f31767ea8ae975-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 760648,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "d551d702b70e8361",
+        "hash": "d551d702b70e83617b72a5799883ea43df6835234a0ed0d5214fa26175ced8c2",
+        "urlOriginal": "https://orellana.gob.ec/static/img/isla-de-los-monos.png",
+        "rutaOriginal": "/media/originales/d551d702b70e8361.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d551d702b70e8361-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 414504,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "a097d90a3e0c7617",
+        "hash": "a097d90a3e0c76172c68dea7470c2edaa1028c6089a395c6ece95845f63e44da",
+        "urlOriginal": "https://orellana.gob.ec/static/img/banner-2.jpg",
+        "rutaOriginal": "/media/originales/a097d90a3e0c7617.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a097d90a3e0c7617-400.webp",
+          "800w": "/media/derivados/a097d90a3e0c7617-800.webp",
+          "1600w": "/media/derivados/a097d90a3e0c7617-1600.webp"
+        },
+        "ancho": 2260,
+        "alto": 329,
+        "bytes": 311669,
+        "alt": "",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "f7b1d7099b316b8d",
+        "hash": "f7b1d7099b316b8d87aa4b9b91ecaf8fde90fd2764ba071ab89564fef31bb58f",
+        "urlOriginal": "https://orellana.gob.ec/static/img/los-tres-rios.png",
+        "rutaOriginal": "/media/originales/f7b1d7099b316b8d.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f7b1d7099b316b8d-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 686400,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "46e80cc6a07f6d5f",
+        "hash": "46e80cc6a07f6d5ff12c0326b1566cfd2341e109b4b7f2343fbf1c4ab9807ba4",
+        "urlOriginal": "https://orellana.gob.ec/static/img/coca-zoo.png",
+        "rutaOriginal": "/media/originales/46e80cc6a07f6d5f.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/46e80cc6a07f6d5f-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 585354,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "c8754fa41a23e1dc",
+        "hash": "c8754fa41a23e1dcd7f83080543f2a3dbd37c01cd2ce01a0c9270a5ca24b7103",
+        "urlOriginal": "https://orellana.gob.ec/static/img/yarina.png",
+        "rutaOriginal": "/media/originales/c8754fa41a23e1dc.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c8754fa41a23e1dc-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 582216,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "2733146604aa4aa2",
+        "hash": "2733146604aa4aa2f28fdb94ee3d94889f7fa7027f14990f114aabba724e0954",
+        "urlOriginal": "https://orellana.gob.ec/static/img/saladero.png",
+        "rutaOriginal": "/media/originales/2733146604aa4aa2.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/2733146604aa4aa2-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 442901,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "67468885359789aa",
+        "hash": "67468885359789aa9dfe9b53a20eb782f536e62104afff171c0027572345f683",
+        "urlOriginal": "https://orellana.gob.ec/static/img/laguna-de-anangu.png",
+        "rutaOriginal": "/media/originales/67468885359789aa.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/67468885359789aa-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 395586,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "17161ddfe9fd1e6e",
+        "hash": "17161ddfe9fd1e6e6bdd6f1dee35b591329951181f4085d754d2b73a26148750",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ila-kucha.png",
+        "rutaOriginal": "/media/originales/17161ddfe9fd1e6e.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/17161ddfe9fd1e6e-400.webp"
+        },
+        "ancho": 489,
+        "alto": 652,
+        "bytes": 665637,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "33eaf5b035e2d486",
+        "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
+        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
+        "rutaDerivados": {},
+        "ancho": 179,
+        "alto": 197,
+        "bytes": 9649,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      },
+      {
+        "id": "050072933d1ad8fa",
+        "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
+        "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
+        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
+        "rutaDerivados": {},
+        "ancho": 175,
+        "alto": 139,
+        "bytes": 6108,
+        "alt": "...",
+        "altPendiente": true,
+        "seccion": "turismo",
+        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+      }
+    ],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/lugares/"
+  }
+}

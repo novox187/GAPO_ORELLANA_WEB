@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 54,
+    "slug": "180-emprendedores-son-capacitados-gratuitamente-por-la-municipalidad-54",
+    "titulo": "180 emprendedores son capacitados gratuitamente por la municipalidad",
+    "resumen": "Con el objetivo de impulsar el talento creativo y fomentar el desarrollo de los emprendimientos locales, 180 personas emprendedoras se encuentran recibiendo varios talleres artesanales",
+    "fecha": "2025-03-24",
+    "imagen": {
+      "id": "99cd81b1713c0ad0",
+      "hash": "99cd81b1713c0ad04e451762d75e616163df278998807577736501f061e41c12",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_3550.JPG",
+      "rutaOriginal": "/media/originales/99cd81b1713c0ad0.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/99cd81b1713c0ad0-400.webp",
+        "800w": "/media/derivados/99cd81b1713c0ad0-800.webp",
+        "1600w": "/media/derivados/99cd81b1713c0ad0-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 5122652,
+      "alt": "180 emprendedores son capacitados gratuitamente por la municipalidad",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/54/",
+    "fuente_url": "https://orellana.gob.ec/noticia/54/",
+    "cuerpo": "Con el objetivo de impulsar el talento creativo y fomentar el desarrollo de los emprendimientos locales, 180 personas emprendedoras se encuentran recibiendo varios talleres artesanales dentro del proyecto “Aprende Emprendedor” dictados por la Alcaldía de Francisco de Orellana en colaboración con ACNUR y la ESPOCH, “Estoy muy agradecida con la alcaldesa por gestionar todo lo que son estos cursos y que ella siga progresando y haciendo más obras, porque realmente, sí nos beneficia como ciudadanos de Francisco de Orellana”. Dania Rodríguez, beneficiaria.\nEstas capacitaciones tienen una duración de tres meses en donde los beneficiarios reciben diferentes actividades artesanales como: Belleza, Panadería, Gastronomía, Corte y Confección, “La verdad siempre me ha gustado lo que es corte y confección y por eso aprovecho la oportunidad de tener este curso gratis y estoy aquí para aprender, porque nunca es tarde para cumplir nuestros sueños”. Angélica Ortega, beneficiaria.\nAl finalizar estos talleres, los beneficiarios recibirán un certificado de aprobación otorgados por la Municipalidad de Francisco de Orellana y avalados por ACNUR Y ESPOCH. JG.",
+    "imagenes": [
+      {
+        "id": "99cd81b1713c0ad0",
+        "hash": "99cd81b1713c0ad04e451762d75e616163df278998807577736501f061e41c12",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_3550.JPG",
+        "rutaOriginal": "/media/originales/99cd81b1713c0ad0.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/99cd81b1713c0ad0-400.webp",
+          "800w": "/media/derivados/99cd81b1713c0ad0-800.webp",
+          "1600w": "/media/derivados/99cd81b1713c0ad0-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 5122652,
+        "alt": "180 emprendedores son capacitados gratuitamente por la municipalidad",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

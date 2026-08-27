@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 46,
+    "slug": "80-de-avance-tiene-la-construccion-de-la-cancha-cubierta-de-mushuk-ayllu-46",
+    "titulo": "80% de avance tiene la construcción de la cancha cubierta de Mushuk Ayllu",
+    "resumen": "La administración de la alcaldesa Shirma Cortés Sanmiguel sigue cumpliendo con su compromiso de impulsar el deporte y el bienestar comunitario",
+    "fecha": "2025-03-10",
+    "imagen": {
+      "id": "d54362cf3f005009",
+      "hash": "d54362cf3f005009550147d8311ef52bd4dbeaab0318180315a50bce81c3676f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_5566.JPG",
+      "rutaOriginal": "/media/originales/d54362cf3f005009.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d54362cf3f005009-400.webp",
+        "800w": "/media/derivados/d54362cf3f005009-800.webp",
+        "1600w": "/media/derivados/d54362cf3f005009-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8238373,
+      "alt": "80% de avance tiene la construcción de la cancha cubierta de Mushuk Ayllu",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/46/",
+    "fuente_url": "https://orellana.gob.ec/noticia/46/",
+    "cuerpo": "La administración de la alcaldesa Shirma Cortés Sanmiguel sigue cumpliendo con su compromiso de impulsar el deporte y el bienestar comunitario. Una de sus principales obras en este sentido, es la construcción de la cancha cubierta en el sector Mushuk Ayllu, barrio Nuevo Coca, que ya alcanza un 80% de avance y muy pronto será una realidad para más de 400 familias, “Es una cancha bien bonita en todos los aspectos, como pueden ver, ya se está terminando todo lo que es la parte de la cancha, los acabados y luego verán la nueva cara que tendrá esta canchita. Carlos Guerra, morador del sector. \nLa alcaldesa Shirma Cortés Sanmiguel ha destacado la importancia de esta obra para brindar a la juventud y a toda la comunidad un espacio adecuado para la recreación y el deporte, “Estamos contentos y queremos que lo más pronto posible tengamos lista nuestra cancha y queremos la inauguración con la señora alcaldesa y con los moradores”, manifiesta María Avilés, presidenta del sector Mushuk Ayllu. \nUna vez finalizada, la cancha no solo beneficiará a los jóvenes, sino a todos los habitantes que podrán hacer uso de este espacio en mejores condiciones. DV.",
+    "imagenes": [
+      {
+        "id": "d54362cf3f005009",
+        "hash": "d54362cf3f005009550147d8311ef52bd4dbeaab0318180315a50bce81c3676f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_5566.JPG",
+        "rutaOriginal": "/media/originales/d54362cf3f005009.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d54362cf3f005009-400.webp",
+          "800w": "/media/derivados/d54362cf3f005009-800.webp",
+          "1600w": "/media/derivados/d54362cf3f005009-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8238373,
+        "alt": "80% de avance tiene la construcción de la cancha cubierta de Mushuk Ayllu",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

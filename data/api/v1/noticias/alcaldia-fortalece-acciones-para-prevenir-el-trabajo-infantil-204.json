@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 204,
+    "slug": "alcaldia-fortalece-acciones-para-prevenir-el-trabajo-infantil-204",
+    "titulo": "Alcaldía fortalece acciones para prevenir el trabajo infantil",
+    "resumen": "En el coliseo del barrio Santa Rosa, 80 usuarios del proyecto de Erradicación del Trabajo Infantil (ETI) de la Alcaldía de Francisco de Orellana, en convenio con el Ministerio de Desarrollo Humano (MDH), participaron de un “Campeonato Relámpago Depor",
+    "fecha": "2025-11-26",
+    "imagen": {
+      "id": "502c4db4b1f5e979",
+      "hash": "502c4db4b1f5e979bdc85a1628e4e23888693dc8be43a603da097b8bda99d56f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26.JPG",
+      "rutaOriginal": "/media/originales/502c4db4b1f5e979.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/502c4db4b1f5e979-400.webp",
+        "800w": "/media/derivados/502c4db4b1f5e979-800.webp",
+        "1600w": "/media/derivados/502c4db4b1f5e979-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8983899,
+      "alt": "Alcaldía fortalece acciones para prevenir el trabajo infantil",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/204/",
+    "fuente_url": "https://orellana.gob.ec/noticia/204/",
+    "cuerpo": "En el coliseo del barrio Santa Rosa, 80 usuarios del proyecto de Erradicación del Trabajo Infantil (ETI) de la Alcaldía de Francisco de Orellana, en convenio con el Ministerio de Desarrollo Humano (MDH), participaron de un “Campeonato Relámpago Deportivo”, bajo el lema “Cada jugada cuenta, cada persona importa… ¡Juntos por sus derechos!”, “Es un compromiso de todos los ciudadanos y todas las instituciones tanto locales como nacionales, y que este evento sea en beneficio de la erradicación del trabajo infantil de los niños de nuestro cantón.” Víctor Ruiz, vicealcalde de Francisco de Orellana. \nLa jornada fortaleció la integración comunitaria y reafirmó el compromiso institucional de proteger los derechos de niños, niñas y adolescentes del proyecto ETI, “Mi reconocimiento a la señora alcaldesa Shirma Cortés, porque a través de nuestro ministerio garantiza los recursos para que, en cooperación, este proyecto sea posible en el cantón Francisco de Orellana, estamos a su disposición y servicio como servidores públicos.” Lucía Gómez, directora del MDH. \nLa administración municipal, encabezada por la alcaldesa Shirma Cortés Sanmiguel, reafirma con acciones concretas su compromiso de garantizar una mejor calidad de vida para los grupos prioritarios, impulsando una gestión humana, cercana y orientada al bienestar de todos los Coqueños. DV.",
+    "imagenes": [
+      {
+        "id": "502c4db4b1f5e979",
+        "hash": "502c4db4b1f5e979bdc85a1628e4e23888693dc8be43a603da097b8bda99d56f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26.JPG",
+        "rutaOriginal": "/media/originales/502c4db4b1f5e979.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/502c4db4b1f5e979-400.webp",
+          "800w": "/media/derivados/502c4db4b1f5e979-800.webp",
+          "1600w": "/media/derivados/502c4db4b1f5e979-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8983899,
+        "alt": "Alcaldía fortalece acciones para prevenir el trabajo infantil",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

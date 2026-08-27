@@ -1,0 +1,139 @@
+{
+  "data": {
+    "id": 64,
+    "slug": "informacion-de-servicios-y-requisitos-64",
+    "nombre": "Información de Servicios y Requisitos",
+    "direccion": {
+      "id": 10,
+      "slug": "procuraduria-sindica",
+      "nombre": "PROCURADURÍA SÍNDICA"
+    },
+    "categorias": [
+      "otros-tramites"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "1. Copia de la escritura.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "2. Copia de la cédula y papeleta de votación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "3. Certificado de gravamen/ actualizado (Registro de la Propiedad)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "4. Certificado de no adeudar actualizado al GADMFO (Recaudación)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "5. Pago por la elaboración de la minuta de adjudicación del predio (Recaudación)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "6. Pago del predio, actualizado (Recaudación)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "7. Solicitud dirigida a la máxima autoridad, solicitando autorización de cancelación de hipoteca y prohibición de enajenar, por cumplir el tiempo establecido por el GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Todo trámite inicia con la solicitud dirigida a la máxima autoridad del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 1,
+        "texto": "1. Copia del registro de directiva de la parte CEDENTE.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "2. Nombramiento vigente del representante legal de la comuna.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "3. Copia del RUC de la comuna.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "4. Copia certificada de la Acta o Resolución de Asamblea General de la comuna donde se apruebe específicamente la cesión de Derecho de Uso y Usufructo.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "5. Copias de cédulas de ciudadanía más certificado de votación del representante legal.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "6. Certificado de no adeudar al GADMFO de la parte CEDENTE (presidente)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "7. Certificado de gravamen del inmueble.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "8. Copia de la escritura global.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "Todo trámite inicia con la solicitud dirigida a la máxima autoridad del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [
+      "RESOLUCIÓN ADMINISTRATIVA) 8"
+    ],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

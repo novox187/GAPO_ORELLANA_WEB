@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 233,
+    "slug": "con-obras-firmes-la-alcaldia-protege-la-vida-y-las-riberas-del-rio-coca-con-la-233",
+    "titulo": "Con obras firmes, la Alcaldía protege la vida y las riberas del río Coca con la colocación de geocontenedores",
+    "resumen": "La Alcaldía liderada por Shirma Cortés Sanmiguel ejecuta una intervención estratégica en las riberas de la Playita, en el barrio Río Coca, con la colocación de geocontenedores rellenos de arcilla, una acción clave que protege viviendas e infraestruct",
+    "fecha": "2026-01-09",
+    "imagen": {
+      "id": "786c9cb2c0c2907f",
+      "hash": "786c9cb2c0c2907fca2538b20a32925140dc97bbac20f8fac5db6619e6085264",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_3607.JPG",
+      "rutaOriginal": "/media/originales/786c9cb2c0c2907f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/786c9cb2c0c2907f-400.webp",
+        "800w": "/media/derivados/786c9cb2c0c2907f-800.webp",
+        "1600w": "/media/derivados/786c9cb2c0c2907f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10403526,
+      "alt": "Con obras firmes, la Alcaldía protege la vida y las riberas del río Coca con la colocación de geocontenedores",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+    },
+    "url": "/noticia/233/",
+    "fuente_url": "https://orellana.gob.ec/noticia/233/",
+    "cuerpo": "La Alcaldía liderada por Shirma Cortés Sanmiguel ejecuta una intervención estratégica en las riberas de la Playita, en el barrio Río Coca, con la colocación de geocontenedores rellenos de arcilla, una acción clave que protege viviendas e infraestructura, previene la erosión y reafirma una gestión responsable que cuida a la gente y al entorno, afirma Erick Bonilla, analista de respuesta y recuperación ante desastres del GADMFO, “Hasta el día de hoy llevamos 33 geocontenedores ya estivados en el río, que tienen alrededor de 10 metros cúbicos de material; el objetivo de este muro de protección es reducir la erosión causada por el río Coca, y proteger el sistema de bombeo que se encuentra en este sector.”\nEstos trabajos no solo responden a una necesidad urgente, sino que evidencian una visión de futuro enfocada en la prevención y la sostenibilidad. En una segunda fase, se realizará un revestimiento de piedra para mejorar su protección, “Estos trabajos, permiten mejorar la importante infraestructura del muro; después de dichos trabajos, se realizará una reforestación de la zona mediante chíparos. También pedimos a la ciudadanía, evitar el talado de árboles en las riberas de los ríos, que son zonas de protección.” Erick Bonilla, analista de respuesta y recuperación ante desastres del GADMFO.\nLa intervención en el río Coca evidencia una gestión firme y constante que apuesta por obras con impacto real. Bajo el liderazgo de Shirma Cortés Sanmiguel, la Alcaldía consolida un gobierno cercano y eficiente, comprometido con el desarrollo ordenado, la protección ambiental y el bienestar de la ciudadanía. JG.",
+    "imagenes": [
+      {
+        "id": "786c9cb2c0c2907f",
+        "hash": "786c9cb2c0c2907fca2538b20a32925140dc97bbac20f8fac5db6619e6085264",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_3607.JPG",
+        "rutaOriginal": "/media/originales/786c9cb2c0c2907f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/786c9cb2c0c2907f-400.webp",
+          "800w": "/media/derivados/786c9cb2c0c2907f-800.webp",
+          "1600w": "/media/derivados/786c9cb2c0c2907f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10403526,
+        "alt": "Con obras firmes, la Alcaldía protege la vida y las riberas del río Coca con la colocación de geocontenedores",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      }
+    ]
+  }
+}

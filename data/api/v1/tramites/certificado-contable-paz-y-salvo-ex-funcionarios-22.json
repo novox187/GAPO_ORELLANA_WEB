@@ -1,0 +1,59 @@
+{
+  "data": {
+    "id": 22,
+    "slug": "certificado-contable-paz-y-salvo-ex-funcionarios-22",
+    "nombre": "Certificado contable (paz y salvo ex funcionarios)",
+    "direccion": {
+      "id": 8,
+      "slug": "direccion-financiera",
+      "nombre": "DIRECCIÓN FINANCIERA"
+    },
+    "categorias": [
+      "documentos-y-certificados"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es un documento en el que la municipalidad certifica si el ex funcionario mantiene deudas con la institución como: anticipos de sueldos y valores pagados por excesos en nómina.",
+    "que_es": "Es un documento en el que la municipalidad certifica si el ex funcionario mantiene deudas con la institución como: anticipos de sueldos y valores pagados por excesos en nómina.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Copia cédula de ciudadanía.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Pago del servicio administrativo (Por cualquier petición escrita- certificado contable-copia) (Rentas).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Aviso de Salida del funcionario (Dpto. Talento Humano- Nómina).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Formulario Paz y Salvo (Dpto. Talento Humano).",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 79,
+    "slug": "francisco-de-orellana-cuenta-con-nuevo-corredor-de-conectividad-cuyabeno-yasuni-79",
+    "titulo": "Francisco de Orellana cuenta con nuevo Corredor de Conectividad Cuyabeno–Yasuní",
+    "resumen": "El Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) ha reconocido oficialmente el Corredor",
+    "fecha": "2025-05-06",
+    "imagen": {
+      "id": "4c2d09c102d43d24",
+      "hash": "4c2d09c102d43d24f3ea745463d6b282f987e704da8bb0a291f382928b066260",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_1922.JPG",
+      "rutaOriginal": "/media/originales/4c2d09c102d43d24.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/4c2d09c102d43d24-400.webp",
+        "800w": "/media/derivados/4c2d09c102d43d24-800.webp",
+        "1600w": "/media/derivados/4c2d09c102d43d24-1600.webp"
+      },
+      "ancho": 3984,
+      "alto": 2240,
+      "bytes": 3382956,
+      "alt": "Francisco de Orellana cuenta con nuevo Corredor de Conectividad Cuyabeno–Yasuní",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/79/",
+    "fuente_url": "https://orellana.gob.ec/noticia/79/",
+    "cuerpo": "El Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) ha reconocido oficialmente el Corredor de Conectividad Cuyabeno–Yasuní, uniendo la Reserva de Producción Faunística Cuyabeno con el Parque Nacional Yasuní en un territorio de 2.750 km².\nEste importante avance fue posible gracias al trabajo conjunto de los gobiernos municipales de Francisco de Orellana, Aguarico y Shushufindi, así como del Gobiernos Provincial de Sucumbíos, con el apoyo técnico de la Wildlife Conservation Society (WCS).\nEsta acción fortalece la conectividad ecológica entre áreas protegidas, impulsa la conservación de los bosques primarios y fomenta el turismo comunitario y la bioeconomía sostenible.\nDe esta manera, la administración liderada por nuestra alcaldesa Shirma Consuelo Cortés reafirma su compromiso por la implementación de iniciativas productivas sostenibles como el turismo comunitario, la bioeconomía y los sistemas agroforestales, aportando tanto a la conservación de la naturaleza como al bienestar de las personas. RH.",
+    "imagenes": [
+      {
+        "id": "4c2d09c102d43d24",
+        "hash": "4c2d09c102d43d24f3ea745463d6b282f987e704da8bb0a291f382928b066260",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_1922.JPG",
+        "rutaOriginal": "/media/originales/4c2d09c102d43d24.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4c2d09c102d43d24-400.webp",
+          "800w": "/media/derivados/4c2d09c102d43d24-800.webp",
+          "1600w": "/media/derivados/4c2d09c102d43d24-1600.webp"
+        },
+        "ancho": 3984,
+        "alto": 2240,
+        "bytes": 3382956,
+        "alt": "Francisco de Orellana cuenta con nuevo Corredor de Conectividad Cuyabeno–Yasuní",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

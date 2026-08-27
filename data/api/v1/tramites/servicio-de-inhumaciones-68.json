@@ -1,0 +1,83 @@
+{
+  "data": {
+    "id": 68,
+    "slug": "servicio-de-inhumaciones-68",
+    "nombre": "Servicio de Inhumaciones",
+    "direccion": {
+      "id": 6,
+      "slug": "direccion-de-servicios-municipales",
+      "nombre": "DIRECCIÓN DE SERVICIOS MUNICIPALES"
+    },
+    "categorias": [
+      "otros-tramites"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "1. Oficio dirigido al director o directora de Servicios Públicos Municipales. (1 original y 2 copias)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "2. Copia de cédula del representante o de la persona que realiza el trámite.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "3. Copia a color de la cédula del difunto.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "4. Certificado de defunción.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "5. Copia del certificado emitido por el INEC.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "6. Certificado de no adeudar al Municipio de la persona que firma la solicitud.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "HORARIO DE ATENCIÓN:",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "De lunes a domingo, de 08h00 a 17h00",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

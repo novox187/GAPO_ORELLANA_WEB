@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 183,
+    "slug": "alcaldia-fortalece-la-ordenanza-del-empleo-preferente-en-francisco-de-orellana-183",
+    "titulo": "Alcaldía fortalece la Ordenanza del Empleo Preferente en Francisco de Orellana",
+    "resumen": "La Comisión de Legislación, Control y Fiscalización socializa desde agosto el proyecto de Ordenanza del Empleo Preferente, que busca garantizar que instituciones públicas y privadas prioricen la contratación y adquisición de bienes y servicios locale",
+    "fecha": "2025-10-23",
+    "imagen": {
+      "id": "c00ffbe14d544aec",
+      "hash": "c00ffbe14d544aec54258df7c7fccb74e27e36ae1091a1dd28fa1d3e9a1eba15",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23.JPG",
+      "rutaOriginal": "/media/originales/c00ffbe14d544aec.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c00ffbe14d544aec-400.webp",
+        "800w": "/media/derivados/c00ffbe14d544aec-800.webp",
+        "1600w": "/media/derivados/c00ffbe14d544aec-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6143642,
+      "alt": "Alcaldía fortalece la Ordenanza del Empleo Preferente en Francisco de Orellana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/183/",
+    "fuente_url": "https://orellana.gob.ec/noticia/183/",
+    "cuerpo": "La Comisión de Legislación, Control y Fiscalización socializa desde agosto el proyecto de Ordenanza del Empleo Preferente, que busca garantizar que instituciones públicas y privadas prioricen la contratación y adquisición de bienes y servicios locales, fortaleciendo así la economía y oportunidades laborales para las familias del cantón, “De tal manera, que quede socializado y se pueda recoger los aportes que hagan los ciudadanos, representantes de asociaciones, de gremios y de compañías y que permitan mejorar el contexto de la ordenanza.” Paúl Valladolid, concejal del GADMFO.\nDurante estos encuentros, que han contado con la participación de dirigentes barriales, representantes de sindicatos, organizaciones sociales y actores productivos del territorio, se han recibido importantes aportes y observaciones que contribuyen al fortalecimiento de este instrumento legal, “La ordenanza también trata que las empresas hagan uso de los bienes y servicios y que este reglamento vaya en beneficio de toda la colectividad del cantón Francisco de Orellana.” Víctor Ruiz, vicealcalde del GADMFO.\nLa construcción de una ordenanza justa, participativa y con visión de futuro es muestra de una alcaldía que gestiona, es cercana a la ciudadanía, que escucha, dialoga y trabaja por el bienestar colectivo y permite construir “El cantón que queremos.” JG.",
+    "imagenes": [
+      {
+        "id": "c00ffbe14d544aec",
+        "hash": "c00ffbe14d544aec54258df7c7fccb74e27e36ae1091a1dd28fa1d3e9a1eba15",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23.JPG",
+        "rutaOriginal": "/media/originales/c00ffbe14d544aec.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c00ffbe14d544aec-400.webp",
+          "800w": "/media/derivados/c00ffbe14d544aec-800.webp",
+          "1600w": "/media/derivados/c00ffbe14d544aec-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6143642,
+        "alt": "Alcaldía fortalece la Ordenanza del Empleo Preferente en Francisco de Orellana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

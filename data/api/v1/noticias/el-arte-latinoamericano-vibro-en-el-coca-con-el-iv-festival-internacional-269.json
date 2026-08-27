@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 269,
+    "slug": "el-arte-latinoamericano-vibro-en-el-coca-con-el-iv-festival-internacional-269",
+    "titulo": "El arte latinoamericano vibró en El Coca con el IV Festival Internacional Antisuyuk",
+    "resumen": "Del 9 al 14 de marzo, el auditorio del MACCO se convirtió en el epicentro de la cultura latinoamericana con la realización del Cuarto Festival Internacional Antisuyuk, un encuentro artístico que reunió a destacados creadores de Colombia, Perú, Bolivi",
+    "fecha": "2026-03-17",
+    "imagen": {
+      "id": "664c9c502ad9b91c",
+      "hash": "664c9c502ad9b91c275d2fc32511dc6fc619fe7e85ee3c3b76fbb31de2c4f673",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG0978.jpg",
+      "rutaOriginal": "/media/originales/664c9c502ad9b91c.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/664c9c502ad9b91c-400.webp",
+        "800w": "/media/derivados/664c9c502ad9b91c-800.webp",
+        "1600w": "/media/derivados/664c9c502ad9b91c-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 7854460,
+      "alt": "El arte latinoamericano vibró en El Coca con el IV Festival Internacional Antisuyuk",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/269/",
+    "fuente_url": "https://orellana.gob.ec/noticia/269/",
+    "cuerpo": "Del 9 al 14 de marzo, el auditorio del MACCO se convirtió en el epicentro de la cultura latinoamericana con la realización del Cuarto Festival Internacional Antisuyuk, un encuentro artístico que reunió a destacados creadores de Colombia, Perú, Bolivia, México y Ecuador. el público disfrutó de teatro, música, danza y diversas manifestaciones escénicas que exaltaron la riqueza cultural de nuestros pueblos, promoviendo la defensa de las raíces, la identidad y el compromiso colectivo con la conservación de la biodiversidad y el planeta, para Shirma Cortés Sanmiguel, alcaldesa de Francisco de Orellana, siempre apoyará este tipo de iniciativas que deleitan a las familias con mensajes que ayudan a la conservación de nuestras raíces, “Y lo bonito y fundamental de todo esto, es que cada una de sus puestas en escena nos deja un mensaje que nos invita a reflexionar a cada uno de nosotros, que somos parte de este lindo cantón a que cuidemos la tierra, a que ya no la desangremos, que amemos lo que nos da de comer como es nuestro planeta.”\nA través de estas iniciativas, la administración municipal fortalece el acceso al arte, fomenta el talento y promueve que niños, jóvenes y familias se conecten con las artes vivas y el folclore que forman parte de nuestra identidad, “Lindísimo lo que se está haciendo acá en el MACCO, es único y especial, donde realmente nos llena el corazón de alegría al saber que el arte y la cultura se unen”. Verónica Sánchez, asistente al festival.\n“Nosotros vinimos desde Perú con la obra “Pasajeras”, una danza ritual en el cual invitamos a todos a bailar y estuvimos presentándonos en diferentes talleres de canto, de actuación y de clau”. Shina Arpaci, creadora peruana.\nEn el marco del festival también se desarrollaron talleres abiertos a la ciudadanía en teatro y otras disciplinas escénicas, impartidos por docentes y artistas invitados, generando espacios de formación, aprendizaje y participación comunitaria. JG.",
+    "imagenes": [
+      {
+        "id": "664c9c502ad9b91c",
+        "hash": "664c9c502ad9b91c275d2fc32511dc6fc619fe7e85ee3c3b76fbb31de2c4f673",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG0978.jpg",
+        "rutaOriginal": "/media/originales/664c9c502ad9b91c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/664c9c502ad9b91c-400.webp",
+          "800w": "/media/derivados/664c9c502ad9b91c-800.webp",
+          "1600w": "/media/derivados/664c9c502ad9b91c-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 7854460,
+        "alt": "El arte latinoamericano vibró en El Coca con el IV Festival Internacional Antisuyuk",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

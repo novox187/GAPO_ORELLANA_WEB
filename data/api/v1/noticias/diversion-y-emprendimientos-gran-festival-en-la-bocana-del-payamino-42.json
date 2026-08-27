@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 42,
+    "slug": "diversion-y-emprendimientos-gran-festival-en-la-bocana-del-payamino-42",
+    "titulo": "Diversión y emprendimientos: gran festival en La Bocana del Payamino",
+    "resumen": "El alcalde subrogante, Víctor Ruiz, asistió al evento y enfatizó la importancia de fortalecer el turismo",
+    "fecha": "2025-03-04",
+    "imagen": {
+      "id": "fb9507471fcbfd94",
+      "hash": "fb9507471fcbfd947e59aae787a25a2e27a49c5892c8be7ced1602774cdcb814",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_1412.JPG",
+      "rutaOriginal": "/media/originales/fb9507471fcbfd94.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/fb9507471fcbfd94-400.webp",
+        "800w": "/media/derivados/fb9507471fcbfd94-800.webp",
+        "1600w": "/media/derivados/fb9507471fcbfd94-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 4150695,
+      "alt": "Diversión y emprendimientos: gran festival en La Bocana del Payamino",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/42/",
+    "fuente_url": "https://orellana.gob.ec/noticia/42/",
+    "cuerpo": "Como parte de la agenda de actividades del feriado de Carnaval, la Alcaldía de Francisco de Orellana llevó a cabo un animado fin de semana en La Bocana del Payamino. Propios y visitantes disfrutaron del Festival de Emprendedores 2025 y del Show Infantil con el carismático payasito Dr. Monchousky, “Me gusta que los emprendimientos expongan sus productos con cada emprendedor, e invito a la ciudadanía que vengan y disfruten de la apertura de la Bocana”. \n El alcalde subrogante, Víctor Ruiz, asistió al evento y enfatizó la importancia de fortalecer el turismo y la economía local. Además, extendió una invitación a los turistas a conocer El Coca, “Con el feriado de carnaval estamos abriendo las puertas a la Bocana para toda nuestra población de El Coca y no solo de El Coca. sino a nivel nacional e internacional, están invitados a ser parte de este disfrute de la Bocana del Payamino”. \nDesde la Alcaldía de Francisco de Orellana se invita a la ciudadanía a disfrutar de todas las actividades programadas, siempre en armonía. DV.",
+    "imagenes": [
+      {
+        "id": "fb9507471fcbfd94",
+        "hash": "fb9507471fcbfd947e59aae787a25a2e27a49c5892c8be7ced1602774cdcb814",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_1412.JPG",
+        "rutaOriginal": "/media/originales/fb9507471fcbfd94.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/fb9507471fcbfd94-400.webp",
+          "800w": "/media/derivados/fb9507471fcbfd94-800.webp",
+          "1600w": "/media/derivados/fb9507471fcbfd94-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 4150695,
+        "alt": "Diversión y emprendimientos: gran festival en La Bocana del Payamino",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

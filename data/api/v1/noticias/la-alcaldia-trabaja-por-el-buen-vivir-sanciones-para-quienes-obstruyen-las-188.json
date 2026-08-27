@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 188,
+    "slug": "la-alcaldia-trabaja-por-el-buen-vivir-sanciones-para-quienes-obstruyen-las-188",
+    "titulo": "La alcaldía trabaja por el buen vivir: sanciones para quienes obstruyen las veredas",
+    "resumen": "La Dirección de Seguridad y Gobernabilidad Municipal, junto a sus agentes de control, ejecutó operativos en distintos sectores de la ciudad, donde se detectó material pétreo obstaculizando veredas y afectando la libre movilidad ciudadana, “Al momento",
+    "fecha": "2025-10-31",
+    "imagen": {
+      "id": "697afdf4533c9454",
+      "hash": "697afdf4533c9454c0d61700179e0ad1b0e8cc754342cabd78605ae4b5d46fbd",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31.JPG",
+      "rutaOriginal": "/media/originales/697afdf4533c9454.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/697afdf4533c9454-400.webp",
+        "800w": "/media/derivados/697afdf4533c9454-800.webp",
+        "1600w": "/media/derivados/697afdf4533c9454-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11105729,
+      "alt": "La alcaldía trabaja por el buen vivir: sanciones para quienes obstruyen las veredas",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/188/",
+    "fuente_url": "https://orellana.gob.ec/noticia/188/",
+    "cuerpo": "La Dirección de Seguridad y Gobernabilidad Municipal, junto a sus agentes de control, ejecutó operativos en distintos sectores de la ciudad, donde se detectó material pétreo obstaculizando veredas y afectando la libre movilidad ciudadana, “Al momento se está verificando en varios lugares el mal uso del espacio público.” Diego Aguirre, agente de control.\nAmparados en la ordenanza municipal OM-020-2024, se procedió a notificar a los infractores y recordar a la ciudadanía que para usar el espacio público deben gestionar su permiso en las oficinas de Ordenamiento Territorial de la municipalidad, “La gente debe entender que hay una ordenanza que regula el uso del espacio público. Si no cumplen, vamos a intervenir como corresponde. Cuando algún ciudadano va a sacar línea de fábrica o permiso de construcción ya se le informa que uno de los requisitos es el uso del espacio público, en este caso, la acera o la calzada.” Roberto Palacios, director de seguridad y gobernabilidad.\nLa Alcaldía de Francisco de Orellana, seguirá realizando estos operativos de control con el fin de evitar materiales de construcción en espacios de libre tránsito. Bajo el liderazgo de Shirma Cortés Sanmiguel, trabajamos para mantener el orden, la seguridad y el buen vivir de nuestra ciudadanía. DV.",
+    "imagenes": [
+      {
+        "id": "697afdf4533c9454",
+        "hash": "697afdf4533c9454c0d61700179e0ad1b0e8cc754342cabd78605ae4b5d46fbd",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31.JPG",
+        "rutaOriginal": "/media/originales/697afdf4533c9454.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/697afdf4533c9454-400.webp",
+          "800w": "/media/derivados/697afdf4533c9454-800.webp",
+          "1600w": "/media/derivados/697afdf4533c9454-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11105729,
+        "alt": "La alcaldía trabaja por el buen vivir: sanciones para quienes obstruyen las veredas",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

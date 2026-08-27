@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 280,
+    "slug": "alcaldia-refuerza-limpieza-de-sumideros-para-prevenir-inundaciones-280",
+    "titulo": "Alcaldía refuerza limpieza de sumideros para prevenir inundaciones",
+    "resumen": "Con el fin de prevenir taponamientos e inundaciones durante la temporada invernal, la Alcaldía realiza labores de limpieza de sumideros en puntos críticos como la avenida Alejandro Labaka, la calle Ambato y el barrio Río Coca. Los moradores han desta",
+    "fecha": "2026-04-06",
+    "imagen": {
+      "id": "221fdc3a7f26f529",
+      "hash": "221fdc3a7f26f5295ada7d50bb6b3b50ad652a7f7004bd8374cff19633acf376",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG1105.JPG",
+      "rutaOriginal": "/media/originales/221fdc3a7f26f529.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/221fdc3a7f26f529-400.webp",
+        "800w": "/media/derivados/221fdc3a7f26f529-800.webp",
+        "1600w": "/media/derivados/221fdc3a7f26f529-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 9417873,
+      "alt": "Alcaldía refuerza limpieza de sumideros para prevenir inundaciones",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+    },
+    "url": "/noticia/280/",
+    "fuente_url": "https://orellana.gob.ec/noticia/280/",
+    "cuerpo": "Con el fin de prevenir taponamientos e inundaciones durante la temporada invernal, la Alcaldía realiza labores de limpieza de sumideros en puntos críticos como la avenida Alejandro Labaka, la calle Ambato y el barrio Río Coca. Los moradores han destacado la importancia de esta intervención, resaltando que estas acciones protegen sus hogares y calles, destaca Marcelo Pérez, morador del barrio Río Coca, “Es muy bueno el trabajo que realiza personal del municipio, porque cuando llueve, el agua arrastra todo tipo de basura y permite que se tapen las rejillas.” \nLa intervención tiene como objetivo asegurar el adecuado drenaje de las aguas lluvias y disminuir el riesgo de posibles inundaciones. En este marco, las autoridades hacen un llamado a la ciudadanía para que evite arrojar basura en las alcantarillas, ya que los desechos sólidos bloquean el flujo del agua y pueden generar situaciones de emergencia, por lo que coincide el ciudadano Hugo Escobar, “Falta más cultura por parte de las personas, porque no debemos botar basura a la calle, y cuando tengamos basura en la mano, debemos llevarla y depositarla en un lugar seguro.”\nCon estas acciones, el municipio reafirma su compromiso con el bienestar de la comunidad y la prevención de riesgos, promoviendo además una cultura de cuidado del entorno urbano. DV.",
+    "imagenes": [
+      {
+        "id": "221fdc3a7f26f529",
+        "hash": "221fdc3a7f26f5295ada7d50bb6b3b50ad652a7f7004bd8374cff19633acf376",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG1105.JPG",
+        "rutaOriginal": "/media/originales/221fdc3a7f26f529.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/221fdc3a7f26f529-400.webp",
+          "800w": "/media/derivados/221fdc3a7f26f529-800.webp",
+          "1600w": "/media/derivados/221fdc3a7f26f529-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 9417873,
+        "alt": "Alcaldía refuerza limpieza de sumideros para prevenir inundaciones",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      }
+    ]
+  }
+}

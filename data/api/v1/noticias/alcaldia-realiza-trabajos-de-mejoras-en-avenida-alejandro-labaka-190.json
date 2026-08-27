@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 190,
+    "slug": "alcaldia-realiza-trabajos-de-mejoras-en-avenida-alejandro-labaka-190",
+    "titulo": "Alcaldía realiza trabajos de mejoras en avenida Alejandro Labaka",
+    "resumen": "La actual administración municipal, liderada por la alcaldesa Shirma Cortés Sanmiguel, continúa ejecutando la siguiente fase de trabajos de construcción de aceras y veredas en el tramo correspondiente al sector del redondel de la avenida Alejandro La",
+    "fecha": "2025-11-06",
+    "imagen": {
+      "id": "831825ea036f004d",
+      "hash": "831825ea036f004d59a29785348f5507391889f6698bc2dc62e2b7a4235d8122",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_FmC0Szl.JPG",
+      "rutaOriginal": "/media/originales/831825ea036f004d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/831825ea036f004d-400.webp",
+        "800w": "/media/derivados/831825ea036f004d-800.webp",
+        "1600w": "/media/derivados/831825ea036f004d-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 15244074,
+      "alt": "Alcaldía realiza trabajos de mejoras en avenida Alejandro Labaka",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+    },
+    "url": "/noticia/190/",
+    "fuente_url": "https://orellana.gob.ec/noticia/190/",
+    "cuerpo": "La actual administración municipal, liderada por la alcaldesa Shirma Cortés Sanmiguel, continúa ejecutando la siguiente fase de trabajos de construcción de aceras y veredas en el tramo correspondiente al sector del redondel de la avenida Alejandro Labaka, en la ciudad de El Coca.\nEstos arreglos tienen como objetivo mejorar la movilidad y seguridad peatonal, beneficiando directamente a los ciudadanos que transitan por esta importante arteria vial, “Muy buen trabajo de la alcaldía que está preocupada por el entorno de esta importante avenida y para que los turistas o la gente que viene de otras provincias vea que es una ciudad muy organizada y muy unida.” Franklin Fito, opinión ciudadana. \nCabe destacar que los trabajos en los exteriores del Centro de Salud Jambi Huasi y del Dispensario Médico del IESS ya fueron concluidos, aportando significativamente al bienestar de los usuarios que acuden a estas casas de salud, “Es importante esta obra, porque nos va a beneficiar bastante a las personas que ingresamos frecuentemente al dispensario del seguro o a las oficinas del IESS para hacer cualquier trámite.” Édison Córdova, opinión ciudadana. \nLa Alcaldía de Francisco de Orellana reafirma su compromiso de seguir construyendo un cantón más seguro, ordenado y accesible para todos. DV.",
+    "imagenes": [
+      {
+        "id": "831825ea036f004d",
+        "hash": "831825ea036f004d59a29785348f5507391889f6698bc2dc62e2b7a4235d8122",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_FmC0Szl.JPG",
+        "rutaOriginal": "/media/originales/831825ea036f004d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/831825ea036f004d-400.webp",
+          "800w": "/media/derivados/831825ea036f004d-800.webp",
+          "1600w": "/media/derivados/831825ea036f004d-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 15244074,
+        "alt": "Alcaldía realiza trabajos de mejoras en avenida Alejandro Labaka",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      }
+    ]
+  }
+}

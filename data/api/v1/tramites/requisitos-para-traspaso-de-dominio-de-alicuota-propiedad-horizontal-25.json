@@ -1,0 +1,83 @@
+{
+  "data": {
+    "id": 25,
+    "slug": "requisitos-para-traspaso-de-dominio-de-alicuota-propiedad-horizontal-25",
+    "nombre": "Requisitos para traspaso de dominio de alicuota/propiedad horizontal",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "El traspaso de dominio de una alícuota es la venta (casa o departamento) que se hace una vez que se haya declarado en propiedad horizontal el bien inmueble.",
+    "que_es": "El traspaso de dominio de una alícuota es la venta (casa o departamento) que se hace una vez que se haya declarado en propiedad horizontal el bien inmueble.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Todos los servicios que presta la Dirección de Ordenamiento Territorial están en función al valor por metro cuadrado de la tenencia de la tierra y en el caso de construcciones están en función a los metros cuadrados de la construcción."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Formulario de línea de fábrica (Compra en Recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "1 Copia de la escritura.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Original y copia de Certificado de gravamen actualizado / otorga el registro de la propiedad.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "2 Copias de cédula, papeleta de votación (comprador y vendedor).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Copia de pago de impuesto.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Certificado de no adeudar al municipio actualizado (comprador y vendedor) se compra en recaudación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Original y copia Certificado de no adeudar al municipio del vendedor (por contribución de mejoras tasa entre otros en casos de traspasos de dominio y fraccionamientos).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Poder especial firmada y notariada por el vendedor.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

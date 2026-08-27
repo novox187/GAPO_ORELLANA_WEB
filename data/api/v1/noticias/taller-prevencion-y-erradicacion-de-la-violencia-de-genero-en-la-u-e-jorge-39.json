@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 39,
+    "slug": "taller-prevencion-y-erradicacion-de-la-violencia-de-genero-en-la-u-e-jorge-39",
+    "titulo": "Taller prevención y erradicación de la violencia de género en la U. E. Jorge Rodríguez Román",
+    "resumen": "Estas capacitaciones forman parte de un programa entre varias instituciones educativas",
+    "fecha": "2025-02-18",
+    "imagen": {
+      "id": "a360978bdc2e0c92",
+      "hash": "a360978bdc2e0c929c69930278fed4bf0173f4d897dfba897f4a5ebecc0b21e1",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_0251.JPG",
+      "rutaOriginal": "/media/originales/a360978bdc2e0c92.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a360978bdc2e0c92-400.webp",
+        "800w": "/media/derivados/a360978bdc2e0c92-800.webp",
+        "1600w": "/media/derivados/a360978bdc2e0c92-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 3670939,
+      "alt": "Taller prevención y erradicación de la violencia de género en la U. E. Jorge Rodríguez Román",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/39/",
+    "fuente_url": "https://orellana.gob.ec/noticia/39/",
+    "cuerpo": "Estudiantes de primero de bachillerato de la Unidad Educativa “Jorge Rodríguez Román” participaron del taller en prevención y erradicación de violencia de género, esto con el objetivo de sensibilizar a la comunidad estudiantil ante esta problemática, “La idea es socializar que los jóvenes poco a poco vayan cambiando ese chip que no solamente sea a nivel educativo, sino que también reflexionen, quizás con sus padres, reflexionen entre amigos y prevenir y erradicar la violencia de género”. \nEstas capacitaciones forman parte de un programa entre varias instituciones educativas, públicas y privadas con el fin de promover los procesos de socialización de la violencia de género en el cantón, manifiesta Bryan Andrade, facilitador del taller, “Invitamos a toda la ciudadanía que se sensibilice en esta temática que no es ajena en nuestra sociedad, solo en Orellana tenemos datos de que el 56.5% de mujeres han sufrido un tipo de violencia, y decirles que pueden accionar ante los entes del estado para poder hacer valer sus derechos”. \nEstas acciones reafirman el compromiso de la Alcaldía Y COCAPRODE con el bienestar de la comunidad. DV.",
+    "imagenes": [
+      {
+        "id": "a360978bdc2e0c92",
+        "hash": "a360978bdc2e0c929c69930278fed4bf0173f4d897dfba897f4a5ebecc0b21e1",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_0251.JPG",
+        "rutaOriginal": "/media/originales/a360978bdc2e0c92.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a360978bdc2e0c92-400.webp",
+          "800w": "/media/derivados/a360978bdc2e0c92-800.webp",
+          "1600w": "/media/derivados/a360978bdc2e0c92-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 3670939,
+        "alt": "Taller prevención y erradicación de la violencia de género en la U. E. Jorge Rodríguez Román",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

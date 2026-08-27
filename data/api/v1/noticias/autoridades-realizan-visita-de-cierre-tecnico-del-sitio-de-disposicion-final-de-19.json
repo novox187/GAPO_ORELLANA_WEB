@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 19,
+    "slug": "autoridades-realizan-visita-de-cierre-tecnico-del-sitio-de-disposicion-final-de-19",
+    "titulo": "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos",
+    "resumen": "El área cumple con los estándares ambientales, de seguridad y con las normativas",
+    "fecha": "2025-01-20",
+    "imagen": {
+      "id": "a053a40d7c9c7bf2",
+      "hash": "a053a40d7c9c7bf27d516b5f1366d79aeccb84d659865ce9ada2bdb32aaf74f3",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_RELLENO_SANITARIO.png",
+      "rutaOriginal": "/media/originales/a053a40d7c9c7bf2.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a053a40d7c9c7bf2-400.webp",
+        "800w": "/media/derivados/a053a40d7c9c7bf2-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1170121,
+      "alt": "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/19/",
+    "fuente_url": "https://orellana.gob.ec/noticia/19/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel acompañada del vicealcalde Víctor Ruiz, de los concejales Paúl Valladolid, Washington Cardona y técnicos municipales realizaron una visita técnica de cierre definitivo del sitio de disposición final de residuos sólidos, el objetivo es evidenciar la implementación de los trabajos de mejoramiento de los desechos, donde la alcaldía invierte USD. 436.901,33905, “Recuerdo cuando asumí la administración, esto era una cosa que definitivamente no se podía venir a visitar, los olores tampoco nos permitían llegar, era una cosa totalmente descuidada; y, uno de mis primeros objetivos fue trabajar en lo que es el relleno sanitario y diría que me siento satisfecha de todo el trabajo que se está haciendo, muy responsable sobre todo”. Shirma Cortés, alcaldesa de Francisco de Orellana.\n“En este momento estamos realizando el movimiento de masas de los residuos, colocación de tierra sobre los taludes, los drenes, sub drenes, y la conducción de los lixiviados hacia los lugares de disposición; va a quedar cubierto de vegetación y va a parecerse a una montaña”. Juan Bonilla, director técnico del proyecto.\nDurante la visita, se pudo observar que el área cumple con los estándares ambientales, de seguridad y con las normativas como: el manejo de lixiviados, el control de emisiones y la restauración del terreno, así como los planes para la post-clausura y monitoreo a largo plazo, “Va a ser un ejemplo, un referente para el resto de cantones, porque tras de este cierre viene ya una institución que se va hacer cargo de todos los desechos sólidos de nuestro cantón”. Paúl Valladolid, concejal de Francisco de Orellana. JG.",
+    "imagenes": [
+      {
+        "id": "a053a40d7c9c7bf2",
+        "hash": "a053a40d7c9c7bf27d516b5f1366d79aeccb84d659865ce9ada2bdb32aaf74f3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_RELLENO_SANITARIO.png",
+        "rutaOriginal": "/media/originales/a053a40d7c9c7bf2.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a053a40d7c9c7bf2-400.webp",
+          "800w": "/media/derivados/a053a40d7c9c7bf2-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1170121,
+        "alt": "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

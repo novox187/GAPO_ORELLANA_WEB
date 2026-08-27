@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": 32,
+    "slug": "certificado-de-no-poseer-bienes-32",
+    "nombre": "Certificado de no poseer bienes",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion",
+      "documentos-y-certificados"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es el certificado que otorga la Jefatura de Avalúos y Catastro en el cual se ratifica si el solicitante tiene o no terrenos dentro de la jurisdicción del cantón Francisco de Orellana.",
+    "que_es": "Es el certificado que otorga la Jefatura de Avalúos y Catastro en el cual se ratifica si el solicitante tiene o no terrenos dentro de la jurisdicción del cantón Francisco de Orellana.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Tiene un valor de 2,37 dólares de los Estados Unidos de América."
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "CERTIFICADO DE NO POSEER BIENES",
+        "html": "<p class=\"text-justify\">Servicio administrativo para certificado de avalúos que se compra en recaudación.</p>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

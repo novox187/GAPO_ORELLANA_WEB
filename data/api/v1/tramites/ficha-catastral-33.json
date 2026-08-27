@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": 33,
+    "slug": "ficha-catastral-33",
+    "nombre": "Ficha catastral",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion",
+      "documentos-y-certificados"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Es un documento técnico que especifica todas las características que tiene un terreno: clave catastral, áreas, dimensiones y ubicación.",
+    "que_es": "Es un documento técnico que especifica todas las características que tiene un terreno: clave catastral, áreas, dimensiones y ubicación.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": false,
+      "detalle": "No tiene costo."
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "FICHA CATASTRAL",
+        "html": "<p class=\"text-justify\">Servicio administrativo para ficha catastral que se compra en recaudación.</p>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

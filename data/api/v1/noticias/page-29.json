@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "id": 35,
+      "slug": "municipalidad-fortalece-el-emprendimiento-local-con-curso-de-contabilidad-basica-35",
+      "titulo": "Municipalidad fortalece el emprendimiento local con curso de Contabilidad Básica",
+      "resumen": "Este curso, cuenta con el aval de la Escuela Superior Politécnica de Chimborazo",
+      "fecha": "2025-02-12",
+      "imagen": {
+        "id": "d81ec9c168b58b9b",
+        "hash": "d81ec9c168b58b9b7677ac28c270273e945aee618d731619d23baebaca3c14d7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_CURSO_CONTABILIDAD.png",
+        "rutaOriginal": "/media/originales/d81ec9c168b58b9b.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d81ec9c168b58b9b-400.webp",
+          "800w": "/media/derivados/d81ec9c168b58b9b-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1009494,
+        "alt": "Municipalidad fortalece el emprendimiento local con curso de Contabilidad Básica",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/35/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 34,
+      "slug": "alcalde-subrogante-mantiene-reunion-de-trabajo-con-el-coronel-de-policia-jhanon-34",
+      "titulo": "Alcalde subrogante mantiene reunión de trabajo con el coronel de Policía Jhanón Varela",
+      "resumen": "Durante el encuentro, se analizó diversas iniciativas orientadas a mejorar la seguridad pública",
+      "fecha": "2025-02-11",
+      "imagen": {
+        "id": "828b5703feaf2e6d",
+        "hash": "828b5703feaf2e6d4ab1794c97a97c667ac7750e032924042b5a63f4dad3f09b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_POLICIA_NACIONAL.png",
+        "rutaOriginal": "/media/originales/828b5703feaf2e6d.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/828b5703feaf2e6d-400.webp",
+          "800w": "/media/derivados/828b5703feaf2e6d-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 923395,
+        "alt": "Alcalde subrogante mantiene reunión de trabajo con el coronel de Policía Jhanón Varela",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/34/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 33,
+      "slug": "autoridades-atienden-necesidades-del-barrio-turismo-ecologico-33",
+      "titulo": "Autoridades atienden necesidades del barrio Turismo Ecológico",
+      "resumen": "ntre las prioridades destaca la construcción del sistema de alcantarillado pluvial",
+      "fecha": "2025-02-10",
+      "imagen": {
+        "id": "1db42ba389e8f2db",
+        "hash": "1db42ba389e8f2db602f4c0882cbb6b417e3ee71676c7910ad423a91a2064aab",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_TURISMO_ECOLOGICO.png",
+        "rutaOriginal": "/media/originales/1db42ba389e8f2db.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1db42ba389e8f2db-400.webp",
+          "800w": "/media/derivados/1db42ba389e8f2db-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1216205,
+        "alt": "Autoridades atienden necesidades del barrio Turismo Ecológico",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/33/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 32,
+      "slug": "alcaldia-moderniza-el-coca-con-semaforos-inteligentes-e-inclusivos-32",
+      "titulo": "Alcaldía moderniza El Coca con semáforos inteligentes e inclusivos",
+      "resumen": "Madres y padres de familia destacan la importancia de esta obra para la seguridad de sus hijos",
+      "fecha": "2025-02-07",
+      "imagen": {
+        "id": "d562d81df02d6b80",
+        "hash": "d562d81df02d6b808f945057df95a22cd10dd7353991ee6418b37c90d8cab8f2",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_SENALIZACION_VIAL.png",
+        "rutaOriginal": "/media/originales/d562d81df02d6b80.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d562d81df02d6b80-400.webp",
+          "800w": "/media/derivados/d562d81df02d6b80-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1000327,
+        "alt": "Alcaldía moderniza El Coca con semáforos inteligentes e inclusivos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/32/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 31,
+      "slug": "alcaldia-mejora-infraestructura-de-cdi-gotitas-de-amor-31",
+      "titulo": "Alcaldía mejora infraestructura de CDI Gotitas de Amor",
+      "resumen": "Los trabajos incluyen la edificación de dos aulas, un moderno comedor, un cerramiento, un área de juegos con cubierta",
+      "fecha": "2025-02-06",
+      "imagen": {
+        "id": "33985f8ae79b6284",
+        "hash": "33985f8ae79b62844cb1eb8dc91ab90c89ecc141c3478b456426cf29a4e9f2d3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_GOTITAS_DE_AMOR.png",
+        "rutaOriginal": "/media/originales/33985f8ae79b6284.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/33985f8ae79b6284-400.webp",
+          "800w": "/media/derivados/33985f8ae79b6284-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1064356,
+        "alt": "Alcaldía mejora infraestructura de CDI Gotitas de Amor",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/31/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 30,
+      "slug": "alcaldia-invierte-en-el-mantenimiento-integral-de-canchas-deportivas-en-el-coca-30",
+      "titulo": "Alcaldía invierte en el mantenimiento integral de canchas deportivas en El Coca",
+      "resumen": "Este ambicioso proyecto, que tiene una inversión de $234,942.50",
+      "fecha": "2025-02-05",
+      "imagen": {
+        "id": "9c84e48ef3cede14",
+        "hash": "9c84e48ef3cede14418d0e6f89f179ef57ab24dd9327bc2cf25d76b426e72899",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_CANCHAS.png",
+        "rutaOriginal": "/media/originales/9c84e48ef3cede14.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9c84e48ef3cede14-400.webp",
+          "800w": "/media/derivados/9c84e48ef3cede14-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1312206,
+        "alt": "Alcaldía invierte en el mantenimiento integral de canchas deportivas en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/30/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 29,
+      "slug": "cdi-cuyrana-wasi-en-palma-roja-listo-para-su-reapertura-29",
+      "titulo": "CDI \"Cuyrana Wasi\" en Palma Roja listo para su reapertura",
+      "resumen": "Los trabajos cumplieron con los estándares técnicos",
+      "fecha": "2025-02-04",
+      "imagen": {
+        "id": "d7f8f4a0a4c4605c",
+        "hash": "d7f8f4a0a4c4605c3ceef90ffdb647e6d158019b866f8b888f5f8e048793713c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_CDI_CUYRANA_WASI.png",
+        "rutaOriginal": "/media/originales/d7f8f4a0a4c4605c.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d7f8f4a0a4c4605c-400.webp",
+          "800w": "/media/derivados/d7f8f4a0a4c4605c-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1444082,
+        "alt": "CDI \"Cuyrana Wasi\" en Palma Roja listo para su reapertura",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/29/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 28,
+      "slug": "alcaldesa-participa-en-reforestacion-de-zonas-de-alto-riesgo-del-barrio-28",
+      "titulo": "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi",
+      "resumen": "La actividad desarrollada por la alcaldía en colaboración con el Ministerio del Ambiente",
+      "fecha": "2025-02-03",
+      "imagen": {
+        "id": "34244b3615118658",
+        "hash": "34244b361511865880494bd998a90797b87a88562a2f4bff233826959f118e42",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_REFORESTACION_ALCALDESA.png",
+        "rutaOriginal": "/media/originales/34244b3615118658.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/34244b3615118658-400.webp",
+          "800w": "/media/derivados/34244b3615118658-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1376550,
+        "alt": "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/28/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    {
+      "id": 27,
+      "slug": "estudiantes-de-la-espoch-visitan-la-planta-de-agua-potable-los-alamos-27",
+      "titulo": "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos",
+      "resumen": "El recorrido brindó a los estudiantes una valiosa oportunidad",
+      "fecha": "2025-01-31",
+      "imagen": {
+        "id": "4496c5b7b3c83b7c",
+        "hash": "4496c5b7b3c83b7cad4fdb5c8abf7703afd1121cca3c49c9e1d2cf449ce0dd80",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_ESTUDIANTES_ESPOCH.png",
+        "rutaOriginal": "/media/originales/4496c5b7b3c83b7c.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/4496c5b7b3c83b7c-400.webp",
+          "800w": "/media/derivados/4496c5b7b3c83b7c-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1058083,
+        "alt": "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      },
+      "url": "/noticia/27/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=29"
+    }
+  ],
+  "meta": {
+    "current_page": 29,
+    "last_page": 32,
+    "per_page": 9
+  },
+  "links": {
+    "first": "/api/v1/noticias/page-1.json",
+    "last": "/api/v1/noticias/page-32.json",
+    "prev": "/api/v1/noticias/page-28.json",
+    "next": "/api/v1/noticias/page-30.json"
+  }
+}

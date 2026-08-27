@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 148,
+    "slug": "orden-y-movilidad-para-todos-con-operativo-de-control-en-veredas-148",
+    "titulo": "Orden y movilidad para todos con operativo de control en veredas",
+    "resumen": "La Alcaldía de Francisco de Orellana, en coordinación con la Policía Nacional y los agentes municipales, refuerza su compromiso por una ciudad ordenada y segura. En la avenida Napo se desarrolló un operativo para fomentar el uso correcto de las zonas",
+    "fecha": "2025-08-20",
+    "imagen": {
+      "id": "ab24dbd69440a24a",
+      "hash": "ab24dbd69440a24a8181c1c18c3fe5ea84adb7aabbd72e41a7ee37a12a3438ed",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_1168.JPG",
+      "rutaOriginal": "/media/originales/ab24dbd69440a24a.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ab24dbd69440a24a-400.webp",
+        "800w": "/media/derivados/ab24dbd69440a24a-800.webp",
+        "1600w": "/media/derivados/ab24dbd69440a24a-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9392242,
+      "alt": "Orden y movilidad para todos con operativo de control en veredas",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/148/",
+    "fuente_url": "https://orellana.gob.ec/noticia/148/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, en coordinación con la Policía Nacional y los agentes municipales, refuerza su compromiso por una ciudad ordenada y segura. En la avenida Napo se desarrolló un operativo para fomentar el uso correcto de las zonas de parqueo y liberar las veredas para el paso peatonal, garantizando así que todos podamos transitar sin obstáculos, “Es muy importante tener un lugar donde se pueda circular tranquilamente y la sociedad en sí se pueda sentir libre.” Luis Palomino, opinión ciudadana.\nDurante el operativo se controló a conductores con vehículos mal estacionados y se retiró una motocicleta que no contaba con la documentación en regla.\n“En este operativo, se procedió al control de vehículos mal estacionados y haciendo el retiro de obstáculos que impidan el libre tránsito peatonal sobre la calle Napo, se recomienda a nuestra querida ciudadanía que, también se una a este trabajo articulado, con el fin de que tengamos una ciudad limpia y adecuada para el uso de cada uno de nosotros.” José Vega, \nagente de control municipal.\nCon acciones firmes y trabajo conjunto, la Alcaldía avanza hacia una ciudad más segura, ordenada y amigable para peatones y conductores. Porque el orden no es tarea de unos pocos, sino el resultado de una comunidad que camina unida hacia el mismo objetivo. ST.",
+    "imagenes": [
+      {
+        "id": "ab24dbd69440a24a",
+        "hash": "ab24dbd69440a24a8181c1c18c3fe5ea84adb7aabbd72e41a7ee37a12a3438ed",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_1168.JPG",
+        "rutaOriginal": "/media/originales/ab24dbd69440a24a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ab24dbd69440a24a-400.webp",
+          "800w": "/media/derivados/ab24dbd69440a24a-800.webp",
+          "1600w": "/media/derivados/ab24dbd69440a24a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9392242,
+        "alt": "Orden y movilidad para todos con operativo de control en veredas",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

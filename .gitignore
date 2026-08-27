@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Salidas de compilación
+app/.svelte-kit/
+app/build/
+app/.vercel/
+
+# Caché del extractor: HTML crudo del sitio origen, regenerable
+data/raw/
+
+# Archivo de medios: ~2 GB de originales y 92 MB de derivados WebP.
+# No se versiona por peso; se reconstruye con `node src/index.ts --only=all`
+# desde tools/scraper. El catálogo sí se versiona (media/manifest.json).
+media/originales/
+media/derivados/
+
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example

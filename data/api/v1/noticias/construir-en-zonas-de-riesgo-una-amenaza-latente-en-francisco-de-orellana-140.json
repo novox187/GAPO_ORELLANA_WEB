@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 140,
+    "slug": "construir-en-zonas-de-riesgo-una-amenaza-latente-en-francisco-de-orellana-140",
+    "titulo": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
+    "resumen": "El cantón Francisco de Orellana se enfrenta a un desafío silencioso pero persistente, la construcción de viviendas e infraestructuras en zonas catalogadas como de alto riesgo; aunque la expansión urbana responde muchas veces a necesidades sociales ur",
+    "fecha": "2025-08-07",
+    "imagen": {
+      "id": "cd9ca28f9287c25d",
+      "hash": "cd9ca28f9287c25df24debe347d2be66cacb7d47eefb2e2727a7226c51aed510",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_MVI_9368.jpg",
+      "rutaOriginal": "/media/originales/cd9ca28f9287c25d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/cd9ca28f9287c25d-400.webp",
+        "800w": "/media/derivados/cd9ca28f9287c25d-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 671,
+      "bytes": 239511,
+      "alt": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/140/",
+    "fuente_url": "https://orellana.gob.ec/noticia/140/",
+    "cuerpo": "El cantón Francisco de Orellana se enfrenta a un desafío silencioso pero persistente, la construcción de viviendas e infraestructuras en zonas catalogadas como de alto riesgo; aunque la expansión urbana responde muchas veces a necesidades sociales urgentes como el acceso a vivienda.\nLa Ley de Riesgos del año 2024, en su artículo 80.1, establece multas y trabajo comunitario para personas naturales; en el capítulo 80.2 instaura multas de hasta 50 salarios y suspensión de actividades a empresas; y, el artículo 81 y Disposiciones Reformatorias dispone la destitución y sanciones penales para servidores públicos si autorizan construcciones en zonas de riesgo no mitigables, “Antes de adquirir un predio, tendríamos que acercarnos a la municipalidad y solicitar que se nos emita un certificado de vulnerabilidad en el que se exponen los criterios técnicos para considerar los predios que sí pueden ser habitados y en zonas seguras”. Susana Rivera, directora de riesgos.\nEn nuestro país, la Superintendencia de Ordenamiento Territorial (SOT) procede a sancionar por incumplimientos leves y graves conforme dispone la Ley Orgánica de Ordenamiento Territorial, Uso y Gestión del Suelo (LOOTUGS). Por ejemplo, en 2024, el GAD Municipal fue multado con 100 salarios básicos unificados (Cerca de USD 45 000), porque en una administración anterior aprobaron una construcción en zona de alto riesgo sin estudios ni respaldos técnicos, considerada infracción muy grave. Si la obra causa daños, también habrá responsabilidades penales conforme al Art. 113 de la LOOTUGS, “Es necesario de que la ciudadanía tenga conocimiento de que existe no solamente la ley, las que establecen que no se construya en áreas de protecciones, en este caso de los ríos, sino que también tenemos una ordenanza municipal número 07 del 2025 donde establece lo que dice la ley; le pido a la ciudadanía que me escucha que, por favor venga al municipio para que se cerciore, y nosotros acá le indicamos si procede o no a aquella persona construir en el lugar que pretende”. Humberto Chérrez, jefe de construcciones municipal.\nConcientizar es prevenir, es urgente que la ciudadanía entienda que construir en una zona de riesgo no solo desafía la ley y a la naturaleza, sino que puede costar vidas humanas. JG.",
+    "imagenes": [
+      {
+        "id": "cd9ca28f9287c25d",
+        "hash": "cd9ca28f9287c25df24debe347d2be66cacb7d47eefb2e2727a7226c51aed510",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_MVI_9368.jpg",
+        "rutaOriginal": "/media/originales/cd9ca28f9287c25d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/cd9ca28f9287c25d-400.webp",
+          "800w": "/media/derivados/cd9ca28f9287c25d-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 671,
+        "bytes": 239511,
+        "alt": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

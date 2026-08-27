@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 239,
+    "slug": "con-liderazgo-firme-la-alcaldia-recupera-la-vialidad-del-barrio-nuevo-coca-239",
+    "titulo": "Con liderazgo firme, la Alcaldía recupera la vialidad del barrio Nuevo Coca",
+    "resumen": "Cuando una mujer gobierna con compromiso, las obras llegan al territorio. La Alcaldía, liderada por Shirma Cortés Sanmiguel, ejecuta trabajos de mantenimiento vial en varias calles del sector Néstor Jiménez, en el barrio Nuevo Coca.",
+    "fecha": "2026-01-21",
+    "imagen": {
+      "id": "88f2093b2f950d41",
+      "hash": "88f2093b2f950d418443c24e9f4d3813802638670b1d054374e80901e3901e00",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG1137.JPG",
+      "rutaOriginal": "/media/originales/88f2093b2f950d41.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/88f2093b2f950d41-400.webp",
+        "800w": "/media/derivados/88f2093b2f950d41-800.webp",
+        "1600w": "/media/derivados/88f2093b2f950d41-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12536468,
+      "alt": "Con liderazgo firme, la Alcaldía recupera la vialidad del barrio Nuevo Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/239/",
+    "fuente_url": "https://orellana.gob.ec/noticia/239/",
+    "cuerpo": "Cuando una mujer gobierna con compromiso, las obras llegan al territorio. La Alcaldía, liderada por Shirma Cortés Sanmiguel, ejecuta trabajos de mantenimiento vial en varias calles del sector Néstor Jiménez, en el barrio Nuevo Coca.\nEstas acciones forman parte del cronograma municipal y buscan mejorar el tránsito vehicular y peatonal, especialmente durante la temporada invernal, garantizando seguridad y mejores condiciones de movilidad para las familias del sector, “Se le agradece a la señora alcaldesa que se preocupa por lo barrios alejados de la ciudad, que son los que necesitan del mantenimiento vial, ahora sí se ve que está haciendo un trabajo muy bueno y se le agradece por eso.” Mario Zambrano, opinión ciudadana. \nCon hechos y presencia en territorio, la administración de Shirma Cortés Sanmiguel demuestra que el liderazgo femenino transforma realidades y avanza hacia un cantón más ordenado y digno para todos. DV.",
+    "imagenes": [
+      {
+        "id": "88f2093b2f950d41",
+        "hash": "88f2093b2f950d418443c24e9f4d3813802638670b1d054374e80901e3901e00",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG1137.JPG",
+        "rutaOriginal": "/media/originales/88f2093b2f950d41.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/88f2093b2f950d41-400.webp",
+          "800w": "/media/derivados/88f2093b2f950d41-800.webp",
+          "1600w": "/media/derivados/88f2093b2f950d41-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12536468,
+        "alt": "Con liderazgo firme, la Alcaldía recupera la vialidad del barrio Nuevo Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

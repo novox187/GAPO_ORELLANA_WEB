@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 47,
+    "slug": "cambio-de-tuberia-de-agua-potable-en-el-barrio-6-de-diciembre-47",
+    "titulo": "Cambio de tubería de agua potable en el barrio 6 de Diciembre",
+    "resumen": "Los moradores del sector valoran estos trabajos, ya que permitirán una mejora significativa en el suministro de agua potable",
+    "fecha": "2025-03-11",
+    "imagen": {
+      "id": "10d448d2ff38ca95",
+      "hash": "10d448d2ff38ca9584b1c1b9787bb1d549f072b7354301069ab4177f5b2c4811",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG_1408.JPG",
+      "rutaOriginal": "/media/originales/10d448d2ff38ca95.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/10d448d2ff38ca95-400.webp",
+        "800w": "/media/derivados/10d448d2ff38ca95-800.webp",
+        "1600w": "/media/derivados/10d448d2ff38ca95-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10042158,
+      "alt": "Cambio de tubería de agua potable en el barrio 6 de Diciembre",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/47/",
+    "fuente_url": "https://orellana.gob.ec/noticia/47/",
+    "cuerpo": "Con el objetivo de mejorar la presión del agua, la dirección de agua potable y alcantarillado sanitario de la municipalidad realizó el reemplazo de una tubería de 63 milímetros en el barrio 6 de Diciembre, “Tenemos una rotura de collarín, este rompimiento se da por el tiempo que tienen estas instalaciones que son aproximadamente de unos 25 años y la tubería como está un poco profunda, ocurren estos daños”. Ángel Moreno, técnico municipal. \nLos moradores del sector valoran estos trabajos, ya que permitirán una mejora significativa en el suministro de agua potable, “Los trabajos están muy bien, porque aquí no caía nada de agua, estaba totalmente tapado, pero ahora están haciendo nueva conexión y yo creo que con esto va a quedar arreglado el problema”. Víctor Asqui, morador del sector. \nDesde la Alcaldía, invitamos a la ciudadanía a presentar sus requerimientos, solicitudes y denuncias en las oficinas de la dirección de agua potable y alcantarillado sanitario. DV.",
+    "imagenes": [
+      {
+        "id": "10d448d2ff38ca95",
+        "hash": "10d448d2ff38ca9584b1c1b9787bb1d549f072b7354301069ab4177f5b2c4811",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG_1408.JPG",
+        "rutaOriginal": "/media/originales/10d448d2ff38ca95.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/10d448d2ff38ca95-400.webp",
+          "800w": "/media/derivados/10d448d2ff38ca95-800.webp",
+          "1600w": "/media/derivados/10d448d2ff38ca95-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10042158,
+        "alt": "Cambio de tubería de agua potable en el barrio 6 de Diciembre",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

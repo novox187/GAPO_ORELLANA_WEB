@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 234,
+    "slug": "medios-de-comunicacion-conocen-proceso-de-recuperacion-de-maquinaria-y-234",
+    "titulo": "Medios de comunicación conocen proceso de recuperación de maquinaria y vehículos pesados",
+    "resumen": "Representantes de los medios de comunicación constataron, durante un recorrido técnico, administrativo y financiero, el proceso de recuperación de vehículos y maquinaria pesada que permanecían abandonados en talleres particulares y municipales, sin c",
+    "fecha": "2026-01-12",
+    "imagen": {
+      "id": "802099af50daf631",
+      "hash": "802099af50daf631a2985f159e89a63ab6bd4e43cad233d59412705308923692",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_3691.JPG",
+      "rutaOriginal": "/media/originales/802099af50daf631.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/802099af50daf631-400.webp",
+        "800w": "/media/derivados/802099af50daf631-800.webp",
+        "1600w": "/media/derivados/802099af50daf631-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9802063,
+      "alt": "Medios de comunicación conocen proceso de recuperación de maquinaria y vehículos pesados",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+    },
+    "url": "/noticia/234/",
+    "fuente_url": "https://orellana.gob.ec/noticia/234/",
+    "cuerpo": "Representantes de los medios de comunicación constataron, durante un recorrido técnico, administrativo y financiero, el proceso de recuperación de vehículos y maquinaria pesada que permanecían abandonados en talleres particulares y municipales, sin contratos, órdenes de trabajo, ni planificación, una evidente herencia de la administración anterior. En total, se han recuperado 85 equipos, entre ellos unidades clave de la Planta de Asfalto, de las 129 que forman parte del parque automotor de la institución, “A inicios de esta administración y bajo la disposición y voluntad política de la señora alcaldesa, se ha procedido a recuperar maquinaria pesada, entre las cuales son: dos tractores de oruga, dos excavadoras, una motoniveladora y dos rodillos lisos, tenemos un bote taxi, cinco vehículos livianos, sin considerar las camionetas que se encuentran en proceso respectivo en el sindicato de trabajadores.” Hólger Viscaíno, jefe de taller vehicular municipal.\nCon decisión firme y visión de futuro, la alcaldesa Shirma Cortés Sanmiguel destinó USD 1.127.278,49 para rescatar y reactivar este parque automotor estratégico, garantizando que la inversión pública vuelva a traducirse en obras, servicios y atención directa a la ciudadanía, “Por ejemplo, la trituradora tuvo daños de motores, falta de calibraciones de los tableros, bandas transportadoras y lo que es la planta de asfalto también estuvimos con daños de calibración de software, daños de calderos, del secador, de generadores; por eso, la máxima autoridad ha hecho todo lo posible por firmar un contrato de mantenimiento correctivo y preventivo.” David Napa, jefe de la planta de asfalto municipal.\nMirando al 2026, la administración municipal anunció una inversión superior a USD 1,5 millones para asegurar el mantenimiento técnico permanente y sostenible del parque automotor, que incluye repuestos, combustible, aceites y logística especializada. Una gestión que planifica, invierte y rinde cuentas, consolidando un modelo de gobierno que transforma realidades. JG.",
+    "imagenes": [
+      {
+        "id": "802099af50daf631",
+        "hash": "802099af50daf631a2985f159e89a63ab6bd4e43cad233d59412705308923692",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_3691.JPG",
+        "rutaOriginal": "/media/originales/802099af50daf631.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/802099af50daf631-400.webp",
+          "800w": "/media/derivados/802099af50daf631-800.webp",
+          "1600w": "/media/derivados/802099af50daf631-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9802063,
+        "alt": "Medios de comunicación conocen proceso de recuperación de maquinaria y vehículos pesados",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      }
+    ]
+  }
+}

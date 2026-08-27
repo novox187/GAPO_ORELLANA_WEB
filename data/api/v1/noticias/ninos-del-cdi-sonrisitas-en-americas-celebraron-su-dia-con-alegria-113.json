@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 113,
+    "slug": "ninos-del-cdi-sonrisitas-en-americas-celebraron-su-dia-con-alegria-113",
+    "titulo": "Niños del CDI Sonrisitas en Américas celebraron su día con alegría",
+    "resumen": "En la parroquia Taracoa, 27 niños y niñas del Centro de Desarrollo Infantil (CDI) “Sonrisitas de América” de la Alcaldía de Francisco de Orellana fueron agasajado por el Día Internacional del Niño. En el evento hubo música, bailes, elección del prínc",
+    "fecha": "2025-06-30",
+    "imagen": {
+      "id": "df09a32554a49096",
+      "hash": "df09a32554a4909697221f56d4a161ccb7fb3f0c5f1a6ad2489cbd8079615e64",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG_9254.JPG",
+      "rutaOriginal": "/media/originales/df09a32554a49096.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/df09a32554a49096-400.webp",
+        "800w": "/media/derivados/df09a32554a49096-800.webp",
+        "1600w": "/media/derivados/df09a32554a49096-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6605216,
+      "alt": "Niños del CDI Sonrisitas en Américas celebraron su día con alegría",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/113/",
+    "fuente_url": "https://orellana.gob.ec/noticia/113/",
+    "cuerpo": "En la parroquia Taracoa, 27 niños y niñas del Centro de Desarrollo Infantil (CDI) “Sonrisitas de América” de la Alcaldía de Francisco de Orellana fueron agasajado por el Día Internacional del Niño.\nEn el evento hubo música, bailes, elección del príncipe y princesa del CDI, juegos, premios, caramelos, refrigerio, pastel, almuerzo y juguetes para los más pequeños de casa, “Estoy agradecida con las autoridades quienes han gestionado el CDI, ya que nos permite que nuestros niños lleguen, se diviertan y tengan un espacio apropiado y también que vayan adquiriendo conocimientos”. Carmen Lima, madre de familia. \nEstos servicios sociales son posibles gracias al liderazgo de nuestra alcaldesa Shirma Cortés Sanmiguel, en coordinación con el Ministerio de Inclusión Económica y Social (MIES), “Agradecerle a la alcaldesa Shirma Cortés ya que ella nos apoya bastante en esto y nos ayuda para que nuestros niños crezcan y socialicen más”. Gibson Arévalo, padre de familia. \nLa Municipalidad reafirma su compromiso con la niñez y continuará ejecutando programas sociales que garanticen el desarrollo integral, emocional y psicológico de los niños y niñas de Francisco de Orellana. DV.",
+    "imagenes": [
+      {
+        "id": "df09a32554a49096",
+        "hash": "df09a32554a4909697221f56d4a161ccb7fb3f0c5f1a6ad2489cbd8079615e64",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG_9254.JPG",
+        "rutaOriginal": "/media/originales/df09a32554a49096.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/df09a32554a49096-400.webp",
+          "800w": "/media/derivados/df09a32554a49096-800.webp",
+          "1600w": "/media/derivados/df09a32554a49096-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6605216,
+        "alt": "Niños del CDI Sonrisitas en Américas celebraron su día con alegría",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

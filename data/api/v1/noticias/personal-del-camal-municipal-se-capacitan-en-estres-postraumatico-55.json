@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 55,
+    "slug": "personal-del-camal-municipal-se-capacitan-en-estres-postraumatico-55",
+    "titulo": "Personal del camal municipal se capacitan en estrés postraumático",
+    "resumen": "Con el objetivo de fortalecer el bienestar emocional y promover un ambiente laboral seguro, funcionarios de la Planta de Faenamiento",
+    "fecha": "2025-03-25",
+    "imagen": {
+      "id": "61bf27b1e0067434",
+      "hash": "61bf27b1e0067434c5a34d502e19184933ef601cbeb032560e3832c7c619ef8a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_3951.JPG",
+      "rutaOriginal": "/media/originales/61bf27b1e0067434.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/61bf27b1e0067434-400.webp",
+        "800w": "/media/derivados/61bf27b1e0067434-800.webp",
+        "1600w": "/media/derivados/61bf27b1e0067434-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6058771,
+      "alt": "Personal del camal municipal se capacitan en estrés postraumático",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+    },
+    "url": "/noticia/55/",
+    "fuente_url": "https://orellana.gob.ec/noticia/55/",
+    "cuerpo": "Con el objetivo de fortalecer el bienestar emocional y promover un ambiente laboral seguro, funcionarios de la Planta de Faenamiento participaron en una capacitación sobre estrés postraumático y prevención de violencia, así lo manifiesta Raiza Mena, psicóloga de talento humano municipal, “Esta capacitación ha sido importante, debido a la naturaleza del trabajo que tiene el personal de la Planta de Faenamiento, hemos visto la necesidad de dar esta capacitación justamente para prevenir este riesgo”.\nLa jornada formativa fue organizada y dirigida por el área de Seguridad Industrial y Salud Ocupacional de la Alcaldía, abordando herramientas y estrategias para el manejo del estrés y la identificación de factores de riesgo psicosocial en el entorno laboral, “A mí, me pareció excelentemente la capacitación, porque nos une y conocemos más sobre el tema, y espero que esa actividad no se pierda con el tiempo. Marcela Valarezo, funcionaria municipal.\nEste tipo de iniciativas reflejan el compromiso de la municipalidad con la salud integral de sus trabajadores, promoviendo espacios laborales seguros, respetuosos y libres de violencia. DV.",
+    "imagenes": [
+      {
+        "id": "61bf27b1e0067434",
+        "hash": "61bf27b1e0067434c5a34d502e19184933ef601cbeb032560e3832c7c619ef8a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_3951.JPG",
+        "rutaOriginal": "/media/originales/61bf27b1e0067434.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/61bf27b1e0067434-400.webp",
+          "800w": "/media/derivados/61bf27b1e0067434-800.webp",
+          "1600w": "/media/derivados/61bf27b1e0067434-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6058771,
+        "alt": "Personal del camal municipal se capacitan en estrés postraumático",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      }
+    ]
+  }
+}

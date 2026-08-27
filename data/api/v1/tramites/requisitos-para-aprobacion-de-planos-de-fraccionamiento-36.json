@@ -1,0 +1,95 @@
+{
+  "data": {
+    "id": 36,
+    "slug": "requisitos-para-aprobacion-de-planos-de-fraccionamiento-36",
+    "nombre": "Requisitos para aprobación de planos de fraccionamiento",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "El fraccionamiento consiste en dividir a un terreno en dos o más predios sean urbanos o rurales.",
+    "que_es": "El fraccionamiento consiste en dividir a un terreno en dos o más predios sean urbanos o rurales.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Todos los servicios que presta la Dirección de Ordenamiento Territorial están en función al valor por metro cuadrado de la tenencia de la tierra y en el caso de construcciones están en función a los metros cuadrados de la construcción."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Línea de fábrica (adquirir en recaudación).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Copia de escritura certificada (notaria).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "2 copias de la cédula de ciudadanía y papeleta de votación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Original y copia del pago del impuesto predial.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Certificado de Riesgos (después de la inspección).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Original y copia del carné profesional.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Original y copia del Certificado de gravámenes actualizado (Registro de la Propiedad).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "4 copias de los planos.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 10,
+        "texto": "Respaldo magnético del proyecto (CD).",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 265,
+    "slug": "ciclo-warmi-2026-promueve-deporte-e-igualdad-en-el-coca-por-el-dia-265",
+    "titulo": "Ciclo Warmi 2026 promueve deporte e igualdad en El Coca por el Día Internacional de la Mujer",
+    "resumen": "En conmemoración del Día Internacional de la Mujer, más de 100 personas participaron en el evento deportivo Ciclo Warmi 2026, realizado en el Parque Central de la ciudad de El Coca. La actividad fue impulsada por la Alcaldía, liderada por Shirma Cort",
+    "fecha": "2026-03-11",
+    "imagen": {
+      "id": "63542e98cd1c8e35",
+      "hash": "63542e98cd1c8e3532ded4e90a0e0301b1f36123534635401b274a2833ad0a07",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_MG9677.jpg",
+      "rutaOriginal": "/media/originales/63542e98cd1c8e35.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/63542e98cd1c8e35-400.webp",
+        "800w": "/media/derivados/63542e98cd1c8e35-800.webp",
+        "1600w": "/media/derivados/63542e98cd1c8e35-1600.webp"
+      },
+      "ancho": 6160,
+      "alto": 4640,
+      "bytes": 13123994,
+      "alt": "Ciclo Warmi 2026 promueve deporte e igualdad en El Coca por el Día Internacional de la Mujer",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+    },
+    "url": "/noticia/265/",
+    "fuente_url": "https://orellana.gob.ec/noticia/265/",
+    "cuerpo": "En conmemoración del Día Internacional de la Mujer, más de 100 personas participaron en el evento deportivo Ciclo Warmi 2026, realizado en el Parque Central de la ciudad de El Coca. La actividad fue impulsada por la Alcaldía, liderada por Shirma Cortés Sanmiguel, quien afirma que con estas actividades se busca fortalecer las políticas en beneficio de todas las mujeres del cantón, “Desde la municipalidad venimos haciendo un trabajo articulado con diferentes instituciones, entre ellas COCAPRODE y Casa Paula con el único objetivo de fortalecer las políticas públicas y erradicar la violencia hacia la mujer.” \nEn el evento se realizó la entrega de kits conmemorativos para los participantes para realizar el recorrido ciclístico que se desarrolló por las calles Napo, Miguel Gamboa y Amazonas, reuniendo a ciudadanos que se sumaron a esta jornada de deportiva, “Es un evento muy importante, gracias a la alcaldesa que ha tomado el tiempo de pensar y apoyar a todas las mujeres del cantón.” Kerly Cruz, opinión ciudadana. \nEl evento se convirtió en un espacio para promover la igualdad de género, reconocer las luchas históricas de las mujeres y reafirmar desde lo social y lo político, el compromiso de seguir construyendo una sociedad donde sus derechos sean respetados. DV.",
+    "imagenes": [
+      {
+        "id": "63542e98cd1c8e35",
+        "hash": "63542e98cd1c8e3532ded4e90a0e0301b1f36123534635401b274a2833ad0a07",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_MG9677.jpg",
+        "rutaOriginal": "/media/originales/63542e98cd1c8e35.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/63542e98cd1c8e35-400.webp",
+          "800w": "/media/derivados/63542e98cd1c8e35-800.webp",
+          "1600w": "/media/derivados/63542e98cd1c8e35-1600.webp"
+        },
+        "ancho": 6160,
+        "alto": 4640,
+        "bytes": 13123994,
+        "alt": "Ciclo Warmi 2026 promueve deporte e igualdad en El Coca por el Día Internacional de la Mujer",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      }
+    ]
+  }
+}

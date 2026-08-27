@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 77,
+    "slug": "festival-deportivo-el-coca-fit-games-77",
+    "titulo": "Festival deportivo \"El Coca Fit Games\"",
+    "resumen": "Como parte de la celebración del “quincuagésimo sexto aniversario de cantonización de Francisco de Orellana”",
+    "fecha": "2025-05-01",
+    "imagen": {
+      "id": "d75c25d17c5a02ce",
+      "hash": "d75c25d17c5a02cef1fdebc4774b87a4773314eda7daab5a0c7f99360ca45e4a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_7818.JPG",
+      "rutaOriginal": "/media/originales/d75c25d17c5a02ce.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d75c25d17c5a02ce-400.webp",
+        "800w": "/media/derivados/d75c25d17c5a02ce-800.webp",
+        "1600w": "/media/derivados/d75c25d17c5a02ce-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 7470752,
+      "alt": "Festival deportivo \"El Coca Fit Games\"",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/77/",
+    "fuente_url": "https://orellana.gob.ec/noticia/77/",
+    "cuerpo": "Como parte de la celebración del “quincuagésimo sexto aniversario de cantonización de Francisco de Orellana” se realizó el festival deportivo “El Coca Fit Games” segunda edición. El evento contó con la presencia de la primera autoridad cantonal, la alcaldesa Shirma Cortés Sanmiguel, y del concejal Paul Valladolid, quienes en sus intervenciones destacaron la importancia de fortalecer y respaldar el deporte local como un pilar para el desarrollo comunitario, “Gracias a todos por ser partícipes de estos eventos que la municipalidad ha preparado para ustedes y pido que seamos parte de estos diferentes deportes que mucha falta nos hacen en nuestra salud”. Shirma Cortés, alcaldesa de Francisco de Orellana. \nDurante dos días de intensa competencia, alrededor de 150 crossfiteros nacionales y extranjeros demostraron su talento y esfuerzo en distintas categorías: principiantes, intermedios y profesionales. En el cierre del evento, los primeros lugares recibieron medallas y premios económicos como reconocimiento a su dedicación y desempeño, “alcaldesa Shirma Cortés, muchísimas gracias por apoyar este deporte, realmente es un paso adelantado para los jóvenes y personas adultas y de verdad muchas gracias, y que ¡Viva Francisco de Orellana! Vanessa Sepúlveda, deportista colombiana. \n Desde la alcaldía de Francisco de Orellana, reafirmamos nuestro compromiso con el fomento del deporte y el bienestar de nuestros ciudadanos.\n¡Seguimos construyendo el cantón que queremos! DV.",
+    "imagenes": [
+      {
+        "id": "d75c25d17c5a02ce",
+        "hash": "d75c25d17c5a02cef1fdebc4774b87a4773314eda7daab5a0c7f99360ca45e4a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_7818.JPG",
+        "rutaOriginal": "/media/originales/d75c25d17c5a02ce.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d75c25d17c5a02ce-400.webp",
+          "800w": "/media/derivados/d75c25d17c5a02ce-800.webp",
+          "1600w": "/media/derivados/d75c25d17c5a02ce-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 7470752,
+        "alt": "Festival deportivo \"El Coca Fit Games\"",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

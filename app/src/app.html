@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="text-scale" content="scale" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.svg" type="image/svg+xml" />
+		<script>
+			// Restaura el tema elegido antes del primer pintado. Sin esto, quien
+			// prefiere el modo claro con el sistema en oscuro (o al revés) ve un
+			// parpadeo del tema equivocado en cada carga.
+			try {
+				var t = localStorage.getItem('tema');
+				if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+			} catch (e) {
+				/* almacenamiento bloqueado: se usa la preferencia del sistema */
+			}
+		</script>
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>

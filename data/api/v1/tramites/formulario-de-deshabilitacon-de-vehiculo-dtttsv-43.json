@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 43,
+    "slug": "formulario-de-deshabilitacon-de-vehiculo-dtttsv-43",
+    "nombre": "Formulario de deshabilitacón de vehículo dtttsv",
+    "direccion": {
+      "id": 9,
+      "slug": "direccion-de-transito-transporte-terrestre-y-seguridad-vial",
+      "nombre": "DIRECCIÓN DE TRÁNSITO, TRANSPORTE TERRESTRE Y SEGURIDAD VIAL"
+    },
+    "categorias": [
+      "vehiculos-y-transporte"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE DESHABILITACÓN DE VEHÍCULO DTTTSV\n \n \n \n \n \n DOCUMENTOS DESCARGABLES:\n \n \n \n \n Descargar FORMULARIO DE DESHABILITACÓN DE VEHÍCULO DTTTSV",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [
+      {
+        "nombre": "Descargar FORMULARIO DE DESHABILITACÓN DE VEHÍCULO DTTTSV",
+        "url": "https://orellana.gob.ec/media/tramites_documentos/FORMULARIO_DE_DESHABILITACION_DE_VEHICULO_DTTTSV.xlsx",
+        "tipo": "xlsx"
+      }
+    ],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "Información adicional",
+        "html": "<div class=\"mt-4\">\n                                                <p class=\"font-bold\">DOCUMENTOS DESCARGABLES:</p>\n                                                <ul class=\"list-unstyled\">\n                                                    \n                                                        <li>\n                                                            <a href=\"/media/tramites_documentos/FORMULARIO_DE_DESHABILITACION_DE_VEHICULO_DTTTSV.xlsx\" target=\"_blank\" class=\"btn-download-elegant\">\n                                                                <i class=\"fas fa-file-download\" style=\"margin-right: 8px;\"></i> Descargar FORMULARIO DE DESHABILITACÓN DE VEHÍCULO DTTTSV\n                                                            </a>\n                                                        </li>\n                                                    \n                                                </ul>\n                                            </div>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

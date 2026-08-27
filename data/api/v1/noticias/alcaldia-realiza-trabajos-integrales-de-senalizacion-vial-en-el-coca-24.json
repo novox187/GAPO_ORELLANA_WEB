@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 24,
+    "slug": "alcaldia-realiza-trabajos-integrales-de-senalizacion-vial-en-el-coca-24",
+    "titulo": "Alcaldía realiza trabajos integrales de señalización vial en El Coca",
+    "resumen": "La instalación de pórticos informativos en puntos estratégicos de la localidad",
+    "fecha": "2025-01-28",
+    "imagen": {
+      "id": "185e898b87cd8f83",
+      "hash": "185e898b87cd8f838cc04cc826485bd59d03e9b7ba40c5d8e726516972239c1b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_PORTICOS_INFORMATIVOS.png",
+      "rutaOriginal": "/media/originales/185e898b87cd8f83.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/185e898b87cd8f83-400.webp",
+        "800w": "/media/derivados/185e898b87cd8f83-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1215906,
+      "alt": "Alcaldía realiza trabajos integrales de señalización vial en El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+    },
+    "url": "/noticia/24/",
+    "fuente_url": "https://orellana.gob.ec/noticia/24/",
+    "cuerpo": "¡Atención, vecinos! La Alcaldía sigue trabajando para embellecer nuestros espacios urbanos, con trabajos de señalización horizontal, de urbanismo táctico; así como también, límites de velocidad en zonas escolares. Estos esfuerzos no solo buscan mejorar la circulación, sino también aportar un toque moderno y organizado a nuestras avenidas de El Coca, “Es formidable los trabajos, porque acabo de llegar y me encuentro con esta sorpresa, porque está muy vistoso, muy llamativo ya que indica el kilometraje para llegar al Coca, a Quito, al Tena, por eso se mira bastante bonito y está muy bien”. Cruz Guerrero, opinión ciudadana.\nLa instalación de pórticos informativos en puntos estratégicos de la localidad, también forman parte de un macro proyecto que incluye la instalación de semáforos inteligentes e inclusivos, la alcaldía que dirige Shirma Cortés Sanmiguel invierte USD. 832.259.52, “Es bueno dar a conocer a la ciudadanía de cómo puede llegar a la ciudad, cómo movilizarse, el cómo darles toda la información necesaria para que ellos puedan permanecer y llegar a nuestro sector e inclusive encaminarlos a nuestros cantones vecinos”. Jhonny Barrionuevo, director de tránsito del GADMFO.\nEstas acciones permiten tener una ciudad más linda, segura y fácil de transitar. JG.",
+    "imagenes": [
+      {
+        "id": "185e898b87cd8f83",
+        "hash": "185e898b87cd8f838cc04cc826485bd59d03e9b7ba40c5d8e726516972239c1b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_PORTICOS_INFORMATIVOS.png",
+        "rutaOriginal": "/media/originales/185e898b87cd8f83.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/185e898b87cd8f83-400.webp",
+          "800w": "/media/derivados/185e898b87cd8f83-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1215906,
+        "alt": "Alcaldía realiza trabajos integrales de señalización vial en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      }
+    ]
+  }
+}

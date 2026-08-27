@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 53,
+    "slug": "reapertura-del-centro-de-equidad-y-justicia-para-victimas-de-violencia-de-genero-53",
+    "titulo": "Reapertura del centro de equidad y justicia para víctimas de violencia de género",
+    "resumen": "Con el objetivo proteger a mujeres víctimas de violencia de género y a sus núcleos familiares, el Concejo Cantonal de Protección de Derechos de Francisco de Orellana",
+    "fecha": "2025-03-21",
+    "imagen": {
+      "id": "8dc42ad52c18b946",
+      "hash": "8dc42ad52c18b9465b933a65f2f2acf6004b1bc662e989c94e05be436f3fc30e",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_4068.JPG",
+      "rutaOriginal": "/media/originales/8dc42ad52c18b946.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8dc42ad52c18b946-400.webp",
+        "800w": "/media/derivados/8dc42ad52c18b946-800.webp",
+        "1600w": "/media/derivados/8dc42ad52c18b946-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 4640,
+      "bytes": 15085410,
+      "alt": "Reapertura del centro de equidad y justicia para víctimas de violencia de género",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/53/",
+    "fuente_url": "https://orellana.gob.ec/noticia/53/",
+    "cuerpo": "Con el objetivo proteger a mujeres víctimas de violencia de género y a sus núcleos familiares, el Concejo Cantonal de Protección de Derechos de Francisco de Orellana (COCAPRODE) reapertura el centro de equidad y justicia para la atención a víctimas de violencia de género hacia la comunidad, “Estamos trabajando con instituciones de la sociedad civil de la localidad, de forma que podamos tener una atención integral y articulada y sobre todo podamos llegar a todos los sectores o comunidades del cantón”. Gabriela Ramírez, coordinara del centro social. \nEl centro de equidad brinda los siguientes servicios: trabajo social, psicología y asesoría legal los mismos que son derivados de los usuarios de la Junta Cantonal de Derechos y de manera particular, “Para mí, es buena la atención, ellos se preocupan sobre todo por los derechos de las personas que somos afectadas, tienen un bonito trato y nos atienden bien”. Moisés Viteri, usuario del centro social. \nComo Alcaldía de Francisco de Orellana liderado por nuestra máxima autoridad Shirma Cortés Sanmiguel siempre trabajaremos de la mano con las demás entidades sociales a fin de proteger los derechos de las personas más vulnerables del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "8dc42ad52c18b946",
+        "hash": "8dc42ad52c18b9465b933a65f2f2acf6004b1bc662e989c94e05be436f3fc30e",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_4068.JPG",
+        "rutaOriginal": "/media/originales/8dc42ad52c18b946.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8dc42ad52c18b946-400.webp",
+          "800w": "/media/derivados/8dc42ad52c18b946-800.webp",
+          "1600w": "/media/derivados/8dc42ad52c18b946-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 4640,
+        "bytes": 15085410,
+        "alt": "Reapertura del centro de equidad y justicia para víctimas de violencia de género",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 88,
+    "slug": "alcaldia-adquiere-un-moderno-camion-refrigerador-de-transporte-de-productos-88",
+    "titulo": "Alcaldía adquiere un moderno camión refrigerador de transporte de productos cárnicos",
+    "resumen": "Con el firme compromiso de fortalecer la cadena de suministro de productos",
+    "fecha": "2025-05-22",
+    "imagen": {
+      "id": "328629b26cbc5afa",
+      "hash": "328629b26cbc5afae103284bcfd631f5ce94808482f3bb298d9842518802c6ae",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_IMGN_1063.JPG",
+      "rutaOriginal": "/media/originales/328629b26cbc5afa.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/328629b26cbc5afa-400.webp",
+        "800w": "/media/derivados/328629b26cbc5afa-800.webp",
+        "1600w": "/media/derivados/328629b26cbc5afa-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7073330,
+      "alt": "Alcaldía adquiere un moderno camión refrigerador de transporte de productos cárnicos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+    },
+    "url": "/noticia/88/",
+    "fuente_url": "https://orellana.gob.ec/noticia/88/",
+    "cuerpo": "Con el firme compromiso de fortalecer la cadena de suministro de productos cárnicos y garantizar su óptima conservación durante el transporte, la Alcaldía que dirige Shirma Cortés Sanmiguel adquirió un moderno camión refrigerador, destinado al traslado seguro e higiénico.\nEste vehículo tiene un monto de inversión de $ 67.666,00 y está equipado con tecnología de refrigeración de última generación, y cuenta con: piso y forros en acero inoxidable, dos canales para desagües con llave de PVS, aislamiento en poliuretano, madera fenólica para evitar puntos calientes, sistema corredizo para movimiento de reses, entre otros, lo que permitirá mantener la cadena de frío desde la planta de faenamiento hasta los puntos de distribución, asegurando que la carne cumpla con las normativas de salud pública y alimentaria, “La compra de este vehículo forma parte de un plan integral para el mejoramiento de los servicios municipales, especialmente en áreas como el control sanitario, el abastecimiento de alimentos y la logística de distribución. Asimismo, se busca reducir el riesgo de contaminación, preservar la calidad de los productos y brindar mayor confianza a la ciudadanía respecto a los alimentos que consume”. Miguel Velasque, técnico del GADMFO.\nLa Alcaldía está comprometida con brindar un servicio eficiente, mejorar la calidad de vida y el bienestar de la población, apostando por una gestión responsable y eficaz de los recursos para el bienestar de nuestros ciudadanos. JG.",
+    "imagenes": [
+      {
+        "id": "328629b26cbc5afa",
+        "hash": "328629b26cbc5afae103284bcfd631f5ce94808482f3bb298d9842518802c6ae",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_IMGN_1063.JPG",
+        "rutaOriginal": "/media/originales/328629b26cbc5afa.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/328629b26cbc5afa-400.webp",
+          "800w": "/media/derivados/328629b26cbc5afa-800.webp",
+          "1600w": "/media/derivados/328629b26cbc5afa-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7073330,
+        "alt": "Alcaldía adquiere un moderno camión refrigerador de transporte de productos cárnicos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 127,
+    "slug": "minga-de-limpieza-embellece-el-malecon-de-el-coca-127",
+    "titulo": "Minga de limpieza embellece el malecón de El Coca",
+    "resumen": "Con la finalidad de mejorar el ornato y mantener limpia la ciudad, el Gobierno Municipal de Francisco de Orellana, en coordinación con el Cuerpo de Bomberos, representantes de la Cámara de Comercio y",
+    "fecha": "2025-07-17",
+    "imagen": {
+      "id": "0127d90e3ae2b728",
+      "hash": "0127d90e3ae2b7280cd135e51e9756a66630b7fe42f280529f52645112ff9797",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG3310.JPG",
+      "rutaOriginal": "/media/originales/0127d90e3ae2b728.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/0127d90e3ae2b728-400.webp",
+        "800w": "/media/derivados/0127d90e3ae2b728-800.webp",
+        "1600w": "/media/derivados/0127d90e3ae2b728-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12175610,
+      "alt": "Minga de limpieza embellece el malecón de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+    },
+    "url": "/noticia/127/",
+    "fuente_url": "https://orellana.gob.ec/noticia/127/",
+    "cuerpo": "Con la finalidad de mejorar el ornato y mantener limpia la ciudad, el Gobierno Municipal de Francisco de Orellana, en coordinación con el Cuerpo de Bomberos, representantes de la Cámara de Comercio y ciudadanía en general, realizó una minga de limpieza en el malecón de El Coca, “Estamos contentos y alegres con la limpieza para el beneficio de todo ciudadano que llega a nuestro malecón”. Mariana Mena, opinión ciudadana. \n“Está muy bien que el municipio realice estas mingas de limpieza para la comunidad y para la ciudadanía que se acerque a un lugar donde está limpio”. Leonela Tenorio, presidenta de la Cámara de Turismo. \nLa minga es parte de una serie de campañas que impulsa la administración municipal para fomentar la participación ciudadana y el respeto por el espacio público, contribuyendo al desarrollo sostenible y a una mejor calidad de vida para todos. DV.",
+    "imagenes": [
+      {
+        "id": "0127d90e3ae2b728",
+        "hash": "0127d90e3ae2b7280cd135e51e9756a66630b7fe42f280529f52645112ff9797",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG3310.JPG",
+        "rutaOriginal": "/media/originales/0127d90e3ae2b728.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0127d90e3ae2b728-400.webp",
+          "800w": "/media/derivados/0127d90e3ae2b728-800.webp",
+          "1600w": "/media/derivados/0127d90e3ae2b728-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12175610,
+        "alt": "Minga de limpieza embellece el malecón de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      }
+    ]
+  }
+}

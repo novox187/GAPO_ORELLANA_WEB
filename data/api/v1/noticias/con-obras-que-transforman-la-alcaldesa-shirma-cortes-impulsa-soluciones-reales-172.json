@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 172,
+    "slug": "con-obras-que-transforman-la-alcaldesa-shirma-cortes-impulsa-soluciones-reales-172",
+    "titulo": "Con obras que transforman, la alcaldesa Shirma Cortés impulsa soluciones reales para Perla Amazónica",
+    "resumen": "A paso firme y con resultados visibles, la administración municipal que lidera la alcaldesa Shirma Cortés Sanmiguel avanza con el cambio de la red de alcantarillado sanitario en un importante tramo de la avenida Alejandro Labaka y la calle Transversa",
+    "fecha": "2025-10-03",
+    "imagen": {
+      "id": "a7af3e17ca68c6e7",
+      "hash": "a7af3e17ca68c6e7c0ad5253fd82ec8e24a085942c1f9495243d6241406b85ad",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03.JPG",
+      "rutaOriginal": "/media/originales/a7af3e17ca68c6e7.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a7af3e17ca68c6e7-400.webp",
+        "800w": "/media/derivados/a7af3e17ca68c6e7-800.webp",
+        "1600w": "/media/derivados/a7af3e17ca68c6e7-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6465354,
+      "alt": "Con obras que transforman, la alcaldesa Shirma Cortés impulsa soluciones reales para Perla Amazónica",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+    },
+    "url": "/noticia/172/",
+    "fuente_url": "https://orellana.gob.ec/noticia/172/",
+    "cuerpo": "A paso firme y con resultados visibles, la administración municipal que lidera la alcaldesa Shirma Cortés Sanmiguel avanza con el cambio de la red de alcantarillado sanitario en un importante tramo de la avenida Alejandro Labaka y la calle Transversal 15 del barrio Perla Amazónica que, por años han esperado la solución a problemas de inundaciones presentes en el sector, “En este momento estamos desadoquinando, para posteriormente hacer el hoyo con la excavadora, esto se da para cambio y tubería sanitaria, para luego bajar el pozo.” César Malla, superintendente de obra.\n“Gracias al trabajo que nos da la alcaldesa, una porque nos ayuda no solamente a mí, sino a todos los del barrio llevar el sustento a nuestras casas.” Marcelo Guerrero, trabajador de la obra.\nCon una inversión cercana a los 198 mil dólares, este proyecto no solo moderniza la infraestructura sanitaria, sino que también previene futuros problemas ambientales y de salud, demostrando que la planificación y la gestión responsable marcan la diferencia en el desarrollo urbano, “Estamos encargados de verificar que el contratista cumpla con todas las especificaciones técnicas, que los materiales sean de la mejor calidad, que la forma de trabajo sea la adecuada y principalmente cuidar lo que determina la Ley Amazónica, que todos los trabajadores que están laborando en esta obra, pertenezcan y sean de la zona.” Fredy Vásconez, fiscalizador de la obra.\nCada avance en esta intervención refleja el compromiso de una administración que escucha, atiende y transforma. La obra en Perla Amazónica se convierte en testimonio del camino recorrido por la alcaldesa Shirma Cortés hacia un futuro más digno y ordenado para todos, reafirmando que su gestión construye “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "a7af3e17ca68c6e7",
+        "hash": "a7af3e17ca68c6e7c0ad5253fd82ec8e24a085942c1f9495243d6241406b85ad",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03.JPG",
+        "rutaOriginal": "/media/originales/a7af3e17ca68c6e7.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a7af3e17ca68c6e7-400.webp",
+          "800w": "/media/derivados/a7af3e17ca68c6e7-800.webp",
+          "1600w": "/media/derivados/a7af3e17ca68c6e7-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6465354,
+        "alt": "Con obras que transforman, la alcaldesa Shirma Cortés impulsa soluciones reales para Perla Amazónica",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      }
+    ]
+  }
+}

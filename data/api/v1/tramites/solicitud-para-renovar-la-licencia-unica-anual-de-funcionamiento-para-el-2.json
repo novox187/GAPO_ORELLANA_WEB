@@ -1,0 +1,105 @@
+{
+  "data": {
+    "id": 2,
+    "slug": "solicitud-para-renovar-la-licencia-unica-anual-de-funcionamiento-para-el-2",
+    "nombre": "Solicitud para renovar la licencia única anual de funcionamiento para el ejercicio de actividades turísticas",
+    "direccion": {
+      "id": 2,
+      "slug": "direccion-de-turismo",
+      "nombre": "DIRECCIÓN DE TURISMO"
+    },
+    "categorias": [
+      "turismo",
+      "documentos-y-certificados"
+    ],
+    "perfiles": [
+      "ciudadano",
+      "empresa",
+      "transportista",
+      "turista"
+    ],
+    "resumen": "Es la cédula de identidad de un establecimiento de servicios turísticos. Es el permiso habilitante que otorga el Municipio de Francisco de Orellana a los establecimientos turísticos que cuentan con el Certificado de Regi",
+    "que_es": "Es la cédula de identidad de un establecimiento de servicios turísticos. Es el permiso habilitante que otorga el Municipio de Francisco de Orellana a los establecimientos turísticos que cuentan con el Certificado de Registro que emite el Ministerio de Turismo, de acuerdo a la actividad, tipo y categoría.",
+    "para_que_sirve": "La Licencia Única Anual de Funcionamiento permite identificar el tipo, actividad y categoría del establecimiento turístico, así como garantiza la legalidad del mismo.",
+    "quienes_acceden": "Pueden acceder los propietarios de establecimientos de las actividades turísticas de: Alojamiento, alimentos y bebidas, transportación, cuando se dedica principalmente al turismo; inclusive el transporte aéreo, marítimo, fluvial, terrestre y el alquiler de vehículos para este propósito; operación, cuando las agencias de viajes provean su propio transporte, esa actividad se considerará parte del agenciamiento; la de intermediación, agencia de servicios turísticos y organizadoras de eventos congresos y convenciones; y, casinos, salas de juego (bingo-mecánicos) hipódromos y parques de atracciones estables.",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "Sí, el valor depende del tipo de actividad, la categoría y el aforo de cada establecimiento."
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Llenar el formulario de solicitud para obtener el LUAF por primera vez. (Descargar formulario aquí) Solicitud de registro.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Copia de cédula de ciudanía y papeleta de votación.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Certificado de registro conferido por la Dirección Provincial del MINTUR.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Pago de uno por mil conferido por la Dirección Provincial del MINTUR.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Copia del Registro Único de Contribuyente (RUC).",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Pago Licencia Única Anual de Funcionamiento.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Patente Municipal.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Permiso de Bomberos.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "Permiso Sanitario ARCSA (Establecimientos de A&B)..",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 10,
+        "texto": "Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 11,
+        "texto": "Hoja de actualización de información.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

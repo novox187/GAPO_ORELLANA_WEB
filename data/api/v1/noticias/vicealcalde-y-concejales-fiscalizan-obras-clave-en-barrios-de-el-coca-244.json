@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 244,
+    "slug": "vicealcalde-y-concejales-fiscalizan-obras-clave-en-barrios-de-el-coca-244",
+    "titulo": "Vicealcalde y concejales fiscalizan obras clave en barrios de El Coca",
+    "resumen": "El vicealcalde Víctor Ruiz, acompañado de los concejales Miguel Sabando, Miguel Murillo y Daniel Cedeño, realizó una jornada de fiscalización técnica a importantes obras de infraestructura que hoy se ejecutan en distintos sectores de El Coca. En los",
+    "fecha": "2026-01-29",
+    "imagen": {
+      "id": "1b91791d577ad798",
+      "hash": "1b91791d577ad79855d4ca03c3040341ab3471f5d97b9097a7d69d0c70953c3f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_sPFFzTz.JPG",
+      "rutaOriginal": "/media/originales/1b91791d577ad798.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1b91791d577ad798-400.webp",
+        "800w": "/media/derivados/1b91791d577ad798-800.webp",
+        "1600w": "/media/derivados/1b91791d577ad798-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7976760,
+      "alt": "Vicealcalde y concejales fiscalizan obras clave en barrios de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/244/",
+    "fuente_url": "https://orellana.gob.ec/noticia/244/",
+    "cuerpo": "El vicealcalde Víctor Ruiz, acompañado de los concejales Miguel Sabando, Miguel Murillo y Daniel Cedeño, realizó una jornada de fiscalización técnica a importantes obras de infraestructura que hoy se ejecutan en distintos sectores de El Coca. En los barrios Ñucanchi Wasi y Los Ceibos, primera etapa, se constató la construcción del alcantarillado pluvial, aceras, bordillos y adoquinado, obras que mejoran la movilidad, el orden urbano y la seguridad de las familias. \nDurante el recorrido también se supervisó el cambio de la red de alcantarillado sanitario y pluvial del barrio Perla Amazónica. Durante la ejecución se detectó que las condiciones reales del terreno no coincidían con lo establecido en los estudios iniciales, motivo por el cual la obra fue suspendida de manera temporal. Actualmente, con los estudios definitivos, se retomarán los trabajos, que incluyen el cambio del material de la vía y su posterior asfaltado.\nAsimismo, se fiscalizó la construcción del alcantarillado pluvial en los barrios 27 de Octubre, Paraíso Amazónico, Las Américas y Julio Llori, sectores históricamente afectados por problemas de drenaje que hoy empiezan a ver soluciones concretas.\nEstas acciones de control reflejan una gestión municipal que no solo ejecuta obras, sino que las vigila y garantiza su correcta ejecución. JG.",
+    "imagenes": [
+      {
+        "id": "1b91791d577ad798",
+        "hash": "1b91791d577ad79855d4ca03c3040341ab3471f5d97b9097a7d69d0c70953c3f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_sPFFzTz.JPG",
+        "rutaOriginal": "/media/originales/1b91791d577ad798.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1b91791d577ad798-400.webp",
+          "800w": "/media/derivados/1b91791d577ad798-800.webp",
+          "1600w": "/media/derivados/1b91791d577ad798-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7976760,
+        "alt": "Vicealcalde y concejales fiscalizan obras clave en barrios de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

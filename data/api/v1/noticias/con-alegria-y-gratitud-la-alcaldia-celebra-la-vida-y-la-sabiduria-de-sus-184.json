@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 184,
+    "slug": "con-alegria-y-gratitud-la-alcaldia-celebra-la-vida-y-la-sabiduria-de-sus-184",
+    "titulo": "Con alegría y gratitud, la alcaldía celebra la vida y la sabiduría de sus adultos mayores",
+    "resumen": "Entre risas, abrazos y una energía contagiosa, más de 200 adultos mayores se dieron cita en el Centro Turístico Terraventura para celebrar el Día Internacional del Adulto Mayor. La jornada, organizada por la Alcaldía de Francisco de Orellana, bajo el",
+    "fecha": "2025-10-24",
+    "imagen": {
+      "id": "79733f8383cce085",
+      "hash": "79733f8383cce08574037a974dda391baecc1e014d63fec3a701b2b55a707268",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24.JPG",
+      "rutaOriginal": "/media/originales/79733f8383cce085.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/79733f8383cce085-400.webp",
+        "800w": "/media/derivados/79733f8383cce085-800.webp",
+        "1600w": "/media/derivados/79733f8383cce085-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 11298018,
+      "alt": "Con alegría y gratitud, la alcaldía celebra la vida y la sabiduría de sus adultos mayores",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/184/",
+    "fuente_url": "https://orellana.gob.ec/noticia/184/",
+    "cuerpo": "Entre risas, abrazos y una energía contagiosa, más de 200 adultos mayores se dieron cita en el Centro Turístico Terraventura para celebrar el Día Internacional del Adulto Mayor. La jornada, organizada por la Alcaldía de Francisco de Orellana, bajo el liderazgo de Shirma Cortés Sanmiguel, fue un homenaje a quienes han dedicado su vida a construir el presente y el futuro de nuestro cantón, “Me siento muy feliz, ¿sabe por qué¿ porque todavía nos toman en cuenta, aunque estamos ya mayorcitas y felicito a todos los compañeros que nos encontramos acá muy felices ya que nos celebraron el día del adulto mayor.” Angélica Castillo, adulto mayor.\nGracias al convenio interinstitucional entre la Alcaldía y el Ministerio de Desarrollo Humano (MDH), los asistentes participaron en actividades deportivas, concursos y presentaciones culturales, donde se eligió a la madrina de deportes y se reconoció al mejor uniformado.\nLa jornada contó además con el apoyo de la Cooperativa CACPE Pastaza y Coca Ltda, quienes se sumaron para llenar el evento de alegría y compañerismo, “Cinco años atrás no había estos eventos que ahora hay, pero gracias a Dios y a la alcaldesa Shirma Cortés, ella sí nos está dando lo necesario a los adultos mayores.” Polibio Cedeño, adulto mayor.\n“Yo me siento muy feliz, porque lo que está haciendo la alcaldía es una gran cosa y por eso nos sentimos bien los adultos mayores y que ¡Viva el adulto mayor!” Rosa Vera, adulto mayor.\nEntre música, bailes y sonrisas, la celebración concluyó recordando que el respeto, el amor y la gratitud hacia nuestros adultos mayores son pilares fundamentales del cantón que queremos construir: un cantón más humano, solidario y lleno de vida. JG.",
+    "imagenes": [
+      {
+        "id": "79733f8383cce085",
+        "hash": "79733f8383cce08574037a974dda391baecc1e014d63fec3a701b2b55a707268",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24.JPG",
+        "rutaOriginal": "/media/originales/79733f8383cce085.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/79733f8383cce085-400.webp",
+          "800w": "/media/derivados/79733f8383cce085-800.webp",
+          "1600w": "/media/derivados/79733f8383cce085-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 11298018,
+        "alt": "Con alegría y gratitud, la alcaldía celebra la vida y la sabiduría de sus adultos mayores",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

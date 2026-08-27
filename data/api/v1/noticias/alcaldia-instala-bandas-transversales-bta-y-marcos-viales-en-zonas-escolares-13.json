@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 13,
+    "slug": "alcaldia-instala-bandas-transversales-bta-y-marcos-viales-en-zonas-escolares-13",
+    "titulo": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
+    "resumen": "Mejorar la seguridad vial en El Coca",
+    "fecha": "2025-01-13",
+    "imagen": {
+      "id": "0d4508b5eec67d78",
+      "hash": "0d4508b5eec67d786d67c6610b48d378d8b26a2730167c3cb4e31e57a498e97c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_SENALIZACION_HORIZONTAL.png",
+      "rutaOriginal": "/media/originales/0d4508b5eec67d78.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/0d4508b5eec67d78-400.webp",
+        "800w": "/media/derivados/0d4508b5eec67d78-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1205309,
+      "alt": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/13/",
+    "fuente_url": "https://orellana.gob.ec/noticia/13/",
+    "cuerpo": "La Alcaldía que preside Shirma Cortés Sanmiguel instala (Bandas de Reducción de Velocidad) BTA y marcos viales con pintura termoplástica reformada reflectiva en zonas escolares, “Esto nos ayuda a prevenir accidentes, porque al momento que los carros vienen a alta velocidad y si el niño no avanza a divisar el vehículo, lo logra escuchar por el sonido de las llantas, por eso se llaman BTA (Bandas de Reducción de Velocidad)”. Rómulo Carchi, contratista.\nEsta acción es parte de un plan integral de la Alcaldía para mejorar la seguridad vial en El Coca con el fin de proteger a los estudiantes, “Está muy bien, porque en horas pico salen muchos niños y esto ayuda a evitar accidentes; igualmente, para la gente mayor y también para uno mismo”. Mireya Jiménez, opinión ciudadana.\nSe invita a la comunidad a colaborar respetando los límites de velocidad y a mantenerse atentos a las señales de tránsito para garantizar el bienestar de todos los ciudadanos. JG.",
+    "imagenes": [
+      {
+        "id": "0d4508b5eec67d78",
+        "hash": "0d4508b5eec67d786d67c6610b48d378d8b26a2730167c3cb4e31e57a498e97c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_SENALIZACION_HORIZONTAL.png",
+        "rutaOriginal": "/media/originales/0d4508b5eec67d78.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0d4508b5eec67d78-400.webp",
+          "800w": "/media/derivados/0d4508b5eec67d78-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1205309,
+        "alt": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 294,
+    "slug": "accion-municipal-para-prevenir-inundaciones-en-guadalupe-larriva-294",
+    "titulo": "Acción Municipal para prevenir inundaciones en Guadalupe Larriva",
+    "resumen": "Con el objetivo de atender de forma inmediata las inundaciones registradas en el barrio Guadalupe Larriva tras las fuertes lluvias, la Alcaldía ejecuta trabajos de limpieza de zanjas en el sector, donde se han identificado taponamientos provocados po",
+    "fecha": "2026-04-16",
+    "imagen": {
+      "id": "a645e6960112d85b",
+      "hash": "a645e6960112d85b8d3bd41b4f913d090e14f7a604b575cda1787620fa2acb35",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_5176.JPG",
+      "rutaOriginal": "/media/originales/a645e6960112d85b.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a645e6960112d85b-400.webp",
+        "800w": "/media/derivados/a645e6960112d85b-800.webp",
+        "1600w": "/media/derivados/a645e6960112d85b-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 11069108,
+      "alt": "Acción Municipal para prevenir inundaciones en Guadalupe Larriva",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/294/",
+    "fuente_url": "https://orellana.gob.ec/noticia/294/",
+    "cuerpo": "Con el objetivo de atender de forma inmediata las inundaciones registradas en el barrio Guadalupe Larriva tras las fuertes lluvias, la Alcaldía ejecuta trabajos de limpieza de zanjas en el sector, donde se han identificado taponamientos provocados por la acumulación de basura, plásticos y escombros, para Edwin Palacios, somos las personas que causamos las inundaciones, porque botamos la basura en cualquier lugar, “La basura está ahí, porque lamentablemente los vecinos botan los desperdicios en la noche, vienen en carros y botan la basura en las cunetas”. \nEstas acciones no solo buscan prevenir emergencias, sino también proteger la seguridad y el bienestar de las familias del sector, “Está bien los trabajos que realiza la municipalidad, porque corrige los errores que cometemos, debemos ser más cuidadosos con el ambiente”, recuerda David Aveiga, morador del sector. \nSe hace un llamado a la ciudadanía a mantener limpios sus predios, evitar arrojar basura en lugares no autorizados y colaborar activamente, recordando que el cuidado del entorno es una responsabilidad de todos. DV.",
+    "imagenes": [
+      {
+        "id": "a645e6960112d85b",
+        "hash": "a645e6960112d85b8d3bd41b4f913d090e14f7a604b575cda1787620fa2acb35",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_5176.JPG",
+        "rutaOriginal": "/media/originales/a645e6960112d85b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a645e6960112d85b-400.webp",
+          "800w": "/media/derivados/a645e6960112d85b-800.webp",
+          "1600w": "/media/derivados/a645e6960112d85b-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 11069108,
+        "alt": "Acción Municipal para prevenir inundaciones en Guadalupe Larriva",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

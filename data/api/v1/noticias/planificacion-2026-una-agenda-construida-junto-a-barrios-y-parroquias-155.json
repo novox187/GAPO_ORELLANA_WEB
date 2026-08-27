@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 155,
+    "slug": "planificacion-2026-una-agenda-construida-junto-a-barrios-y-parroquias-155",
+    "titulo": "Planificación 2026: una agenda construída junto a barrios y parroquias",
+    "resumen": "En el auditorio del Terminal Terrestre se desarrolló la asamblea de socialización de obras, programas y proyectos de inversión del presupuesto participativo 2026. Un espacio democrático impulsado por la Alcaldía de Francisco de Orellana, liderada por",
+    "fecha": "2025-09-01",
+    "imagen": {
+      "id": "a26e91de37158551",
+      "hash": "a26e91de37158551ad568d30d141ce804b5eeccdee3c9d0d227c962c520fcec5",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG9345.JPG",
+      "rutaOriginal": "/media/originales/a26e91de37158551.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a26e91de37158551-400.webp",
+        "800w": "/media/derivados/a26e91de37158551-800.webp",
+        "1600w": "/media/derivados/a26e91de37158551-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6746778,
+      "alt": "Planificación 2026: una agenda construída junto a barrios y parroquias",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/155/",
+    "fuente_url": "https://orellana.gob.ec/noticia/155/",
+    "cuerpo": "En el auditorio del Terminal Terrestre se desarrolló la asamblea de socialización de obras, programas y proyectos de inversión del presupuesto participativo 2026. Un espacio democrático impulsado por la Alcaldía de Francisco de Orellana, liderada por Shirma Cortés Sanmiguel, El encuentro reunió a dirigentes barriales y representantes de las 11 parroquias rurales y la parroquia urbana, en un ejercicio que garantiza la participación ciudadana en la planificación del desarrollo cantonal, aquí se presentó el banco de proyectos construidos a partir de las solicitudes ciudadanas, priorizando obras con todas sus viabilidades legales, técnicas y ambientales. Así lo reafirmó la alcaldesa, “Yo admiro el interés y el trabajo de los dirigentes, tanto de los barrios como de las juntas parroquiales, el día de hoy se hizo la socialización de todos los proyectos que tienen todas sus viabilidades”.\nShirma Cortés Sanmiguel, alcaldesa de Francisco de Orellana. \nLas jornadas de socialización realizadas los días 15, 22 y 29 de agosto reflejan el compromiso de esta administración con el diálogo, la transparencia y la inclusión. La ciudadanía valoró este esfuerzo, reconociendo que la planificación municipal se construye junto a los barrios y comunidades, “Estos proyectos son un beneficio para el cantón, porque con la alcaldesa hemos venido trabajando juntos tanto como las comunidades como las parroquias rurales que somos, de mi parte siempre estoy agradecida con ella. Dalila Mamallacta, moradora de la comunidad Shuar Juwa.\nLa gestión de la alcaldesa Shirma Cortés Sanmiguel se consolida como una administración que escucha, que planifica con visión de futuro y que trabaja con justicia y equidad para todos los sectores del cantón. Con estas acciones, la Alcaldía reafirma su compromiso de seguir construyendo un territorio de esperanza y desarrollo para todos. ST.",
+    "imagenes": [
+      {
+        "id": "a26e91de37158551",
+        "hash": "a26e91de37158551ad568d30d141ce804b5eeccdee3c9d0d227c962c520fcec5",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG9345.JPG",
+        "rutaOriginal": "/media/originales/a26e91de37158551.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a26e91de37158551-400.webp",
+          "800w": "/media/derivados/a26e91de37158551-800.webp",
+          "1600w": "/media/derivados/a26e91de37158551-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6746778,
+        "alt": "Planificación 2026: una agenda construída junto a barrios y parroquias",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

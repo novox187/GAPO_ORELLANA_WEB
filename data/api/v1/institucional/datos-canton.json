@@ -1,0 +1,190 @@
+{
+  "data": {
+    "slug": "datos-canton",
+    "seccion": "institucional",
+    "titulo": "Datos del cantón",
+    "bloques": [
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Datos generales del cantón:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El 30 de abril de 1969 se crea el cantón Francisco de Orellana,\n capital de la provincia de Orellana fundada el 30 de julio de 1998.\n Este rincón amazónico se encuentra a una distancia aproximada de 300\n km de Quito, capital de Ecuador. La cabecera cantonal Puerto Francisco\n de Orellana es conocida popularmente como “El Coca”, porque\n antiguamente los indígenas oriundos de las zonas aledañas, los\n Tagaeris o Sachas, visitaban este lugar para realizar sus rituales\n curativos con las hojas de coca masticadas. Algunos afirman que los\n primeros colonos la fundaron con este sobre nombre a finales del siglo\n XVIII, tras encontrar plantas silvestres en las orillas del río Napo,\n cerca de donde ahora se asienta la población. Francisco de Orellana\n pertenece a la cuenca del Napo y las sub cuencas del Coca, Payamino,\n Tiputini, Cononaco, Indillama y Yasuní; precisamente los ríos que\n rodean a la ciudad es lo que encanta a propios y extraños. El Coca, es\n una ciudad rica por su gente, en donde se combinan las tradiciones de\n las nacionalidades Kichwa, Waorani y Shuar con las características\n culturales de los mestizos y afroecuatorianos que son parte del\n desarrollo local."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Extensión:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El área cantonal ocupa una superficie total de 7.047 (704.755 ha)."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Población:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Según datos del VII Censo de Población y VI de Vivienda, la población\n del cantón Francisco de Orellana asciende a 72.795 habitantes con una\n densidad poblacional de 10 hab/km2 (INEC, 2010). El 55,95% de la\n población del cantón habita en el área urbana mientras el restante\n 44,05% se localiza de forma dispersa en las zonas rurales."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Límites:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los límites del cantón Francisco de Orellana son: al Norte con el\n cantón La Joya de los Sachas y la Provincia de Sucumbíos, al Sur con\n las Provincias Pastaza y Napo, al Este con el cantón Aguarico y al\n Oeste con el cantón Loreto y la Provincia de Napo."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Latitud y Longitud:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se ubica entre: Latitud Sur: 0°03’30’’ y Longitud Oeste: 76°18’00’’\n Latitud Sur: 1°04’40’’ y Longitud Oeste: 76°00’40’’"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Altura sobre el nivel del mar:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Francisco de Orellana presenta una altura promedio de 254 a 300 metros\n sobre el nivel del mar."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Clima - Temperatura promedio:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El cantón Francisco de Orellana se caracteriza por presentar un clima\n tropical, cálido húmedo con temperaturas promedio de 26° C. Los\n niveles de precipitaciones en promedio son de 2800 a 4500 mm de lluvia\n al año, siendo mayo y junio los meses con mayor pluviosidad y los\n meses menos lluviosos agosto, septiembre y octubre."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Suelo Urbano - Rural:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A nivel cantonal predominan los suelos con texturas arcillosas, cuya\n característica principal es su coloración rojiza, baja permeabilidad,\n pobreza en nutrientes, concentraciones de aluminio a niveles tóxicos,\n muy susceptible a la compactación, entre otras limitaciones que\n restringen ampliamente la actividad agro-productiva."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La clase taxonómica predominante corresponde a Typic y/o Oxic\n Dystrudepts (suelos rojos), con 285.743,88 ha., que representa el\n 40,5% del territorio cantonal. Este tipo de suelos se puede encontrar\n principalmente en las parroquias El Dorado, Dayuma, García Moreno,\n Inés Arango, La Belleza, Taracoa y Alejandro Labaka. Otra clase de\n suelo muy extendida es aquella compuesta por las clases taxonómicas\n Fluventic Vitrudands+Fluventic Hapludands+Aquic Dystrudepts, que\n abarca una superficie de 81.260,88 hectáreas, representando el 11,5%\n del total general; se ubican mayormente en las parroquias El Edén y\n San José de Guayusa."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Parroquias - Comunidades:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Francisco de Orellana se encuentra formado por 12 parroquias, a\n continuación se detallan cada una de ellas con las comunidades y\n barrios que las conforman:"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Puerto Francisco de Orellana (urbana):",
+            "url": null
+          },
+          {
+            "texto": "El Dorado",
+            "url": null
+          },
+          {
+            "texto": "Taracoa:",
+            "url": null
+          },
+          {
+            "texto": "Dayuma:",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Inés Arango:",
+            "url": null
+          },
+          {
+            "texto": "García Moreno:",
+            "url": null
+          },
+          {
+            "texto": "La Belleza:",
+            "url": null
+          },
+          {
+            "texto": "Nuevo Paraíso:",
+            "url": null
+          },
+          {
+            "texto": "San José de Guayusa:",
+            "url": null
+          },
+          {
+            "texto": "San Luis de Armenia:",
+            "url": null
+          },
+          {
+            "texto": "Alejandro Labaka:",
+            "url": null
+          },
+          {
+            "texto": "El Edén:",
+            "url": null
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Economía del cantón:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La economía de Francisco de Orellana se basa en tres ejes la industria\n petrolera, la agricultura y el turismo. La explotación petrolera\n inició en los años 70, las actividades de extracción que se han\n desarrollado en el cantón durante estos últimos 40 años ha dinamizado\n la economía local, generando crecimiento económico. Con lo cual el\n área urbana, Puerto Francisco de Orellana (El Coca), se consolida como\n un espacio de intercambio comercial y de prestación de servicios\n vinculados directa o indirectamente con la actividad petrolera\n (alimentación, hospedaje, industriales, logística, etc)."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por otra parte, desde el año 2000 es constante el aumento de la producción agrícola, los cultivos que más se comercializan son palma africana, maíz duro seco, cacao y café, lo cual evidencia una reconversión productiva de parte de los colonos e indígenas. Los cultivos destinados al autoconsumo familiar son: maíz duro seco, plátano y yuca. Productos que permiten la soberanía alimentaria de las familias en el sector rural. En el cantón Francisco de Orellana se ha vivido la segunda transformación productiva agropecuaria, desde la creación del cantón. La expansión de la frontera agrícola; la intensificación de cultivos transitorios. Es necesario resaltar que existe una clara diferenciación productiva entre la población mestiza e indígena. Los mestizos hacen mayor uso productivo del suelo y promueven los monocultivos. En las comunidades indígenas del cantón, al contrario, la agricultura se desarrolla en extensiones cortas de terreno no mayores a una hectárea denominadas chacras. Las mujeres suelen ser las encargadas del cuidado y manejo de las chacras, y en estas se puede identificar cultivos de ciclo corto como yuca, plátano, maíz, etc."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El turismo es considerado un eje estratégico para el desarrollo integral y sustentable del cantón, por la gran cantidad de atractivos naturales y culturales que existen en este territorio. Para mejorar el servicio turístico el Gobierno Municipal ha impulsado la certificación de Francisco de Orellana, como Destino de Vida; este proceso lleva consigo la capacitación del personal, mejoras en la atención, el mejoramiento del aspecto físico y la implementación de nuevas infraestructuras como el Museo Arqueológico Centro Cultural Orellana “MACCO”, Zoológico Municipal, Terminal Terrestre, Parque Central. Actualmente, se han identificado 19 sitios turísticos naturales y 5 sitios turísticos culturales, la mayoría de los sitios turísticos se encuentran localizados en el área rural. El turismo comunitario en el cantón es una alternativa para la generación de ingresos de las comunidades indígenas, una opción para fomentar el uso adecuado y manejo de los recursos naturales locales y una oportunidad para mantener, revalorizar y reafirmar la identidad cultural en el cantón. Se continúa trabajando en promocionar y posicionar al Coca como una ciudad turística para que sea uno de los primeros destinos de turistas nacionales e internacionales."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El principal objetivo del Gobierno Autónomo Descentralizado Municipal Francisco de Orellana es el desarrollo físico, económico y productivo del cantón."
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 4,
+        "texto": "Fauna y Flora:"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Francisco de Orellana presenta en sus bosques diferentes especies maderables como: el Chuncho, Laurel, Sangre de gallina, Arenillo, Coco, Ceibo, Colorado, Canelo, Guarango, Copal, Cedro, Caoba. De igual manera, es posible observar en la región una gran variedad de orquídeas."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entre las especies de fauna, que habitan en el cantón son los mamíferos que incluyen especies grandes, entre las que se encuentran principalmente los primates (monos), artiodáctilos (cerdos de monte, venados), perisodáctilos (tapires o dantas), roedores (guanta, guatuso, etc.), carnívoros (puma, tigrillo, jaguar, etc.) y los xenartros (oso hormiguero, armadillo y perezoso). Estas son algunas de las especies que se encuentran en este maravilloso lugar."
+      }
+    ],
+    "texto": "Datos generales del cantón:\n\nEl 30 de abril de 1969 se crea el cantón Francisco de Orellana,\n capital de la provincia de Orellana fundada el 30 de julio de 1998.\n Este rincón amazónico se encuentra a una distancia aproximada de 300\n km de Quito, capital de Ecuador. La cabecera cantonal Puerto Francisco\n de Orellana es conocida popularmente como “El Coca”, porque\n antiguamente los indígenas oriundos de las zonas aledañas, los\n Tagaeris o Sachas, visitaban este lugar para realizar sus rituales\n curativos con las hojas de coca masticadas. Algunos afirman que los\n primeros colonos la fundaron con este sobre nombre a finales del siglo\n XVIII, tras encontrar plantas silvestres en las orillas del río Napo,\n cerca de donde ahora se asienta la población. Francisco de Orellana\n pertenece a la cuenca del Napo y las sub cuencas del Coca, Payamino,\n Tiputini, Cononaco, Indillama y Yasuní; precisamente los ríos que\n rodean a la ciudad es lo que encanta a propios y extraños. El Coca, es\n una ciudad rica por su gente, en donde se combinan las tradiciones de\n las nacionalidades Kichwa, Waorani y Shuar con las características\n culturales de los mestizos y afroecuatorianos que son parte del\n desarrollo local.\n\nExtensión:\n\nEl área cantonal ocupa una superficie total de 7.047 (704.755 ha).\n\nPoblación:\n\nSegún datos del VII Censo de Población y VI de Vivienda, la población\n del cantón Francisco de Orellana asciende a 72.795 habitantes con una\n densidad poblacional de 10 hab/km2 (INEC, 2010). El 55,95% de la\n población del cantón habita en el área urbana mientras el restante\n 44,05% se localiza de forma dispersa en las zonas rurales.\n\nLímites:\n\nLos límites del cantón Francisco de Orellana son: al Norte con el\n cantón La Joya de los Sachas y la Provincia de Sucumbíos, al Sur con\n las Provincias Pastaza y Napo, al Este con el cantón Aguarico y al\n Oeste con el cantón Loreto y la Provincia de Napo.\n\nLatitud y Longitud:\n\nSe ubica entre: Latitud Sur: 0°03’30’’ y Longitud Oeste: 76°18’00’’\n Latitud Sur: 1°04’40’’ y Longitud Oeste: 76°00’40’’\n\nAltura sobre el nivel del mar:\n\nFrancisco de Orellana presenta una altura promedio de 254 a 300 metros\n sobre el nivel del mar.\n\nClima - Temperatura promedio:\n\nEl cantón Francisco de Orellana se caracteriza por presentar un clima\n tropical, cálido húmedo con temperaturas promedio de 26° C. Los\n niveles de precipitaciones en promedio son de 2800 a 4500 mm de lluvia\n al año, siendo mayo y junio los meses con mayor pluviosidad y los\n meses menos lluviosos agosto, septiembre y octubre.\n\nSuelo Urbano - Rural:\n\nA nivel cantonal predominan los suelos con texturas arcillosas, cuya\n característica principal es su coloración rojiza, baja permeabilidad,\n pobreza en nutrientes, concentraciones de aluminio a niveles tóxicos,\n muy susceptible a la compactación, entre otras limitaciones que\n restringen ampliamente la actividad agro-productiva.\n\nLa clase taxonómica predominante corresponde a Typic y/o Oxic\n Dystrudepts (suelos rojos), con 285.743,88 ha., que representa el\n 40,5% del territorio cantonal. Este tipo de suelos se puede encontrar\n principalmente en las parroquias El Dorado, Dayuma, García Moreno,\n Inés Arango, La Belleza, Taracoa y Alejandro Labaka. Otra clase de\n suelo muy extendida es aquella compuesta por las clases taxonómicas\n Fluventic Vitrudands+Fluventic Hapludands+Aquic Dystrudepts, que\n abarca una superficie de 81.260,88 hectáreas, representando el 11,5%\n del total general; se ubican mayormente en las parroquias El Edén y\n San José de Guayusa.\n\nParroquias - Comunidades:\n\nFrancisco de Orellana se encuentra formado por 12 parroquias, a\n continuación se detallan cada una de ellas con las comunidades y\n barrios que las conforman:\n\nPuerto Francisco de Orellana (urbana):. El Dorado. Taracoa:. Dayuma:\n\nInés Arango:. García Moreno:. La Belleza:. Nuevo Paraíso:. San José de Guayusa:. San Luis de Armenia:. Alejandro Labaka:. El Edén:\n\nEconomía del cantón:\n\nLa economía de Francisco de Orellana se basa en tres ejes la industria\n petrolera, la agricultura y el turismo. La explotación petrolera\n inició en los años 70, las actividades de extracción que se han\n desarrollado en el cantón durante estos últimos 40 años ha dinamizado\n la economía local, generando crecimiento económico. Con lo cual el\n área urbana, Puerto Francisco de Orellana (El Coca), se consolida como\n un espacio de intercambio comercial y de prestación de servicios\n vinculados directa o indirectamente con la actividad petrolera\n (alimentación, hospedaje, industriales, logística, etc).\n\nPor otra parte, desde el año 2000 es constante el aumento de la producción agrícola, los cultivos que más se comercializan son palma africana, maíz duro seco, cacao y café, lo cual evidencia una reconversión productiva de parte de los colonos e indígenas. Los cultivos destinados al autoconsumo familiar son: maíz duro seco, plátano y yuca. Productos que permiten la soberanía alimentaria de las familias en el sector rural. En el cantón Francisco de Orellana se ha vivido la segunda transformación productiva agropecuaria, desde la creación del cantón. La expansión de la frontera agrícola; la intensificación de cultivos transitorios. Es necesario resaltar que existe una clara diferenciación productiva entre la población mestiza e indígena. Los mestizos hacen mayor uso productivo del suelo y promueven los monocultivos. En las comunidades indígenas del cantón, al contrario, la agricultura se desarrolla en extensiones cortas de terreno no mayores a una hectárea denominadas chacras. Las mujeres suelen ser las encargadas del cuidado y manejo de las chacras, y en estas se puede identificar cultivos de ciclo corto como yuca, plátano, maíz, etc.\n\nEl turismo es considerado un eje estratégico para el desarrollo integral y sustentable del cantón, por la gran cantidad de atractivos naturales y culturales que existen en este territorio. Para mejorar el servicio turístico el Gobierno Municipal ha impulsado la certificación de Francisco de Orellana, como Destino de Vida; este proceso lleva consigo la capacitación del personal, mejoras en la atención, el mejoramiento del aspecto físico y la implementación de nuevas infraestructuras como el Museo Arqueológico Centro Cultural Orellana “MACCO”, Zoológico Municipal, Terminal Terrestre, Parque Central. Actualmente, se han identificado 19 sitios turísticos naturales y 5 sitios turísticos culturales, la mayoría de los sitios turísticos se encuentran localizados en el área rural. El turismo comunitario en el cantón es una alternativa para la generación de ingresos de las comunidades indígenas, una opción para fomentar el uso adecuado y manejo de los recursos naturales locales y una oportunidad para mantener, revalorizar y reafirmar la identidad cultural en el cantón. Se continúa trabajando en promocionar y posicionar al Coca como una ciudad turística para que sea uno de los primeros destinos de turistas nacionales e internacionales.\n\nEl principal objetivo del Gobierno Autónomo Descentralizado Municipal Francisco de Orellana es el desarrollo físico, económico y productivo del cantón.\n\nFauna y Flora:\n\nFrancisco de Orellana presenta en sus bosques diferentes especies maderables como: el Chuncho, Laurel, Sangre de gallina, Arenillo, Coco, Ceibo, Colorado, Canelo, Guarango, Copal, Cedro, Caoba. De igual manera, es posible observar en la región una gran variedad de orquídeas.\n\nEntre las especies de fauna, que habitan en el cantón son los mamíferos que incluyen especies grandes, entre las que se encuentran principalmente los primates (monos), artiodáctilos (cerdos de monte, venados), perisodáctilos (tapires o dantas), roedores (guanta, guatuso, etc.), carnívoros (puma, tigrillo, jaguar, etc.) y los xenartros (oso hormiguero, armadillo y perezoso). Estas son algunas de las especies que se encuentran en este maravilloso lugar.",
+    "imagenes": [],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/datos_canton/"
+  }
+}

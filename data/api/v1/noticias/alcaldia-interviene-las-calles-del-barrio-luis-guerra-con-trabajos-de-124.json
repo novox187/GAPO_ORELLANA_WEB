@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 124,
+    "slug": "alcaldia-interviene-las-calles-del-barrio-luis-guerra-con-trabajos-de-124",
+    "titulo": "Alcaldía interviene las calles del barrio Luis Guerra con trabajos de mantenimiento vial",
+    "resumen": "La Alcaldía de Francisco de Orellana avanza con los trabajos de mantenimiento vial en el barrio Luis Guerra, beneficiando a varias calles principales y transversales de este populoso sector.",
+    "fecha": "2025-07-14",
+    "imagen": {
+      "id": "ef5429b030718508",
+      "hash": "ef5429b030718508000bb771994a2dbad2995f0a8e7e0aab3e4611a560865ec9",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG2550.JPG",
+      "rutaOriginal": "/media/originales/ef5429b030718508.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/ef5429b030718508-400.webp",
+        "800w": "/media/derivados/ef5429b030718508-800.webp",
+        "1600w": "/media/derivados/ef5429b030718508-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12150259,
+      "alt": "Alcaldía interviene las calles del barrio Luis Guerra con trabajos de mantenimiento vial",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+    },
+    "url": "/noticia/124/",
+    "fuente_url": "https://orellana.gob.ec/noticia/124/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana avanza con los trabajos de mantenimiento vial en el barrio Luis Guerra, beneficiando a varias calles principales y transversales de este populoso sector.\nEstas labores se enmarcan dentro del plan de intervención establecido para la temporada invernal, con el fin de mejorar la circulación y brindar mayor seguridad tanto a conductores como a peatones, “Esto se ve muy bien y felicito también a la alcaldesa, porque es para avance del pueblo y para la provincia, porque estas calles siempre pasan inundadas cuando llueve”. Chayanne Cerda, morador del sector. \nLa Alcaldía mantiene su compromiso de seguir respondiendo a las necesidades de los barrios, priorizando obras que mejoren la calidad de vida y el bienestar de toda la comunidad. DV.",
+    "imagenes": [
+      {
+        "id": "ef5429b030718508",
+        "hash": "ef5429b030718508000bb771994a2dbad2995f0a8e7e0aab3e4611a560865ec9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG2550.JPG",
+        "rutaOriginal": "/media/originales/ef5429b030718508.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/ef5429b030718508-400.webp",
+          "800w": "/media/derivados/ef5429b030718508-800.webp",
+          "1600w": "/media/derivados/ef5429b030718508-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12150259,
+        "alt": "Alcaldía interviene las calles del barrio Luis Guerra con trabajos de mantenimiento vial",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      }
+    ]
+  }
+}

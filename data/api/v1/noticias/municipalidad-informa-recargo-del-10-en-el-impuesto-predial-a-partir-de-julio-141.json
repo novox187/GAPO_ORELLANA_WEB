@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 141,
+    "slug": "municipalidad-informa-recargo-del-10-en-el-impuesto-predial-a-partir-de-julio-141",
+    "titulo": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
+    "resumen": "La Municipalidad informa que, según lo dispuesto en el artículo 512 del COOTAD, desde el 1 de julio hasta el 31 de diciembre de 2025, los contribuyentes que no hayan pagado su impuesto predial",
+    "fecha": "2025-08-08",
+    "imagen": {
+      "id": "49c915f2e28f643d",
+      "hash": "49c915f2e28f643d0c923b390530dd5bd33a2d359f363fe6d2248ad92c432597",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_MVI_9631.jpg",
+      "rutaOriginal": "/media/originales/49c915f2e28f643d.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/49c915f2e28f643d-400.webp",
+        "800w": "/media/derivados/49c915f2e28f643d-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 711,
+      "bytes": 190441,
+      "alt": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/141/",
+    "fuente_url": "https://orellana.gob.ec/noticia/141/",
+    "cuerpo": "La Municipalidad informa que, según lo dispuesto en el artículo 512 del COOTAD, desde el 1 de julio hasta el 31 de diciembre de 2025, los contribuyentes que no hayan pagado su impuesto predial durante el primer semestre del año, deberán asumir un recargo del 10% sobre el valor pendiente.\n Si el pago no se realiza antes de que finalice el año fiscal, a partir del año 2026 se sumarán intereses por mora y se podrá iniciar un proceso de cobro coactivo, conforme a la ley, “Fomentemos una cultura de pago para no tener inconvenientes a futuro, ya vemos que el país está atravesando por una situación difícil y creo que de una u otra manera, si somos puntuales mes a mes en poder pagar, está dentro de nuestras obligaciones como ciudadanos”. Sabina Toapanta, opinión ciudadana.\nPagar a tiempo no solo evita sanciones, también es una forma de contribuir activamente al desarrollo de nuestro cantón. Estos recursos permiten financiar obras públicas, servicios esenciales y mejoras en la infraestructura que benefician a toda la ciudadanía. JG.",
+    "imagenes": [
+      {
+        "id": "49c915f2e28f643d",
+        "hash": "49c915f2e28f643d0c923b390530dd5bd33a2d359f363fe6d2248ad92c432597",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_MVI_9631.jpg",
+        "rutaOriginal": "/media/originales/49c915f2e28f643d.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/49c915f2e28f643d-400.webp",
+          "800w": "/media/derivados/49c915f2e28f643d-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 711,
+        "bytes": 190441,
+        "alt": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

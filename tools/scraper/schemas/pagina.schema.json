@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "pagina.schema.json",
+  "title": "Página institucional / turismo / transparencia (contenido genérico)",
+  "type": "object",
+  "required": ["data"],
+  "properties": {
+    "data": {
+      "type": "object",
+      "required": ["slug", "titulo", "bloques", "fuente_url"],
+      "properties": {
+        "slug": { "type": "string", "minLength": 1 },
+        "titulo": { "type": "string", "minLength": 1 },
+        "bloques": { "type": "array" },
+        "texto": { "type": "string" },
+        "imagenes": { "type": "array" },
+        "documentos": { "type": "array" },
+        "fuente_url": { "type": "string", "format": "uri", "minLength": 1 }
+      }
+    }
+  }
+}

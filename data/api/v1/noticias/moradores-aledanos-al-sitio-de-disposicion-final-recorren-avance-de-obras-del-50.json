@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 50,
+    "slug": "moradores-aledanos-al-sitio-de-disposicion-final-recorren-avance-de-obras-del-50",
+    "titulo": "Moradores aledaños al sitio de disposición final recorren avance de obras del cierre técnico",
+    "resumen": "La alcaldía que dirige Shirma Cortés Sanmiguel invierte USD. 436.901,34",
+    "fecha": "2025-03-17",
+    "imagen": {
+      "id": "407b838c8edc9aa1",
+      "hash": "407b838c8edc9aa18a445606c0e6e317c30e1f653fa0c753798650d91eb86728",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_4292.JPG",
+      "rutaOriginal": "/media/originales/407b838c8edc9aa1.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/407b838c8edc9aa1-400.webp",
+        "800w": "/media/derivados/407b838c8edc9aa1-800.webp",
+        "1600w": "/media/derivados/407b838c8edc9aa1-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10039854,
+      "alt": "Moradores aledaños al sitio de disposición final recorren avance de obras del cierre técnico",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+    },
+    "url": "/noticia/50/",
+    "fuente_url": "https://orellana.gob.ec/noticia/50/",
+    "cuerpo": "Moradores aledaños al sitio de disposición final recorrieron el avance del cierre técnico del espacio público junto a funcionarios municipales encargados de la supervisión y ejecución de las obras que tienen un 72% de avance, donde la alcaldía que dirige Shirma Cortés Sanmiguel invierte USD. 436.901,34, “Hemos dado todas las facilidades para que los moradores puedan observar la conformación de taludes, la conformación de los drenes, la construcción y el nivel de avance que tenemos en la obra”. Érika Félix, directora de ambiente del GADMFO.\nAsimismo, por administración directa la municipalidad construye una celda emergente que consta de colocación de geomembranas, conformación de drenajes de lixiviados y fluvial, construcción de cajas de revisión, de piscinas de lixiviados y de vía de acceso, “Nos ha quedado claro la inversión que se va a hacer con la planta de tratamiento de lixiviados y considero que vamos avanzando por buen camino”. Fernando Córdova, morador de la comunidad La Paz.\nA lo largo de la visita, se resolvieron dudas y se escucharon las inquietudes de los vecinos, lo que permitió fortalecer el diálogo y la colaboración entre la comunidad y las autoridades municipales. JG.",
+    "imagenes": [
+      {
+        "id": "407b838c8edc9aa1",
+        "hash": "407b838c8edc9aa18a445606c0e6e317c30e1f653fa0c753798650d91eb86728",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_4292.JPG",
+        "rutaOriginal": "/media/originales/407b838c8edc9aa1.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/407b838c8edc9aa1-400.webp",
+          "800w": "/media/derivados/407b838c8edc9aa1-800.webp",
+          "1600w": "/media/derivados/407b838c8edc9aa1-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10039854,
+        "alt": "Moradores aledaños al sitio de disposición final recorren avance de obras del cierre técnico",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      }
+    ]
+  }
+}

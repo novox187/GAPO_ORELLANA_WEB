@@ -1,0 +1,39 @@
+{
+  "data": {
+    "id": 35,
+    "slug": "tramite-de-aprobacion-de-planos-y-permisos-de-construccion-35",
+    "nombre": "Trámite de aprobación de planos y permisos de construcción",
+    "direccion": {
+      "id": 4,
+      "slug": "direccion-de-ordenamiento-territorial",
+      "nombre": "DIRECCIÓN DE ORDENAMIENTO TERRITORIAL"
+    },
+    "categorias": [
+      "vivienda-y-construccion"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "Oficio dirigido al Director de Planificación Territorial solicitando que se revisen los planos.\n Permiso legalmente otorgado por el Cuerpo de Bomberos (ingresar los requisitos en Bomberos)\n Copia de carné profesional y c",
+    "que_es": "",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "TRÁMITE DE APROBACIÓN DE PLANOS Y PERMISOS DE CONSTRUCCIÓN",
+        "html": "<div class=\"text-justify table-responsive\"><ul>\n                            <li>Oficio dirigido al Director de Planificación Territorial solicitando que se revisen los planos.</li>\n                            <li>Permiso legalmente otorgado por el Cuerpo de Bomberos (ingresar los requisitos en Bomberos)</li>\n                            <li>Copia de carné profesional y copia de la certificación de inscripción en la Municipalidad del arquitecto.</li>\n                            <li>Copia de carné profesional y copia de la certificación de inscripción en la Municipalidad del ingeniero (en el caso de planos estructurales) y cuando el proyecto amerite en planos hidrosanitarios y eléctricos.</li>\n                            <li>Encuesta del INEC</li>\n                        </ul>\n                        <p class=\"font-bold\">2 Juegos de planos que deberán contener lo siguiente:</p>\n                        <ul>\n                            <li>Planos Arquitectónicos</li>\n                            <li>Plantas Arquitectónicas</li>\n                            <li>Fachadas Arquitectónicas (las que tenga el proyecto)</li>\n                            <li>Cortes Arquitectónicas (2 cortes necesariamente en ambos sentidos (x-y))</li>\n                            <li>Planta de Cubiertas</li>\n                            <li>Implantación General</li>\n                            <li>Ubicación</li>\n                            <li>Detalles constructivos</li>\n                            <li>Cuadro de áreas</li>\n                            <li>Planos eléctricos e hidrosanitarios con su simbología</li>\n                            <li>Memoria técnico descriptiva eléctricos e hidrosanitarios con su simbología\n                                <ul>\n                                    <li>Planos estructurales a partir de la segunda planta en el caso de la losa.</li>\n                                    <li>Memoria de cálculo estructural a partir de la cuarta planta.</li>\n                                    <li>3 respaldos magnéticos de todo el proyecto en AUTOCAD en CD etiquetado con el nombre del propietario.</li>\n                                </ul>\n                            </li>\n                        </ul>\n                        <p class=\"font-bold\">REQUISITOS ESPECIALES DE SER EL CASO.</p>\n                        \n                        <ul>\n                            <li>Certificado de uso de suelo.</li>\n                            <li>Estudios de impacto ambiental en el caso de campamentos fabricados o talleres que atente contra el medio ambiente.</li>\n                        </ul></div>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": true
+  }
+}

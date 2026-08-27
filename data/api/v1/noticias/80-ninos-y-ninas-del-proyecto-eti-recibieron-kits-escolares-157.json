@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 157,
+    "slug": "80-ninos-y-ninas-del-proyecto-eti-recibieron-kits-escolares-157",
+    "titulo": "80 niños y niñas del proyecto ETI recibieron kits escolares",
+    "resumen": "Sonrisas, ilusiones y mochilas llenas de esperanza. Así es como 80 niños y niñas del proyecto ETI recibieron kits escolares, una iniciativa que se desarrolló gracias al convenio de Cooperación Técnico Económico suscrito entre el Ministerio de Desarro",
+    "fecha": "2025-09-03",
+    "imagen": {
+      "id": "368585ad1f575361",
+      "hash": "368585ad1f575361c11d8e86f5c98c742e4a9cc912cbe5b31313fc2f16ed021d",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_IMG1685.JPG",
+      "rutaOriginal": "/media/originales/368585ad1f575361.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/368585ad1f575361-400.webp",
+        "800w": "/media/derivados/368585ad1f575361-800.webp",
+        "1600w": "/media/derivados/368585ad1f575361-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6697242,
+      "alt": "80 niños y niñas del proyecto ETI recibieron kits escolares",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+    },
+    "url": "/noticia/157/",
+    "fuente_url": "https://orellana.gob.ec/noticia/157/",
+    "cuerpo": "Sonrisas, ilusiones y mochilas llenas de esperanza. Así es como 80 niños y niñas del proyecto ETI recibieron kits escolares, una iniciativa que se desarrolló gracias al convenio de Cooperación Técnico Económico suscrito entre el Ministerio de Desarrollo Humano y el Gobierno Autónomo Descentralizado Municipal de Francisco de Orellana, cuyo objetivo es fortalecer los servicios de protección especial en la modalidad de erradicación del trabajo infantil. Esta entrega representa un paso más para garantizar educación, bienestar y oportunidades a la niñez del cantón, “Estoy contenta con la señora alcaldesa, por haber dado implementado este proyecto, y los niños están muy contentos; quiero agradecerle de todo corazón por habernos beneficiado con mochilas y los cuadernos, que Dios la bendiga y la cuide,” Araceli Becerra, madre de familia del Proyecto ETI.\nBajo el liderazgo de la alcaldesa Shirma Cortés Sanmiguel, esta administración reafirma su compromiso con la infancia, promoviendo acciones que aseguren una educación digna, entornos protectores y condiciones que fortalezcan su desarrollo integral. Con trabajo constante y visión de futuro, seguimos construyendo un cantón más justo, inclusivo y lleno de posibilidades para todos. EC.",
+    "imagenes": [
+      {
+        "id": "368585ad1f575361",
+        "hash": "368585ad1f575361c11d8e86f5c98c742e4a9cc912cbe5b31313fc2f16ed021d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_IMG1685.JPG",
+        "rutaOriginal": "/media/originales/368585ad1f575361.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/368585ad1f575361-400.webp",
+          "800w": "/media/derivados/368585ad1f575361-800.webp",
+          "1600w": "/media/derivados/368585ad1f575361-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6697242,
+        "alt": "80 niños y niñas del proyecto ETI recibieron kits escolares",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 116,
+    "slug": "inspeccion-tecnica-en-el-barrio-cambahuasi-ante-creciente-del-rio-coca-116",
+    "titulo": "Inspección técnica en el barrio Cambahuasi ante creciente del río Coca",
+    "resumen": "Con el objetivo de salvaguardar la integridad física de varias familias afectadas por las fuertes lluvias de estos días, personal de la dirección de riesgos del municipio de Francisco de Orellana realizó una inspección técnica en el barrio Cambahuasi",
+    "fecha": "2025-07-02",
+    "imagen": {
+      "id": "c717eb109dd82053",
+      "hash": "c717eb109dd8205365b1e95ddefabebdb69be958f200524a2e2521ba63f522ca",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_IMG0306.JPG",
+      "rutaOriginal": "/media/originales/c717eb109dd82053.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c717eb109dd82053-400.webp",
+        "800w": "/media/derivados/c717eb109dd82053-800.webp",
+        "1600w": "/media/derivados/c717eb109dd82053-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10260618,
+      "alt": "Inspección técnica en el barrio Cambahuasi ante creciente del río Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/116/",
+    "fuente_url": "https://orellana.gob.ec/noticia/116/",
+    "cuerpo": "Con el objetivo de salvaguardar la integridad física de varias familias afectadas por las fuertes lluvias de estos días, personal de la dirección de riesgos del municipio de Francisco de Orellana realizó una inspección técnica en el barrio Cambahuasi. Esta visita permitió constatar el estado de varias viviendas afectadas por la inundación y recopilar información necesaria para tomar las acciones correspondientes, explica el técnico municipal Javier Tierra, “realizamos la verificación correspondiente para luego hacer el informe y solicitar la reubicación de estas personas, porque no están en sitio seguro, están en zonas de inundaciones permanentes”. \nDe acuerdo con los resultados obtenidos, las autoridades locales evaluarán los procedimientos necesarios con el fin de garantizar la seguridad de los habitantes de estos lugares que están propensos a inundaciones, “Por mi parte estoy muy agradecido, ya que los señores han venido a verificar la situación, me van a reubicar en otro lugar por la situación del río que es muy riesgoso”, manifiesta el ciudadano Carlos Sanmiguel.\nDesde la Alcaldía, liderada por Shirma Cortés Sanmiguel, estamos comprometidos en apoyar a las familias afectadas por la temporada invernal, trabajando de manera articulada para mitigar los efectos de esta emergencia y brindar soluciones oportunas. DV.",
+    "imagenes": [
+      {
+        "id": "c717eb109dd82053",
+        "hash": "c717eb109dd8205365b1e95ddefabebdb69be958f200524a2e2521ba63f522ca",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_IMG0306.JPG",
+        "rutaOriginal": "/media/originales/c717eb109dd82053.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c717eb109dd82053-400.webp",
+          "800w": "/media/derivados/c717eb109dd82053-800.webp",
+          "1600w": "/media/derivados/c717eb109dd82053-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10260618,
+        "alt": "Inspección técnica en el barrio Cambahuasi ante creciente del río Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 186,
+    "slug": "entrega-de-kits-alimenticios-a-personas-con-discapacidad-en-la-parroquia-dayuma-186",
+    "titulo": "Entrega de Kits Alimenticios a personas con discapacidad en la parroquia Dayuma",
+    "resumen": "La Alcaldía de Francisco de Orellana, a través de la Dirección de Desarrollo Social, realizó la entrega de 30 kits alimenticios a los usuarios del Proyecto Social de Atención al Hogar y la Comunidad para Personas con Discapacidad en la parroquia Dayu",
+    "fecha": "2025-10-29",
+    "imagen": {
+      "id": "b26d7e03f4a8600f",
+      "hash": "b26d7e03f4a8600f3fa96c3c9c459870d03a529a2ed30c1482b3a7eb99c4f23f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_cF2uRhS.JPG",
+      "rutaOriginal": "/media/originales/b26d7e03f4a8600f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/b26d7e03f4a8600f-400.webp",
+        "800w": "/media/derivados/b26d7e03f4a8600f-800.webp",
+        "1600w": "/media/derivados/b26d7e03f4a8600f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12380888,
+      "alt": "Entrega de Kits Alimenticios a personas con discapacidad en la parroquia Dayuma",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/186/",
+    "fuente_url": "https://orellana.gob.ec/noticia/186/",
+    "cuerpo": "La Alcaldía de Francisco de Orellana, a través de la Dirección de Desarrollo Social, realizó la entrega de 30 kits alimenticios a los usuarios del Proyecto Social de Atención al Hogar y la Comunidad para Personas con Discapacidad en la parroquia Dayuma, “El objetivo de nosotros como un proyecto social es brindar una ayuda, y qué mejor ayuda acercándonos a estas casas con necesidad brindando lo que son alimentos no perecibles, arroz, panela, harina de cebada, de trigo, fideos, atún, sardinas, aceites, cosas necesarias para la alimentación y la nutrición.” Ángelo Ortega, técnico municipal. \nLa ayuda llegó hasta las comunidades de Bayanomenga, El Trébol, Miguauno, 12 de Febrero y Tiguano, donde se entregó apoyo y esperanza a las familias más necesitadas, como resultado de la gestión y compromiso de la alcaldesa Shirma Cortés Sanmiguel, “Estoy agradecido por estas bendiciones que nos envía la señora alcaldesa y que siga adelante apoyando a las personas con discapacidad.” Francisco Sánchez, usuario de proyecto social. \nEstas acciones reflejan el trabajo permanente de la administración municipal por garantizar el bienestar, la inclusión y la atención integral a los grupos de atención prioritaria del cantón Francisco de Orellana.\n¡Seguimos trabajando por el bienestar y la inclusión de todos los ciudadanos! DV.",
+    "imagenes": [
+      {
+        "id": "b26d7e03f4a8600f",
+        "hash": "b26d7e03f4a8600f3fa96c3c9c459870d03a529a2ed30c1482b3a7eb99c4f23f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_cF2uRhS.JPG",
+        "rutaOriginal": "/media/originales/b26d7e03f4a8600f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/b26d7e03f4a8600f-400.webp",
+          "800w": "/media/derivados/b26d7e03f4a8600f-800.webp",
+          "1600w": "/media/derivados/b26d7e03f4a8600f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12380888,
+        "alt": "Entrega de Kits Alimenticios a personas con discapacidad en la parroquia Dayuma",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

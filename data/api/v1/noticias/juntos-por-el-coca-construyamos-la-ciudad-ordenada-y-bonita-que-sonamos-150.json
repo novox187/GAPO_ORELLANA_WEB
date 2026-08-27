@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 150,
+    "slug": "juntos-por-el-coca-construyamos-la-ciudad-ordenada-y-bonita-que-sonamos-150",
+    "titulo": "Juntos por El Coca, construyamos la ciudad ordenada y bonita que soñamos",
+    "resumen": "Una ciudad bien planificada es el reflejo del compromiso de su gente con el desarrollo y el bienestar colectivo. Por lo que, la Municipalidad recuerda a toda la ciudadanía la importancia de solicitar el permiso de línea de fábrica antes de iniciar cu",
+    "fecha": "2025-08-25",
+    "imagen": {
+      "id": "f723c3cc16627a5f",
+      "hash": "f723c3cc16627a5fe35ee4779aefa99fc6eda9c03835f6be5d8e61971a54c36f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG_9980.JPG",
+      "rutaOriginal": "/media/originales/f723c3cc16627a5f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/f723c3cc16627a5f-400.webp",
+        "800w": "/media/derivados/f723c3cc16627a5f-800.webp",
+        "1600w": "/media/derivados/f723c3cc16627a5f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 7860702,
+      "alt": "Juntos por El Coca, construyamos la ciudad ordenada y bonita que soñamos",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+    },
+    "url": "/noticia/150/",
+    "fuente_url": "https://orellana.gob.ec/noticia/150/",
+    "cuerpo": "Una ciudad bien planificada es el reflejo del compromiso de su gente con el desarrollo y el bienestar colectivo. Por lo que, la Municipalidad recuerda a toda la ciudadanía la importancia de solicitar el permiso de línea de fábrica antes de iniciar cualquier construcción, cerramiento y ocupación del espacio público en El Coca, “Una vez emitida la línea de fábrica, identificamos los linderos del predio, las alturas mínimas de construcción y en este caso cuando van a hacer la infraestructura como tal, otorgamos ciertos pasos para que puedan ocupar el espacio público y puedan poner su material; siempre y cuando se cumplan con las normativas del municipio.” Willian Ramos, director de ordenamiento territorial.\nContar con este permiso no solo es un requisito técnico, sino también un acto de responsabilidad ciudadana. Su obtención permite al municipio gestionar adecuadamente el espacio público, conservando veredas, calles y áreas verdes para el disfrute de todos, “A mí me parece muy bien, para poder uno trabajar tranquilamente y no obstaculizar las vías públicas, para todo eso hay que sacar permiso, hay que hacer todas las cosas legalmente y a futuro tener todo en regla; y de esta manera, crezca la ciudad ordenada y bonita.” Marlene Bohórquez, opinión ciudadana.\nInvitamos a todos los vecinos a acercarse a nuestras oficinas municipales, donde recibirán atención y asesoría personalizada sobre este importante trámite. Porque con responsabilidad, compromiso y trabajo en equipo, avanzamos hacia El cantón que queremos. JG.",
+    "imagenes": [
+      {
+        "id": "f723c3cc16627a5f",
+        "hash": "f723c3cc16627a5fe35ee4779aefa99fc6eda9c03835f6be5d8e61971a54c36f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG_9980.JPG",
+        "rutaOriginal": "/media/originales/f723c3cc16627a5f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f723c3cc16627a5f-400.webp",
+          "800w": "/media/derivados/f723c3cc16627a5f-800.webp",
+          "1600w": "/media/derivados/f723c3cc16627a5f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 7860702,
+        "alt": "Juntos por El Coca, construyamos la ciudad ordenada y bonita que soñamos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      }
+    ]
+  }
+}

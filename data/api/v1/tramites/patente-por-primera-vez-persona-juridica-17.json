@@ -1,0 +1,155 @@
+{
+  "data": {
+    "id": 17,
+    "slug": "patente-por-primera-vez-persona-juridica-17",
+    "nombre": "Patente por primera vez persona jurídica",
+    "direccion": {
+      "id": 8,
+      "slug": "direccion-financiera",
+      "nombre": "DIRECCIÓN FINANCIERA"
+    },
+    "categorias": [
+      "agua-y-ambiente",
+      "negocios"
+    ],
+    "perfiles": [
+      "ciudadano",
+      "emprendedor",
+      "empresa"
+    ],
+    "resumen": "Es el Permiso de funcionamiento obligatorio (Patente Municipal) para ejercer una actividad dentro del cantón sea estas personas naturales o jurídicas, sociedad nacionales o extranjeras, domiciliadas o con establecimiento",
+    "que_es": "Es el Permiso de funcionamiento obligatorio (Patente Municipal) para ejercer una actividad dentro del cantón sea estas personas naturales o jurídicas, sociedad nacionales o extranjeras, domiciliadas o con establecimiento en la respectiva jurisdicción municipal o metropolitano que ejerzan permanentemente actividades comerciales, industriales, financieras, inmobiliarias y profesionales, etc. Solo se otorgará patente por primera vez, a las actividades económicas que se instalen en los sectores determinados y factibles cumpliendo la Ordenanza que reglamenta del uso del suelo en la ciudad de Francisco de Orellana. Para determinar esta factibilidad la Jefatura de Rentas podrá solicitar informes técnicos a la Dirección de Planificación y a la Unidad de Gestión Ambiental, debiendo coordinar acciones con este último, previo a la renovación de patentes a las actividades que generan riesgo ambiental. En caso de iniciar una actividad económica deberán registrarse en el catastro de Patente de Actividad Económica para obtener la patente dentro de los treinta días siguientes al final del mes que empezará a operar. Nota: Toda persona que tenga RUC o RIMPE registrado o con actividad en El Coca, automáticamente deberá cancelar la patente por obligación.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": null,
+      "detalle": ""
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "PASO No. 1. DIRIGIRSE A LA DIRECCIÓN DE GESTIÓN DE RIESGO CON LA SIGUIENTE DOCUMENTACIÓN:",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "1. Certificado de no adeudar al municipio (adquirir en la jefatura de Rentas)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "2. Copia de la cédula, papeleta de votación y carnet de fiebre amarilla a color en una sola hoja del Representante Legal.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "3. Copia del nombramiento del Representante Legal.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "4. Copia del RUC actualizado.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "PASO No. 2. DESPUÉS DE LOS INFORMES EMITIDOS POR LA DIRECCIÓN DE RIESGOS, ESTOS SE DIRIGIRAN A LA DIRECCIÓN DE AMBIENTE, QUIENES EMITIRAN EL SEGUNDO INFORME A LA DIRECCIÓN FINANCIERA:",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "1. Certificado de la dirección de Riesgos.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "2. Certificado de uso de suelo.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "3. Viabilidad Ambiental.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 10,
+        "texto": "PASO No. 3. LA DIRECCIÓN FINANCIERA ENVIA LOS INFORMES OBTENIDOS DE RIESGOS Y MEDIO AMBIENTE A LA JEFATURA DE RENTAS EN LA CUAL SE DEBE ADJUNTAR LOS SIGUIENTES DOCUMENTOS:",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 11,
+        "texto": "1. Formulario de Patente Municipal-Persona Jurídica (adquirirlo en el área de Recaudación y llenarlo con letra legible)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 12,
+        "texto": "2. Copia de la escritura de Constitución de la Empresa.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 13,
+        "texto": "3. Copia del contrato de arrendamiento (si es arrendado)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 14,
+        "texto": "4. Copia del Impuesto Predial (si es propio)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 15,
+        "texto": "5. Copia del permiso de funcionamiento del Cuerpo de Bomberos a color.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 16,
+        "texto": "6. Copia del inventario del negocio (firmado)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 17,
+        "texto": "7. Copia de un servicio básico (teléfono, luz o agua potable)",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 18,
+        "texto": "8. Copia del uso de suelo.",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [
+      {
+        "titulo": "¿Cobro de la patente de actividad económica?",
+        "html": "<p class=\"text-justify\">Se cobrará el Impuesto de Patente Anual en función de Capital o de la declaración del SRI (patrimonio) que operen los sujetos pasivos dentro del cantón.</p>"
+      },
+      {
+        "titulo": "Obligaciones",
+        "html": "<p class=\"text-justify\">Todo aumento de capital, cambio de denominación o razón social, transferencia de dominio, cese de actividades del establecimiento, o cualquier información referente a cambios, deberá ser notificada por el contribuyente a la Jefatura de Rentas del Gobierno Autónomo Descentralizado Municipal Francisco de Orellana, máximo en los 30 días posteriores de producto de hecho, para que se realice la anotación correspondiente.</p>"
+      }
+    ],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

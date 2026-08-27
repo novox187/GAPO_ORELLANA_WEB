@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 115,
+    "slug": "transporte-digno-para-nuestros-adultos-mayores-115",
+    "titulo": "Transporte digno para nuestros adultos mayores",
+    "resumen": "Con profunda sensibilidad social y compromiso por el bienestar de los sectores más vulnerables, la Municipalidad, bajo la dirección de la alcaldesa Shirma Cortés Sanmiguel, ha puesto en marcha un valioso servicio de transporte diario para los usuario",
+    "fecha": "2025-07-01",
+    "imagen": {
+      "id": "46dc5685bb84d628",
+      "hash": "46dc5685bb84d62856c01e4323f84bd76ec81db30d11af9faf2e07f82b97c78a",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.jpg",
+      "rutaOriginal": "/media/originales/46dc5685bb84d628.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/46dc5685bb84d628-400.webp",
+        "800w": "/media/derivados/46dc5685bb84d628-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 729,
+      "bytes": 243060,
+      "alt": "Transporte digno para nuestros adultos mayores",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/115/",
+    "fuente_url": "https://orellana.gob.ec/noticia/115/",
+    "cuerpo": "Con profunda sensibilidad social y compromiso por el bienestar de los sectores más vulnerables, la Municipalidad, bajo la dirección de la alcaldesa Shirma Cortés Sanmiguel, ha puesto en marcha un valioso servicio de transporte diario para los usuarios del Centro Gerontológico “Hermana Gabriela Zapata”, brindando así dignidad, seguridad y acompañamiento a nuestros adultos mayores.\nGracias al trabajo conjunto con el (MIES), hoy dos unidades de transporte recorren la ciudad para recoger y trasladar a los adultos mayores desde sus domicilios hacia el centro, permitiéndoles acceder con mayor facilidad a servicios de atención integral, como: Salud, Alimentación terapias físicas, terapias ocupacionales, actividades educativas, lúdicas y de recreación, “Agradezco a la señora alcaldesa que nos ha dado el servicio de los buses para que nos puedan traer hasta este lugar”, manifiestan con una notoria sonrisa, las abuelitas Angélica Castillo y Libia Ibarra.\n“Gracias a Dios y a la señora alcaldesa, ya tenemos el servicio y estamos muy agradecidos, porque nos van a ver al domicilio y nos dejan también en nuestro hogar”. \nEl servicio de transporte no solo facilita la movilidad, sino que representa un acto de solidaridad y justicia con quienes han entregado su vida a sus familias, comunidades y al país. Es una forma concreta de devolverles el cuidado que merecen y garantizarles una vejez digna, así lo recuerda el adulto mayor Pedro Apolo, “Agrademos a la señora alcaldesa por todo lo que nos ha dado y hacer ejercicio con estas maquinitas nos ayuda a rejuvenecer nuestros músculos, esto nos ayuda bastante, hasta para algunas enfermedades”. \nEsta iniciativa municipal refleja la visión humanista de la administración de Shirma Cortés Sanmiguel. Más allá de los servicios, se trata de generar condiciones reales para que nuestros adultos mayores vivan con dignidad, salud y alegría. DV.",
+    "imagenes": [
+      {
+        "id": "46dc5685bb84d628",
+        "hash": "46dc5685bb84d62856c01e4323f84bd76ec81db30d11af9faf2e07f82b97c78a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.jpg",
+        "rutaOriginal": "/media/originales/46dc5685bb84d628.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/46dc5685bb84d628-400.webp",
+          "800w": "/media/derivados/46dc5685bb84d628-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 729,
+        "bytes": 243060,
+        "alt": "Transporte digno para nuestros adultos mayores",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

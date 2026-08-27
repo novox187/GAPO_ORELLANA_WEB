@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 202,
+    "slug": "alcaldia-y-cocaprode-refuerzan-acciones-contra-la-violencia-de-genero-202",
+    "titulo": "Alcaldía y COCAPRODE refuerzan acciones contra la violencia de género",
+    "resumen": "La Alcaldía, a través del COCAPRODE, desarrolló la jornada de integración y Clausura “Vidas sin Violencia: Tejiendo compromisos con la Comunidad”, realizada en la comuna Kichwa Patas Yaku, de la parroquia San Luis de Armenia. En este espacio particip",
+    "fecha": "2025-11-24",
+    "imagen": {
+      "id": "7ea4ce331368522a",
+      "hash": "7ea4ce331368522aa409b12e8b8ebd5cc845d94c4daf721a2b16e9b69b2ac69f",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_lHv86OM.JPG",
+      "rutaOriginal": "/media/originales/7ea4ce331368522a.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/7ea4ce331368522a-400.webp",
+        "800w": "/media/derivados/7ea4ce331368522a-800.webp",
+        "1600w": "/media/derivados/7ea4ce331368522a-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 7740129,
+      "alt": "Alcaldía y COCAPRODE refuerzan acciones contra la violencia de género",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+    },
+    "url": "/noticia/202/",
+    "fuente_url": "https://orellana.gob.ec/noticia/202/",
+    "cuerpo": "La Alcaldía, a través del COCAPRODE, desarrolló la jornada de integración y Clausura “Vidas sin Violencia: Tejiendo compromisos con la Comunidad”, realizada en la comuna Kichwa Patas Yaku, de la parroquia San Luis de Armenia.\nEn este espacio participaron el alcalde subrogante Víctor Ruiz, las concejales alternas Ana Ureña y Laura Alcívar, junto a técnicos municipales y representantes de diversas instituciones del Estado. La jornada cerró un proceso de tres meses de sensibilización y trabajo conjunto con asociaciones de mujeres, hombres, líderes comunitarios y estudiantes comprometidos con la erradicación de la violencia de género, “COCAPRODE en coordinación con la municipalidad de Francisco de Orellana ha realizado varios eventos especiales sobre la erradicación del maltrato a ese ser sublime, a ese ser tan importante que son ustedes las mujeres.” Víctor Ruiz, alcalde de Francisco de Orellana (E). \nSe realizaron talleres sobre igualdad de género, diversidad y trabajo sexual, se entregaron certificados del concurso estudiantil de pintura y se reconoció a los líderes comuneros por su contribución a entornos más seguros y libres de violencia, “Está muy bien lo que hace la alcaldesa Shirma Cortés Sanmiguel que apoya a nuestra comunidad para que no haya violencia.” Antonia Aguinda, moradora de la comuna Patas Yaku. \nLa Municipalidad ratifica su compromiso de seguir impulsando acciones que fortalezcan la sensibilización y prevención de esta problemática social. DV.",
+    "imagenes": [
+      {
+        "id": "7ea4ce331368522a",
+        "hash": "7ea4ce331368522aa409b12e8b8ebd5cc845d94c4daf721a2b16e9b69b2ac69f",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_lHv86OM.JPG",
+        "rutaOriginal": "/media/originales/7ea4ce331368522a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7ea4ce331368522a-400.webp",
+          "800w": "/media/derivados/7ea4ce331368522a-800.webp",
+          "1600w": "/media/derivados/7ea4ce331368522a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 7740129,
+        "alt": "Alcaldía y COCAPRODE refuerzan acciones contra la violencia de género",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "data": {
+    "id": 12,
+    "slug": "requisitos-para-ingresar-al-relleno-sanitario-con-desechos-organicos-e-12",
+    "nombre": "Requisitos para ingresar al relleno sanitario con desechos orgánicos e inorgánicos",
+    "direccion": {
+      "id": 5,
+      "slug": "direccion-de-ambiente",
+      "nombre": "DIRECCIÓN DE AMBIENTE"
+    },
+    "categorias": [
+      "agua-y-ambiente"
+    ],
+    "perfiles": [
+      "ciudadano"
+    ],
+    "resumen": "El botadero municipal controlado está ubicado en km 9 vía Auca, en este espacio ingresan desechos orgánicos e inorgánicos que son generados por los ciudadanos del cantón tanto de la zona urbana y rural. En este lugar se",
+    "que_es": "El botadero municipal controlado está ubicado en km 9 vía Auca, en este espacio ingresan desechos orgánicos e inorgánicos que son generados por los ciudadanos del cantón tanto de la zona urbana y rural. En este lugar se realiza: tape diario, manejo de lixiviados y control de olores.",
+    "para_que_sirve": "",
+    "quienes_acceden": "",
+    "costo": {
+      "tiene_costo": true,
+      "detalle": "SERVICIO DE RECOLECCIÓN DE DESECHOS MENSUAL: $10,74.\n SERVICIO PARA INGRESO AL BOTADERO MUNICIPAL CONTROLADO.\n CAMIONETA: $ 10,74\n CAMIÓN: $ 21,43\n VOLQUETA SENCILLA: $ 32,18\n VOLQUETA MULA: $ 42,87"
+    },
+    "requisitos": [
+      {
+        "orden": 1,
+        "texto": "Copia de la patente actualizada.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 2,
+        "texto": "Copia del certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO a nombre de la empresa.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 3,
+        "texto": "Copia del RUC de la empresa o copia de la cédula de ciudadanía si es persona natural.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 4,
+        "texto": "Guía de remisión de la empresa.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 5,
+        "texto": "Cancelar el valor que corresponda en recaudación del GADMFO.",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 6,
+        "texto": "Camionetas: $ 10,74",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 7,
+        "texto": "Camiones: $ 21,43",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 8,
+        "texto": "Volquete sencillo: $ 32,18",
+        "documento_url": null,
+        "obligatorio": true
+      },
+      {
+        "orden": 9,
+        "texto": "Volquete mula: $ 42,87",
+        "documento_url": null,
+        "obligatorio": true
+      }
+    ],
+    "pasos": [],
+    "formularios": [],
+    "base_legal": [],
+    "contenido_adicional": [],
+    "actualizado_en": "2026-08-27",
+    "fuente_url": "https://orellana.gob.ec/tramites_m/",
+    "requiere_revision_editorial": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 284,
+    "slug": "nestor-jimenez-ya-cuenta-con-una-casa-taller-que-abre-puertas-al-futuro-284",
+    "titulo": "Néstor Jiménez ya cuenta con una Casa Taller que abre puertas al futuro",
+    "resumen": "“Quiero expresar en nombre de todos los moradores del sector Néstor Jiménez, nuestro más sincero agradecimiento a la señora alcaldesa, por hacer realidad esta gran obra.” Esperanza González, moradora de Néstor Jiménez.",
+    "fecha": "2026-04-13",
+    "imagen": {
+      "id": "8df73a0998651729",
+      "hash": "8df73a0998651729c6944974f66f1e9ca1f387b708366659d8850b6f8ffc5814",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1.JPG",
+      "rutaOriginal": "/media/originales/8df73a0998651729.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8df73a0998651729-400.webp",
+        "800w": "/media/derivados/8df73a0998651729-800.webp",
+        "1600w": "/media/derivados/8df73a0998651729-1600.webp"
+      },
+      "ancho": 4096,
+      "alto": 2304,
+      "bytes": 10043392,
+      "alt": "Néstor Jiménez ya cuenta con una Casa Taller que abre puertas al futuro",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/284/",
+    "fuente_url": "https://orellana.gob.ec/noticia/284/",
+    "cuerpo": "“Quiero expresar en nombre de todos los moradores del sector Néstor Jiménez, nuestro más sincero agradecimiento a la señora alcaldesa, por hacer realidad esta gran obra.” Esperanza González, moradora de Néstor Jiménez.\nEn medio de un ambiente de gratitud colectiva y esperanza compartida, la alcaldesa Shirma Cortés Sanmiguel inauguró una moderna Casa Taller en el sector Néstor Jiménez del barrio Nuevo Coca, consolidando una obra que no solo transforma el espacio físico, sino que impulsa el desarrollo social desde sus cimientos. Porque cuando existe un diálogo sincero y abierto, los resultados fluyen de la mejor manera, afirmó la primera autoridad municipal, “Quiero agradecer en este caso a la presidenta del barrio, a los representantes de los diferentes sectores que, gracias a esa articulación que se ha hecho con la autoridad, se puso dentro de la planificación este proyecto; y hoy, muy contentos y satisfechos lo están recibiendo nuestros queridos moradores.” Shirma Cortés Sanmiguel, alcaldesa de Francisco de Orellana.\nCon una inversión de 89.972,09 dólares, el proyecto incluye la construcción de un escenario: multifuncional, cocina equipada, oficina administrativa, baños modernos, juegos infantiles, además de un tanque elevado, biodigestor, aires acondicionados y acometidas eléctricas que garantizan la funcionalidad y confort del lugar, así lo manifiestan con gran emoción Ashley Gavilánez y Luis Bravo, moradores de Néstor Jiménez, “Me siento muy orgullosa, porque la verdad hemos esperado mucho tiempo una obra como esta en nuestro barrio, y gracias a Dios y a la señora alcaldesa, ahora es una realidad.”\n“Me encontraba en la ciudad de Quito y viajé precisamente para estar en esta inauguración, y ver esta obra aquí en mi sector, me llena de orgullo.”",
+    "imagenes": [
+      {
+        "id": "8df73a0998651729",
+        "hash": "8df73a0998651729c6944974f66f1e9ca1f387b708366659d8850b6f8ffc5814",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1.JPG",
+        "rutaOriginal": "/media/originales/8df73a0998651729.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8df73a0998651729-400.webp",
+          "800w": "/media/derivados/8df73a0998651729-800.webp",
+          "1600w": "/media/derivados/8df73a0998651729-1600.webp"
+        },
+        "ancho": 4096,
+        "alto": 2304,
+        "bytes": 10043392,
+        "alt": "Néstor Jiménez ya cuenta con una Casa Taller que abre puertas al futuro",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

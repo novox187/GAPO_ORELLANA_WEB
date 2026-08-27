@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 143,
+    "slug": "80-ninos-y-ninas-disfrutaron-de-colonias-vacacionales-del-proyecto-eti-143",
+    "titulo": "80 niños y niñas disfrutaron de colonias vacacionales del proyecto ETI",
+    "resumen": "Con sonrisas, juegos y aprendizajes inolvidables, 80 niños y niñas participaron en las Colonias Vacacionales del proyecto ETI, impulsadas por la Alcaldía en convenio con el Ministerio de Inclusión Económica y Social (MIES).",
+    "fecha": "2025-08-13",
+    "imagen": {
+      "id": "e5caae6850bbaed6",
+      "hash": "e5caae6850bbaed612fd90bc52e7370ed1bb93125c8b5d592e64e996458b440c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_6364.JPG",
+      "rutaOriginal": "/media/originales/e5caae6850bbaed6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e5caae6850bbaed6-400.webp",
+        "800w": "/media/derivados/e5caae6850bbaed6-800.webp",
+        "1600w": "/media/derivados/e5caae6850bbaed6-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 13044632,
+      "alt": "80 niños y niñas disfrutaron de colonias vacacionales del proyecto ETI",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+    },
+    "url": "/noticia/143/",
+    "fuente_url": "https://orellana.gob.ec/noticia/143/",
+    "cuerpo": "Con sonrisas, juegos y aprendizajes inolvidables, 80 niños y niñas participaron en las Colonias Vacacionales del proyecto ETI, impulsadas por la Alcaldía en convenio con el Ministerio de Inclusión Económica y Social (MIES).\nUna de las actividades más emotivas fue convertirse en “bomberos por un día”, donde pudieron conocer de cerca el trabajo de los cuerpos de emergencia, aprender sobre prevención y seguridad, y participar en dinámicas lúdicas diseñadas para fortalecer valores como la solidaridad y el trabajo en equipo, “Agradecerle de todo corazón a la señora alcaldesa, por el apoyo que se les está dando a los niños, es importante darles la oportunidad para que formen parte de la recreación”. Jorge Espinoza, padre de familia. \nOtra de las actividades destacadas fue una jornada deportiva en el estadio 27 de Octubre, donde los niños compartieron momentos de recreación a través de un partido de fútbol, fomentando el compañerismo y la actividad física en un entorno de alegría y convivencia, “Señora alcaldesa, estamos agradecidos con usted, muy felices, porque nos ayuda con muchas cosas para Nuestras familias”. Beneficiario\ndel proyecto ETI. \nLas Colonias Vacacionales forman parte de la estrategia del proyecto ETI, que busca erradicar progresivamente el trabajo infantil, ofreciendo alternativas que promuevan la protección integral de niños y niñas en situación de vulnerabilidad. PT.",
+    "imagenes": [
+      {
+        "id": "e5caae6850bbaed6",
+        "hash": "e5caae6850bbaed612fd90bc52e7370ed1bb93125c8b5d592e64e996458b440c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_6364.JPG",
+        "rutaOriginal": "/media/originales/e5caae6850bbaed6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e5caae6850bbaed6-400.webp",
+          "800w": "/media/derivados/e5caae6850bbaed6-800.webp",
+          "1600w": "/media/derivados/e5caae6850bbaed6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 13044632,
+        "alt": "80 niños y niñas disfrutaron de colonias vacacionales del proyecto ETI",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      }
+    ]
+  }
+}

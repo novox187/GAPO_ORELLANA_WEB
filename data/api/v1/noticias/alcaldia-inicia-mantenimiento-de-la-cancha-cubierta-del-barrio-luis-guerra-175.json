@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 175,
+    "slug": "alcaldia-inicia-mantenimiento-de-la-cancha-cubierta-del-barrio-luis-guerra-175",
+    "titulo": "Alcaldía inicia mantenimiento de la cancha cubierta del barrio Luis Guerra",
+    "resumen": "Las risas, los aplausos y la emoción de los vecinos marcaron el ambiente en el barrio Luis Guerra, donde la Alcaldía, bajo el liderazgo de Shirma Cortés Sanmiguel, dio inicio al tan esperado mantenimiento de la cancha cubierta, un espacio que durante",
+    "fecha": "2025-10-09",
+    "imagen": {
+      "id": "1548d8a4bce135ca",
+      "hash": "1548d8a4bce135ca0cf9a0b067f006c7b30613ad071fca44dc1c0df8db59e067",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.jpg",
+      "rutaOriginal": "/media/originales/1548d8a4bce135ca.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1548d8a4bce135ca-400.webp",
+        "800w": "/media/derivados/1548d8a4bce135ca-800.webp",
+        "1600w": "/media/derivados/1548d8a4bce135ca-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 10311743,
+      "alt": "Alcaldía inicia mantenimiento de la cancha cubierta del barrio Luis Guerra",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+    },
+    "url": "/noticia/175/",
+    "fuente_url": "https://orellana.gob.ec/noticia/175/",
+    "cuerpo": "Las risas, los aplausos y la emoción de los vecinos marcaron el ambiente en el barrio Luis Guerra, donde la Alcaldía, bajo el liderazgo de Shirma Cortés Sanmiguel, dio inicio al tan esperado mantenimiento de la cancha cubierta, un espacio que durante años fue anhelo de sus moradores y que hoy comienza a transformarse en realidad.\nLa alcaldesa llegó acompañada de su equipo de trabajo y fue recibida con calidez por los moradores, quienes expresaron su gratitud y esperanza, “Es un honor señora alcaldesa y su comitiva tenerla aquí en nuestro sector y esperamos que obras como esta, en su administración sigan llegando para bien, para el contento de quienes habitamos en este sector de la geografía orellanense.” Elio Ortega, morador del barrio Luis Guerra. \nPor otro lado, la alcaldesa también anunció que su administración no solo trabaja en la parte deportiva, sino que también impulsa proyectos estructurales que marcarán un antes y un después en la vida de los orellanenses, “Quiero contarles que, en el mes de julio se presentó a la STCTEA el proyecto de alcantarillado del barrio Luis Guerra y Turismo Ecológico, estamos haciendo esta gestión y el resultado es que el proyecto ya está en la STCTEA, porque en días anteriores tuvimos una reunión con el señor ministro en la alcaldía y nos fue dando esa luz y esperanza que en el próximo año se logre ese financiamiento y es la noticia que tengo para todos ustedes.” Shirma Cortés Sanmiguel, alcaldesa de Francisco de Orellana. \nLa obra de la cancha contará con una inversión de $77.200,54 y un plazo de ejecución de tres meses. Además de la recuperación de la infraestructura deportiva, se instalarán cámaras de videovigilancia y una alarma para la ciudadanía, garantizando seguridad para las familias del sector, “Para mí, es un honor y una alegría de que el mantenimiento de nuestro coliseo haya sido un éxito, porque nuestra alcaldesa sí nos está tomando en cuenta y que siga así.” Fátima Zambrano, presidenta del barrio Luis Guerra. \nCon estas acciones, la Alcaldía fortalece el deporte, promueve la integración de la ciudadanía y demuestra que cuando hay voluntad política y liderazgo con visión, los sueños colectivos se convierten en obras. DV.",
+    "imagenes": [
+      {
+        "id": "1548d8a4bce135ca",
+        "hash": "1548d8a4bce135ca0cf9a0b067f006c7b30613ad071fca44dc1c0df8db59e067",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.jpg",
+        "rutaOriginal": "/media/originales/1548d8a4bce135ca.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1548d8a4bce135ca-400.webp",
+          "800w": "/media/derivados/1548d8a4bce135ca-800.webp",
+          "1600w": "/media/derivados/1548d8a4bce135ca-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 10311743,
+        "alt": "Alcaldía inicia mantenimiento de la cancha cubierta del barrio Luis Guerra",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 169,
+    "slug": "alcaldia-garantiza-transporte-tras-13-dias-de-dialogo-y-firmeza-169",
+    "titulo": "Alcaldía garantiza transporte tras 13 días de diálogo y firmeza",
+    "resumen": "La eliminación del subsidio al diésel por parte del Gobierno Central, que elevó su precio de $1,80 a $2,80, generó malestar en el gremio de transportistas, quienes convocaron reuniones y paralizaciones en varias provincias del país. En Francisco de O",
+    "fecha": "2025-09-29",
+    "imagen": {
+      "id": "e630a265d5f7a4ec",
+      "hash": "e630a265d5f7a4ec40634c5d93ea393d5afa6acc4ac9f18a2f46629a14769809",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29.JPG",
+      "rutaOriginal": "/media/originales/e630a265d5f7a4ec.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e630a265d5f7a4ec-400.webp",
+        "800w": "/media/derivados/e630a265d5f7a4ec-800.webp",
+        "1600w": "/media/derivados/e630a265d5f7a4ec-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 5858903,
+      "alt": "Alcaldía garantiza transporte tras 13 días de diálogo y firmeza",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/169/",
+    "fuente_url": "https://orellana.gob.ec/noticia/169/",
+    "cuerpo": "La eliminación del subsidio al diésel por parte del Gobierno Central, que elevó su precio de $1,80 a $2,80, generó malestar en el gremio de transportistas, quienes convocaron reuniones y paralizaciones en varias provincias del país. En Francisco de Orellana, algunos transportistas suspendieron sus actividades, afectando directamente a estudiantes, trabajadores, familias y a la economía local.\nAnte este escenario, la alcaldesa Shirma Cortés Sanmiguel asumió el liderazgo que le otorga la Constitución en materia de tránsito y transporte público. Con firmeza y diálogo permanente, defendió el derecho de la ciudadanía a contar con un servicio esencial y recordó que la Ley faculta al Municipio a sancionar incumplimientos graves, como la suspensión de rutas, la intervención de operadoras o la revocatoria de permisos, “Es muy importante que la ciudadanía sepa de que nosotros en la municipalidad no hemos solicitado, ni hemos pedido, ni hemos ejecutado que exista una variación en el costo del pasaje que se estaba manteniendo con anterioridad; nosotros estamos pidiendo más bien a todos los medios de transporte que retomen sus actividades con normalidad y para que la ciudadanía no sienta esta afectación.” Jonny Barrionuevo, director de tránsito, Transporte Terrestre y Seguridad Vial Municipal.\nEntre el 13 y el 26 de septiembre, la administración municipal encabezó jornadas de diálogo consecutivas con los representantes del transporte. Reunión tras reunión, la alcaldesa sostuvo un discurso firme: defender el interés colectivo por encima de los intereses particulares.\nEl proceso concluyó el 26 de septiembre, en el Auditorio Municipal, donde se alcanzaron resoluciones concretas:\n• El transporte rural operará al 100% de su capacidad.\n• El transporte urbano operará al 50%, manteniendo las tarifas actuales.\n• Se instalarán mesas técnicas para un análisis transparente y responsable de un eventual ajuste tarifario.\nCon estas medidas, la Alcaldía de Francisco de Orellana demuestra que el diálogo es la mejor herramienta para alcanzar consensos duraderos. La gestión de la alcaldesa Shirma Cortés Sanmiguel ratifica así su compromiso con una movilidad ordenada, justa y pensada para todos. JG.",
+    "imagenes": [
+      {
+        "id": "e630a265d5f7a4ec",
+        "hash": "e630a265d5f7a4ec40634c5d93ea393d5afa6acc4ac9f18a2f46629a14769809",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29.JPG",
+        "rutaOriginal": "/media/originales/e630a265d5f7a4ec.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e630a265d5f7a4ec-400.webp",
+          "800w": "/media/derivados/e630a265d5f7a4ec-800.webp",
+          "1600w": "/media/derivados/e630a265d5f7a4ec-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 5858903,
+        "alt": "Alcaldía garantiza transporte tras 13 días de diálogo y firmeza",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

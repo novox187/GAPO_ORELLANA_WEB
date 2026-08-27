@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 10,
+    "slug": "alcaldia-prioriza-la-atencion-ciudadana-personal-y-grupal-10",
+    "titulo": "Alcaldía prioriza la atención ciudadana personal y grupal",
+    "resumen": "Fortalecer la participación ciudadana",
+    "fecha": "2025-01-08",
+    "imagen": {
+      "id": "29f9e8f8a214e6ea",
+      "hash": "29f9e8f8a214e6ea343611336416151d92cd7701171ea18bd2b85b9fd877ed88",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_ATENCION_CIUDADANA.png",
+      "rutaOriginal": "/media/originales/29f9e8f8a214e6ea.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/29f9e8f8a214e6ea-400.webp",
+        "800w": "/media/derivados/29f9e8f8a214e6ea-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 990569,
+      "alt": "Alcaldía prioriza la atención ciudadana personal y grupal",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/10/",
+    "fuente_url": "https://orellana.gob.ec/noticia/10/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel junto a concejales y técnicos municipales, establecieron como una de sus prioridades la atención directa y personalizada de los ciudadanos, implementando acciones tanto individuales como grupales para mejorar el bienestar de la comunidad. Esto incluye la creación de espacios de diálogo, atención a necesidades sociales, y la resolución de inquietudes o problemas relacionados con los servicios públicos.\nA través de esta estrategia, se busca fortalecer la participación ciudadana y fomentar un ambiente de confianza entre la Alcaldía y los habitantes de Francisco de Orellana. El objetivo es garantizar que todos los ciudadanos, sin importar su edad, condición o ubicación, reciban el apoyo necesario para mejorar su calidad de vida y contar con los servicios municipales de manera eficiente y oportuna. JG.",
+    "imagenes": [
+      {
+        "id": "29f9e8f8a214e6ea",
+        "hash": "29f9e8f8a214e6ea343611336416151d92cd7701171ea18bd2b85b9fd877ed88",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_ATENCION_CIUDADANA.png",
+        "rutaOriginal": "/media/originales/29f9e8f8a214e6ea.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/29f9e8f8a214e6ea-400.webp",
+          "800w": "/media/derivados/29f9e8f8a214e6ea-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 990569,
+        "alt": "Alcaldía prioriza la atención ciudadana personal y grupal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

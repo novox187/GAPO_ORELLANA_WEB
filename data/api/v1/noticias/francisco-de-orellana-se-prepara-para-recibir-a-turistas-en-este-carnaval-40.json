@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 40,
+    "slug": "francisco-de-orellana-se-prepara-para-recibir-a-turistas-en-este-carnaval-40",
+    "titulo": "Francisco de Orellana se prepara para recibir a turistas en este carnaval",
+    "resumen": "Los eventos continuarán hasta el 3 de marzo con los recorridos",
+    "fecha": "2025-02-27",
+    "imagen": {
+      "id": "b2afe3b0242c62c0",
+      "hash": "b2afe3b0242c62c09772df72d7481ffdac761b2ce03aea6b0f5b2f469b4588a0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_1942.JPG",
+      "rutaOriginal": "/media/originales/b2afe3b0242c62c0.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/b2afe3b0242c62c0-400.webp",
+        "800w": "/media/derivados/b2afe3b0242c62c0-800.webp",
+        "1600w": "/media/derivados/b2afe3b0242c62c0-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 4579351,
+      "alt": "Francisco de Orellana se prepara para recibir a turistas en este carnaval",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/40/",
+    "fuente_url": "https://orellana.gob.ec/noticia/40/",
+    "cuerpo": "El Coca, se prepara para recibir a los turistas durante el feriado de Carnaval con una variedad de actividades culturales, turísticas, recreativas y productivas. El 28 de febrero se celebrará el Día de la Identidad Coqueña, mismos que están destinados a fortalecer el desarrollo turístico del cantón, así lo manifiesta Lady Barrionuevo, directora de turismo, “Tendremos la feria de emprendedores con productos \"100% Hecho en Coca”, también habrá el festival de DJs, reconocimiento a los primeros fundadores de nuestra bella ciudad de El Coca; adicional, tenemos una noche de música con diferentes bandas musicales de la localidad acá en La Bocana el día domingo con el tema de Butako, y un sinnúmero de actividades para que también los niños puedan venir a disfrutar”. \nEl Zoológico Municipal, es un sitio ideal para el entretenimiento, la educación y la contemplación de la rica biodiversidad de la región. \nLos eventos continuarán hasta el 3 de marzo con los recorridos por los tres ríos desde la Bocana del Payamino, donde se dinamizará la economía local, “Es una buena oportunidad y también tenemos el plus de La Bocana para nuestros clientes que vienen, e inclusive para el 1, 2 y 3 tenemos ya paquetes vendidos para estos días de carnaval que tenemos”. Patricio Juanka, Amazon Travel.\nLos Agentes de Control Municipal estarán articulando acciones con las demás instituciones para garantizar la seguridad ciudadana en este feriado.\nEl Coca te espera. JG.",
+    "imagenes": [
+      {
+        "id": "b2afe3b0242c62c0",
+        "hash": "b2afe3b0242c62c09772df72d7481ffdac761b2ce03aea6b0f5b2f469b4588a0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_1942.JPG",
+        "rutaOriginal": "/media/originales/b2afe3b0242c62c0.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/b2afe3b0242c62c0-400.webp",
+          "800w": "/media/derivados/b2afe3b0242c62c0-800.webp",
+          "1600w": "/media/derivados/b2afe3b0242c62c0-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 4579351,
+        "alt": "Francisco de Orellana se prepara para recibir a turistas en este carnaval",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

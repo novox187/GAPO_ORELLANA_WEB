@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 80,
+    "slug": "mantener-limpio-el-solar-hasta-la-mitad-de-la-calle-y-cunetas-libres-es-una-80",
+    "titulo": "Mantener limpio el solar hasta la mitad de la calle y cunetas libres es una responsabilidad compartida",
+    "resumen": "Mantener nuestros espacios limpios es una responsabilidad compartida que contribuye directamente a la salud, seguridad",
+    "fecha": "2025-05-07",
+    "imagen": {
+      "id": "35402d0e95bab4e6",
+      "hash": "35402d0e95bab4e60cbcb5cbe96a659a53b3cc3d51c26e22163823a346a02c61",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_2165.JPG",
+      "rutaOriginal": "/media/originales/35402d0e95bab4e6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/35402d0e95bab4e6-400.webp",
+        "800w": "/media/derivados/35402d0e95bab4e6-800.webp",
+        "1600w": "/media/derivados/35402d0e95bab4e6-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 16826712,
+      "alt": "Mantener limpio el solar hasta la mitad de la calle y cunetas libres es una responsabilidad compartida",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+    },
+    "url": "/noticia/80/",
+    "fuente_url": "https://orellana.gob.ec/noticia/80/",
+    "cuerpo": "Mantener nuestros espacios limpios es una responsabilidad compartida que contribuye directamente a la salud, seguridad y buena imagen de nuestra ciudad. Por ello, hacemos un llamado a todos los ciudadanos y ciudadanas a mantener limpio su solar hasta la mitad de la calle, “No debemos sólo esperar del municipio, uno como ser humano y como ciudadano también colaborar, también tener limpio, no arrojar basura, no contaminar con llantas y no botar animalitos”. Katerine Quiñónez, opinión ciudadana.\nAsimismo, evitemos tapar las zanjas o cunetas ubicadas a los lados de las vías que cumplen una función fundamental: permiten el libre flujo del agua durante las lluvias y ayudan a prevenir inundaciones que pueden dañar nuestras viviendas, calles y los servicios públicos, “Cuando llueve y por motivo de que las alcantarillas están tapadas con los montes y otros materiales, se genera inundaciones, las calles se rebosan de agua, la cantidad de mosquitos también es súper grande; por eso, todos debemos contribuir a la limpieza de nuestros barrios, mantengamos un buen orden para que no se dificulte para nosotros mismo, nuestra vida cotidiana”. María García, opinión ciudadana.\nRecuerde: Un entorno limpio no solo refleja respeto, sino que también previene enfermedades, mejora la calidad de vida y promueve una comunidad más unida y segura.\nCuidemos entre todos a nuestro querido cantón. JG.",
+    "imagenes": [
+      {
+        "id": "35402d0e95bab4e6",
+        "hash": "35402d0e95bab4e60cbcb5cbe96a659a53b3cc3d51c26e22163823a346a02c61",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_2165.JPG",
+        "rutaOriginal": "/media/originales/35402d0e95bab4e6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/35402d0e95bab4e6-400.webp",
+          "800w": "/media/derivados/35402d0e95bab4e6-800.webp",
+          "1600w": "/media/derivados/35402d0e95bab4e6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 16826712,
+        "alt": "Mantener limpio el solar hasta la mitad de la calle y cunetas libres es una responsabilidad compartida",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 221,
+    "slug": "la-alcaldesa-shirma-cortes-clausura-las-colonias-navidenas-que-transforman-221",
+    "titulo": "La alcaldesa Shirma Cortés clausura las colonias navideñas que transforman vidas en El Coca",
+    "resumen": "En un ambiente lleno de alegría, juegos y espíritu navideño, la alcaldesa Shirma Cortés Sanmiguel encabezó la clausura de las colonias navideñas “Derechos con dignidad por un Ecuador sin mendicidad y sin trabajo infantil”. El centro turístico La Isla",
+    "fecha": "2025-12-22",
+    "imagen": {
+      "id": "263f0cd0aab41348",
+      "hash": "263f0cd0aab41348b4a4bdd48919b5c79460e50c8c9fb0c9afd3eece4f58e605",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_BHLWyfO.JPG",
+      "rutaOriginal": "/media/originales/263f0cd0aab41348.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/263f0cd0aab41348-400.webp",
+        "800w": "/media/derivados/263f0cd0aab41348-800.webp",
+        "1600w": "/media/derivados/263f0cd0aab41348-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6908899,
+      "alt": "La alcaldesa Shirma Cortés clausura las colonias navideñas que transforman vidas en El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+    },
+    "url": "/noticia/221/",
+    "fuente_url": "https://orellana.gob.ec/noticia/221/",
+    "cuerpo": "En un ambiente lleno de alegría, juegos y espíritu navideño, la alcaldesa Shirma Cortés Sanmiguel encabezó la clausura de las colonias navideñas “Derechos con dignidad por un Ecuador sin mendicidad y sin trabajo infantil”. El centro turístico La Isla se convirtió en un escenario de color y talento durante esta jornada dedicada a celebrar la infancia con respeto, inclusión y esperanza, “Nuestro compromiso es seguir trabajando para el bienestar, protección y desarrollo de cada uno de ustedes, de mi parte, quiero desearles una feliz navidad.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nLa Alcaldía, en convenio con el Ministerio de Desarrollo Humano, consolidó un espacio formativo que impulsa la prevención laboral de menores y promueve la participación activa de las familias en la protección de derechos, asegurando una niñez acompañada, protegida y libre de vulneraciones, “Excelente, muy bonito el evento, me parece perfecto, porque los niños se divierten, y que sigamos con estos bonitos eventos.” Patricia Amaro, opinión ciudadana.\n“Está muy bien evento, porque los niños se divierten, se distraen, pasan una mañana divertida.” Xiomara Artube, opinión ciudadana.\nCon acciones concretas, sensibles y orientadas al bienestar ciudadano, la alcaldesa Shirma Cortés demuestra que la construcción del progreso inicia desde la protección de quienes más lo necesitan. JG.",
+    "imagenes": [
+      {
+        "id": "263f0cd0aab41348",
+        "hash": "263f0cd0aab41348b4a4bdd48919b5c79460e50c8c9fb0c9afd3eece4f58e605",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_BHLWyfO.JPG",
+        "rutaOriginal": "/media/originales/263f0cd0aab41348.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/263f0cd0aab41348-400.webp",
+          "800w": "/media/derivados/263f0cd0aab41348-800.webp",
+          "1600w": "/media/derivados/263f0cd0aab41348-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6908899,
+        "alt": "La alcaldesa Shirma Cortés clausura las colonias navideñas que transforman vidas en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      }
+    ]
+  }
+}

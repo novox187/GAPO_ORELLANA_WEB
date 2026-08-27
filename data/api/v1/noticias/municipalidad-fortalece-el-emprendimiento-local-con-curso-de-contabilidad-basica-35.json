@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 35,
+    "slug": "municipalidad-fortalece-el-emprendimiento-local-con-curso-de-contabilidad-basica-35",
+    "titulo": "Municipalidad fortalece el emprendimiento local con curso de Contabilidad Básica",
+    "resumen": "Este curso, cuenta con el aval de la Escuela Superior Politécnica de Chimborazo",
+    "fecha": "2025-02-12",
+    "imagen": {
+      "id": "d81ec9c168b58b9b",
+      "hash": "d81ec9c168b58b9b7677ac28c270273e945aee618d731619d23baebaca3c14d7",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_CURSO_CONTABILIDAD.png",
+      "rutaOriginal": "/media/originales/d81ec9c168b58b9b.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d81ec9c168b58b9b-400.webp",
+        "800w": "/media/derivados/d81ec9c168b58b9b-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1009494,
+      "alt": "Municipalidad fortalece el emprendimiento local con curso de Contabilidad Básica",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    "url": "/noticia/35/",
+    "fuente_url": "https://orellana.gob.ec/noticia/35/",
+    "cuerpo": "El alcalde La Municipalidad impulsa la formación y el crecimiento económico local con el curso de Contabilidad Básica, en el que 65 personas reciben capacitación clave para administrar mejor sus negocios y mejorar su economía familiar.\nEste curso, cuenta con el aval de la Escuela Superior Politécnica de Chimborazo y tiene una duración de seis semanas con 120 horas de formación práctica y teórica, así lo manifiesta Ramón Mena, técnico municipal quien estuvo a cargo del taller, “Lo que se está buscando con los jóvenes es que puedan llevar su propia contabilidad y no tener esa necesidad de contratar un contador aparte, porque la mayoría de jóvenes son emprendedores”.\nCon este tipo de iniciativas, la Municipalidad fortalece el desarrollo productivo del cantón, impulsando la educación financiera como base para el progreso de las familias y el bienestar de la sociedad. JV.",
+    "imagenes": [
+      {
+        "id": "d81ec9c168b58b9b",
+        "hash": "d81ec9c168b58b9b7677ac28c270273e945aee618d731619d23baebaca3c14d7",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_CURSO_CONTABILIDAD.png",
+        "rutaOriginal": "/media/originales/d81ec9c168b58b9b.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d81ec9c168b58b9b-400.webp",
+          "800w": "/media/derivados/d81ec9c168b58b9b-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1009494,
+        "alt": "Municipalidad fortalece el emprendimiento local con curso de Contabilidad Básica",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      }
+    ]
+  }
+}

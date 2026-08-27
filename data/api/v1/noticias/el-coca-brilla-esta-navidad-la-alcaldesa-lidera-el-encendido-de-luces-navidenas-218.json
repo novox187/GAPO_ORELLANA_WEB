@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 218,
+    "slug": "el-coca-brilla-esta-navidad-la-alcaldesa-lidera-el-encendido-de-luces-navidenas-218",
+    "titulo": "El Coca brilla esta Navidad: la alcaldesa lidera el encendido de luces navideñas",
+    "resumen": "La Navidad llegó a El Coca envuelta en luz, color y emoción. La alcaldesa Shirma Cortés Sanmiguel recorrió los puntos estratégicos de la ciudad para encender oficialmente las luminarias navideñas, un gesto simbólico que, más que iluminar calles, ence",
+    "fecha": "2025-12-17",
+    "imagen": {
+      "id": "c40bad02c9b8f76a",
+      "hash": "c40bad02c9b8f76a16a7e20d529dbae81e2aeb9c213a034fa445dd088fea22c4",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_barZub1.jpg",
+      "rutaOriginal": "/media/originales/c40bad02c9b8f76a.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/c40bad02c9b8f76a-400.webp",
+        "800w": "/media/derivados/c40bad02c9b8f76a-800.webp",
+        "1600w": "/media/derivados/c40bad02c9b8f76a-1600.webp"
+      },
+      "ancho": 6960,
+      "alto": 3904,
+      "bytes": 6156089,
+      "alt": "El Coca brilla esta Navidad: la alcaldesa lidera el encendido de luces navideñas",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+    },
+    "url": "/noticia/218/",
+    "fuente_url": "https://orellana.gob.ec/noticia/218/",
+    "cuerpo": "La Navidad llegó a El Coca envuelta en luz, color y emoción. La alcaldesa Shirma Cortés Sanmiguel recorrió los puntos estratégicos de la ciudad para encender oficialmente las luminarias navideñas, un gesto simbólico que, más que iluminar calles, encendió el corazón de cientos de familias que salieron a recibirla.\nEn cada sector, los árboles y adornos instalados por el personal municipal transformaron la noche en un espacio de encuentro, donde la alegría volvió a sentirse viva en cada mirada y en cada aplauso, “Han sido parte de todo ese embellecimiento navideño dentro de nuestra ciudad, nuestros servidores municipales, para los cuales yo quiero hacerles llegar ese agradecimiento profundo por tener esa empatía, ese sentimiento de colaboración y eso es fundamental querida ciudadanía.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nA lo largo del recorrido, familias enteras se sumaron espontáneamente, convirtiendo la jornada en una celebración vecinal. Los abrazos, las fotos y los deseos de paz se multiplicaron, recordando que la Navidad es también un tiempo para reencontrarse y reconocerse como comunidad, “Me parece excelente que hagan esas iluminaciones en las avenidas, en los barrios y para que los turistas y todos quienes nos visiten se lleven una buena imagen de nuestra ciudad.” Miguel Osorio, opinión ciudadana.\n“Muy bonito, muy hermoso de verdad que se siente el espíritu navideño aquí en la ciudad y qué bueno que la alcaldesa piense en todos estos momentos, y espero de corazón, que todos los hogares se llenen de paz y armonía en esta época.” Tatiana Cedeño, opinión ciudadana.\nCon cada luz encendida, la administración municipal reafirma su visión de una ciudad que avanza sin perder su esencia humana: una ciudad que se transforma, se ordena y se llena de vida gracias al compromiso de su gente.\nLa Alcaldía invita a todos los vecinos a adornar sus hogares, sus calles y sus espacios comunitarios, porque cuando cada familia aporta un brillo, El Coca se convierte en una ciudad que ilumina con el corazón. JG.",
+    "imagenes": [
+      {
+        "id": "c40bad02c9b8f76a",
+        "hash": "c40bad02c9b8f76a16a7e20d529dbae81e2aeb9c213a034fa445dd088fea22c4",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_barZub1.jpg",
+        "rutaOriginal": "/media/originales/c40bad02c9b8f76a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c40bad02c9b8f76a-400.webp",
+          "800w": "/media/derivados/c40bad02c9b8f76a-800.webp",
+          "1600w": "/media/derivados/c40bad02c9b8f76a-1600.webp"
+        },
+        "ancho": 6960,
+        "alto": 3904,
+        "bytes": 6156089,
+        "alt": "El Coca brilla esta Navidad: la alcaldesa lidera el encendido de luces navideñas",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      }
+    ]
+  }
+}

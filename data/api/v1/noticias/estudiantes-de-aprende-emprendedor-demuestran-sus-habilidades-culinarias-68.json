@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 68,
+    "slug": "estudiantes-de-aprende-emprendedor-demuestran-sus-habilidades-culinarias-68",
+    "titulo": "Estudiantes de “Aprende Emprendedor” demuestran sus habilidades culinarias",
+    "resumen": "Con entusiasmo, sazón y mucha creatividad, 26 estudiantes del taller artesanal de Gastronomía “Aprende Emprendedor” demostraron sus habilidades culinarias",
+    "fecha": "2025-04-18",
+    "imagen": {
+      "id": "6b02078df0e1d934",
+      "hash": "6b02078df0e1d93486e45b17965465cf431292975593cca838c419f34d379c14",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_9467.JPG",
+      "rutaOriginal": "/media/originales/6b02078df0e1d934.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/6b02078df0e1d934-400.webp",
+        "800w": "/media/derivados/6b02078df0e1d934-800.webp",
+        "1600w": "/media/derivados/6b02078df0e1d934-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6871375,
+      "alt": "Estudiantes de “Aprende Emprendedor” demuestran sus habilidades culinarias",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/68/",
+    "fuente_url": "https://orellana.gob.ec/noticia/68/",
+    "cuerpo": "Con entusiasmo, sazón y mucha creatividad, 26 estudiantes del taller artesanal de Gastronomía “Aprende Emprendedor” demostraron sus habilidades culinarias ante los promotores sociales de la Alcaldía, como parte de su proceso de formación.\nEste taller no solo enseña a cocinar: ofrece herramientas reales para que los ciudadanos puedan emprender, soñar y construir un futuro con sus propias manos, “Los cursos Aprende Emprendedor tienen el objetivo de proporcionar herramientas para que la ciudadanía aprenda y pueda emprender”. Joselyn Luje, técnica municipal.\nDurante la jornada, los participantes presentaron deliciosos platillos representativos de la Costa, Sierra y Amazonía. Entre los más elogiados estuvieron la tilapia en salsa y la tradicional guatita, que no solo conquistaron paladares, sino también corazones, “Es un placer estar aquí y compartir con los compañeros lo que es la cocina, quiero agradecer a la alcaldesa Shirma Cortés por darnos ese apoyo como jóvenes”. Jorge García, emprendedor.\nDesde la Alcaldía se continúa apostando por programas como “Aprende Emprendedor”, que fortalecen la economía local y promueven el desarrollo personal y profesional de los ciudadanos.\nPorque cuando hay oportunidades, florecen los sueños.\n¡Seguimos construyendo juntos el cantón que queremos! DV.",
+    "imagenes": [
+      {
+        "id": "6b02078df0e1d934",
+        "hash": "6b02078df0e1d93486e45b17965465cf431292975593cca838c419f34d379c14",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_9467.JPG",
+        "rutaOriginal": "/media/originales/6b02078df0e1d934.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6b02078df0e1d934-400.webp",
+          "800w": "/media/derivados/6b02078df0e1d934-800.webp",
+          "1600w": "/media/derivados/6b02078df0e1d934-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6871375,
+        "alt": "Estudiantes de “Aprende Emprendedor” demuestran sus habilidades culinarias",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

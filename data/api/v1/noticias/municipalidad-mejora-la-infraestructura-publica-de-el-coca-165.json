@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 165,
+    "slug": "municipalidad-mejora-la-infraestructura-publica-de-el-coca-165",
+    "titulo": "Municipalidad mejora la infraestructura pública de El Coca",
+    "resumen": "Personal Municipal ejecutó trabajos de reconstrucción de veredas en los exteriores del centro de salud Jambi Huasi. La obra contempla una extensión de 1 kilómetro, lo que permitirá tener mayor comodidad para los peatones que circulan por el lugar.",
+    "fecha": "2025-09-18",
+    "imagen": {
+      "id": "d4926d64a41b9a30",
+      "hash": "d4926d64a41b9a30278cad58b6ef736eafecfec41fe6d79b068d9ea435e3cdd0",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG2620.JPG",
+      "rutaOriginal": "/media/originales/d4926d64a41b9a30.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d4926d64a41b9a30-400.webp",
+        "800w": "/media/derivados/d4926d64a41b9a30-800.webp",
+        "1600w": "/media/derivados/d4926d64a41b9a30-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 11161425,
+      "alt": "Municipalidad mejora la infraestructura pública de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+    },
+    "url": "/noticia/165/",
+    "fuente_url": "https://orellana.gob.ec/noticia/165/",
+    "cuerpo": "Personal Municipal ejecutó trabajos de reconstrucción de veredas en los exteriores del centro de salud Jambi Huasi. La obra contempla una extensión de 1 kilómetro, lo que permitirá tener mayor comodidad para los peatones que circulan por el lugar.\nEn el mismo sector, se realizó además la reparación de una fuga de agua que afectaba al centro de salud, “Muchas gracias a la señora alcaldesa por preocuparse en el mejoramiento de las aceras del centro de salud y para nosotros los ciudadanos que acudimos hasta este sector.” María Samaniego, opinión ciudadana. \nDe manera paralela, la Jefatura de Equipo Caminero hace trabajos de mantenimiento vial en las calles principales del barrio El Moretal, con el objetivo de mejorar el acceso vehicular y peatonal de esta zona populosa de El Coca, “Son excelentes los trabajos que realiza la municipalidad para poder mejorar los barrios y estoy muy agradecida con este mejoramiento de las calles.” Carmen Valencia, opinión ciudadana. \nLa alcaldía, liderada por Shirma Cortés Sanmiguel, reafirma su compromiso de continuar trabajando para elevar la calidad de vida de todos los habitantes del cantón Francisco de Orellana. DV.",
+    "imagenes": [
+      {
+        "id": "d4926d64a41b9a30",
+        "hash": "d4926d64a41b9a30278cad58b6ef736eafecfec41fe6d79b068d9ea435e3cdd0",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG2620.JPG",
+        "rutaOriginal": "/media/originales/d4926d64a41b9a30.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d4926d64a41b9a30-400.webp",
+          "800w": "/media/derivados/d4926d64a41b9a30-800.webp",
+          "1600w": "/media/derivados/d4926d64a41b9a30-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 11161425,
+        "alt": "Municipalidad mejora la infraestructura pública de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      }
+    ]
+  }
+}

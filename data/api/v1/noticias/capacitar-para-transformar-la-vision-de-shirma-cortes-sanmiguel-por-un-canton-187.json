@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 187,
+    "slug": "capacitar-para-transformar-la-vision-de-shirma-cortes-sanmiguel-por-un-canton-187",
+    "titulo": "Capacitar para transformar: la visión de Shirma Cortés Sanmiguel por un cantón con más oportunidades",
+    "resumen": "Entre agujas, telas coloridas, esmaltes y el aroma del pan recién horneado, decenas de estudiantes dan forma a sus sueños. Son hombres y mujeres que, con dedicación y esfuerzo, participan en los cursos artesanales de panadería y pastelería, belleza,",
+    "fecha": "2025-10-30",
+    "imagen": {
+      "id": "47fe4887f39d21e2",
+      "hash": "47fe4887f39d21e20765a072af01d5589f014963874338f35de52cc0945d4045",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_3qDyDOn.JPG",
+      "rutaOriginal": "/media/originales/47fe4887f39d21e2.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/47fe4887f39d21e2-400.webp",
+        "800w": "/media/derivados/47fe4887f39d21e2-800.webp",
+        "1600w": "/media/derivados/47fe4887f39d21e2-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 5489416,
+      "alt": "Capacitar para transformar: la visión de Shirma Cortés Sanmiguel por un cantón con más oportunidades",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/187/",
+    "fuente_url": "https://orellana.gob.ec/noticia/187/",
+    "cuerpo": "Entre agujas, telas coloridas, esmaltes y el aroma del pan recién horneado, decenas de estudiantes dan forma a sus sueños. Son hombres y mujeres que, con dedicación y esfuerzo, participan en los cursos artesanales de panadería y pastelería, belleza, corte y confección, “Estoy muy agradecida con la Alcaldía y con ACNUR. Gracias a este curso he aprendido algo nuevo y ahora sueño con tener mi propio negocio de repostería.” Gustavo Yela, estudiante de Pastelería y Panadería.\nDurante tres meses, cerca de 70 participantes reciben formación práctica y creativa, elaborando productos que reflejan el talento y la esperanza de un cantón que quiere salir adelante, \"Queremos que nuestros alumnos no solo aprendan un oficio, sino que también desarrollen confianza para emprender y generar ingresos para sus familias.” Carlos Ochoa, técnico del GADMFO. \n“Estos cursos nos motivan a salir adelante y aprovechar cada oportunidad que nos brinda la Alcaldía. Es una experiencia que cambia vidas.” Mariana Mena, estudiante de corte y confección.\nCon acciones concretas, la administración de la alcaldesa Shirma Cortés Sanmiguel demuestra que el verdadero cambio se construye desde la cercanía con la gente, apostando por el desarrollo humano, la igualdad de oportunidades y el fortalecimiento de la economía local, para que cada ciudadano tenga las herramientas necesarias para crecer, emprender y aportar al progreso del cantón que queremos. DV.",
+    "imagenes": [
+      {
+        "id": "47fe4887f39d21e2",
+        "hash": "47fe4887f39d21e20765a072af01d5589f014963874338f35de52cc0945d4045",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_3qDyDOn.JPG",
+        "rutaOriginal": "/media/originales/47fe4887f39d21e2.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/47fe4887f39d21e2-400.webp",
+          "800w": "/media/derivados/47fe4887f39d21e2-800.webp",
+          "1600w": "/media/derivados/47fe4887f39d21e2-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 5489416,
+        "alt": "Capacitar para transformar: la visión de Shirma Cortés Sanmiguel por un cantón con más oportunidades",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

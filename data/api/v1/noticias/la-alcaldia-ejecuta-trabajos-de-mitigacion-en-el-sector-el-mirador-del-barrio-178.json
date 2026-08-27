@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 178,
+    "slug": "la-alcaldia-ejecuta-trabajos-de-mitigacion-en-el-sector-el-mirador-del-barrio-178",
+    "titulo": "La Alcaldía ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano",
+    "resumen": "Con el objetivo de reducir el riesgo de desbordamiento del estero Añango y proteger a las familias del sector, la Alcaldía, ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano. Las labores consisten en la colocación de a",
+    "fecha": "2025-10-15",
+    "imagen": {
+      "id": "d763e55da34d7b86",
+      "hash": "d763e55da34d7b86bcb716ea7e08616ae1a9d19748c8a25a0be768c4afd85406",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15.JPG",
+      "rutaOriginal": "/media/originales/d763e55da34d7b86.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d763e55da34d7b86-400.webp",
+        "800w": "/media/derivados/d763e55da34d7b86-800.webp",
+        "1600w": "/media/derivados/d763e55da34d7b86-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 15860853,
+      "alt": "La Alcaldía ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+    },
+    "url": "/noticia/178/",
+    "fuente_url": "https://orellana.gob.ec/noticia/178/",
+    "cuerpo": "Con el objetivo de reducir el riesgo de desbordamiento del estero Añango y proteger a las familias del sector, la Alcaldía, ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano.\nLas labores consisten en la colocación de alrededor de 2.000 sacos de material arcilloso coloidal, con el propósito de reforzar las orillas del terreno afectado y disminuir los impactos de la temporada invernal, “Como dirección de riesgos, estamos a la disposición de toda la ciudadanía que requiere hacer estos trabajos en cualquier parte de los barrios de El Coca.” Juan Carlos Andrade, funcionario municipal. \nEsta intervención nace del diálogo directo con los vecinos, quienes en una reunión con la alcaldesa expusieron su preocupación. Ella los escuchó, se comprometió y hoy, ese compromiso se cumple, “Agradecerle a la alcaldesa Shirma Cortés Sanmiguel por los trabajos que está haciendo en bien de este barrio.” Manuel Coles, morador del sector El Mirador. \nCon acciones como esta, la administración liderada por Shirma Cortés Sanmiguel reafirma su compromiso con la seguridad, el bienestar y la vida de cada familia orellanense.\nPorque cuando una autoridad gobierna con el corazón y con firmeza, los resultados se sienten en cada rincón del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "d763e55da34d7b86",
+        "hash": "d763e55da34d7b86bcb716ea7e08616ae1a9d19748c8a25a0be768c4afd85406",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15.JPG",
+        "rutaOriginal": "/media/originales/d763e55da34d7b86.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d763e55da34d7b86-400.webp",
+          "800w": "/media/derivados/d763e55da34d7b86-800.webp",
+          "1600w": "/media/derivados/d763e55da34d7b86-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 15860853,
+        "alt": "La Alcaldía ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      }
+    ]
+  }
+}

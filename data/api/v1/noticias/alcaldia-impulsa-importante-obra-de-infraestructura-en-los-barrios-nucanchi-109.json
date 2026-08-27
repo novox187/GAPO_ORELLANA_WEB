@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 109,
+    "slug": "alcaldia-impulsa-importante-obra-de-infraestructura-en-los-barrios-nucanchi-109",
+    "titulo": "Alcaldía impulsa importante obra de infraestructura en los barrios Ñucanchi Wasi y Los Sauces",
+    "resumen": "“Antes, la verdad tocaba mendigar a las autoridades que nos vengan a ayudar, porque siempre había inundaciones; pero, hoy en día se está viendo la realidad, quiero agradecer a las autoridades que han estado al frente y por eso estamos muy satisfechos",
+    "fecha": "2025-06-23",
+    "imagen": {
+      "id": "a1a840ffecaad462",
+      "hash": "a1a840ffecaad462b82fb96bb9f745464d6b7ed62ff7f0859670a71400f6fc7b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_DJI_0923.JPG",
+      "rutaOriginal": "/media/originales/a1a840ffecaad462.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/a1a840ffecaad462-400.webp",
+        "800w": "/media/derivados/a1a840ffecaad462-800.webp",
+        "1600w": "/media/derivados/a1a840ffecaad462-1600.webp"
+      },
+      "ancho": 4000,
+      "alto": 2250,
+      "bytes": 4144678,
+      "alt": "Alcaldía impulsa importante obra de infraestructura en los barrios Ñucanchi Wasi y Los Sauces",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/109/",
+    "fuente_url": "https://orellana.gob.ec/noticia/109/",
+    "cuerpo": "“Antes, la verdad tocaba mendigar a las autoridades que nos vengan a ayudar, porque siempre había inundaciones; pero, hoy en día se está viendo la realidad, quiero agradecer a las autoridades que han estado al frente y por eso estamos muy satisfechos por esta obra que se está dando, ya es muy grato para nosotros los moradores del barrio Ñucanchi Wasi”.\nCon emoción y gratitud, el ciudadano Milton Narankas ve cómo una obra largamente anhelada se convierte por fin en realidad. La actual administración municipal, liderada por la alcaldesa Shirma Cortés Sanmiguel, ha dado inicio a la construcción del sistema de alcantarillado pluvial, aceras, bordillos y el adoquinado de calles, en lo que corresponde a la primera etapa del proyecto integral de mejoramiento urbano de los barrios Ñucanchi Wasi y Los Sauces.\nLa obra no solo mejora las condiciones de vida, sino que transforma el entorno urbano, brindando seguridad, accesibilidad y orden. Además de los trabajos superficiales, el proyecto incluye el soterramiento de redes eléctricas y de agua potable.\nLa inversión asciende a $11.489.999,97 dólares, financiados por el Banco de Desarrollo del Ecuador (BDE), y beneficiará directamente a más de 6.000 habitantes. Gracias al cumplimiento de la Ley Amazónica, la obra garantiza que al menos el 70% de la mano de obra sea local, generando empleo inmediato para los ciudadanos, así lo manifiestan Jair Vera y Vicente Troya, quienes laboran en la obra, “Me siento bien, porque recién salí de los estudios del colegio y esto me ayudó para poder trabajar acá y para luego ingresar y continuar con los estudios en la universidad”.\n“Es un beneficio que nos favorecemos nosotros, y sobre todo para la gente del sector, como la parte obrera y yo que me dedico a la maquinaria; así como los maestros que hacen trabajos de obra civil y todos nos beneficiamos con esta gran obra”.\nEsta intervención responde a una necesidad sentida por años y reafirma el compromiso de la actual administración con el desarrollo planificado, inclusivo y sostenible. Las obras avanzan con paso firme y reflejan una gestión que escucha, responde y actúa junto a su gente. JG.",
+    "imagenes": [
+      {
+        "id": "a1a840ffecaad462",
+        "hash": "a1a840ffecaad462b82fb96bb9f745464d6b7ed62ff7f0859670a71400f6fc7b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_DJI_0923.JPG",
+        "rutaOriginal": "/media/originales/a1a840ffecaad462.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a1a840ffecaad462-400.webp",
+          "800w": "/media/derivados/a1a840ffecaad462-800.webp",
+          "1600w": "/media/derivados/a1a840ffecaad462-1600.webp"
+        },
+        "ancho": 4000,
+        "alto": 2250,
+        "bytes": 4144678,
+        "alt": "Alcaldía impulsa importante obra de infraestructura en los barrios Ñucanchi Wasi y Los Sauces",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 258,
+    "slug": "el-coca-celebro-su-historia-con-la-velada-del-dia-de-la-identidad-coquena-258",
+    "titulo": "El Coca celebró su historia con la Velada del Día de la Identidad Coqueña",
+    "resumen": "“Agradecer a la señora alcaldesa por la invitación y también por este reconocimiento.” Ivette Burgos, rectora de la Unidad Educativa Presidente Tamayo. “Embarga una emoción muy grande saber por dónde hemos transitado y hemos vivido las vicisitudes cu",
+    "fecha": "2026-03-02",
+    "imagen": {
+      "id": "54b85515dc5e7134",
+      "hash": "54b85515dc5e71346cdb88399227ab558f31c48e0d1a3c08be6e2c1f0dd16eb3",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_MG9978.JPG",
+      "rutaOriginal": "/media/originales/54b85515dc5e7134.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/54b85515dc5e7134-400.webp",
+        "800w": "/media/derivados/54b85515dc5e7134-800.webp",
+        "1600w": "/media/derivados/54b85515dc5e7134-1600.webp"
+      },
+      "ancho": 6160,
+      "alto": 4640,
+      "bytes": 12347124,
+      "alt": "El Coca celebró su historia con la Velada del Día de la Identidad Coqueña",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+    },
+    "url": "/noticia/258/",
+    "fuente_url": "https://orellana.gob.ec/noticia/258/",
+    "cuerpo": "“Agradecer a la señora alcaldesa por la invitación y también por este reconocimiento.” Ivette Burgos, rectora de la Unidad Educativa Presidente Tamayo.\n“Embarga una emoción muy grande saber por dónde hemos transitado y hemos vivido las vicisitudes cuando nuestro Coca comenzaba.” Orlando Andy, Club Deportivo Francisco de Orellana.\nCon el Malecón colmado de emoción, la tarde y noche del 28 de febrero, El Coca celebró la Velada por el “Día de la Identidad Coqueña”. La gala inició con la voz de Carlos Farías y alcanzó su momento más simbólico con “Coqueño”, interpretada por Manolo Alvarado y Jeff Rey, despertando un profundo sentido de pertenencia. La alcaldesa Shirma Cortés Sanmiguel resaltó la fuerza de la memoria colectiva y reafirmó su compromiso de seguir construyendo un cantón unido y con oportunidades para todos, “Al conmemorarse el “Día de la Identidad Coqueña”, celebramos la esencia que nos une, la historia que nos sostiene y el futuro que estamos construyendo; porque la identidad de Francisco de Orellana, no nació por casualidad, se forjó con esfuerzo, con lucha y con esperanza.”\nEn un acto solemne se reconoció a los forjadores de la historia local: Jaime Wilson Jiménez, fundador de Radio Francisco de Orellana; la primera Cooperativa de Taxis Río Napo del Coca; la papelería Amazonas de Milton Guanaluisa; la Cooperativa de Transporte Fluvial Orellana; la Escuela Presidente Tamayo; el club deportivo Francisco de Orellana; y Rafael Galeth Vásquez, constructor de la primera gabarra que impulsó el desarrollo amazónico. Cada homenaje evocó sacrificio, visión y valentía, “¡Qué viva nuestra historia! ¡Qué viva nuestra Identidad Coqueña! Gracias señora alcaldesa por invitarnos a esta gran celebración de la Identidad Cultural Coqueña, muchas gracias señora alcaldesa y señores concejales, gracias” Jaime Jiménez, fundador de radio Francisco de Orellana.\nLa velada culminó con la presentación de Jeff Rey, en una celebración donde tradición, cultura y gestión avanzaron de la mano. Bajo el liderazgo de Shirma Cortés Sanmiguel, la conmemoración rindió homenaje al pasado y reavivó el orgullo y la esperanza de ser coqueños, reafirmando el compromiso de seguir construyendo el cantón que todos queremos. JG.",
+    "imagenes": [
+      {
+        "id": "54b85515dc5e7134",
+        "hash": "54b85515dc5e71346cdb88399227ab558f31c48e0d1a3c08be6e2c1f0dd16eb3",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_MG9978.JPG",
+        "rutaOriginal": "/media/originales/54b85515dc5e7134.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/54b85515dc5e7134-400.webp",
+          "800w": "/media/derivados/54b85515dc5e7134-800.webp",
+          "1600w": "/media/derivados/54b85515dc5e7134-1600.webp"
+        },
+        "ancho": 6160,
+        "alto": 4640,
+        "bytes": 12347124,
+        "alt": "El Coca celebró su historia con la Velada del Día de la Identidad Coqueña",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      }
+    ]
+  }
+}

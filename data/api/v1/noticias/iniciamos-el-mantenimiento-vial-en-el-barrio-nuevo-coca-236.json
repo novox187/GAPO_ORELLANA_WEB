@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 236,
+    "slug": "iniciamos-el-mantenimiento-vial-en-el-barrio-nuevo-coca-236",
+    "titulo": "Iniciamos el mantenimiento vial en el barrio Nuevo Coca",
+    "resumen": "Con la recuperación de la maquinaria y equipo pesado municipal, potenciamos actividades concretas para la ciudad. Bajo el liderazgo de Shirma Cortés Sanmiguel, la Alcaldía intensificó el mantenimiento vial en distintos sectores de El Coca, demostrand",
+    "fecha": "2026-01-15",
+    "imagen": {
+      "id": "41e434a636031a7a",
+      "hash": "41e434a636031a7a02a75eb7ad34a7df684e25acf86342c6ca0b86af33b4ee9b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG_3935.JPG",
+      "rutaOriginal": "/media/originales/41e434a636031a7a.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/41e434a636031a7a-400.webp",
+        "800w": "/media/derivados/41e434a636031a7a-800.webp",
+        "1600w": "/media/derivados/41e434a636031a7a-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10786127,
+      "alt": "Iniciamos el mantenimiento vial en el barrio Nuevo Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+    },
+    "url": "/noticia/236/",
+    "fuente_url": "https://orellana.gob.ec/noticia/236/",
+    "cuerpo": "Con la recuperación de la maquinaria y equipo pesado municipal, potenciamos actividades concretas para la ciudad. Bajo el liderazgo de Shirma Cortés Sanmiguel, la Alcaldía intensificó el mantenimiento vial en distintos sectores de El Coca, demostrando que una gestión responsable y eficiente es posible en esta administración, como lo asegura el ciudadano Asdrúbal Espinoza, “Estoy agradecido con la alcaldesa, por recuperar la maquinaria y como tengo mi casita y un vehículo, ahora ya podré transitar por aquí, al igual los niños de escuela; porque ahora, la vía está habilitada para poder circular sin inconvenientes.”\nEn esta ocasión, las labores se ejecutan en el sector Mushuk Ayllu del barrio Nuevo Coca, acciones que no solo mejoran el tránsito diario de los habitantes, sino que aportan al desarrollo ordenado de los barrios, elevando la calidad de vida y generando confianza en una administración que cumple con hechos, “Nos da mucho beneficio con las vías arregladas y por los niños que tenemos en el colegio del milenio, estamos contentos, orgullosos y agradecidos con la señora alcaldesa.” María Avilés, opinión ciudadana.\nLa planificación continuará de manera coordinada con los dirigentes barriales, priorizando sectores y garantizando una intervención técnica y equitativa en toda la ciudad. JG.",
+    "imagenes": [
+      {
+        "id": "41e434a636031a7a",
+        "hash": "41e434a636031a7a02a75eb7ad34a7df684e25acf86342c6ca0b86af33b4ee9b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG_3935.JPG",
+        "rutaOriginal": "/media/originales/41e434a636031a7a.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/41e434a636031a7a-400.webp",
+          "800w": "/media/derivados/41e434a636031a7a-800.webp",
+          "1600w": "/media/derivados/41e434a636031a7a-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10786127,
+        "alt": "Iniciamos el mantenimiento vial en el barrio Nuevo Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      }
+    ]
+  }
+}

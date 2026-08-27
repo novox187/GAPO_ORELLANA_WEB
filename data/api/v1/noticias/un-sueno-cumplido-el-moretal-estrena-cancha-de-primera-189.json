@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 189,
+    "slug": "un-sueno-cumplido-el-moretal-estrena-cancha-de-primera-189",
+    "titulo": "Un sueño cumplido: El Moretal estrena cancha de primera",
+    "resumen": "El barrio El Moretal vive una nueva etapa de orgullo y alegría con la inauguración de su moderna cancha de fútbol con césped sintético, una obra emblemática liderada por la alcaldesa Shirma Cortés Sanmiguel. Este escenario cuenta con graderíos, camer",
+    "fecha": "2025-11-05",
+    "imagen": {
+      "id": "411280e81510479b",
+      "hash": "411280e81510479b955dd1a27c1d9d1ed7a9babbd9030310a53443b26b627eed",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05.jpg",
+      "rutaOriginal": "/media/originales/411280e81510479b.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/411280e81510479b-400.webp",
+        "800w": "/media/derivados/411280e81510479b-800.webp",
+        "1600w": "/media/derivados/411280e81510479b-1600.webp"
+      },
+      "ancho": 5472,
+      "alto": 3648,
+      "bytes": 7534962,
+      "alt": "Un sueño cumplido: El Moretal estrena cancha de primera",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+    },
+    "url": "/noticia/189/",
+    "fuente_url": "https://orellana.gob.ec/noticia/189/",
+    "cuerpo": "El barrio El Moretal vive una nueva etapa de orgullo y alegría con la inauguración de su moderna cancha de fútbol con césped sintético, una obra emblemática liderada por la alcaldesa Shirma Cortés Sanmiguel. Este escenario cuenta con graderíos, camerinos, mini parque infantil, iluminación, sistema hidrosanitario y cerramiento perimetral, que se levanta como un símbolo de desarrollo y unión para las familias de Francisco de Orellana, “De parte de todos los niños, jóvenes de nuestro sector y del barrio El Moretal, queremos darles mil gracias por ese compromiso con la juventud y el deporte. Ya no habrá jóvenes que quieran dedicarse a cosas malas, sino más bien van a venir a esta cancha a practicar este hermoso deporte que es el fútbol y Dios le pague por esta hermosa obra” Paúl Oña, presidente del sector 12 de Octubre.\n“Y se dio este maravilloso estadio, como ustedes se dan cuenta está muy bonito, tiene un bonito parque, un bonito parqueadero, unas excelentes tribunas y como digo toca disfrutarlo hasta que Dios nos dé vida.” Jairo Sanclemente, morador del barrio El Moretal.\nCon una inversión de $588.198,79, la obra impulsa el deporte, la convivencia y la economía local, al involucrar mano de obra del cantón. Asimismo, refleja una gestión responsable y comprometida con el bienestar ciudadano y el desarrollo de espacios públicos, “Se están recuperando y construyendo nuevos espacios deportivos, entre ellos, mejoramiento de canchas cubiertas, de básket, canchas de fútbol y creo que la ciudadanía debe valor aquello, porque han sido muy necesarias y esperadas, y vamos a seguir recuperando estos espacios para que nuestros jóvenes y nuestros niños los ocupen en actividades sanas.” Shirma Cortés, alcaldesa de Francisco de Orellana.\nCon esta obra, la alcaldesa Shirma Cortés Sanmiguel reafirma su visión de construir un territorio más próspero, inclusivo y activo, bajo una premisa que se fortalece con cada acción: “El cantón que queremos”. JG.",
+    "imagenes": [
+      {
+        "id": "411280e81510479b",
+        "hash": "411280e81510479b955dd1a27c1d9d1ed7a9babbd9030310a53443b26b627eed",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05.jpg",
+        "rutaOriginal": "/media/originales/411280e81510479b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/411280e81510479b-400.webp",
+          "800w": "/media/derivados/411280e81510479b-800.webp",
+          "1600w": "/media/derivados/411280e81510479b-1600.webp"
+        },
+        "ancho": 5472,
+        "alto": 3648,
+        "bytes": 7534962,
+        "alt": "Un sueño cumplido: El Moretal estrena cancha de primera",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      }
+    ]
+  }
+}

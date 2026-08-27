@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 70,
+    "slug": "alcaldia-participa-del-programa-comunidades-seguras-y-protectoras-70",
+    "titulo": "Alcaldía participa del programa comunidades seguras y protectoras",
+    "resumen": "Con el objetivo de “promover entornos más seguros y protectores para todos los miembros de la comunidad educativa",
+    "fecha": "2025-04-22",
+    "imagen": {
+      "id": "9d1cf4c3b0ec1896",
+      "hash": "9d1cf4c3b0ec18965dd1d0a1504bbcc6aa2416ca0845214a47c4c093ac08a456",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG_5773.JPG",
+      "rutaOriginal": "/media/originales/9d1cf4c3b0ec1896.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/9d1cf4c3b0ec1896-400.webp",
+        "800w": "/media/derivados/9d1cf4c3b0ec1896-800.webp",
+        "1600w": "/media/derivados/9d1cf4c3b0ec1896-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 6564374,
+      "alt": "Alcaldía participa del programa comunidades seguras y protectoras",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/70/",
+    "fuente_url": "https://orellana.gob.ec/noticia/70/",
+    "cuerpo": "Con el objetivo de “promover entornos más seguros y protectores para todos los miembros de la comunidad educativa, el Ministerio de Educación conjuntamente con el Ministerio del Interior, Policía Nacional y la Municipalidad de Francisco de Orellana llevaron a cabo varias vistitas a diferentes unidades educativas de la ciudad El Coca, Rafael Santos, jefe de Agentes de Control Municipal, expresa que es importante realizar los trabajos de manera mancomunada, “Nosotros como GAD Municipal, la Dirección de Seguridad y Gobernabilidad y la Jefatura de Agentes de Control estamos poniendo también nuestro contingente para apoyar a la seguridad ciudadana y la de nuestros niños, especialmente”.\nEstas actividades forman parte del programa denominado “comunidades seguras y protectoras”; por tal razón, fortalece las acciones de la articulación interinstitucional en territorio, donde las unidades educativas visitadas fueron: Presidente Tamayo, Jorge Rodríguez Román y Doctora Guadalupe Larriva, “Es bueno que las autoridades vayan y recorran las unidades educativas, ya que se ve la presencia de la policía y las autoridades que siempre están pendientes de nuestros hijos, y es muy satisfactorio, ya que estamos en época de clases. Kléver Sopa, padre de familia. \nDesde la alcaldía, reafirmamos nuestro compromiso con la seguridad ciudadana aportando de gran manera nuestro contingente uniformado, así como también las cámaras de video vigilancia municipal en beneficio de la colectividad. DV.",
+    "imagenes": [
+      {
+        "id": "9d1cf4c3b0ec1896",
+        "hash": "9d1cf4c3b0ec18965dd1d0a1504bbcc6aa2416ca0845214a47c4c093ac08a456",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG_5773.JPG",
+        "rutaOriginal": "/media/originales/9d1cf4c3b0ec1896.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9d1cf4c3b0ec1896-400.webp",
+          "800w": "/media/derivados/9d1cf4c3b0ec1896-800.webp",
+          "1600w": "/media/derivados/9d1cf4c3b0ec1896-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 6564374,
+        "alt": "Alcaldía participa del programa comunidades seguras y protectoras",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

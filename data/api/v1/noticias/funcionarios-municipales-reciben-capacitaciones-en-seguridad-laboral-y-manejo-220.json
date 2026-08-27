@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 220,
+    "slug": "funcionarios-municipales-reciben-capacitaciones-en-seguridad-laboral-y-manejo-220",
+    "titulo": "Funcionarios municipales reciben capacitaciones en seguridad laboral y manejo defensivo",
+    "resumen": "En un esfuerzo por consolidar una gestión pública responsable, la Alcaldía liderada por Shirma Cortés Sanmiguel impulsó una jornada integral de capacitaciones dirigidas a los funcionarios municipales en prevención de riesgos laborales, “Es muy import",
+    "fecha": "2025-12-19",
+    "imagen": {
+      "id": "3a8554c5726d513c",
+      "hash": "3a8554c5726d513c9d0e94c450143ad9f7c1259cee97f59cd5aa38f435af4119",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_2svBt1l.JPG",
+      "rutaOriginal": "/media/originales/3a8554c5726d513c.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/3a8554c5726d513c-400.webp",
+        "800w": "/media/derivados/3a8554c5726d513c-800.webp",
+        "1600w": "/media/derivados/3a8554c5726d513c-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 12999126,
+      "alt": "Funcionarios municipales reciben capacitaciones en seguridad laboral y manejo defensivo",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+    },
+    "url": "/noticia/220/",
+    "fuente_url": "https://orellana.gob.ec/noticia/220/",
+    "cuerpo": "En un esfuerzo por consolidar una gestión pública responsable, la Alcaldía liderada por Shirma Cortés Sanmiguel impulsó una jornada integral de capacitaciones dirigidas a los funcionarios municipales en prevención de riesgos laborales, “Es muy importante esta capacitación para nosotros, porque estamos actualizados con los conocimientos, también hay que tomar en cuenta que con los compañeros muchas veces no utilizamos correctamente los implementos y esto implica en posibles accidentes.” Milton Aguayo, funcionario del GADMFO.\nLa formación incluyó además talleres especializados en manejo defensivo, una habilidad clave para quienes operan vehículos institucionales y deben garantizar traslados seguros de las diversas actividades municipales, “Me parece una excelente idea de la municipalidad para para mejorar el manejo defensivo y evitar accidentes de tránsito no solamente en el trabajo, sino en el diario vivir, porque los que tenemos vehículos a cargo un vehículo, moto o lo que sea.” Milton Wilson, funcionario del GADMFO.\nCon estas acciones, la gestión municipal enrumba el camino hacia una administración más profesional, preparada y humana, priorizando la seguridad y el bienestar de quienes día a día trabajan al servicio de nuestro cantón. JG.",
+    "imagenes": [
+      {
+        "id": "3a8554c5726d513c",
+        "hash": "3a8554c5726d513c9d0e94c450143ad9f7c1259cee97f59cd5aa38f435af4119",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_2svBt1l.JPG",
+        "rutaOriginal": "/media/originales/3a8554c5726d513c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/3a8554c5726d513c-400.webp",
+          "800w": "/media/derivados/3a8554c5726d513c-800.webp",
+          "1600w": "/media/derivados/3a8554c5726d513c-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 12999126,
+        "alt": "Funcionarios municipales reciben capacitaciones en seguridad laboral y manejo defensivo",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "id": 17,
+      "slug": "operativo-de-control-del-taximetro-en-el-coca-17",
+      "titulo": "Operativo de control del taxímetro en El Coca",
+      "resumen": "Garantizar que los taxímetros estén en funcionamiento correcto",
+      "fecha": "2025-01-16",
+      "imagen": {
+        "id": "bbed663307e02477",
+        "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
+        "rutaOriginal": "/media/originales/bbed663307e02477.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bbed663307e02477-400.webp",
+          "800w": "/media/derivados/bbed663307e02477-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1062190,
+        "alt": "Operativo de control del taxímetro en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/17/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 16,
+      "slug": "alcaldia-clausura-taller-de-corte-y-confeccion-de-trajes-tipicos-de-la-16",
+      "titulo": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
+      "resumen": "Muestra de los trabajos realizados por los participantes",
+      "fecha": "2025-01-15",
+      "imagen": {
+        "id": "8a1f37d578c5837f",
+        "hash": "8a1f37d578c5837ff13692cc1531ea90a20fa87d12ea93204ddf14a477233901",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_CORTE_Y_CONFECCION.png",
+        "rutaOriginal": "/media/originales/8a1f37d578c5837f.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8a1f37d578c5837f-400.webp",
+          "800w": "/media/derivados/8a1f37d578c5837f-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1041510,
+        "alt": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/16/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 14,
+      "slug": "alcaldia-y-mies-firman-convenios-para-la-inclusion-social-14",
+      "titulo": "Alcaldía y MIES firman convenios para la inclusión social",
+      "resumen": "Alcaldía invertirá un total de USD 751,482.82",
+      "fecha": "2025-01-14",
+      "imagen": {
+        "id": "7e2b48491a95696a",
+        "hash": "7e2b48491a95696a78fb22727d76ba9a52f33e1e10c7d2bbdfa43795fe9e227a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_FIRMA_CONVENIO_MIES.png",
+        "rutaOriginal": "/media/originales/7e2b48491a95696a.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7e2b48491a95696a-400.webp",
+          "800w": "/media/derivados/7e2b48491a95696a-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 866321,
+        "alt": "Alcaldía y MIES firman convenios para la inclusión social",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/14/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 13,
+      "slug": "alcaldia-instala-bandas-transversales-bta-y-marcos-viales-en-zonas-escolares-13",
+      "titulo": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
+      "resumen": "Mejorar la seguridad vial en El Coca",
+      "fecha": "2025-01-13",
+      "imagen": {
+        "id": "0d4508b5eec67d78",
+        "hash": "0d4508b5eec67d786d67c6610b48d378d8b26a2730167c3cb4e31e57a498e97c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_SENALIZACION_HORIZONTAL.png",
+        "rutaOriginal": "/media/originales/0d4508b5eec67d78.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0d4508b5eec67d78-400.webp",
+          "800w": "/media/derivados/0d4508b5eec67d78-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1205309,
+        "alt": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/13/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 15,
+      "slug": "operativo-de-control-del-taximetro-en-el-coca-15",
+      "titulo": "Operativo de control del taxímetro en El Coca",
+      "resumen": "Garantizar que los taxímetros estén en funcionamiento",
+      "fecha": "2025-01-12",
+      "imagen": {
+        "id": "bbed663307e02477",
+        "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
+        "rutaOriginal": "/media/originales/bbed663307e02477.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bbed663307e02477-400.webp",
+          "800w": "/media/derivados/bbed663307e02477-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1062190,
+        "alt": "Operativo de control del taxímetro en El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/15/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 11,
+      "slug": "senalizacion-horizontal-para-prevencion-del-uso-del-celular-y-reductores-de-11",
+      "titulo": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+      "resumen": "Promover la seguridad vial",
+      "fecha": "2025-01-10",
+      "imagen": {
+        "id": "68a8b27cbcce2525",
+        "hash": "68a8b27cbcce25250dc332d36487252858b078fdabd14d257960b08a4f940304",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_NO_USO_CELULAR.png",
+        "rutaOriginal": "/media/originales/68a8b27cbcce2525.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/68a8b27cbcce2525-400.webp",
+          "800w": "/media/derivados/68a8b27cbcce2525-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1185470,
+        "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/11/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 12,
+      "slug": "senalizacion-horizontal-para-prevencion-del-uso-del-celular-y-reductores-de-12",
+      "titulo": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+      "resumen": "Las autoridades locales coordinaron acciones inmediatas",
+      "fecha": "2025-01-10",
+      "imagen": {
+        "id": "57a2ae47a12b0318",
+        "hash": "57a2ae47a12b031831d35f970c0c8d7f867b37ae25b77c0a3055385722226f83",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_ROBO_SENALETICA.png",
+        "rutaOriginal": "/media/originales/57a2ae47a12b0318.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/57a2ae47a12b0318-400.webp",
+          "800w": "/media/derivados/57a2ae47a12b0318-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1191333,
+        "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/12/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 10,
+      "slug": "alcaldia-prioriza-la-atencion-ciudadana-personal-y-grupal-10",
+      "titulo": "Alcaldía prioriza la atención ciudadana personal y grupal",
+      "resumen": "Fortalecer la participación ciudadana",
+      "fecha": "2025-01-08",
+      "imagen": {
+        "id": "29f9e8f8a214e6ea",
+        "hash": "29f9e8f8a214e6ea343611336416151d92cd7701171ea18bd2b85b9fd877ed88",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_ATENCION_CIUDADANA.png",
+        "rutaOriginal": "/media/originales/29f9e8f8a214e6ea.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/29f9e8f8a214e6ea-400.webp",
+          "800w": "/media/derivados/29f9e8f8a214e6ea-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 990569,
+        "alt": "Alcaldía prioriza la atención ciudadana personal y grupal",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/10/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    {
+      "id": 9,
+      "slug": "alcaldia-regula-propaganda-electoral-en-espacios-publicos-9",
+      "titulo": "Alcaldía regula propaganda electoral en espacios públicos",
+      "resumen": "La campaña electoral",
+      "fecha": "2025-01-07",
+      "imagen": {
+        "id": "575e98bad477f356",
+        "hash": "575e98bad477f3561e4eb22b8a80d749e7f1308b2453253cc431b9000521da2d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/REGULACION_PROPAGANDA.jpg",
+        "rutaOriginal": "/media/originales/575e98bad477f356.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/575e98bad477f356-400.webp",
+          "800w": "/media/derivados/575e98bad477f356-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 107570,
+        "alt": "Alcaldía regula propaganda electoral en espacios públicos",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      },
+      "url": "/noticia/9/",
+      "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
+    }
+  ],
+  "meta": {
+    "current_page": 31,
+    "last_page": 32,
+    "per_page": 9
+  },
+  "links": {
+    "first": "/api/v1/noticias/page-1.json",
+    "last": "/api/v1/noticias/page-32.json",
+    "prev": "/api/v1/noticias/page-30.json",
+    "next": "/api/v1/noticias/page-32.json"
+  }
+}

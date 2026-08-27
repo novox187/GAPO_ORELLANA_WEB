@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 229,
+    "slug": "la-vialidad-se-fortalece-en-el-canton-con-trabajos-de-bacheo-229",
+    "titulo": "La vialidad se fortalece en el cantón con trabajos de bacheo",
+    "resumen": "Estas labores tienen como objetivo mejorar la seguridad vial y la movilidad vehicular del sector, beneficiando a conductores y peatones que transitan por esta importante vía de El Coca, “Para mí es satisfactorio ver que la municipalidad va ayudando a",
+    "fecha": "2026-01-05",
+    "imagen": {
+      "id": "6c646bf783752a41",
+      "hash": "6c646bf783752a41bd2167625a9174bb125f509161e9df0fb8bf96aa4eaff62b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9798_1nChh9s.JPG",
+      "rutaOriginal": "/media/originales/6c646bf783752a41.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/6c646bf783752a41-400.webp",
+        "800w": "/media/derivados/6c646bf783752a41-800.webp",
+        "1600w": "/media/derivados/6c646bf783752a41-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10636755,
+      "alt": "Procuraduría Síndica: La legalidad como pilar de una gestión responsable",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+    },
+    "url": "/noticia/229/",
+    "fuente_url": "https://orellana.gob.ec/noticia/229/",
+    "cuerpo": "Como parte de la planificación mensual la Alcaldía ejecuta trabajos de bacheo asfáltico con material triturado de tres cuartos en el tramo comprendido entre la calle Pasaje y la avenida 9 de Octubre del barrio El Moretal, asegura Ángel Quinatoa, funcionario municipal, “Hemos arrancado haciendo el bacheo desde la avenida la 9 de Octubre; a continuación, trabajaremos en varias calles de nuestra ciudad que falta por darle el bacheo y así tener una buena vialidad.” \nEstas labores tienen como objetivo mejorar la seguridad vial y la movilidad vehicular del sector, beneficiando a conductores y peatones que transitan por esta importante vía de El Coca, “Para mí es satisfactorio ver que la municipalidad va ayudando a esta necesidad, felicidades por el arreglo de las vías.” Manifiesta con satisfacción el ciudadano Luis Nájera. \nEste tipo de intervenciones continuarán ejecutándose de manera progresiva en diferentes sectores de la ciudad y del cantón, como parte del plan de mantenimiento vial. DV.",
+    "imagenes": [
+      {
+        "id": "6c646bf783752a41",
+        "hash": "6c646bf783752a41bd2167625a9174bb125f509161e9df0fb8bf96aa4eaff62b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9798_1nChh9s.JPG",
+        "rutaOriginal": "/media/originales/6c646bf783752a41.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/6c646bf783752a41-400.webp",
+          "800w": "/media/derivados/6c646bf783752a41-800.webp",
+          "1600w": "/media/derivados/6c646bf783752a41-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10636755,
+        "alt": "Procuraduría Síndica: La legalidad como pilar de una gestión responsable",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      }
+    ]
+  }
+}

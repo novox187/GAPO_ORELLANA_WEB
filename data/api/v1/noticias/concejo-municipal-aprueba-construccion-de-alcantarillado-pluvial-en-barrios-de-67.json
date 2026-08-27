@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 67,
+    "slug": "concejo-municipal-aprueba-construccion-de-alcantarillado-pluvial-en-barrios-de-67",
+    "titulo": "Concejo Municipal aprueba construcción de alcantarillado pluvial en barrios de El Coca",
+    "resumen": "En la Sesión Extraordinaria del Concejo Municipal, realizada el jueves 17 de abril, se presentó y resolvió la aprobación de la certificación presupuestaria",
+    "fecha": "2025-04-17",
+    "imagen": {
+      "id": "8624c725dd5fce4f",
+      "hash": "8624c725dd5fce4fffc417fc3a2495697d193945da7dc48df6c231be8f6b76eb",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_5817.JPG",
+      "rutaOriginal": "/media/originales/8624c725dd5fce4f.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8624c725dd5fce4f-400.webp",
+        "800w": "/media/derivados/8624c725dd5fce4f-800.webp",
+        "1600w": "/media/derivados/8624c725dd5fce4f-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 3614205,
+      "alt": "Concejo Municipal aprueba construcción de alcantarillado pluvial en barrios de El Coca",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+    },
+    "url": "/noticia/67/",
+    "fuente_url": "https://orellana.gob.ec/noticia/67/",
+    "cuerpo": "En la Sesión Extraordinaria del Concejo Municipal, realizada el jueves 17 de abril, se presentó y resolvió la aprobación de la certificación presupuestaria para la ejecución del proyecto de construcción del alcantarillado pluvial en los barrios 27 de Octubre, Julio Llori, Las Américas y Paraíso Amazónico, “Una vez que contraloría emita el visto bueno para que se continúe con el proyecto, empezará la fase precontractual ante el SERCOM, en el cual se analizarán las ofertas y se adjudicará el contrato al mejor oferente para que empiece la ejecución de este proyecto que empezará en este año y terminará en el 2026”. Alejandro Moreno, secretario del Concejo Muncipal. \nCristina Arrobo, moradora del barrio Paraíso Amazónico, expresó su satisfacción con esta iniciativa. \"La construcción de este alcantarillado pluvial mejorará de gran manera la problemática de inundaciones que hemos enfrentado por años. Agradezco la gestión de la actual administración liderada por la alcaldesa Shirma Cortés Sanmiguel\", comentó, “Me parece una excelente noticia, ya que hemos luchado tantos años por esta obra, gracias señora alcaldesa por haberse acordado de nosotros”.\nCon obras como ésta, la administración municipal reafirma su compromiso con el desarrollo urbano y la mejora de la calidad de vida de todos los ciudadanos.\n¡Juntos construimos el cantón que queremos! JG.",
+    "imagenes": [
+      {
+        "id": "8624c725dd5fce4f",
+        "hash": "8624c725dd5fce4fffc417fc3a2495697d193945da7dc48df6c231be8f6b76eb",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_5817.JPG",
+        "rutaOriginal": "/media/originales/8624c725dd5fce4f.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8624c725dd5fce4f-400.webp",
+          "800w": "/media/derivados/8624c725dd5fce4f-800.webp",
+          "1600w": "/media/derivados/8624c725dd5fce4f-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 3614205,
+        "alt": "Concejo Municipal aprueba construcción de alcantarillado pluvial en barrios de El Coca",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      }
+    ]
+  }
+}

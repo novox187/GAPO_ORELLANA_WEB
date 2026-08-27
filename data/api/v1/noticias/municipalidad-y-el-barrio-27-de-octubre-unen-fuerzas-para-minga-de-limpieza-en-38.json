@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 38,
+    "slug": "municipalidad-y-el-barrio-27-de-octubre-unen-fuerzas-para-minga-de-limpieza-en-38",
+    "titulo": "Municipalidad y el barrio 27 de Octubre unen fuerzas para minga de limpieza en el estadio",
+    "resumen": "Desde tempranas horas de la mañana, los moradores del barrio 27 de Octubre",
+    "fecha": "2025-02-17",
+    "imagen": {
+      "id": "0e9fcefaab4c6e2c",
+      "hash": "0e9fcefaab4c6e2c02b20125568c299c7a0e7ed2d98d3c1b91ae8d42be554a5b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_0102.JPG",
+      "rutaOriginal": "/media/originales/0e9fcefaab4c6e2c.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/0e9fcefaab4c6e2c-400.webp",
+        "800w": "/media/derivados/0e9fcefaab4c6e2c-800.webp",
+        "1600w": "/media/derivados/0e9fcefaab4c6e2c-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 8459214,
+      "alt": "Municipalidad y el barrio 27 de Octubre unen fuerzas para minga de limpieza en el estadio",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/38/",
+    "fuente_url": "https://orellana.gob.ec/noticia/38/",
+    "cuerpo": "A pesar de las condiciones climáticas, la comunidad del barrio 27 de octubre, el alcalde Víctor Ruiz acompañado por funcionarios municipales demostraron su compromiso con el desarrollo local al participar en una minga este jueves 20. Esta iniciativa, acordada en una reunión previa entre el alcalde Víctor Ruiz y los dirigentes del barrio, buscaba unir esfuerzos para mejorar el entorno y fortalecer los lazos comunitarios, para la ciudadana Orfa Gonzales, estas iniciativas ayudan a mejorar la imagen de nuestro barrio expresó, “Ahora ya vamos a poder a hacer deporte aquí cerca en el mismo barrio, ya no saldremos a otros lados en este tiempo de inseguridad”.\nDesde tempranas horas de la mañana, los moradores del barrio 27 de Octubre se congregaron en el punto de encuentro, equipados con herramientas y maquinaria de limpieza. La Municipalidad, por su parte, aportó mano de obra, volquetas y maquinaria pesada para apoyar las labores, así lo hizo el vicealcalde subrogante Víctor Ruiz, “Como municipalidad estamos trabajando y ayudándole al barrio, participando con la comunidad en la limpieza”.\nEste esfuerzo demuestra que la unión y el trabajo en equipo pueden transformar el entorno y mejorar la calidad de vida. RH.",
+    "imagenes": [
+      {
+        "id": "0e9fcefaab4c6e2c",
+        "hash": "0e9fcefaab4c6e2c02b20125568c299c7a0e7ed2d98d3c1b91ae8d42be554a5b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_0102.JPG",
+        "rutaOriginal": "/media/originales/0e9fcefaab4c6e2c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/0e9fcefaab4c6e2c-400.webp",
+          "800w": "/media/derivados/0e9fcefaab4c6e2c-800.webp",
+          "1600w": "/media/derivados/0e9fcefaab4c6e2c-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 8459214,
+        "alt": "Municipalidad y el barrio 27 de Octubre unen fuerzas para minga de limpieza en el estadio",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 43,
+    "slug": "alcaldia-realizo-feria-gastronomica-y-festival-de-djs-43",
+    "titulo": "Alcaldía realizó feria gastronómica y festival de DJs",
+    "resumen": "La Alcaldía de Francisco de Orellana expresa su agradecimiento a la ciudadanía",
+    "fecha": "2025-03-05",
+    "imagen": {
+      "id": "d50e264defecabf6",
+      "hash": "d50e264defecabf6c3f33cc73c26e1392cbbb780065cf1cd1f7640c39704bba2",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG_1957.JPG",
+      "rutaOriginal": "/media/originales/d50e264defecabf6.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/d50e264defecabf6-400.webp",
+        "800w": "/media/derivados/d50e264defecabf6-800.webp",
+        "1600w": "/media/derivados/d50e264defecabf6-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 4000,
+      "bytes": 4878896,
+      "alt": "Alcaldía realizó feria gastronómica y festival de DJs",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+    },
+    "url": "/noticia/43/",
+    "fuente_url": "https://orellana.gob.ec/noticia/43/",
+    "cuerpo": "En el marco de la agenda de actividades del feriado de Carnaval “El Coca Vívelo 2025”, el malecón de la ciudad fue el escenario de una exitosa feria gastronómica, en donde se ofrecieron diversos platillos tradicionales de la costa, sierra y oriente, permitiendo a los asistentes disfrutar de la riqueza culinaria, “Está excelente la atención y la comida, ahora estamos disfrutando del feriado aquí en la ciudad de El Coca”. Eduardo Marcillo, turista Quiteño.\n“Estoy agradecido con la municipalidad y que sigan haciendo estos eventos en la cual nosotros podemos presentar nuestros productos”. Kevin Ortiz, emprendedor local.\nPasado las 16h00 horas y en el mismo lugar se llevó a cabo el festival de DJS, en el que reconocidos artistas locales presentaron sus repertorios musicales. Los asistentes vibraron al ritmo de diferentes géneros, tanto del ayer como de la actualidad, disfrutando una tarde y noche llena de algarabía, “La verdad que hay bastante gente, hay buena seguridad, el ambiente full chévere, nos encantó todo, hicimos compañerismo y la verdad que fue un evento muy bonito”. Génesis Gissel, opinión ciudadana. \nLa Alcaldía de Francisco de Orellana expresa su agradecimiento a la ciudadanía por su activa participación, ya que, sin su entusiasmo y apoyo, estos eventos no serán posibles. DV.",
+    "imagenes": [
+      {
+        "id": "d50e264defecabf6",
+        "hash": "d50e264defecabf6c3f33cc73c26e1392cbbb780065cf1cd1f7640c39704bba2",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG_1957.JPG",
+        "rutaOriginal": "/media/originales/d50e264defecabf6.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/d50e264defecabf6-400.webp",
+          "800w": "/media/derivados/d50e264defecabf6-800.webp",
+          "1600w": "/media/derivados/d50e264defecabf6-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 4000,
+        "bytes": 4878896,
+        "alt": "Alcaldía realizó feria gastronómica y festival de DJs",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      }
+    ]
+  }
+}

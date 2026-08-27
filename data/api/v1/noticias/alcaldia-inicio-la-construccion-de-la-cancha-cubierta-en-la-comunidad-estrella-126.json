@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 126,
+    "slug": "alcaldia-inicio-la-construccion-de-la-cancha-cubierta-en-la-comunidad-estrella-126",
+    "titulo": "Alcaldía inició la construcción de la cancha cubierta en la comunidad Estrella Yaku",
+    "resumen": "Moradores de la comunidad Estrella Yaku, ubicada en la parroquia San Luis de Armenia, celebran el inicio de la construcción de una moderna cancha cubierta con graderíos y escenario, obra impulsada por la Alcaldía del cantón Francisco de Orellana, baj",
+    "fecha": "2025-07-16",
+    "imagen": {
+      "id": "e8569c19c54bbb15",
+      "hash": "e8569c19c54bbb15167b496ff68ccf0f0976dd1fb6ac13403fcd23ddbc0179b8",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG3098.JPG",
+      "rutaOriginal": "/media/originales/e8569c19c54bbb15.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/e8569c19c54bbb15-400.webp",
+        "800w": "/media/derivados/e8569c19c54bbb15-800.webp",
+        "1600w": "/media/derivados/e8569c19c54bbb15-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 10681596,
+      "alt": "Alcaldía inició la construcción de la cancha cubierta en la comunidad Estrella Yaku",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+    },
+    "url": "/noticia/126/",
+    "fuente_url": "https://orellana.gob.ec/noticia/126/",
+    "cuerpo": "Moradores de la comunidad Estrella Yaku, ubicada en la parroquia San Luis de Armenia, celebran el inicio de la construcción de una moderna cancha cubierta con graderíos y escenario, obra impulsada por la Alcaldía del cantón Francisco de Orellana, bajo el liderazgo de Shirma Cortés Sanmiguel.\nDurante décadas, los habitantes de este sector esperaron con anhelo una infraestructura deportiva adecuada para el desarrollo de actividades recreativas, culturales y deportivas. Hoy, ese sueño empieza a hacerse realidad, “Esta obra es importante, porque no tenemos donde hacer deporte, reuniones y las fiestas tocaba hacer en unas chocitas para atender a las personas, entonces con esto ya cambia todo, otra vida inicia y será un orgullo tener bien equipada esta cancha cubierta”. Wilson Huatatoca, morador del sector. \nLa obra forma parte del plan de fortalecimiento del tejido social y fomento al deporte que impulsa la actual administración municipal, con el objetivo de brindar espacios seguros, dignos e inclusivos a todas las comunidades del cantón, “A nombre de la directiva y los socios de la comunidad de Estrella Yaku, queremos agradecer a nuestra alcaldesa Shirma Cortés que nos ha dado este gran apoyo con el coliseo de deportes, ya que es una de las necesidades más importantes que tenemos aquí como comunidad”. Samuel Huatatoca, morador del sector. \nLa Alcaldía trabaja firme por el desarrollo integral de las zonas rurales, priorizando obras que mejoren la calidad de vida de sus habitantes.\nJG.",
+    "imagenes": [
+      {
+        "id": "e8569c19c54bbb15",
+        "hash": "e8569c19c54bbb15167b496ff68ccf0f0976dd1fb6ac13403fcd23ddbc0179b8",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG3098.JPG",
+        "rutaOriginal": "/media/originales/e8569c19c54bbb15.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/e8569c19c54bbb15-400.webp",
+          "800w": "/media/derivados/e8569c19c54bbb15-800.webp",
+          "1600w": "/media/derivados/e8569c19c54bbb15-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 10681596,
+        "alt": "Alcaldía inició la construcción de la cancha cubierta en la comunidad Estrella Yaku",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      }
+    ]
+  }
+}

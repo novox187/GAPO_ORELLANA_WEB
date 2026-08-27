@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 99,
+    "slug": "alcaldia-entrega-ayuda-humanitaria-a-familias-afectadas-por-desastres-99",
+    "titulo": "Alcaldía entrega ayuda humanitaria a familias afectadas por desastres",
+    "resumen": "Con el firme compromiso de apoyar a las familias en situación de vulnerabilidad, la Alcaldía que dirige Shirma Cortés Sanmiguel",
+    "fecha": "2025-06-11",
+    "imagen": {
+      "id": "62a10a3780784f95",
+      "hash": "62a10a3780784f95d33ee1fac5f23fe8f60820247628ff3a3cb9584ce1c79f84",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_1_IMG_5104.JPG",
+      "rutaOriginal": "/media/originales/62a10a3780784f95.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/62a10a3780784f95-400.webp",
+        "800w": "/media/derivados/62a10a3780784f95-800.webp",
+        "1600w": "/media/derivados/62a10a3780784f95-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 9732092,
+      "alt": "Alcaldía entrega ayuda humanitaria a familias afectadas por desastres",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+    },
+    "url": "/noticia/99/",
+    "fuente_url": "https://orellana.gob.ec/noticia/99/",
+    "cuerpo": "Con el firme compromiso de apoyar a las familias en situación de vulnerabilidad, la Alcaldía que dirige Shirma Cortés Sanmiguel realizó la entrega de 60 planchas de zinc con sus respectivos clavos a tres familias que lamentablemente perdieron sus viviendas a causa de fenómenos naturales y factores fortuitos, “La alcaldesa Shirma Cortés siempre está pendiente de las personas más vulnerables para apoyar y ayudar en estas gestiones a quienes más lo necesitan”, manifiesta Susana Rivera, directora de riesgos del GADMFO.\nEsta acción solidaria forma parte del plan de respuesta inmediata ante emergencias, que busca brindar alivio a quienes han sido afectados por eventos que comprometen su seguridad y bienestar, promoviendo acciones que garanticen una recuperación digna para las familias afectadas, “En nuestra casa vivimos seis personas e incluso menores de edad, y es una ayuda muy grande, por eso le quedo muy agradecido a la señora alcaldesa”. Sonia Zurita, beneficiaria.\n“Muchas gracias por el apoyo que nos da, de mi parte le agradezco bastante y que siga luchando y apoyando a más gente que verdaderamente lo necesitamos”. José Narváez, beneficiario.\n“Yo le agradezco de todo corazón y que siga así, trabajando por quienes de verdad necesitamos”. Zoila Bustos, beneficiaria.\nLa Alcaldía continuará gestionando recursos y ejecutando acciones en favor de quienes más lo necesitan, construyendo un futuro más seguro y solidario para todos. JG.",
+    "imagenes": [
+      {
+        "id": "62a10a3780784f95",
+        "hash": "62a10a3780784f95d33ee1fac5f23fe8f60820247628ff3a3cb9584ce1c79f84",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_1_IMG_5104.JPG",
+        "rutaOriginal": "/media/originales/62a10a3780784f95.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/62a10a3780784f95-400.webp",
+          "800w": "/media/derivados/62a10a3780784f95-800.webp",
+          "1600w": "/media/derivados/62a10a3780784f95-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 9732092,
+        "alt": "Alcaldía entrega ayuda humanitaria a familias afectadas por desastres",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      }
+    ]
+  }
+}

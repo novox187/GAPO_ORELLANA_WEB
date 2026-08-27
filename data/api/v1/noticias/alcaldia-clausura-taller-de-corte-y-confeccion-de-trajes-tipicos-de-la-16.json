@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 16,
+    "slug": "alcaldia-clausura-taller-de-corte-y-confeccion-de-trajes-tipicos-de-la-16",
+    "titulo": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
+    "resumen": "Muestra de los trabajos realizados por los participantes",
+    "fecha": "2025-01-15",
+    "imagen": {
+      "id": "8a1f37d578c5837f",
+      "hash": "8a1f37d578c5837ff13692cc1531ea90a20fa87d12ea93204ddf14a477233901",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_CORTE_Y_CONFECCION.png",
+      "rutaOriginal": "/media/originales/8a1f37d578c5837f.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/8a1f37d578c5837f-400.webp",
+        "800w": "/media/derivados/8a1f37d578c5837f-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1041510,
+      "alt": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+    },
+    "url": "/noticia/16/",
+    "fuente_url": "https://orellana.gob.ec/noticia/16/",
+    "cuerpo": "En la feria Guaysapamba, la Alcaldía clausuró el taller de corte y confección de trajes típicos de la nacionalidad kichwa, con una muestra de los trabajos realizados por los participantes, quienes pudieron exhibir su ropa elaborados con técnicas aprendidas durante las capacitaciones dictadas por profesionales de la municipalidad durante 164 horas, “Para mí es muy grande el ánimo que tengo, ya que aprendí a elaborar de cuatro a cinco prendas que me hizo aprender mi maestra; agradezco que nos hayan enseñado a trabajar con los trajes ancestrales de mis abuelos”. Elsa Tunay, opinión ciudadana.\nEl taller, tuvo como objetivo fortalecer el conocimiento y la preservación del uso de los tejidos tradicionales y técnicas ancestrales de costura, “A la alcaldesa, le agradezco que nos den estos talleres para que aprendan nuestros hijos e hijas y que no olviden nuestros trajes, muchas gracias”. Elsa Tunay, opinión ciudadana.\nLa Alcaldía reafirma su compromiso con el fortalecimiento y contribuir a la conservación de la identidad cultural. JG.",
+    "imagenes": [
+      {
+        "id": "8a1f37d578c5837f",
+        "hash": "8a1f37d578c5837ff13692cc1531ea90a20fa87d12ea93204ddf14a477233901",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_CORTE_Y_CONFECCION.png",
+        "rutaOriginal": "/media/originales/8a1f37d578c5837f.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8a1f37d578c5837f-400.webp",
+          "800w": "/media/derivados/8a1f37d578c5837f-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1041510,
+        "alt": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      }
+    ]
+  }
+}

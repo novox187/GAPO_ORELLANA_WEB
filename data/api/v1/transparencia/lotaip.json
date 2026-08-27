@@ -1,0 +1,721 @@
+{
+  "data": {
+    "slug": "lotaip",
+    "seccion": "transparencia",
+    "titulo": "LOTAIP",
+    "bloques": [
+      {
+        "tipo": "parrafo",
+        "texto": "La Ley Orgánica de Transparencia y Acceso a la Información Pública (LOTAIP) obliga a todas las instituciones del Estado que conforman el sector público a difundir a través de la página web institucional información mínima actualizada de naturaleza obligatoria.​​​​"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Seleccione el año"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "2026",
+            "url": null
+          },
+          {
+            "texto": "2025",
+            "url": null
+          },
+          {
+            "texto": "2024",
+            "url": null
+          },
+          {
+            "texto": "Lotaip años anteriores",
+            "url": "https://orellana.gob.ec/lotaip_years/"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Año 2026"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Seleccione el mes"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Enero"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Febrero"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Año 2025"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Seleccione el mes"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Enero"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Febrero"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Marzo"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Abril"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Mayo"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Junio"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Julio"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Agosto"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Septiembre"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Octubre"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Noviembre"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Año 2024"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 5,
+        "texto": "Seleccione el mes"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Enero"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Febrero"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Marzo"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Abril"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Mayo"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Julio"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Agosto"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Septiembre"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Octubre"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Noviembre"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Diciembre"
+      },
+      {
+        "tipo": "lista",
+        "items": [
+          {
+            "texto": "Ir a Transparencia Activa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Focalizada",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          },
+          {
+            "texto": "Ir a Transparencia Colaborativa",
+            "url": "https://transparencia.dpe.gob.ec/entidades/1034"
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "nivel": 2,
+        "texto": "Transparencia Pasiva"
+      }
+    ],
+    "texto": "La Ley Orgánica de Transparencia y Acceso a la Información Pública (LOTAIP) obliga a todas las instituciones del Estado que conforman el sector público a difundir a través de la página web institucional información mínima actualizada de naturaleza obligatoria.​​​​\n\nSeleccione el año\n\n2026. 2025. 2024. Lotaip años anteriores\n\nAño 2026\n\nSeleccione el mes\n\nEnero\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nFebrero\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nAño 2025\n\nSeleccione el mes\n\nEnero\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nFebrero\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nMarzo\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nAbril\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nMayo\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nJunio\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nJulio\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nAgosto\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nSeptiembre\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nOctubre\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nNoviembre\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nAño 2024\n\nSeleccione el mes\n\nEnero\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nFebrero\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nMarzo\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nAbril\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nMayo\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nJulio\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nAgosto\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nSeptiembre\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nOctubre\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nNoviembre\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva\n\nDiciembre\n\nIr a Transparencia Activa. Ir a Transparencia Focalizada. Ir a Transparencia Colaborativa\n\nTransparencia Pasiva",
+    "imagenes": [],
+    "documentos": [],
+    "fuente_url": "https://orellana.gob.ec/lotaip/"
+  }
+}

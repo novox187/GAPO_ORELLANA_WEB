@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 296,
+    "slug": "alcaldia-fortalece-la-infraestructura-vial-del-barrio-6-de-diciembre-296",
+    "titulo": "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre",
+    "resumen": "La alcaldesa Shirma Cortés Sanmiguel, avanza en su agenda de obra pública a través de técnicos municipales con la intervención vial en la intersección de las calles 1 de Mayo y Ambato, del barrio 6 de Diciembre. Los trabajos de readecuación y bacheo",
+    "fecha": "2026-04-21",
+    "imagen": {
+      "id": "845be8cae67a2ade",
+      "hash": "845be8cae67a2ade6324b9888f622d965a7c94f4843f0b4962049841768ab39b",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_GWqx6RZ.JPG",
+      "rutaOriginal": "/media/originales/845be8cae67a2ade.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/845be8cae67a2ade-400.webp",
+        "800w": "/media/derivados/845be8cae67a2ade-800.webp",
+        "1600w": "/media/derivados/845be8cae67a2ade-1600.webp"
+      },
+      "ancho": 5328,
+      "alto": 4000,
+      "bytes": 10892417,
+      "alt": "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+    },
+    "url": "/noticia/296/",
+    "fuente_url": "https://orellana.gob.ec/noticia/296/",
+    "cuerpo": "La alcaldesa Shirma Cortés Sanmiguel, avanza en su agenda de obra pública a través de técnicos municipales con la intervención vial en la intersección de las calles 1 de Mayo y Ambato, del barrio 6 de Diciembre. Los trabajos de readecuación y bacheo asfáltico buscan mejorar la seguridad vial, reducir el riesgo de accidentes y optimizar la movilidad, “Excelente trabajo de la alcaldía, mejora la circulación vehicular y peatonal, igual la imagen del barrio y de la ciudad, que va mejorando poco a poco”. Jhon Montalvan, opinión ciudadana. \nLa obra, ejecutada por el equipo caminero municipal, responde a una planificación en coordinación con líderes del lugar y forma parte de una estrategia más amplia de recuperación de espacios urbanos, “El arreglo de las vías está muy bien, ahora ya se puede conducir con más precaución y sin inconvenientes. Ana Quiñónez, opinión ciudadana. \nCon este tipo de acciones, la actual administración refuerza su presencia en territorio y consolida una gestión orientada a resultados concretos de recuperación vial y políticas en beneficio del ciudadano. DV.",
+    "imagenes": [
+      {
+        "id": "845be8cae67a2ade",
+        "hash": "845be8cae67a2ade6324b9888f622d965a7c94f4843f0b4962049841768ab39b",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_GWqx6RZ.JPG",
+        "rutaOriginal": "/media/originales/845be8cae67a2ade.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/845be8cae67a2ade-400.webp",
+          "800w": "/media/derivados/845be8cae67a2ade-800.webp",
+          "1600w": "/media/derivados/845be8cae67a2ade-1600.webp"
+        },
+        "ancho": 5328,
+        "alto": 4000,
+        "bytes": 10892417,
+        "alt": "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 121,
+    "slug": "campana-gratuita-de-esterilizacion-animal-en-el-canton-francisco-de-orellana-121",
+    "titulo": "Campaña gratuita de esterilización animal en el cantón Francisco de Orellana",
+    "resumen": "En el marco de la ordenanza de Convivencia Ciudadana No. 001-2015, que enfatiza el control y manejo responsable de la fauna urbana, la Alcaldía de Francisco de Orellana, bajo la dirección de la alcaldesa Shirma Cortés Sanmiguel, ha impulsado con éxit",
+    "fecha": "2025-07-09",
+    "imagen": {
+      "id": "1bd57de3fafe266c",
+      "hash": "1bd57de3fafe266c311a81b3ee83e59e811e3b8b7f66405a26e20d1a5c6cec0c",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_1750.JPG",
+      "rutaOriginal": "/media/originales/1bd57de3fafe266c.jpg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1bd57de3fafe266c-400.webp",
+        "800w": "/media/derivados/1bd57de3fafe266c-800.webp",
+        "1600w": "/media/derivados/1bd57de3fafe266c-1600.webp"
+      },
+      "ancho": 6000,
+      "alto": 3368,
+      "bytes": 5613027,
+      "alt": "Campaña gratuita de esterilización animal en el cantón Francisco de Orellana",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+    },
+    "url": "/noticia/121/",
+    "fuente_url": "https://orellana.gob.ec/noticia/121/",
+    "cuerpo": "En el marco de la ordenanza de Convivencia Ciudadana No. 001-2015, que enfatiza el control y manejo responsable de la fauna urbana, la Alcaldía de Francisco de Orellana, bajo la dirección de la alcaldesa Shirma Cortés Sanmiguel, ha impulsado con éxito varias campañas gratuitas de esterilización de caninos y felinos, “Esta campaña se lo viene realizando de una manera organizada, primero se trabajó en la parte urbana y en esta vez lo hemos decidido hacer en cada una de nuestras parroquias de nuestro cantón, en beneficio de nuestros animalitos”. Shirma Cortés, alcaldesa de Francisco de Orellana. \nEstas jornadas veterinarias se han realizado de manera equitativa en las 11 parroquias del cantón, brindando a la ciudadanía acceso gratuito a este servicio, con el fin de regular la sobrepoblación indiscriminada de mascotas. La comunidad ha recibido positivamente esta iniciativa, destacando la gestión de la autoridad cantonal como un ejemplo de compromiso social, manifiesta Miller Landi Landázuri, “La verdad que me siento muy agradecida ya que habemos muchas personas de bajos recursos para hacer esterilizar a nuestros animalitos; es una labor muy generosa de la alcaldesa, muy espléndida”. \nA través de estas acciones, la Municipalidad demuestra su interés en la protección del medio ambiente, la salud pública y el bienestar animal, y reitera su compromiso de continuar desarrollando campañas preventivas enfocadas en la tenencia responsable de mascotas. DV.",
+    "imagenes": [
+      {
+        "id": "1bd57de3fafe266c",
+        "hash": "1bd57de3fafe266c311a81b3ee83e59e811e3b8b7f66405a26e20d1a5c6cec0c",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_1750.JPG",
+        "rutaOriginal": "/media/originales/1bd57de3fafe266c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1bd57de3fafe266c-400.webp",
+          "800w": "/media/derivados/1bd57de3fafe266c-800.webp",
+          "1600w": "/media/derivados/1bd57de3fafe266c-1600.webp"
+        },
+        "ancho": 6000,
+        "alto": 3368,
+        "bytes": 5613027,
+        "alt": "Campaña gratuita de esterilización animal en el cantón Francisco de Orellana",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      }
+    ]
+  }
+}

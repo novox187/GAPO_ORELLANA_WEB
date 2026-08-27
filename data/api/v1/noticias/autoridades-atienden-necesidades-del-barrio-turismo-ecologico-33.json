@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 33,
+    "slug": "autoridades-atienden-necesidades-del-barrio-turismo-ecologico-33",
+    "titulo": "Autoridades atienden necesidades del barrio Turismo Ecológico",
+    "resumen": "ntre las prioridades destaca la construcción del sistema de alcantarillado pluvial",
+    "fecha": "2025-02-10",
+    "imagen": {
+      "id": "1db42ba389e8f2db",
+      "hash": "1db42ba389e8f2db602f4c0882cbb6b417e3ee71676c7910ad423a91a2064aab",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_TURISMO_ECOLOGICO.png",
+      "rutaOriginal": "/media/originales/1db42ba389e8f2db.png",
+      "rutaDerivados": {
+        "400w": "/media/derivados/1db42ba389e8f2db-400.webp",
+        "800w": "/media/derivados/1db42ba389e8f2db-800.webp"
+      },
+      "ancho": 900,
+      "alto": 600,
+      "bytes": 1216205,
+      "alt": "Autoridades atienden necesidades del barrio Turismo Ecológico",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+    },
+    "url": "/noticia/33/",
+    "fuente_url": "https://orellana.gob.ec/noticia/33/",
+    "cuerpo": "Nuestra alcaldesa Shirma Cortés, junto al vicealcalde Víctor Ruiz y el concejal Washington Cardona, visitaron el barrio Turismo Ecológico para escuchar las necesidades de sus moradores.\nEntre las prioridades destaca la construcción del sistema de alcantarillado pluvial, “Nosotros como municipalidad estamos gestionando los recursos ante la Secretaría Técnica de la Circunscripción Territorial Especial Amazónica para en lo posible lograr a conseguir en este año; y, si Dios quiere, el próximo año estar trabajando en este proyecto tan importante, donde se beneficiarán los barrios Turismo Ecológico y Luis Guerra”. Shirma Cortés, alcaldesa de Francisco de Orellana.\nLos dirigentes barriales expresaron su alegría por la presencia de las autoridades municipales, quienes siguen demostrando su compromiso con el pueblo, “De mi parte quiero agradecerle señora alcaldesa y también al vicealcalde y felicitarle, que siga adelante, que visite otros barrios y siga con ese compromiso con la ciudad”. Jorge Ojeda, opinión ciudadana.\nLa Alcaldía de Francisco de Orellana, liderada por Shirma Cortés, sigue trabajando para resolver los problemas de su gente. PT.",
+    "imagenes": [
+      {
+        "id": "1db42ba389e8f2db",
+        "hash": "1db42ba389e8f2db602f4c0882cbb6b417e3ee71676c7910ad423a91a2064aab",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_TURISMO_ECOLOGICO.png",
+        "rutaOriginal": "/media/originales/1db42ba389e8f2db.png",
+        "rutaDerivados": {
+          "400w": "/media/derivados/1db42ba389e8f2db-400.webp",
+          "800w": "/media/derivados/1db42ba389e8f2db-800.webp"
+        },
+        "ancho": 900,
+        "alto": 600,
+        "bytes": 1216205,
+        "alt": "Autoridades atienden necesidades del barrio Turismo Ecológico",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      }
+    ]
+  }
+}

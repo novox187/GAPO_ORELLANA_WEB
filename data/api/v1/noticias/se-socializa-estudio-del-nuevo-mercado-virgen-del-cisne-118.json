@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 118,
+    "slug": "se-socializa-estudio-del-nuevo-mercado-virgen-del-cisne-118",
+    "titulo": "Se socializa estudio del nuevo mercado \"Virgen del Cisne\"",
+    "resumen": "En el auditorio municipal se llevó a cabo la socialización del estudio definitivo del proyecto del nuevo mercado “Virgen del Cisne”, una obra moderna, ordenada y sostenible que responde a las necesidades de comerciantes y ciudadanía. Este ambicioso p",
+    "fecha": "2025-07-04",
+    "imagen": {
+      "id": "7828493ce83a4cff",
+      "hash": "7828493ce83a4cff054fd1f3667a7b59bebe5eb8715c4f3221d27e7d58b76a02",
+      "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.jpeg",
+      "rutaOriginal": "/media/originales/7828493ce83a4cff.jpeg",
+      "rutaDerivados": {
+        "400w": "/media/derivados/7828493ce83a4cff-400.webp",
+        "800w": "/media/derivados/7828493ce83a4cff-800.webp"
+      },
+      "ancho": 1280,
+      "alto": 720,
+      "bytes": 240781,
+      "alt": "Se socializa estudio del nuevo mercado \"Virgen del Cisne\"",
+      "altPendiente": false,
+      "seccion": "noticias",
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+    },
+    "url": "/noticia/118/",
+    "fuente_url": "https://orellana.gob.ec/noticia/118/",
+    "cuerpo": "En el auditorio municipal se llevó a cabo la socialización del estudio definitivo del proyecto del nuevo mercado “Virgen del Cisne”, una obra moderna, ordenada y sostenible que responde a las necesidades de comerciantes y ciudadanía. Este ambicioso proyecto forma parte de la planificación de la actual administración, liderada por la alcaldesa Shirma Cortés Sanmiguel, “Le agradecemos a la señora alcaldesa Shirma Cortés por este nuevo proyecto del nuevo mercado Virgen del Cisne, nos sentimos satisfechos y la verdad sí es un proyecto muy bonito”. Anaya Lina, comerciante local. \nLa propuesta contempla una infraestructura de diseño funcional y futurista, dividida en zonas especializadas para garantizar una mejor organización, higiene y atención al público:\nZona Húmeda: puestos de carnes (tercenas) y mariscos.\n• Zona Semi Húmeda: puestos de verduras, frutas, medicina botánica y lácteos.\n• Zona de Patio de Comidas: espacios para la venta de comida preparada y jugos naturales.\n• Zona de Actividades de Ancla: servicios municipales, estatales y locales comerciales.\n• Zona Recreativa: contará con canchas de Ecua-vóley.\n• Zona de Estacionamientos: destinada al uso de vehículos particulares.\n• Zona Administrativa, de Carga y Descarga: para operaciones logísticas y de gestión interna. \nBlanca Oña, comerciante local, se siente alegre al escuchar la importante noticia que sin lugar a dudas mejorará el ornato de la ciudad de El Coca, “me siento contenta y feliz la verdad, es que ninguna autoridad ha hecho esto, pero ahora si se ve que lo están haciendo y muchas felicitaciones a todos aquellos”.\nAdemás, el proyecto incluye la nueva estación de transferencia, una pieza clave para la funcionalidad del sistema comercial de la ciudad. Esta mega obra no solo moderniza la infraestructura del comercio local, sino que proyecta un crecimiento ordenado del empleo y los servicios hasta el año 2045, dinamizando de manera significativa la economía de la ciudad y del cantón. DV.",
+    "imagenes": [
+      {
+        "id": "7828493ce83a4cff",
+        "hash": "7828493ce83a4cff054fd1f3667a7b59bebe5eb8715c4f3221d27e7d58b76a02",
+        "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.jpeg",
+        "rutaOriginal": "/media/originales/7828493ce83a4cff.jpeg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7828493ce83a4cff-400.webp",
+          "800w": "/media/derivados/7828493ce83a4cff-800.webp"
+        },
+        "ancho": 1280,
+        "alto": 720,
+        "bytes": 240781,
+        "alt": "Se socializa estudio del nuevo mercado \"Virgen del Cisne\"",
+        "altPendiente": false,
+        "seccion": "noticias",
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      }
+    ]
+  }
+}

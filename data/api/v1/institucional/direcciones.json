@@ -1,0 +1,980 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "slug": "direccion-administrativa",
+      "nombre": "Dirección Administrativa",
+      "responsable": "Blanca Duman",
+      "foto": {
+        "id": "20256708685d279f",
+        "hash": "20256708685d279faacaac707caa03e07d59525f0d1fc54ed5daf35f82c4774d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/WhatsApp_Image_2025-09-22_at_12.13.43_PM.jpeg",
+        "rutaOriginal": "/media/originales/20256708685d279f.jpeg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/20256708685d279f-400.webp",
+          "800w": "/media/derivados/20256708685d279f-800.webp"
+        },
+        "ancho": 1086,
+        "alto": 1280,
+        "bytes": 91931,
+        "alt": "Dirección Administrativa — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Dirigir y controlar los procesos administrativos destinados a suplir bienes, materiales y de servicios, que las diferentes unidades administrativas requieren para el cumplimiento de su misión.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Directora",
+          "extension": "1300"
+        },
+        {
+          "cargo": "Analista Administrativa",
+          "extension": "1301"
+        },
+        {
+          "cargo": "Asistente 1",
+          "extension": "1302"
+        },
+        {
+          "cargo": "Asistente 2",
+          "extension": "1303"
+        },
+        {
+          "cargo": "Asistente 3",
+          "extension": "1304"
+        },
+        {
+          "cargo": "Jefe",
+          "extension": "1310"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1311"
+        },
+        {
+          "cargo": "Tecnico 1",
+          "extension": "1312"
+        },
+        {
+          "cargo": "Tecnico 2",
+          "extension": "1313"
+        },
+        {
+          "cargo": "Tecnico 3",
+          "extension": "1314"
+        },
+        {
+          "cargo": "Tecnico 4",
+          "extension": "1316"
+        },
+        {
+          "cargo": "Jefe de Proveeduria",
+          "extension": "1320"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1321"
+        },
+        {
+          "cargo": "Analista de Existencia",
+          "extension": "1322"
+        },
+        {
+          "cargo": "Activos Fijos",
+          "extension": "1323"
+        },
+        {
+          "cargo": "Comb y Repuestos",
+          "extension": "1324"
+        },
+        {
+          "cargo": "Jefe",
+          "extension": "1340"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1341"
+        },
+        {
+          "cargo": "Analista 1",
+          "extension": "1342"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1343"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 2,
+      "slug": "direccion-de-ambiente",
+      "nombre": "Dirección de Ambiente",
+      "responsable": "Erika Felix",
+      "foto": {
+        "id": "a7d9909804084297",
+        "hash": "a7d9909804084297f141b17ca2233d3eea26f4c900d0c5f99790e361f45ded33",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_16_7zdK0w5.jpg",
+        "rutaOriginal": "/media/originales/a7d9909804084297.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/a7d9909804084297-400.webp",
+          "800w": "/media/derivados/a7d9909804084297-800.webp",
+          "1600w": "/media/derivados/a7d9909804084297-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1617243,
+        "alt": "Dirección de Ambiente — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Planificar, organizar y dirigir las acciones ambientales necesarias y de forma oportuna, garantizando la participación ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo y protección del ambiente.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Dirección",
+          "extension": "2200"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "2201"
+        },
+        {
+          "cargo": "Calidad Ambiental",
+          "extension": "2202"
+        },
+        {
+          "cargo": "Áridos y Pétreos",
+          "extension": "2220"
+        },
+        {
+          "cargo": "Educación Ambiental",
+          "extension": "2240"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 3,
+      "slug": "direccion-de-comunicacion-social",
+      "nombre": "Dirección de Comunicación Social",
+      "responsable": "Veronica Riera",
+      "foto": {
+        "id": "7ac1e1102af1ecdd",
+        "hash": "7ac1e1102af1ecdddf824249cefb1ba11e8b9c4e3d5002b228f4df2abf311ea4",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_3.jpg.jpeg",
+        "rutaOriginal": "/media/originales/7ac1e1102af1ecdd.jpeg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7ac1e1102af1ecdd-400.webp",
+          "800w": "/media/derivados/7ac1e1102af1ecdd-800.webp"
+        },
+        "ancho": 1305,
+        "alto": 1537,
+        "bytes": 977621,
+        "alt": "Dirección de Comunicación Social — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Generar ámbitos de comunicación y difundir de manera ágil y oportuna la gestión Municipal, a través de la relación directa y armónica con los medios de comunicación, para fomentar la participación ciudadana y fortalecer la imagen institucional municipal.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "1350"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1351"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1353"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 4,
+      "slug": "procuraduria-sindica",
+      "nombre": "Procuraduría Síndica",
+      "responsable": "Xavier Solis",
+      "foto": {
+        "id": "123b561d26309720",
+        "hash": "123b561d2630972015768e4bf2be1edd0dd17962da2b52c5f08e4c26c4942512",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_18.jpg",
+        "rutaOriginal": "/media/originales/123b561d26309720.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/123b561d26309720-400.webp",
+          "800w": "/media/derivados/123b561d26309720-800.webp",
+          "1600w": "/media/derivados/123b561d26309720-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1685896,
+        "alt": "Procuraduría Síndica — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Asesorar a las diferentes instancias municipales en todos los aspectos legales, judiciales y de contratación pública que requieran para su gestión y operación; así como también patrocinar, auspiciar y representar en los procesos judiciales de la institución, intervenir en los procesos precontractuales y contractuales, sustanciar reclamos y recursos administrativos en contra de actos administrativos de la Municipalidad; ejercer la representación judicial conjuntamente con la máxima autoridad.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Procurador",
+          "extension": "1210"
+        },
+        {
+          "cargo": "Secretaria",
+          "extension": "1211"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 5,
+      "slug": "direccion-de-obras-publicas",
+      "nombre": "Dirección de Obras Públicas",
+      "responsable": "Luis Analuisa",
+      "foto": {
+        "id": "65726cf87bd29bf2",
+        "hash": "65726cf87bd29bf22407492266b8090cc1570419933a2612784ceff47e3f447a",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_10.jpg",
+        "rutaOriginal": "/media/originales/65726cf87bd29bf2.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/65726cf87bd29bf2-400.webp",
+          "800w": "/media/derivados/65726cf87bd29bf2-800.webp",
+          "1600w": "/media/derivados/65726cf87bd29bf2-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1794779,
+        "alt": "Dirección de Obras Públicas — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Planificar, organizar, direccionar, supervisar, controlar los programas y proyectos de construcción, rehabilitación y mantenimiento de las instalaciones de infraestructura civil y vial; además vigilar el uso del Equipo Caminero a fin de brindar obras de calidad a través de un trabajo en equipo y eficiente.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "1700"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1701"
+        },
+        {
+          "cargo": "Obra Civil",
+          "extension": "1730"
+        },
+        {
+          "cargo": "Fiscalizacion",
+          "extension": "1704"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 6,
+      "slug": "direccion-de-compras-publicas",
+      "nombre": "Dirección de Compras Públicas",
+      "responsable": "Fausto Andy",
+      "foto": {
+        "id": "7c04a0a0f3552b68",
+        "hash": "7c04a0a0f3552b68374b1853a5d210324fffb7554a6577a2bc1de30742c31eaa",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_5.jpg",
+        "rutaOriginal": "/media/originales/7c04a0a0f3552b68.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7c04a0a0f3552b68-400.webp",
+          "800w": "/media/derivados/7c04a0a0f3552b68-800.webp",
+          "1600w": "/media/derivados/7c04a0a0f3552b68-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1640095,
+        "alt": "Dirección de Compras Públicas — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "",
+      "directorio_telefonico": [
+        {
+          "cargo": "DIRECTOR",
+          "extension": "2300"
+        },
+        {
+          "cargo": "ASISTENTE DIRECCION",
+          "extension": "2302"
+        },
+        {
+          "cargo": "JEFA",
+          "extension": "2310"
+        },
+        {
+          "cargo": "ASISTENTE JEFATURA",
+          "extension": "2301"
+        },
+        {
+          "cargo": "ANALISTA",
+          "extension": "2311"
+        },
+        {
+          "cargo": "ANALISTA",
+          "extension": "2312"
+        },
+        {
+          "cargo": "ANALISTA",
+          "extension": "2313"
+        },
+        {
+          "cargo": "ANALISTA",
+          "extension": "2314"
+        },
+        {
+          "cargo": "ANALISTA",
+          "extension": "2315"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 8,
+      "slug": "direccion-de-seguridad-y-gobernabilidad",
+      "nombre": "Dirección de Seguridad y Gobernabilidad",
+      "responsable": "Roberto Palacios",
+      "foto": {
+        "id": "9fbf3d4c24b45633",
+        "hash": "9fbf3d4c24b456331432bda7f6ca55bff20e62afd02d684766cd4dec24370def",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_17.jpg",
+        "rutaOriginal": "/media/originales/9fbf3d4c24b45633.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/9fbf3d4c24b45633-400.webp",
+          "800w": "/media/derivados/9fbf3d4c24b45633-800.webp",
+          "1600w": "/media/derivados/9fbf3d4c24b45633-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1646225,
+        "alt": "Dirección de Seguridad y Gobernabilidad — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Juzgar y sancionar a los infractores y contraventores de las norma jurídicas municipales, mediante las correcta administración de la justicia, en procura de la paz y bienestar de la comunidad; cumplir y hacer cumplir las leyes, ordenanza, reglamentos y disposiciones de las autoridades municipales en lo concerniente a seguridad ciudadana, control de contribuyentes, higiene, medio ambiente, vía pública, salubridad, abasto, ornato, obra pública, usos de espacio y bienes público de propiedad municip",
+      "directorio_telefonico": [
+        {
+          "cargo": "Directora",
+          "extension": "2500"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "2501"
+        },
+        {
+          "cargo": "Municipal",
+          "extension": "2502"
+        },
+        {
+          "cargo": "Ambiental",
+          "extension": "2503"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 9,
+      "slug": "direccion-de-desarrollo-social",
+      "nombre": "Dirección de Desarrollo Social",
+      "responsable": "Teresa Fuelpas",
+      "foto": {
+        "id": "3ec4ab1ab46fe4d3",
+        "hash": "3ec4ab1ab46fe4d373ea1cab5e16771eb852105c127b48d1b291b13dedd46694",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_12.jpg",
+        "rutaOriginal": "/media/originales/3ec4ab1ab46fe4d3.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/3ec4ab1ab46fe4d3-400.webp",
+          "800w": "/media/derivados/3ec4ab1ab46fe4d3-800.webp",
+          "1600w": "/media/derivados/3ec4ab1ab46fe4d3-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1462256,
+        "alt": "Dirección de Desarrollo Social — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Planificar, organizar y dirigir las acciones necesarias y de forma oportuna, garantizando la participación e inclusión ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo y protección de sus derechos.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "2000"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "2001"
+        },
+        {
+          "cargo": "Inclusión Social",
+          "extension": "2011"
+        },
+        {
+          "cargo": "Desarrollo Infantil",
+          "extension": "2050"
+        },
+        {
+          "cargo": "Género",
+          "extension": "2070"
+        },
+        {
+          "cargo": "Discapacidad",
+          "extension": "2060"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 10,
+      "slug": "direccion-de-riesgos",
+      "nombre": "Dirección de Riesgos",
+      "responsable": "Susana Rivera",
+      "foto": {
+        "id": "c81ea4f1343f663b",
+        "hash": "c81ea4f1343f663b6bb12f1caba5c292f8adcb1743bf98c4396ca9446f17fe6e",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_13.jpg",
+        "rutaOriginal": "/media/originales/c81ea4f1343f663b.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/c81ea4f1343f663b-400.webp",
+          "800w": "/media/derivados/c81ea4f1343f663b-800.webp",
+          "1600w": "/media/derivados/c81ea4f1343f663b-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 2104024,
+        "alt": "Dirección de Riesgos — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Planear, direccionar, coordinar y ejecutar los programas y proyectos de obras de mitigación y prevención de riesgos, atención de emergencias y demás políticas y acciones para reducir la vulnerabilidad de los ciudadanos y ciudadanas del cantón de Francisco de Orellana, frente a las amenazas de eventos adversos, coordinando acciones de cooperación con instituciones públicas y privadas, enfocados al Buen Vivir.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "2600"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "2601"
+        },
+        {
+          "cargo": "Tècnico",
+          "extension": "2602"
+        },
+        {
+          "cargo": "ECU 911",
+          "extension": "911"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 11,
+      "slug": "direccion-de-agua-potable-y-alcantarillado",
+      "nombre": "Dirección de Agua Potable y Alcantarillado",
+      "responsable": "Frank Alcivar",
+      "foto": {
+        "id": "5cbfb7bdd0a84e99",
+        "hash": "5cbfb7bdd0a84e99b9836e1585a6a02ab038f2a7ab0aab824699ce2ffe144322",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia.jpg.jpeg",
+        "rutaOriginal": "/media/originales/5cbfb7bdd0a84e99.jpeg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5cbfb7bdd0a84e99-400.webp",
+          "800w": "/media/derivados/5cbfb7bdd0a84e99-800.webp",
+          "1600w": "/media/derivados/5cbfb7bdd0a84e99-1600.webp"
+        },
+        "ancho": 2480,
+        "alto": 2979,
+        "bytes": 701256,
+        "alt": "Dirección de Agua Potable y Alcantarillado — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Planificar, organizar y dirigir las acciones necesarias y de forma oportuna, garantizando la participación e inclusión ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo y protección de sus derechos.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "1803"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1801"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1810"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 12,
+      "slug": "direccion-de-turismo",
+      "nombre": "Dirección de Turismo",
+      "responsable": "Lady Barrionuevo",
+      "foto": {
+        "id": "96bb8ff279723c3c",
+        "hash": "96bb8ff279723c3c1f7033ca04a8c5bf1ec3604c1215c001191347bb1163bab6",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_16.jpg",
+        "rutaOriginal": "/media/originales/96bb8ff279723c3c.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/96bb8ff279723c3c-400.webp",
+          "800w": "/media/derivados/96bb8ff279723c3c-800.webp",
+          "1600w": "/media/derivados/96bb8ff279723c3c-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 2014667,
+        "alt": "Dirección de Turismo — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Impulsar la dinámica del desarrollo socio-económico y turístico cantonal, poniendo una atención especial en el sector de la economía social y solidaria del Cantón Francisco de Orellana, propiciando la implementación y ejecución de planes, programas y proyectos, basados en un enfoque sustentable y de alta participación social.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "2100"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "2101"
+        },
+        {
+          "cargo": "Tècnico",
+          "extension": "2102"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 13,
+      "slug": "direccion-de-talento-humano",
+      "nombre": "Dirección de Talento Humano",
+      "responsable": "Soledad García",
+      "foto": {
+        "id": "528d305211dfec8e",
+        "hash": "528d305211dfec8edfde0fccc72cfcca1aaf1f9659e99516a40ba25ebe0b2c65",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_15.jpg",
+        "rutaOriginal": "/media/originales/528d305211dfec8e.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/528d305211dfec8e-400.webp",
+          "800w": "/media/derivados/528d305211dfec8e-800.webp",
+          "1600w": "/media/derivados/528d305211dfec8e-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 2072012,
+        "alt": "Dirección de Talento Humano — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Garantizar en el Gobierno Autónomo Descentralizado, un equipo humano competente de servidores y servidoras, comprometidos, capaces de adaptarse a nuevas políticas y realidades para asumir retos y conseguir el logro de los objetivos institucionales, con eficacia, eficiencia, calidad, jerarquía, coordinación, participación, planificación, transparencia, evaluación y responsabilidad.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "1500"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1501"
+        },
+        {
+          "cargo": "Nóminas y Roles",
+          "extension": "1502"
+        },
+        {
+          "cargo": "Asistente Administrativa Talento H",
+          "extension": "1503"
+        },
+        {
+          "cargo": "Jefe Adm. Talento Humano",
+          "extension": "1504"
+        },
+        {
+          "cargo": "Jefe",
+          "extension": "1510"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1511"
+        },
+        {
+          "cargo": "Trabajadora Social",
+          "extension": "1512"
+        },
+        {
+          "cargo": "Medico Institucional",
+          "extension": "1513"
+        },
+        {
+          "cargo": "Analista Seguridad Industrial",
+          "extension": "1514"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 14,
+      "slug": "direccion-financiera",
+      "nombre": "Dirección Financiera",
+      "responsable": "Ana María Quizhpe",
+      "foto": {
+        "id": "bffafe21f9677d03",
+        "hash": "bffafe21f9677d03d8402b607035bacf25b27198cc73ba1d2f79a6cb4d1860a9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_9.jpg",
+        "rutaOriginal": "/media/originales/bffafe21f9677d03.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/bffafe21f9677d03-400.webp",
+          "800w": "/media/derivados/bffafe21f9677d03-800.webp",
+          "1600w": "/media/derivados/bffafe21f9677d03-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 2266748,
+        "alt": "Dirección Financiera — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Impulsar, coordinar y articular la implementación, seguimiento, evaluación de políticas, planes, programas y proyectos para dotar y administrar recursos financieros en función de los requerimientos de la planificación institucional, así como generar planes para obtener ingresos propios.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Directora",
+          "extension": "1400"
+        },
+        {
+          "cargo": "ASISTENTE",
+          "extension": "1401"
+        },
+        {
+          "cargo": "ARCHIVO FINANCIERO",
+          "extension": "1402"
+        },
+        {
+          "cargo": "ASISTENTE FINANCIERO",
+          "extension": "1403"
+        },
+        {
+          "cargo": "CONTADOR",
+          "extension": "1410"
+        },
+        {
+          "cargo": "ASISTENTE",
+          "extension": "1411"
+        },
+        {
+          "cargo": "ANALISTA DE CONTABILIDAD",
+          "extension": "1412"
+        },
+        {
+          "cargo": "ANALISIS FINANCIERO",
+          "extension": "1413"
+        },
+        {
+          "cargo": "JEFA",
+          "extension": "1420"
+        },
+        {
+          "cargo": "ANALISTA",
+          "extension": "1421"
+        },
+        {
+          "cargo": "TESORERO",
+          "extension": "1430"
+        },
+        {
+          "cargo": "ASISTENTE",
+          "extension": "1431"
+        },
+        {
+          "cargo": "JEFE DE RENTAS",
+          "extension": "1440"
+        },
+        {
+          "cargo": "JEFE DE COACTIVAS",
+          "extension": "1450"
+        },
+        {
+          "cargo": "JEFE DE RECAUDACION",
+          "extension": "1460"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 15,
+      "slug": "direccion-de-servicios-municipales",
+      "nombre": "Dirección de Servicios Municipales",
+      "responsable": "Verónica Saritama",
+      "foto": {
+        "id": "f99099fdc9f4e294",
+        "hash": "f99099fdc9f4e294290117c837f86dee1cf9607a193170bd263f663c2d522cc9",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_14_Mesa_de_trabajo_1_copia_19.jpg",
+        "rutaOriginal": "/media/originales/f99099fdc9f4e294.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/f99099fdc9f4e294-400.webp",
+          "800w": "/media/derivados/f99099fdc9f4e294-800.webp",
+          "1600w": "/media/derivados/f99099fdc9f4e294-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 2168804,
+        "alt": "Dirección de Servicios Municipales — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Planificar, organizar y dirigir las acciones de servicios en el cantón, de forma oportuna, garantizando la participación ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo ordenado del cantón.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Dirección",
+          "extension": "2400"
+        },
+        {
+          "cargo": "Camal",
+          "extension": "2401"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 16,
+      "slug": "secretario-general",
+      "nombre": "Secretario General",
+      "responsable": "Hernan Tumbaco",
+      "foto": {
+        "id": "7dd0de89c9cee2f2",
+        "hash": "7dd0de89c9cee2f29c1e0a4032a51fbbc154590bf4a9ac4b8bb1cf8999fdf399",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_6.jpg",
+        "rutaOriginal": "/media/originales/7dd0de89c9cee2f2.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/7dd0de89c9cee2f2-400.webp",
+          "800w": "/media/derivados/7dd0de89c9cee2f2-800.webp",
+          "1600w": "/media/derivados/7dd0de89c9cee2f2-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 2684855,
+        "alt": "Secretario General — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "",
+      "directorio_telefonico": [
+        {
+          "cargo": "SECRETARIO GENERAL",
+          "extension": "1000"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 17,
+      "slug": "secretario-de-concejo",
+      "nombre": "Secretario de Concejo",
+      "responsable": "Danny Zarumeño",
+      "foto": {
+        "id": "b434fb7c840bc503",
+        "hash": "b434fb7c840bc5032bd01be1ff8794ee02b7954d3edbb597000450fd21abcf05",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_21.jpg.jpeg",
+        "rutaOriginal": "/media/originales/b434fb7c840bc503.jpeg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/b434fb7c840bc503-400.webp",
+          "800w": "/media/derivados/b434fb7c840bc503-800.webp"
+        },
+        "ancho": 1305,
+        "alto": 1537,
+        "bytes": 450983,
+        "alt": "Secretario de Concejo — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "",
+      "directorio_telefonico": [
+        {
+          "cargo": "ASISTENTE CONCEJALES",
+          "extension": "1010"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 18,
+      "slug": "direccion-de-planificacion-institucional",
+      "nombre": "Dirección de Planificación Institucional",
+      "responsable": "Paolo Cobeña",
+      "foto": {
+        "id": "45079668fc5687ea",
+        "hash": "45079668fc5687ea00bc007f5018dc557712c65f3b8a3325c2289e395a91317d",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_2.jpg",
+        "rutaOriginal": "/media/originales/45079668fc5687ea.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/45079668fc5687ea-400.webp",
+          "800w": "/media/derivados/45079668fc5687ea-800.webp",
+          "1600w": "/media/derivados/45079668fc5687ea-1600.webp"
+        },
+        "ancho": 2480,
+        "alto": 2979,
+        "bytes": 1695870,
+        "alt": "Dirección de Planificación Institucional — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Impulsar el desarrollo de la comunidad preocupándose de la formulación y mantenimiento en el tiempo de las estrategias y objetivos cantonales de desarrollo sustentable, integral y equilibrado de la población y el territorio, en base a las políticas, planes, programas y proyectos de desarrollo del cantón, promoviendo permanentemente la participación social, intercultural, plurinacional e inclusiva de la ciudadanía, debiendo evaluar el cumplimiento del plan de desarrollo; además asesorar a los niv",
+      "directorio_telefonico": [
+        {
+          "cargo": "Director",
+          "extension": "1910"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1911"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1353"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 19,
+      "slug": "asesor-de-alcaldia",
+      "nombre": "Asesor de Alcaldía",
+      "responsable": "Jinson Vargas",
+      "foto": {
+        "id": "5d41e0c24c4fc613",
+        "hash": "5d41e0c24c4fc613c22dd6ed839d6d1c26ff61b753167147153a9850b9fdd487",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_11.jpg",
+        "rutaOriginal": "/media/originales/5d41e0c24c4fc613.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/5d41e0c24c4fc613-400.webp",
+          "800w": "/media/derivados/5d41e0c24c4fc613-800.webp",
+          "1600w": "/media/derivados/5d41e0c24c4fc613-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1622029,
+        "alt": "Asesor de Alcaldía — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "",
+      "directorio_telefonico": [
+        {
+          "cargo": "SECRETARIO GENERAL",
+          "extension": "1000"
+        },
+        {
+          "cargo": "ASISTENTE DE ALCALDIA 1",
+          "extension": "1001"
+        },
+        {
+          "cargo": "ASISTENTE DE ALCALDIA 2",
+          "extension": "1002"
+        },
+        {
+          "cargo": "RECEPCION",
+          "extension": "1005"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 20,
+      "slug": "direccion-de-transito-ttsv",
+      "nombre": "Dirección de Tránsito, TTSV",
+      "responsable": "Jhonny Barrionuevo",
+      "foto": {
+        "id": "8206be06cf2044a8",
+        "hash": "8206be06cf2044a812d58cae62ed0d4cde806cce69020518eb5fb4d6d39776af",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1.jpg",
+        "rutaOriginal": "/media/originales/8206be06cf2044a8.jpg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/8206be06cf2044a8-400.webp",
+          "800w": "/media/derivados/8206be06cf2044a8-800.webp",
+          "1600w": "/media/derivados/8206be06cf2044a8-1600.webp"
+        },
+        "ancho": 2480,
+        "alto": 2979,
+        "bytes": 2963332,
+        "alt": "Dirección de Tránsito, TTSV — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Planificará, organizará y regulará en términos técnicos, económicos, sociales y medio ambientales su servicio público y privado deberá tener condiciones de seguridad, regularidad, calidad y protección ambiental, de acuerdo a las disposiciones y reglamentaciones impartidas por la Dirección de Tránsito, Transporte Terrestre y Seguridad Vial, aprobadas por el Concejo Municipal, y en base a las Resoluciones y Regulaciones emanadas por la Agencia Nacional de Tránsito, Transporte Terrestre y Seguridad",
+      "directorio_telefonico": [
+        {
+          "cargo": "Dirección",
+          "extension": "4000"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    },
+    {
+      "id": 21,
+      "slug": "direccion-ordenamiento-territorial",
+      "nombre": "Dirección Ordenamiento Territorial",
+      "responsable": "William Ramos",
+      "foto": {
+        "id": "52afe5c44035e6a8",
+        "hash": "52afe5c44035e6a887143270edf37841e132e60ab871b33d8dfafeb3e795d160",
+        "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_7.jpg.jpeg",
+        "rutaOriginal": "/media/originales/52afe5c44035e6a8.jpeg",
+        "rutaDerivados": {
+          "400w": "/media/derivados/52afe5c44035e6a8-400.webp",
+          "800w": "/media/derivados/52afe5c44035e6a8-800.webp",
+          "1600w": "/media/derivados/52afe5c44035e6a8-1600.webp"
+        },
+        "ancho": 2608,
+        "alto": 3072,
+        "bytes": 1148800,
+        "alt": "Dirección Ordenamiento Territorial — responsable",
+        "altPendiente": false,
+        "seccion": "direcciones",
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+      },
+      "mision": "Dotar al Gobierno Municipal de Francisco de Orellana con capacidades instaladas dentro del campo de la Planificación y Ordenamiento Territorial a fin de poder disponer de una plataforma de planeamiento, seguimiento y control de las actuaciones que se desarrollen en el territorio urbano y rural referente a avalúos y catastros, control de construcciones, comprobación topográfica territorial, planeamiento, verificación, regulación y proyectos de desarrollo territorial.",
+      "directorio_telefonico": [
+        {
+          "cargo": "Dirección",
+          "extension": "1600"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1601"
+        },
+        {
+          "cargo": "Jefe",
+          "extension": "1610"
+        },
+        {
+          "cargo": "Asistente",
+          "extension": "1611"
+        }
+      ],
+      "fuente_url": "https://orellana.gob.ec/direcciones/"
+    }
+  ],
+  "meta": {
+    "total": 20
+  }
+}

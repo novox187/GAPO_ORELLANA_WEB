@@ -1,6 +1,12 @@
 import { api } from '$lib/api';
 import type { PageLoad } from './$types';
 
+/**
+ * Selección editorial de trámites: los seis que más consulta la
+ * ciudadanía según el sitio actual. No es un ranking calculado — cuando
+ * exista backend con analítica, este arreglo se reemplaza por la consulta
+ * real sin tocar la portada.
+ */
 const DESTACADOS = [
 	'patente-por-primera-vez-persona-natural-19',
 	'servicio-de-agua-potable-6',
@@ -19,6 +25,7 @@ export const load: PageLoad = async ({ fetch }) => {
 	return {
 		destacados,
 		totalTramites: tramites.length,
-		noticias: noticias.slice(0, 4)
+		totalNoticias: noticias.length,
+		noticias: noticias.slice(0, 5)
 	};
 };

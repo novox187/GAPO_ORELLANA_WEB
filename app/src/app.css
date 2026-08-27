@@ -74,6 +74,20 @@
 	--marca: var(--color-selva-800);
 	--enlace: var(--color-selva-800);
 	--foco: var(--color-carbon-900);
+	/*
+	  Texto de acento. El achiote de marca no llega a AA como tinta sobre
+	  claro (1.4:1), así que sobre papel se usa su derivado oscuro; sobre
+	  superficie oscura ese derivado se vuelve invisible y el papel cambia
+	  de bando: manda el amarillo claro.
+	*/
+	--acento-texto: var(--color-achiote-texto);
+	/*
+	  Números de índice del riel de trámites. Son texto grande (41 px,
+	  peso 700), así que el mínimo es 3:1, no 4.5:1 — pero 3:1 hay que
+	  cumplirlo igual. #8e8f8a sobre blanco mide 3.3:1; el gris de borde
+	  que había antes se quedaba en 1.7:1.
+	*/
+	--indice: #8e8f8a;
 }
 
 /*
@@ -96,6 +110,9 @@
 		--marca: var(--color-selva-400);
 		--enlace: var(--color-selva-400);
 		--foco: var(--color-achiote-400);
+		--acento-texto: var(--color-achiote-400);
+		/* 3.1:1 sobre la superficie elevada oscura (#202119). */
+		--indice: #6a6b62;
 	}
 }
 
@@ -109,6 +126,9 @@
 	--marca: var(--color-selva-400);
 	--enlace: var(--color-selva-400);
 	--foco: var(--color-achiote-400);
+	--acento-texto: var(--color-achiote-400);
+	/* 3.1:1 sobre la superficie elevada oscura (#202119). */
+	--indice: #6a6b62;
 }
 
 /* Alinea los controles nativos (barras de scroll, selects) con el tema. */
@@ -216,5 +236,207 @@
 			transparent 30%
 		);
 		pointer-events: none;
+	}
+}
+
+/* ══════════════════════════════════════════════════════════════════════
+   PORTADA CINEMATOGRÁFICA
+   ══════════════════════════════════════════════════════════════════════
+
+   El sistema de teselas del logotipo sigue siendo el ADN de la marca,
+   pero deja de ser lo primero que se ve. La portada abre con fotografía
+   real del cantón a pantalla completa y la retícula de color entra
+   después, como contraste. Esa alternancia — cine, gráfica, dato,
+   editorial, cine — es lo que da ritmo; una página hecha sólo de teselas
+   se lee tan plana como una hecha sólo de fotos.
+*/
+
+/*
+  Altura de la cabecera. La portada se mete debajo con margen negativo
+  para que la foto llegue al borde superior de la pantalla, así que este
+  valor tiene que existir como variable y no como número suelto.
+*/
+:root {
+	--alto-cabecera: 74px;
+}
+@media (width >= 640px) {
+	:root {
+		--alto-cabecera: 92px;
+	}
+}
+
+@theme {
+	/* Tinta sobre fotografía: siempre la misma, en cualquier tema. */
+	--color-tinta-foto: #ffffff;
+	--ease-cine: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+/*
+  Deriva lenta sobre la fotografía (efecto Ken Burns). 18 s y un 6 % de
+  escala: suficiente para que la imagen respire, poco para que se note
+  como "animación". Escalar es barato (compositor); mover top/left no.
+*/
+@keyframes deriva {
+	from {
+		transform: scale(1.005) translate3d(0, 0, 0);
+	}
+	to {
+		transform: scale(1.065) translate3d(-1.2%, -1%, 0);
+	}
+}
+
+/* Entrada de bloques al aparecer en pantalla. */
+@keyframes emerger {
+	from {
+		opacity: 0;
+		transform: translate3d(0, 22px, 0);
+	}
+	to {
+		opacity: 1;
+		transform: translate3d(0, 0, 0);
+	}
+}
+
+/* Latido del punto "en vivo" del pie del héroe. */
+@keyframes pulso {
+	0%,
+	100% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	50% {
+		opacity: 0.35;
+		transform: scale(0.82);
+	}
+}
+
+/* Indicador de scroll: la línea que baja y desaparece. */
+@keyframes descender {
+	0% {
+		transform: scaleY(0);
+		transform-origin: top;
+	}
+	45% {
+		transform: scaleY(1);
+		transform-origin: top;
+	}
+	46% {
+		transform: scaleY(1);
+		transform-origin: bottom;
+	}
+	100% {
+		transform: scaleY(0);
+		transform-origin: bottom;
+	}
+}
+
+/*
+  Bloque que aparece al entrar en el viewport. Sin JS el contenido se ve
+  igual (opacity 1 por defecto): la acción `revelar` es la que añade
+  data-oculto antes de observar, así que si el script no corre nunca se
+  oculta nada.
+*/
+@utility revelable {
+	&[data-oculto='si'] {
+		opacity: 0;
+	}
+
+	&[data-visible='si'] {
+		animation: emerger 0.65s var(--ease-cine) both;
+		animation-delay: var(--retraso, 0ms);
+	}
+}
+
+/*
+  Titular a tamaño de cartel. Archivo llega a 125 % de ancho y aquí sí se
+  aprovecha: a 100 px de cuerpo el apretado tipográfico se lee bien,
+  cosa que no ocurre en los titulares de sección.
+*/
+@utility titular-cartel {
+	font-stretch: 125%;
+	font-weight: 700;
+	letter-spacing: -0.03em;
+	line-height: 0.9;
+	text-wrap: balance;
+}
+
+/*
+  Velo sobre la fotografía del héroe. Dos capas: una diagonal que carga
+  la esquina inferior izquierda (donde va el texto) y una vertical que
+  asienta la barra de datos del pie. Medido sobre el fotograma más claro
+  (laguna de Añangu): el texto blanco queda por encima de 4.5:1 en toda
+  la caja de contenido.
+*/
+@utility velo-hero {
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	background:
+		linear-gradient(
+			to top,
+			rgb(6 12 8 / 0.92) 0%,
+			rgb(6 12 8 / 0.72) 26%,
+			rgb(6 12 8 / 0.3) 58%,
+			rgb(6 12 8 / 0.12) 100%
+		),
+		linear-gradient(
+			103deg,
+			rgb(6 12 8 / 0.82) 0%,
+			rgb(6 12 8 / 0.55) 38%,
+			rgb(6 12 8 / 0.2) 66%,
+			transparent 88%
+		);
+
+	/*
+	   En apaisado el velo diagonal basta: la zona oscura cae justo bajo el
+	   titular. En una pantalla estrecha esa diagonal deja el titular sobre
+	   el cielo, así que por debajo de 768 px manda un degradado vertical
+	   más firme. Va después de la declaración base, no antes: si no, la
+	   base lo pisaría por orden de cascada.
+	*/
+	@media (width < 48rem) {
+		background: linear-gradient(
+			to top,
+			rgb(6 12 8 / 0.94) 0%,
+			rgb(6 12 8 / 0.86) 38%,
+			rgb(6 12 8 / 0.64) 68%,
+			rgb(6 12 8 / 0.34) 100%
+		);
+	}
+}
+
+/*
+  El filete de la marca, girado a vertical. Es la banda del logotipo
+  reducida a un canto de color que acompaña al titular.
+*/
+@utility filete-vertical {
+	display: block;
+	width: 5px;
+	background: linear-gradient(
+		to bottom,
+		var(--color-selva-400) 0%,
+		var(--color-selva-400) 18%,
+		var(--color-achiote-400) 18%,
+		var(--color-achiote-400) 34%,
+		var(--color-selva-600) 34%,
+		var(--color-selva-600) 56%,
+		var(--color-carbon-600) 56%,
+		var(--color-carbon-600) 66%,
+		var(--color-achiote-500) 66%,
+		var(--color-achiote-500) 80%,
+		var(--color-selva-800) 80%,
+		var(--color-selva-800) 100%
+	);
+}
+
+/* Cifras y contadores: evita el temblor de ancho al animar dígitos. */
+@utility cifra-tabular {
+	font-variant-numeric: tabular-nums;
+	font-feature-settings: 'tnum' 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.revelable[data-oculto='si'] {
+		opacity: 1;
 	}
 }

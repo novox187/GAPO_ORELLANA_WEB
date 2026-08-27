@@ -29,6 +29,32 @@ de dos symlinks en `app/static/`, con el mismo envelope `{ data, meta, links }`
 que producirá la futura API en Laravel: migrar será apuntar el cliente
 (`app/src/lib/api.ts`) a otra URL base.
 
+### Imágenes de la portada
+
+`app/static/img/portada/` guarda los tres fotogramas del héroe, ya
+recortados y convertidos a WebP en dos anchos (960 px para móvil, 1920 px
+para escritorio). Sí se versionan — pesan 575 KB en total y salen de
+`media/originales/`, que no está en el repositorio. Para rehacerlos tras
+un `--only=all`:
+
+```bash
+O=media/originales; D=app/static/img/portada
+# Puente sobre el Napo al anochecer (ya viene limpio, sin rótulo encima)
+magick app/static/img/napo-amanecer.jpg -resize 1920x -quality 82 $D/puente-napo.webp
+magick app/static/img/napo-amanecer.jpg -resize 960x  -quality 78 $D/puente-napo-960.webp
+# Laguna de Añangu — el recorte quita el rótulo "LAGUNA DE AÑANGU" de la campaña
+magick $O/d691ce970c4028b2.jpg -crop 781x391+0+110 +repage -filter Lanczos -resize 1920x -quality 82 $D/laguna-anangu.webp
+magick $O/d691ce970c4028b2.jpg -crop 781x391+0+110 +repage -resize 960x -quality 78 $D/laguna-anangu-960.webp
+# Mirador de Añangu — el recorte quita el pin del pie
+magick $O/cd82af8e6d7e3b30.jpg -crop 781x368+0+0 +repage -filter Lanczos -resize 1920x -quality 82 $D/mirador-anangu.webp
+magick $O/cd82af8e6d7e3b30.jpg -crop 781x368+0+0 +repage -resize 960x -quality 78 $D/mirador-anangu-960.webp
+```
+
+Son fotografías del propio archivo del municipio (la campaña "Quédate en
+El Coca" y el reportaje de lugares turísticos), no de banco de imágenes.
+El recorte sólo elimina los rótulos que la campaña llevaba incrustados;
+no se retoca la fotografía.
+
 > Al crear rutas o componentes nuevos hay que **reiniciar `npm run dev`**:
 > Tailwind v4 no re-escanea archivos que no existían cuando arrancó el
 > servidor, y sus clases no llegan a generarse. La compilación de
@@ -38,7 +64,7 @@ que producirá la futura API en Laravel: migrar será apuntar el cliente
 
 | Ruta | Contenido |
 |---|---|
-| `/` | Portada en mosaico |
+| `/` | Portada: apertura fotográfica a pantalla completa + accesos por intención |
 | `/tramites`, `/tramites/[slug]` | 60 trámites de 11 direcciones |
 | `/noticias`, `/noticias/[slug]` | 280 noticias en feed, con filtro por año |
 | `/transparencia`, `/transparencia/[slug]` | LOTAIP, ordenanzas, rendición de cuentas |

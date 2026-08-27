@@ -9,9 +9,11 @@
 # cual. `media/originales/` y `media/derivados/` (2 GB) NO están en git por
 # peso — ver .gitignore y README. Si no existen en el contexto, el build
 # no falla: Vite simplemente no copia lo que no encuentra, y la imagen
-# queda sin fotografías. Eso se resuelve en producción con un volumen
-# persistente montado en /app/build/client/media (ver docs/arquitectura.md
-# y el aviso que imprime este mismo Dockerfile en el stage de runtime).
+# queda sin esas carpetas locales — pero eso ya no importa para las fotos:
+# el catálogo entero vive en Cloudinary (tools/cloudinary/, ver
+# docs/arquitectura.md) y los JSON de data/api/v1 apuntan ahí con URLs
+# absolutas. `media/originales`/`derivados` sólo son la caché local del
+# extractor.
 
 FROM node:22-alpine AS build
 WORKDIR /repo
@@ -32,6 +34,15 @@ FROM node:22-alpine AS runtime
 WORKDIR /app
 ENV NODE_ENV=production
 
+# `curl`: alpine no lo trae de fábrica. Coolify healthchequea el
+# contenedor ejecutando curl/wget *dentro* de él (no desde fuera), y el
+# wget de busybox que sí viene incluido no le sirve — el primer despliegue
+# con el healthcheck activado falló por esto exacto ("curl: not found",
+# WARNING de Coolify) y forzó un rollback automático a la versión
+# anterior. Sin esta línea, activar el healthcheck en Coolify rompe el
+# despliegue en vez de vigilarlo.
+RUN apk add --no-cache curl
+
 # Solo dependencias de producción en la imagen final: svelte-check,
 # TypeScript y el resto de devDependencies no viajan al contenedor.
 COPY app/package.json app/package-lock.json ./
@@ -39,23 +50,9 @@ RUN npm ci --omit=dev && npm cache clean --force
 
 COPY --from=build /repo/app/build ./build
 
-# Aviso visible en los logs de arranque si el volumen de medios no está
-# montado: preferible a un 404 silencioso en cada foto de la portada.
-COPY <<'SH' /app/comprobar-medios.sh
-#!/bin/sh
-if [ ! -d /app/build/client/media/originales ]; then
-	echo "AVISO: /app/build/client/media/originales no existe."
-	echo "       Monta el volumen persistente de medios en esa ruta"
-	echo "       (ver docs/arquitectura.md) o las fotografías del sitio"
-	echo "       se verán rotas."
-fi
-exec node build/index.js
-SH
-RUN chmod +x /app/comprobar-medios.sh
-
 # adapter-node lee PORT y ORIGIN de variables de entorno; Coolify las
 # inyecta según la configuración de la aplicación.
 ENV PORT=3000
 EXPOSE 3000
 
-CMD ["/app/comprobar-medios.sh"]
+CMD ["node", "build/index.js"]

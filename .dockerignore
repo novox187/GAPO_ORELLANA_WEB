@@ -1,0 +1,13 @@
+node_modules
+app/node_modules
+app/.svelte-kit
+app/build
+tools/scraper/node_modules
+data/raw
+media/originales
+media/derivados
+.git
+*.log
+.DS_Store
+.env
+.env.*

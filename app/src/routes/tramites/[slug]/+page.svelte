@@ -17,7 +17,7 @@
 	}
 
 	/**
-	 * La fuente municipal intercala encabezados de etapa ("PASO No. 1: ...")
+	 * Algunos trámites intercalan encabezados de etapa ("PASO No. 1: ...")
 	 * dentro de la misma lista de requisitos. Se agrupan aquí para que solo
 	 * los documentos reales sean marcables: si todo fuera casilla, el
 	 * contador mentiría sobre cuánto le falta al ciudadano.
@@ -59,9 +59,13 @@
 	);
 
 	/**
-	 * Texto corto del costo para la franja de datos. `tiene_costo: null`
-	 * significa que la fuente no lo dice — no es lo mismo que gratis, y
-	 * afirmarlo sería inventar información municipal.
+	 * Texto corto del costo para la franja de datos.
+	 *
+	 * `tiene_costo: null` significa que no hay un valor confirmado. No es lo
+	 * mismo que gratis, y escribir "sin costo" ahí sería afirmar algo que
+	 * nadie ha verificado: en un trámite municipal eso es un problema real
+	 * para quien llega a ventanilla con el dinero justo. Por eso el vacío se
+	 * resuelve derivando a quien sí lo sabe, no rellenándolo.
 	 */
 	const costoBreve = $derived(
 		t.costo.tiene_costo === false
@@ -70,7 +74,7 @@
 				? `$${t.costo.valor_referencial}`
 				: t.costo.detalle
 					? t.costo.detalle
-					: 'No especificado'
+					: 'Consultar'
 	);
 </script>
 
@@ -139,30 +143,6 @@
 
 	<div class="contenedor grid gap-10 py-8 md:py-12 lg:grid-cols-[1fr_18rem] lg:gap-14">
 		<div class="min-w-0">
-			{#if t.requiere_revision_editorial}
-				<div
-					class="mb-8 flex gap-3 border-l-4 border-[var(--aviso-borde)] bg-[var(--aviso-fondo)] p-4"
-					role="note"
-				>
-					<svg
-						width="19"
-						height="19"
-						viewBox="0 0 24 24"
-						fill="none"
-						aria-hidden="true"
-						class="mt-0.5 shrink-0 text-[var(--aviso-tinta)]"
-					>
-						<path d="M12 8v5m0 3.5v.5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" />
-						<circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" />
-					</svg>
-					<p class="text-[0.88rem] leading-relaxed text-[var(--aviso-tinta)]">
-						<strong class="font-bold">Procedimiento pendiente de validación.</strong>
-						La fuente municipal no detalla un paso a paso completo. Confírmalo con
-						{t.direccion.nombre} antes de tratarlo como definitivo.
-					</p>
-				</div>
-			{/if}
-
 			<!-- ══ Requisitos: lo accionable va primero ══════════════════ -->
 			<section class="mb-10" aria-labelledby="titulo-requisitos">
 				<h2 id="titulo-requisitos" class="display text-[1.35rem] md:text-[1.5rem]">
@@ -261,8 +241,7 @@
 					</div>
 				{:else}
 					<p class="mt-3 max-w-2xl leading-relaxed text-[var(--texto-suave)]">
-						Este trámite no lista requisitos formales en la fuente municipal. Consúltalo
-						directamente con {t.direccion.nombre}.
+						Consulta los requisitos de este trámite directamente con {t.direccion.nombre}.
 					</p>
 				{/if}
 			</section>
@@ -382,8 +361,7 @@
 										/>
 									</svg>
 								</summary>
-								<!-- HTML preservado del sitio municipal de origen -->
-								<div
+												<div
 									class="prose-municipal border-t border-[var(--borde)] p-3.5 leading-relaxed text-[var(--texto-suave)]"
 								>
 									{@html c.html}
@@ -407,7 +385,7 @@
 						<dd class="mt-0.5 font-bold">
 							{t.costo.tiene_costo === false
 								? 'Sin costo'
-								: t.costo.detalle || 'No especificado en la fuente'}
+								: t.costo.detalle || `Consultar con ${t.direccion.nombre}`}
 						</dd>
 					</div>
 					{#if t.base_legal.length}
@@ -416,18 +394,6 @@
 							<dd class="mt-0.5 font-bold">{t.base_legal.join(', ')}</dd>
 						</div>
 					{/if}
-					<div>
-						<dt class="text-[var(--texto-suave)]">Fuente</dt>
-						<dd class="mt-0.5">
-							<a
-								href={t.fuente_url}
-								target="_blank"
-								rel="noopener"
-								class="font-bold text-[var(--enlace)] underline underline-offset-2"
-								>Ver en el sitio actual</a
-							>
-						</dd>
-					</div>
 				</dl>
 
 				<a
@@ -448,10 +414,10 @@
 		que ya no existe en el sistema, así que salía texto blanco sobre
 		fondo transparente.
 	-->
-	<div class="accion fixed inset-x-0 bottom-0 z-20 flex gap-2 border-t border-[var(--borde)] bg-[var(--superficie)] px-5 pt-2.5 lg:hidden">
+	<div class="accion fixed inset-x-0 bottom-0 z-20 border-t border-[var(--borde)] bg-[var(--superficie)] px-5 pt-2.5 lg:hidden">
 		<a
 			href="/contacto"
-			class="flex min-h-12 flex-1 items-center justify-center gap-2 bg-[var(--color-achiote-500)] px-4 text-[0.9rem] font-bold text-[var(--color-carbon-900)] no-underline"
+			class="flex min-h-12 w-full items-center justify-center gap-2 bg-[var(--color-achiote-500)] px-4 text-[0.9rem] font-bold text-[var(--color-carbon-900)] no-underline"
 		>
 			<svg width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true">
 				<path
@@ -461,16 +427,7 @@
 					stroke-linejoin="round"
 				/>
 			</svg>
-			¿Necesitas ayuda?
-		</a>
-		<a
-			href={t.fuente_url}
-			target="_blank"
-			rel="noopener"
-			class="flex min-h-12 shrink-0 items-center justify-center border-2 border-[var(--borde)] px-4 text-[0.85rem] font-bold no-underline"
-		>
-			<span class="sr-only">Ver este trámite en el sitio municipal actual</span>
-			<span aria-hidden="true">Fuente</span>
+			¿Necesitas ayuda con este trámite?
 		</a>
 	</div>
 </article>
@@ -540,11 +497,11 @@
 		}
 	}
 
-	/* ── HTML heredado del sitio municipal ───────────────────────────── */
+	/* ── Contenido enriquecido de la ficha ───────────────────────────── */
 	.prose-municipal :global(p) {
 		margin-bottom: 0.85rem;
-		/* La fuente trae `text-align: justify`, que en un móvil de 375 px
-		   abre ríos de espacio entre palabras. */
+		/* Parte de este contenido llega justificado, y en un móvil de 375 px
+		   eso abre ríos de espacio entre palabras. */
 		text-align: left !important;
 	}
 	.prose-municipal :global(ul) {

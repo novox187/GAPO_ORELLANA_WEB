@@ -16,16 +16,38 @@ export interface EntradaSeccion {
 	picto: NombrePictograma;
 	fondo: string;
 	tinta: string;
+	/**
+	 * Cómo se agrupa en el índice de la sección. "El cantón" mezcla dos
+	 * cosas que el visitante busca en momentos distintos: saber cómo se
+	 * gobierna el cantón y saber qué visitar en él. Nueve teselas iguales
+	 * en fila obligan a leerlas todas para descubrir cuál es cuál.
+	 */
+	grupo?: 'territorio' | 'visitar';
+	/** Fotografía de portada, para las entradas que tienen una que valga. */
+	imagen?: string;
 }
 
-const VERDE_OSCURO = { fondo: 'bg-[var(--color-selva-800)]', tinta: 'text-white' };
-const VERDE = { fondo: 'bg-[var(--color-selva-600)]', tinta: 'text-white' };
-const VERDE_CLARO = { fondo: 'bg-[var(--color-selva-400)]', tinta: 'text-white' };
-const CARBON = { fondo: 'bg-[var(--color-carbon-600)]', tinta: 'text-white' };
+/*
+  Pares fondo/tinta verificados contra WCAG AA. No se eligen por gusto: el
+  texto blanco sobre los verdes claros de marca no llega al mínimo de
+  4.5:1 —selva-400 se queda en 2.5:1 y selva-600 en 3.1:1—, así que esas
+  dos superficies llevan tinta carbón, igual que la amarilla.
+  Ver docs/accesibilidad.md.
+*/
+const VERDE_OSCURO = { fondo: 'bg-[var(--color-selva-800)]', tinta: 'text-white' }; // 4.8:1
+const CARBON = { fondo: 'bg-[var(--color-carbon-600)]', tinta: 'text-white' }; // 8.9:1
+const VERDE = {
+	fondo: 'bg-[var(--color-selva-600)]',
+	tinta: 'text-[var(--color-carbon-900)]'
+}; // 6.6:1
+const VERDE_CLARO = {
+	fondo: 'bg-[var(--color-selva-400)]',
+	tinta: 'text-[var(--color-carbon-900)]'
+}; // 7.7:1
 const AMARILLO = {
 	fondo: 'bg-[var(--color-achiote-500)]',
 	tinta: 'text-[var(--color-carbon-900)]'
-};
+}; // 15.6:1
 
 export const CANTON: EntradaSeccion[] = [
 	{
@@ -34,6 +56,7 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Territorio, población, clima y parroquias.',
 		origen: 'institucional',
 		picto: 'canton',
+		grupo: 'territorio',
 		...VERDE_OSCURO
 	},
 	{
@@ -42,6 +65,8 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Origen del cantón, escudo, bandera e himno.',
 		origen: 'institucional',
 		picto: 'cultura',
+		grupo: 'territorio',
+		imagen: '/media/originales/311c1d181da9b52e.jpg',
 		...CARBON
 	},
 	{
@@ -50,6 +75,8 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'La máxima autoridad del gobierno municipal.',
 		origen: 'institucional',
 		picto: 'institucionesadscritas',
+		grupo: 'territorio',
+		imagen: '/media/originales/a5db66281ab7c839.jpg',
 		...VERDE
 	},
 	{
@@ -58,6 +85,7 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Concejales y órgano legislativo del cantón.',
 		origen: 'institucional',
 		picto: 'concejomunicipal',
+		grupo: 'territorio',
 		...VERDE_CLARO
 	},
 	{
@@ -66,6 +94,7 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Yasuní TV, Bomberos, MACCO, Terminal y Bocana.',
 		origen: 'institucional',
 		picto: 'direcciones',
+		grupo: 'territorio',
 		...AMARILLO
 	},
 	{
@@ -74,6 +103,8 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Supay Kucha, Amaru Yaya, Yasuní Land y los tres ríos.',
 		origen: 'turismo',
 		picto: 'turismo',
+		grupo: 'visitar',
+		imagen: '/media/originales/cd82af8e6d7e3b30.jpg',
 		...VERDE_OSCURO
 	},
 	{
@@ -82,6 +113,8 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Recorridos por el cantón y sus comunidades.',
 		origen: 'turismo',
 		picto: 'gacetamunicipal',
+		grupo: 'visitar',
+		imagen: '/media/originales/bffa89f3c901cd47.jpg',
 		...VERDE
 	},
 	{
@@ -90,6 +123,8 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Fotografías históricas de la ciudad.',
 		origen: 'turismo',
 		picto: 'cultura',
+		grupo: 'visitar',
+		imagen: '/media/originales/fcd766e94b2e88e9.png',
 		...CARBON
 	},
 	{
@@ -98,6 +133,8 @@ export const CANTON: EntradaSeccion[] = [
 		descripcion: 'Fauna amazónica en más de 50 hectáreas.',
 		origen: 'turismo',
 		picto: 'emprendedores',
+		grupo: 'visitar',
+		imagen: '/media/originales/46e80cc6a07f6d5f.png',
 		...VERDE_CLARO
 	}
 ];

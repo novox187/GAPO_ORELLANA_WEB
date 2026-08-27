@@ -68,7 +68,7 @@ no se retoca la fotografía.
 | `/tramites`, `/tramites/[slug]` | 60 trámites de 11 direcciones |
 | `/noticias`, `/noticias/[slug]` | 280 noticias en feed, con filtro por año |
 | `/transparencia`, `/transparencia/[slug]` | LOTAIP, ordenanzas, rendición de cuentas |
-| `/canton`, `/canton/[slug]` | Historia, símbolos, alcaldía, turismo |
+| `/canton`, `/canton/*` | El cantón: datos, historia, alcaldía, concejo, empresas adscritas, lugares, rutas, El Coca antiguo y Coca Zoo |
 | `/contacto` | Directorio de 20 direcciones y 104 extensiones |
 | `/buscar` | Búsqueda léxica sobre 358 documentos |
 

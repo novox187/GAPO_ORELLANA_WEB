@@ -1,13 +1,11 @@
 <script lang="ts">
 	import Migas from '$lib/components/Migas.svelte';
 	import Pictograma from '$lib/components/Pictograma.svelte';
+	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { img } from '$lib/api';
-	import { CANTON } from '$lib/secciones';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
-
-	const otras = $derived(CANTON.filter((e) => e.slug !== 'alcaldia').slice(0, 4));
 </script>
 
 <svelte:head>
@@ -114,7 +112,7 @@
 							{String(i + 1).padStart(2, '0')}
 						</span>
 						{#if p.nombre}
-							<h3 class="display mt-1 text-[1.15rem] text-[var(--color-selva-800)]">
+							<h3 class="display mt-1 text-[1.15rem] text-[var(--marca-titulo)]">
 								{p.nombre}
 							</h3>
 						{/if}
@@ -147,32 +145,4 @@
 	</section>
 {/if}
 
-<!-- ── Seguir explorando ── -->
-<section class="contenedor pb-20 md:pb-28">
-	<h2 class="display mb-6 text-[1.4rem]">Sigue conociendo el cantón</h2>
-	<ul class="grid gap-1.5 sm:grid-cols-2 lg:grid-cols-4">
-		{#each otras as e (e.slug)}
-			<li>
-				<a
-					href="/canton/{e.slug}"
-					class="tesela-diagonal group flex h-full flex-col justify-between gap-8 p-6 no-underline transition-[filter] duration-200 hover:brightness-110 {e.fondo} {e.tinta}"
-				>
-					<Pictograma nombre={e.picto} clase="h-10 w-auto opacity-95" />
-					<h3 class="display text-[1.05rem]">{e.titulo}</h3>
-				</a>
-			</li>
-		{/each}
-	</ul>
-
-	<p class="mt-10 text-sm text-[var(--texto-suave)]">
-		Información publicada por el municipio en
-		<a
-			href={data.fuente_url}
-			target="_blank"
-			rel="noopener"
-			class="font-semibold text-[var(--enlace)] underline underline-offset-2"
-		>
-			orellana.gob.ec
-		</a>
-	</p>
-</section>
+<HermanasCanton actual="alcaldia" />

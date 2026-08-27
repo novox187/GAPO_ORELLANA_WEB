@@ -69,17 +69,6 @@
 			</ul>
 		{/if}
 
-		<p class="mt-10 border-t border-[var(--borde)] pt-6 text-sm text-[var(--texto-suave)]">
-			Publicado originalmente en
-			<a
-				href={n.fuente_url}
-				target="_blank"
-				rel="noopener"
-				class="font-semibold text-[var(--enlace)] underline underline-offset-2"
-			>
-				orellana.gob.ec
-			</a>
-		</p>
 	</div>
 
 	<!-- Navegación entre noticias contiguas -->

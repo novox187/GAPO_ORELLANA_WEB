@@ -35,11 +35,15 @@ quedaría más bonita:
 | `--color-carbon-600` `#434342` | blanco | 8.9:1 ✅ |
 | `--color-achiote-500` `#F6D907` | `--color-carbon-900` | 15.6:1 ✅ |
 | `--color-selva-600` `#1EA758` | `--color-carbon-900` | 6.6:1 ✅ |
+| `--color-selva-400` `#53B25F` | `--color-carbon-900` | 7.7:1 ✅ |
 | `--color-selva-600` `#1EA758` | blanco | 3.1:1 ❌ — no se usa |
+| `--color-selva-400` `#53B25F` | blanco | 2.5:1 ❌ — no se usa |
 
-`selva-600` con texto blanco es el error que más se repite cuando se toma
-un verde de marca como fondo: se queda a mitad de camino del mínimo. En la
-portada esa tesela va con tinta carbón, igual que la amarilla.
+Los verdes claros con texto blanco son el error que más se repite cuando se
+toma un verde de marca como fondo: se quedan a mitad de camino del mínimo.
+Los pares válidos viven en un solo sitio, `src/lib/secciones.ts`, con el
+ratio anotado en cada constante — así una entrada nueva hereda un par ya
+verificado en vez de inventarse uno.
 
 ### Tokens que cambian de bando según el tema
 
@@ -49,7 +53,8 @@ tokens semánticos y no colores literales:
 | Token | Claro | Oscuro | Para qué |
 |---|---|---|---|
 | `--acento-texto` | `#5C4F00` (7.8:1) | `--color-achiote-400` (13.4:1) | Antetítulos en amarillo de marca. El derivado oscuro es ilegible sobre fondo oscuro, y el amarillo claro lo es sobre papel. |
-| `--indice` | `#8E8F8A` (3.3:1) | `#6A6B62` (3.1:1) | Números de índice del riel de trámites. Son texto grande (41 px, peso 700), así que el mínimo aplicable es 3:1, no 4.5:1 — pero hay que cumplirlo. |
+| `--indice` | `#8E8F8A` (3.3:1) | `#6A6B62` (3.1:1) | Números de índice del riel de trámites. Son texto grande (41 px, peso 700), así que el mínimo aplicable es 3:1, no 4.5:1 — pero hay que cumplirlo. **Sólo vale a ese tamaño**: reutilizarlo en un número pequeño lo deja en 3.25:1 sobre texto normal, que sí falla. |
+| `--marca-titulo` | `#074D22` (9.1:1) | `--color-selva-400` | Titulares en verde de marca sobre superficie clara. `--marca` (selva-800) se queda en 4.3:1 sobre `--superficie-alt`, justo por debajo del mínimo. |
 
 ### Tokens muertos en el módulo de trámites
 
@@ -65,7 +70,13 @@ sistema de diseño anterior al del logotipo:
 
 Un `var()` que apunta a nada no falla ruidosamente: cae al valor inicial de
 la propiedad y la interfaz sigue "funcionando" con un botón que no se ve.
-Ahora esos usos van contra `--marca`, `--aviso-*` y el achiote de marca.
+`--acento` y `--color-noche-900` se corrigieron contra `--marca` y el
+achiote de marca. El tercer caso — el aviso "pendiente de validación" —
+se retiró de la interfaz por completo poco después (ver más abajo), así
+que sus tokens de reemplazo (`--aviso-fondo/-tinta/-borde`) se crearon y
+se eliminaron en la misma sesión; no llegaron a quedar huérfanos porque se
+borraron junto con su único consumidor.
+
 Conviene repetir la comprobación al tocar cualquier módulo antiguo:
 
 ```bash
@@ -80,6 +91,54 @@ Hoy devuelve `--color-cat` y `--tinte`, y las dos son correctas: no son
 tokens globales sino variables que el componente declara en línea
 (`style="--tinte: …"`) para pasarle un color a su propio CSS. Lo que hay
 que mirar es que no aparezca nada más.
+
+### El aviso "pendiente de validación" se retiró de la interfaz
+
+La ficha de trámite y el listado llevaban un distintivo visible cada vez
+que `requiere_revision_editorial` venía en `true` en el JSON: una caja
+ambar con "Procedimiento pendiente de validación" citando a "la fuente
+municipal", y un badge "Por validar" en la tarjeta del listado. Se quitó
+de la interfaz pública — no tiene sentido exponerle a un ciudadano una
+nota de trabajo interno sobre de dónde salió el dato ni sobre el estado
+de una migración de contenido de la que no es parte.
+
+Esto **no** cambia el principio de `docs/../README.md` de no fabricar
+contenido municipal: donde el requisito o el costo no vienen especificados,
+la interfaz sigue sin inventarlos. Lo que cambió es *cómo* se comunica el
+vacío:
+
+| Antes | Ahora |
+|---|---|
+| Caja ambar: "La fuente municipal no detalla un paso a paso completo…" | (sin caja; los requisitos que sí existen se muestran igual) |
+| "Este trámite no lista requisitos formales en la fuente municipal" | "Consulta los requisitos de este trámite directamente con {dirección}" |
+| Costo: "No especificado en la fuente" | Costo: "Consultar" / "Consultar con {dirección}" |
+| Badge ambar "Por validar" en cada tarjeta del listado | (sin badge) |
+
+El campo `requiere_revision_editorial` sigue en el JSON — sigue siendo la
+señal para que Comunicación Social sepa qué fichas revisar antes de darlas
+por definitivas — pero es una bandera editorial interna, no algo que la
+interfaz pública tenga que anunciar.
+
+Por el mismo motivo se quitaron todos los enlaces "Ver en el sitio actual"
+/ "Publicado originalmente en orellana.gob.ec" que aparecían en fichas de
+trámite, noticias, la página de Alcaldía y las páginas de `PaginaSeccion`
+(turismo, transparencia, institucional): apuntaban de vuelta al sitio que
+este rediseño reemplaza, algo que no aporta nada a quien ya está en el
+sitio nuevo y que en la práctica competía por atención con la información
+real de la ficha.
+
+### Migas de pan dentro de una cabecera de color
+
+`Migas.svelte` fija su color con `text-[var(--texto-suave)]` sobre el
+propio `<nav>`. Ese gris está calculado contra el papel del sitio, así que
+al meter el componente dentro de una cabecera de marca —las teselas verdes
+o la amarilla de "El cantón"— caía a ratios de 1.4:1.
+
+`CabeceraCanton` lo corrige poniendo `color: inherit` **en el `<nav>`**, no
+en los enlaces: heredarlo desde el `<a>` devuelve otra vez el gris, porque
+lo hereda del `<nav>` que lo declara. Y sin opacidad, que rebajaría el par
+fondo/tinta ya verificado: la diferencia entre enlace y página actual la
+marca el subrayado y el peso, no el color.
 
 ### Tinta del panel del menú móvil
 

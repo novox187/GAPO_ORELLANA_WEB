@@ -63,8 +63,7 @@
 				<p
 					class="border-l-4 border-[var(--color-achiote-500)] bg-[var(--superficie-alt)] p-5 leading-relaxed"
 				>
-					Esta sección no tiene contenido en texto en la fuente municipal. Consulta los documentos
-					del panel lateral o la publicación original.
+					El contenido de esta sección está en los documentos que acompañan a la página.
 				</p>
 			{/if}
 
@@ -125,14 +124,6 @@
 				</ul>
 			{/if}
 
-			<a
-				href={pagina.fuente_url}
-				target="_blank"
-				rel="noopener"
-				class="mt-8 inline-block text-sm font-semibold text-[var(--enlace)] underline underline-offset-2"
-			>
-				Ver en el sitio actual
-			</a>
 		</aside>
 	</div>
 </div>

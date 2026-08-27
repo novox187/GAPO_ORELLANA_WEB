@@ -89,14 +89,12 @@
 	*/
 	--indice: #8e8f8a;
 	/*
-	  Estado de aviso ("pendiente de validación"). El achiote de marca no
-	  sirve como tinta sobre claro, así que sobre papel el fondo es el
-	  amarillo pálido y la tinta su derivado oscuro (7.4:1); sobre oscuro
-	  se invierten los papeles (10.8:1).
+	  Verde de marca para titulares sobre superficie clara. `--marca`
+	  (selva-800) se queda en 4.3:1 sobre `--superficie-alt`, justo por
+	  debajo del mínimo; selva-900 sube a 9.1:1. En oscuro el que funciona
+	  es el claro, igual que con `--marca`.
 	*/
-	--aviso-fondo: var(--color-achiote-100);
-	--aviso-tinta: var(--color-achiote-texto);
-	--aviso-borde: var(--color-achiote-600);
+	--marca-titulo: var(--color-selva-900);
 }
 
 /*
@@ -122,9 +120,7 @@
 		--acento-texto: var(--color-achiote-400);
 		/* 3.1:1 sobre la superficie elevada oscura (#202119). */
 		--indice: #6a6b62;
-		--aviso-fondo: #2e2a08;
-		--aviso-tinta: var(--color-achiote-400);
-		--aviso-borde: var(--color-achiote-600);
+		--marca-titulo: var(--color-selva-400);
 	}
 }
 
@@ -141,9 +137,7 @@
 	--acento-texto: var(--color-achiote-400);
 	/* 3.1:1 sobre la superficie elevada oscura (#202119). */
 	--indice: #6a6b62;
-	--aviso-fondo: #2e2a08;
-	--aviso-tinta: var(--color-achiote-400);
-	--aviso-borde: var(--color-achiote-600);
+	--marca-titulo: var(--color-selva-400);
 }
 
 /* Alinea los controles nativos (barras de scroll, selects) con el tema. */

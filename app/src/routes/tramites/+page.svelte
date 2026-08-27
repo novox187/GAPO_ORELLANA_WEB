@@ -312,24 +312,11 @@
 							>
 								<span class="canto" aria-hidden="true"></span>
 
-								<span class="flex flex-wrap items-center gap-x-2.5 gap-y-1">
-									{#if cat}
-										<span class="text-[0.68rem] font-bold tracking-[0.1em] text-[var(--texto-suave)] uppercase">
-											{ETIQUETA_CATEGORIA[cat] ?? cat}
-										</span>
-									{/if}
-									{#if t.requiere_revision_editorial}
-										<span
-											class="inline-flex items-center gap-1 border border-[var(--aviso-borde)] bg-[var(--aviso-fondo)] px-1.5 py-0.5 text-[0.66rem] font-bold text-[var(--aviso-tinta)]"
-										>
-											<svg width="10" height="10" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-												<path d="M12 8v5m0 3.5v.5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" />
-												<circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2.2" />
-											</svg>
-											Por validar
-										</span>
-									{/if}
-								</span>
+								{#if cat}
+									<span class="text-[0.68rem] font-bold tracking-[0.1em] text-[var(--texto-suave)] uppercase">
+										{ETIQUETA_CATEGORIA[cat] ?? cat}
+									</span>
+								{/if}
 
 								<span class="max-w-3xl text-[1.02rem] leading-snug font-bold text-[var(--texto)]">
 									{t.nombre}

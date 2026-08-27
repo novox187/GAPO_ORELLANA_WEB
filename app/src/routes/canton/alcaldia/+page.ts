@@ -63,7 +63,6 @@ export const load: PageLoad = async ({ fetch }) => {
 		mision: textoTrasTitulo(b, /misión/i).replace(/\s+/g, ' ').trim(),
 		vision: textoTrasTitulo(b, /visión/i).replace(/\s+/g, ' ').trim(),
 		retrato: retrato ?? null,
-		apoyo: apoyo.slice(0, 3),
-		fuente_url: pagina.fuente_url
+		apoyo: apoyo.slice(0, 3)
 	};
 };

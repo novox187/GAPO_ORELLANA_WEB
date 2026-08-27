@@ -2,17 +2,66 @@
 	import { page } from '$app/state';
 	import Marca from './Marca.svelte';
 	import CambioTema from './CambioTema.svelte';
+	import MenuMovil from './MenuMovil.svelte';
+	import type { NombrePictograma } from './Pictograma.svelte';
 
-	const enlaces = [
-		{ href: '/tramites', texto: 'Trámites' },
-		{ href: '/noticias', texto: 'Noticias' },
-		{ href: '/transparencia', texto: 'Transparencia' },
-		{ href: '/canton', texto: 'El cantón' },
-		{ href: '/contacto', texto: 'Contacto' }
+	/**
+	 * Los enlaces llevan descripción, pictograma y tinte porque el menú
+	 * móvil los muestra como teselas, no como texto suelto. Los tintes son
+	 * colores de la banda del logotipo, pero `achiote-400` no aparece en la
+	 * lista: está reservado para marcar la sección en la que estás, y un
+	 * canto amarillo en un enlace cualquiera se confundiría con él. La barra de
+	 * escritorio sólo usa `href` y `texto`; el resto de campos no le
+	 * estorban y evitan tener dos listas de navegación que mantener en
+	 * paralelo — la fuente de verdad de qué secciones existe es una sola.
+	 */
+	const enlaces: {
+		href: string;
+		texto: string;
+		descripcion: string;
+		picto: NombrePictograma;
+		tinte: string;
+	}[] = [
+		{
+			href: '/tramites',
+			texto: 'Trámites',
+			descripcion: 'Requisitos, costos y dónde hacerlos',
+			picto: 'tramitesciudadanos',
+			tinte: 'var(--color-achiote-500)'
+		},
+		{
+			href: '/noticias',
+			texto: 'Noticias',
+			descripcion: 'Obras y gestión, semana a semana',
+			picto: 'obras',
+			tinte: 'var(--color-selva-400)'
+		},
+		{
+			href: '/transparencia',
+			texto: 'Transparencia',
+			descripcion: 'LOTAIP, ordenanzas y rendición de cuentas',
+			picto: 'rendiciondecuentas',
+			tinte: 'var(--color-selva-600)'
+		},
+		{
+			href: '/canton',
+			texto: 'El cantón',
+			descripcion: 'Historia, símbolos, territorio y turismo',
+			picto: 'turismo',
+			tinte: 'var(--color-selva-800)'
+		},
+		{
+			href: '/contacto',
+			texto: 'Contacto',
+			descripcion: 'Direcciones municipales y extensiones',
+			picto: 'direcciones',
+			tinte: 'var(--color-selva-500)'
+		}
 	];
 
 	let menuAbierto = $state(false);
 	let desplazamiento = $state(0);
+	let botonMenu = $state<HTMLButtonElement | null>(null);
 
 	const rutaActual = $derived(page.url.pathname);
 
@@ -22,10 +71,10 @@
 	 * fuerza. Al bajar 40 px recupera su fondo sólido, porque a partir de
 	 * ahí navega sobre contenido claro y necesita separarse de él.
 	 *
-	 * El menú móvil abierto la devuelve a sólida de inmediato: un panel de
-	 * enlaces sobre una foto no se lee.
+	 * Ya no hace falta descontar el menú móvil: desde que es un diálogo a
+	 * pantalla completa, tapa la cabecera en vez de desplegarse bajo ella.
 	 */
-	const sobreFoto = $derived(rutaActual === '/' && desplazamiento < 40 && !menuAbierto);
+	const sobreFoto = $derived(rutaActual === '/' && desplazamiento < 40);
 
 	// Al cambiar de ruta el menú tiene que cerrarse solo; si no, queda
 	// abierto encima de la página nueva.
@@ -91,52 +140,47 @@
 					<circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2.2" />
 					<path d="m20 20-3.6-3.6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
 				</svg>
-				<span class="hidden sm:inline">Buscar</span>
+				<!--
+					`hidden` por debajo de sm dejaba el enlace como un icono sin
+					nombre: para un lector de pantalla era "enlace, /buscar" y nada
+					más. Con sr-only el texto desaparece de la vista pero sigue
+					anunciándose, que es justo lo que hace falta.
+				-->
+				<span class="sr-only sm:not-sr-only">Buscar</span>
 			</a>
 
 			<CambioTema />
 
 			<button
+				bind:this={botonMenu}
 				type="button"
 				class="inline-flex h-11 w-11 cursor-pointer items-center justify-center lg:hidden"
 				aria-expanded={menuAbierto}
 				aria-controls="menu-movil"
-				onclick={() => (menuAbierto = !menuAbierto)}
+				aria-haspopup="dialog"
+				onclick={() => (menuAbierto = true)}
 			>
-				<span class="sr-only">{menuAbierto ? 'Cerrar menú' : 'Abrir menú'}</span>
+				<span class="sr-only">Abrir menú</span>
+				<!--
+					Tres trazos de anchos distintos, como las teselas de la banda
+					de marca: el icono ya dice de qué sitio es antes de abrirlo.
+				-->
 				<svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-					{#if menuAbierto}
-						<path d="m6 6 12 12M18 6 6 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
-					{:else}
-						<path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
-					{/if}
+					<path d="M3 6.5h18M3 12h13M3 17.5h8" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
 				</svg>
 			</button>
 		</div>
 	</div>
 
-	{#if menuAbierto}
-		<nav
-			id="menu-movil"
-			class="border-t border-[var(--borde)] bg-[var(--superficie)] lg:hidden"
-			aria-label="Principal, móvil"
-		>
-			<ul class="contenedor flex flex-col py-1">
-				{#each enlaces as e (e.href)}
-					<li>
-						<a
-							href={e.href}
-							class="flex min-h-12 items-center border-b border-[var(--borde)] font-semibold no-underline last:border-0"
-							onclick={() => (menuAbierto = false)}
-						>
-							{e.texto}
-						</a>
-					</li>
-				{/each}
-			</ul>
-		</nav>
-	{/if}
 </header>
+
+<MenuMovil
+	abierto={menuAbierto}
+	{enlaces}
+	{rutaActual}
+	alCerrar={() => (menuAbierto = false)}
+	devolverFocoA={botonMenu}
+/>
 
 <style>
 	.cabecera {

@@ -51,6 +51,19 @@ tokens semánticos y no colores literales:
 | `--acento-texto` | `#5C4F00` (7.8:1) | `--color-achiote-400` (13.4:1) | Antetítulos en amarillo de marca. El derivado oscuro es ilegible sobre fondo oscuro, y el amarillo claro lo es sobre papel. |
 | `--indice` | `#8E8F8A` (3.3:1) | `#6A6B62` (3.1:1) | Números de índice del riel de trámites. Son texto grande (41 px, peso 700), así que el mínimo aplicable es 3:1, no 4.5:1 — pero hay que cumplirlo. |
 
+### Tinta del panel del menú móvil
+
+El panel es siempre carbón `#16170F`, en tema claro y en oscuro. Un menú
+que cambia de superficie con el tema obliga a mantener dos juegos de
+contraste para lo mismo; aquí hay uno solo:
+
+| Elemento | Color | Contraste |
+|---|---|---|
+| Nombre de sección | blanco | 17.2:1 ✅ |
+| Descripción | blanco al 55 % | 5.3:1 ✅ |
+| Redes sociales | blanco al 55 % | 5.3:1 ✅ |
+| "Aquí" (sección actual) | `--color-achiote-400` | 13.2:1 ✅ |
+
 ### Texto sobre fotografía
 
 El héroe de la portada y la banda de cierre ponen texto blanco sobre
@@ -100,7 +113,17 @@ Valores calculados con la fórmula de luminancia relativa de WCAG 2.1
       invisible por culpa de una animación.
 - [x] Las cifras del cantón se sirven ya escritas en el HTML; el contador
       animado sólo las reescribe si hay JS y el visitante no pidió
-      movimiento reducido. El fondo fotográfico de la
+      movimiento reducido.
+- [x] El menú móvil es un diálogo modal de verdad: `role="dialog"` +
+      `aria-modal="true"`, el foco entra en el botón de cerrar al abrir y
+      vuelve al botón que lo abrió al cerrar, el tabulador queda atrapado
+      dentro del panel (Tab desde el último enlace vuelve al primero, y
+      Shift+Tab al revés), Escape cierra, y el scroll del fondo se bloquea
+      compensando el ancho de la barra para que la página no salte.
+- [x] La sección actual en el menú móvil no se marca sólo con color: el
+      canto amarillo va acompañado de la etiqueta visible "Aquí" y de
+      `aria-current="page"`. El amarillo `achiote-400` está reservado para
+      ese estado y no se usa como tinte decorativo de ningún otro enlace. El fondo fotográfico de la
       portada lleva botón de pausa y un punto por fotograma, todos de
       44×44 px, y con `prefers-reduced-motion` no rota: se queda en el
       primer fotograma y los controles no llegan a aparecer.
@@ -112,6 +135,16 @@ Valores calculados con la fórmula de luminancia relativa de WCAG 2.1
 - [x] Las cifras del cantón se sirven ya escritas en el HTML; el contador
       animado sólo las reescribe si hay JS y el visitante no pidió
       movimiento reducido.
+- [x] El menú móvil es un diálogo modal de verdad: `role="dialog"` +
+      `aria-modal="true"`, el foco entra en el botón de cerrar al abrir y
+      vuelve al botón que lo abrió al cerrar, el tabulador queda atrapado
+      dentro del panel (Tab desde el último enlace vuelve al primero, y
+      Shift+Tab al revés), Escape cierra, y el scroll del fondo se bloquea
+      compensando el ancho de la barra para que la página no salte.
+- [x] La sección actual en el menú móvil no se marca sólo con color: el
+      canto amarillo va acompañado de la etiqueta visible "Aquí" y de
+      `aria-current="page"`. El amarillo `achiote-400` está reservado para
+      ese estado y no se usa como tinte decorativo de ningún otro enlace.
 
 ## Cómo se verifica
 

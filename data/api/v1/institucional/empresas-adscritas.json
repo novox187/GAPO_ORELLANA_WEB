@@ -56,9 +56,11 @@
         "id": "e57f1eee3d096491",
         "hash": "e57f1eee3d09649177bf4a9df4d6b5f3f6862f39c2ece005478a7f7f1608369d",
         "urlOriginal": "https://orellana.gob.ec/static/img/Bomberos.jpg",
-        "rutaOriginal": "/media/originales/e57f1eee3d096491.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848735/orellana-web/e57f1eee3d096491.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e57f1eee3d096491-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848735/orellana-web/e57f1eee3d096491.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848735/orellana-web/e57f1eee3d096491.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848735/orellana-web/e57f1eee3d096491.jpg"
         },
         "ancho": 570,
         "alto": 253,
@@ -66,15 +68,18 @@
         "alt": "Bomberos",
         "altPendiente": false,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/"
+        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/",
+        "cloudinaryPublicId": "orellana-web/e57f1eee3d096491"
       },
       {
         "id": "eb3560017b67cf5f",
         "hash": "eb3560017b67cf5ff087e14ff3c5a756ccdf82aec6c6866d5304a081efb86777",
         "urlOriginal": "https://orellana.gob.ec/static/img/macco.jpg",
-        "rutaOriginal": "/media/originales/eb3560017b67cf5f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848737/orellana-web/eb3560017b67cf5f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/eb3560017b67cf5f-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848737/orellana-web/eb3560017b67cf5f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848737/orellana-web/eb3560017b67cf5f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848737/orellana-web/eb3560017b67cf5f.jpg"
         },
         "ancho": 570,
         "alto": 253,
@@ -82,15 +87,18 @@
         "alt": "macco",
         "altPendiente": false,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/"
+        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/",
+        "cloudinaryPublicId": "orellana-web/eb3560017b67cf5f"
       },
       {
         "id": "e98508b271c46969",
         "hash": "e98508b271c46969abafdbf17fb29d670b6fd51d6ac0301c372c08706e55cf17",
         "urlOriginal": "https://orellana.gob.ec/static/img/coca-prode.jpg",
-        "rutaOriginal": "/media/originales/e98508b271c46969.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848738/orellana-web/e98508b271c46969.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e98508b271c46969-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848738/orellana-web/e98508b271c46969.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848738/orellana-web/e98508b271c46969.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848738/orellana-web/e98508b271c46969.jpg"
         },
         "ancho": 570,
         "alto": 253,
@@ -98,15 +106,18 @@
         "alt": "coca prode",
         "altPendiente": false,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/"
+        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/",
+        "cloudinaryPublicId": "orellana-web/e98508b271c46969"
       },
       {
         "id": "074b97cbb63ff903",
         "hash": "074b97cbb63ff90377a48b5d7d4cca316c8088092ee51f59ecc7ce0eb07e923a",
         "urlOriginal": "https://orellana.gob.ec/static/img/terminal.jpg",
-        "rutaOriginal": "/media/originales/074b97cbb63ff903.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848740/orellana-web/074b97cbb63ff903.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/074b97cbb63ff903-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848740/orellana-web/074b97cbb63ff903.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848740/orellana-web/074b97cbb63ff903.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848740/orellana-web/074b97cbb63ff903.jpg"
         },
         "ancho": 570,
         "alto": 253,
@@ -114,15 +125,18 @@
         "alt": "terminal terrestre",
         "altPendiente": false,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/"
+        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/",
+        "cloudinaryPublicId": "orellana-web/074b97cbb63ff903"
       },
       {
         "id": "68418a9544ceb5d4",
         "hash": "68418a9544ceb5d407430a8578d6eb08c16e6b64372ae040cfca996975f2bd6a",
         "urlOriginal": "https://orellana.gob.ec/static/img/el-coca.jpg",
-        "rutaOriginal": "/media/originales/68418a9544ceb5d4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848741/orellana-web/68418a9544ceb5d4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/68418a9544ceb5d4-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848741/orellana-web/68418a9544ceb5d4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848741/orellana-web/68418a9544ceb5d4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848741/orellana-web/68418a9544ceb5d4.jpg"
         },
         "ancho": 570,
         "alto": 253,
@@ -130,7 +144,8 @@
         "alt": "el coca",
         "altPendiente": false,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/"
+        "fuenteUrl": "https://orellana.gob.ec/empresas_adscritas/",
+        "cloudinaryPublicId": "orellana-web/68418a9544ceb5d4"
       }
     ],
     "documentos": [],

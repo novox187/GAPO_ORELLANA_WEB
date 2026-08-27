@@ -9,11 +9,11 @@
       "id": "a26e91de37158551",
       "hash": "a26e91de37158551ad568d30d141ce804b5eeccdee3c9d0d227c962c520fcec5",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG9345.JPG",
-      "rutaOriginal": "/media/originales/a26e91de37158551.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850795/orellana-web/a26e91de37158551.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a26e91de37158551-400.webp",
-        "800w": "/media/derivados/a26e91de37158551-800.webp",
-        "1600w": "/media/derivados/a26e91de37158551-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Planificación 2026: una agenda construída junto a barrios y parroquias",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/a26e91de37158551"
     },
     "url": "/noticia/155/",
     "fuente_url": "https://orellana.gob.ec/noticia/155/",
@@ -31,11 +32,11 @@
         "id": "a26e91de37158551",
         "hash": "a26e91de37158551ad568d30d141ce804b5eeccdee3c9d0d227c962c520fcec5",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG9345.JPG",
-        "rutaOriginal": "/media/originales/a26e91de37158551.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850795/orellana-web/a26e91de37158551.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a26e91de37158551-400.webp",
-          "800w": "/media/derivados/a26e91de37158551-800.webp",
-          "1600w": "/media/derivados/a26e91de37158551-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Planificación 2026: una agenda construída junto a barrios y parroquias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/a26e91de37158551"
       }
     ]
   }

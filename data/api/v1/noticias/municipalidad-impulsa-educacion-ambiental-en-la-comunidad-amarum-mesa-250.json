@@ -9,11 +9,11 @@
       "id": "09f7c4f421e6969b",
       "hash": "09f7c4f421e6969be122d0776fad09d8978cde10db625cad01cfb8d652ee39a3",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG.JPG",
-      "rutaOriginal": "/media/originales/09f7c4f421e6969b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849868/orellana-web/09f7c4f421e6969b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/09f7c4f421e6969b-400.webp",
-        "800w": "/media/derivados/09f7c4f421e6969b-800.webp",
-        "1600w": "/media/derivados/09f7c4f421e6969b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849868/orellana-web/09f7c4f421e6969b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849868/orellana-web/09f7c4f421e6969b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849868/orellana-web/09f7c4f421e6969b.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Municipalidad impulsa educación ambiental en la comunidad Amarum Mesa",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+      "cloudinaryPublicId": "orellana-web/09f7c4f421e6969b"
     },
     "url": "/noticia/250/",
     "fuente_url": "https://orellana.gob.ec/noticia/250/",
@@ -31,11 +32,11 @@
         "id": "09f7c4f421e6969b",
         "hash": "09f7c4f421e6969be122d0776fad09d8978cde10db625cad01cfb8d652ee39a3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG.JPG",
-        "rutaOriginal": "/media/originales/09f7c4f421e6969b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849868/orellana-web/09f7c4f421e6969b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/09f7c4f421e6969b-400.webp",
-          "800w": "/media/derivados/09f7c4f421e6969b-800.webp",
-          "1600w": "/media/derivados/09f7c4f421e6969b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849868/orellana-web/09f7c4f421e6969b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849868/orellana-web/09f7c4f421e6969b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849868/orellana-web/09f7c4f421e6969b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Municipalidad impulsa educación ambiental en la comunidad Amarum Mesa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/09f7c4f421e6969b"
       }
     ]
   }

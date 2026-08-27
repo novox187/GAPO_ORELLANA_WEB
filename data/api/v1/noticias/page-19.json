@@ -10,11 +10,11 @@
         "id": "0127d90e3ae2b728",
         "hash": "0127d90e3ae2b7280cd135e51e9756a66630b7fe42f280529f52645112ff9797",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG3310.JPG",
-        "rutaOriginal": "/media/originales/0127d90e3ae2b728.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852817/orellana-web/0127d90e3ae2b728.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0127d90e3ae2b728-400.webp",
-          "800w": "/media/derivados/0127d90e3ae2b728-800.webp",
-          "1600w": "/media/derivados/0127d90e3ae2b728-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852817/orellana-web/0127d90e3ae2b728.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852817/orellana-web/0127d90e3ae2b728.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852817/orellana-web/0127d90e3ae2b728.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Minga de limpieza embellece el malecón de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/0127d90e3ae2b728"
       },
       "url": "/noticia/127/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -37,11 +38,11 @@
         "id": "e8569c19c54bbb15",
         "hash": "e8569c19c54bbb15167b496ff68ccf0f0976dd1fb6ac13403fcd23ddbc0179b8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG3098.JPG",
-        "rutaOriginal": "/media/originales/e8569c19c54bbb15.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e8569c19c54bbb15-400.webp",
-          "800w": "/media/derivados/e8569c19c54bbb15-800.webp",
-          "1600w": "/media/derivados/e8569c19c54bbb15-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Alcaldía inició la construcción de la cancha cubierta en la comunidad Estrella Yaku",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/e8569c19c54bbb15"
       },
       "url": "/noticia/126/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -64,11 +66,11 @@
         "id": "c5311a934aa5b300",
         "hash": "c5311a934aa5b300855a1dea72775f79de3f9f3182c171075993e016513e6f7a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG7037.JPG",
-        "rutaOriginal": "/media/originales/c5311a934aa5b300.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850960/orellana-web/c5311a934aa5b300.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c5311a934aa5b300-400.webp",
-          "800w": "/media/derivados/c5311a934aa5b300-800.webp",
-          "1600w": "/media/derivados/c5311a934aa5b300-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -76,7 +78,8 @@
         "alt": "Concejo Municipal aprueba reforma presupuestaria que impulsa el desarrollo territorial y fortalece la educación superior",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/c5311a934aa5b300"
       },
       "url": "/noticia/125/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -91,11 +94,11 @@
         "id": "ef5429b030718508",
         "hash": "ef5429b030718508000bb771994a2dbad2995f0a8e7e0aab3e4611a560865ec9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG2550.JPG",
-        "rutaOriginal": "/media/originales/ef5429b030718508.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852822/orellana-web/ef5429b030718508.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ef5429b030718508-400.webp",
-          "800w": "/media/derivados/ef5429b030718508-800.webp",
-          "1600w": "/media/derivados/ef5429b030718508-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Alcaldía interviene las calles del barrio Luis Guerra con trabajos de mantenimiento vial",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/ef5429b030718508"
       },
       "url": "/noticia/124/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -118,11 +122,11 @@
         "id": "4a6e3cd8497f0b30",
         "hash": "4a6e3cd8497f0b30c41ead6278d90bb4936d6dc0e4378d13b1ad6e02eb3c1daf",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG6192.JPG",
-        "rutaOriginal": "/media/originales/4a6e3cd8497f0b30.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4a6e3cd8497f0b30-400.webp",
-          "800w": "/media/derivados/4a6e3cd8497f0b30-800.webp",
-          "1600w": "/media/derivados/4a6e3cd8497f0b30-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -130,7 +134,8 @@
         "alt": "Alcaldía impulsa turismo y economía local con el festival \"Freestyle, Toques y Ritmos\"",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/4a6e3cd8497f0b30"
       },
       "url": "/noticia/123/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -145,11 +150,11 @@
         "id": "3dbbfe223f17bce7",
         "hash": "3dbbfe223f17bce7f4d46a3def2c8d37b87dbc0592c34940bea19c059fb8e9e1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG5735.jpg",
-        "rutaOriginal": "/media/originales/3dbbfe223f17bce7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3dbbfe223f17bce7-400.webp",
-          "800w": "/media/derivados/3dbbfe223f17bce7-800.webp",
-          "1600w": "/media/derivados/3dbbfe223f17bce7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -157,7 +162,8 @@
         "alt": "Alcaldía rindió cuentas al pueblo en audiencia pública",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/3dbbfe223f17bce7"
       },
       "url": "/noticia/122/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -172,11 +178,11 @@
         "id": "1bd57de3fafe266c",
         "hash": "1bd57de3fafe266c311a81b3ee83e59e811e3b8b7f66405a26e20d1a5c6cec0c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_1750.JPG",
-        "rutaOriginal": "/media/originales/1bd57de3fafe266c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1bd57de3fafe266c-400.webp",
-          "800w": "/media/derivados/1bd57de3fafe266c-800.webp",
-          "1600w": "/media/derivados/1bd57de3fafe266c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -184,7 +190,8 @@
         "alt": "Campaña gratuita de esterilización animal en el cantón Francisco de Orellana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/1bd57de3fafe266c"
       },
       "url": "/noticia/121/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -199,11 +206,11 @@
         "id": "e487de0cd9a8d706",
         "hash": "e487de0cd9a8d706e30d60cc9b1dd8e844479a27879a895ce0ce60967070e00a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_4558.JPG",
-        "rutaOriginal": "/media/originales/e487de0cd9a8d706.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e487de0cd9a8d706-400.webp",
-          "800w": "/media/derivados/e487de0cd9a8d706-800.webp",
-          "1600w": "/media/derivados/e487de0cd9a8d706-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "Con nuevas unidades, la Alcaldía mejora el servicio de recolección de basura",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/e487de0cd9a8d706"
       },
       "url": "/noticia/120/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"
@@ -226,11 +234,11 @@
         "id": "da0c993a3eeb0596",
         "hash": "da0c993a3eeb05961e0a95035981d248019d384fa371cac5744bacea9965c9f7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG0645.JPG",
-        "rutaOriginal": "/media/originales/da0c993a3eeb0596.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/da0c993a3eeb0596-400.webp",
-          "800w": "/media/derivados/da0c993a3eeb0596-800.webp",
-          "1600w": "/media/derivados/da0c993a3eeb0596-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -238,7 +246,8 @@
         "alt": "Alcaldía inaugura mantenimiento integral de la cancha cubierta del barrio Conhogar",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/da0c993a3eeb0596"
       },
       "url": "/noticia/119/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=19"

@@ -9,11 +9,11 @@
       "id": "2ee63b492bdc8a88",
       "hash": "2ee63b492bdc8a889c0de46884c3bae0ae3238bc8dc02687cf3f5cad855f0041",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_HZuFAl1.JPG",
-      "rutaOriginal": "/media/originales/2ee63b492bdc8a88.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/2ee63b492bdc8a88-400.webp",
-        "800w": "/media/derivados/2ee63b492bdc8a88-800.webp",
-        "1600w": "/media/derivados/2ee63b492bdc8a88-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Capacitación vial: cuidando vidas en nuestras calles manejando a la defensiva",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/2ee63b492bdc8a88"
     },
     "url": "/noticia/213/",
     "fuente_url": "https://orellana.gob.ec/noticia/213/",
@@ -31,11 +32,11 @@
         "id": "2ee63b492bdc8a88",
         "hash": "2ee63b492bdc8a889c0de46884c3bae0ae3238bc8dc02687cf3f5cad855f0041",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_HZuFAl1.JPG",
-        "rutaOriginal": "/media/originales/2ee63b492bdc8a88.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2ee63b492bdc8a88-400.webp",
-          "800w": "/media/derivados/2ee63b492bdc8a88-800.webp",
-          "1600w": "/media/derivados/2ee63b492bdc8a88-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Capacitación vial: cuidando vidas en nuestras calles manejando a la defensiva",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/2ee63b492bdc8a88"
       }
     ]
   }

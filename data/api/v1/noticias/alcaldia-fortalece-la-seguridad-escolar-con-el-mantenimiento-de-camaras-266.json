@@ -9,11 +9,11 @@
       "id": "03187add60f7d2f3",
       "hash": "03187add60f7d2f328a5b4d3573e58b8d2fcb7182be918cd95ccb59a254a6d33",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG1071.JPG",
-      "rutaOriginal": "/media/originales/03187add60f7d2f3.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849698/orellana-web/03187add60f7d2f3.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/03187add60f7d2f3-400.webp",
-        "800w": "/media/derivados/03187add60f7d2f3-800.webp",
-        "1600w": "/media/derivados/03187add60f7d2f3-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849698/orellana-web/03187add60f7d2f3.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849698/orellana-web/03187add60f7d2f3.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849698/orellana-web/03187add60f7d2f3.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía fortalece la seguridad escolar con el mantenimiento de cámaras",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/03187add60f7d2f3"
     },
     "url": "/noticia/266/",
     "fuente_url": "https://orellana.gob.ec/noticia/266/",
@@ -31,11 +32,11 @@
         "id": "03187add60f7d2f3",
         "hash": "03187add60f7d2f328a5b4d3573e58b8d2fcb7182be918cd95ccb59a254a6d33",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG1071.JPG",
-        "rutaOriginal": "/media/originales/03187add60f7d2f3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849698/orellana-web/03187add60f7d2f3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/03187add60f7d2f3-400.webp",
-          "800w": "/media/derivados/03187add60f7d2f3-800.webp",
-          "1600w": "/media/derivados/03187add60f7d2f3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849698/orellana-web/03187add60f7d2f3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849698/orellana-web/03187add60f7d2f3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849698/orellana-web/03187add60f7d2f3.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía fortalece la seguridad escolar con el mantenimiento de cámaras",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/03187add60f7d2f3"
       }
     ]
   }

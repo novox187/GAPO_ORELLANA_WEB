@@ -10,10 +10,11 @@
         "id": "11f3f6ec5d33870d",
         "hash": "11f3f6ec5d33870d7d5ec8ae637601d89e2dd5a52d02f3420f9afb86121812d7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_PAGO_IMPUESTOS.png",
-        "rutaOriginal": "/media/originales/11f3f6ec5d33870d.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852415/orellana-web/11f3f6ec5d33870d.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/11f3f6ec5d33870d-400.webp",
-          "800w": "/media/derivados/11f3f6ec5d33870d-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852415/orellana-web/11f3f6ec5d33870d.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852415/orellana-web/11f3f6ec5d33870d.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852415/orellana-web/11f3f6ec5d33870d.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -21,7 +22,8 @@
         "alt": "Pago de impuestos 2025 con descuentos y beneficios para los contribuyentes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=32"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=32",
+        "cloudinaryPublicId": "orellana-web/11f3f6ec5d33870d"
       },
       "url": "/noticia/5/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=32"

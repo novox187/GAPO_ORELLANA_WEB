@@ -9,11 +9,11 @@
       "id": "368585ad1f575361",
       "hash": "368585ad1f575361c11d8e86f5c98c742e4a9cc912cbe5b31313fc2f16ed021d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_IMG1685.JPG",
-      "rutaOriginal": "/media/originales/368585ad1f575361.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850784/orellana-web/368585ad1f575361.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/368585ad1f575361-400.webp",
-        "800w": "/media/derivados/368585ad1f575361-800.webp",
-        "1600w": "/media/derivados/368585ad1f575361-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "80 niños y niñas del proyecto ETI recibieron kits escolares",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/368585ad1f575361"
     },
     "url": "/noticia/157/",
     "fuente_url": "https://orellana.gob.ec/noticia/157/",
@@ -31,11 +32,11 @@
         "id": "368585ad1f575361",
         "hash": "368585ad1f575361c11d8e86f5c98c742e4a9cc912cbe5b31313fc2f16ed021d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_IMG1685.JPG",
-        "rutaOriginal": "/media/originales/368585ad1f575361.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850784/orellana-web/368585ad1f575361.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/368585ad1f575361-400.webp",
-          "800w": "/media/derivados/368585ad1f575361-800.webp",
-          "1600w": "/media/derivados/368585ad1f575361-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "80 niños y niñas del proyecto ETI recibieron kits escolares",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/368585ad1f575361"
       }
     ]
   }

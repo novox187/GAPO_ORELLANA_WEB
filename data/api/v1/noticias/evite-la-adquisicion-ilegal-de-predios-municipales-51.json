@@ -9,11 +9,11 @@
       "id": "c4706d76dbd5a15d",
       "hash": "c4706d76dbd5a15dfa07ccf6841fcfb13539b6ceacf70e68f35a8522c8dc31be",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_9866.JPG",
-      "rutaOriginal": "/media/originales/c4706d76dbd5a15d.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c4706d76dbd5a15d-400.webp",
-        "800w": "/media/derivados/c4706d76dbd5a15d-800.webp",
-        "1600w": "/media/derivados/c4706d76dbd5a15d-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Evite la adquisición ilegal de predios municipales",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+      "cloudinaryPublicId": "orellana-web/c4706d76dbd5a15d"
     },
     "url": "/noticia/51/",
     "fuente_url": "https://orellana.gob.ec/noticia/51/",
@@ -31,11 +32,11 @@
         "id": "c4706d76dbd5a15d",
         "hash": "c4706d76dbd5a15dfa07ccf6841fcfb13539b6ceacf70e68f35a8522c8dc31be",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_9866.JPG",
-        "rutaOriginal": "/media/originales/c4706d76dbd5a15d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c4706d76dbd5a15d-400.webp",
-          "800w": "/media/derivados/c4706d76dbd5a15d-800.webp",
-          "1600w": "/media/derivados/c4706d76dbd5a15d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Evite la adquisición ilegal de predios municipales",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/c4706d76dbd5a15d"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "2df1cc46802ba7c2",
       "hash": "2df1cc46802ba7c201c7f436e915b9d330c9d6cc553e7dbb46bc255e68842e2a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_I0481.JPG",
-      "rutaOriginal": "/media/originales/2df1cc46802ba7c2.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/2df1cc46802ba7c2-400.webp",
-        "800w": "/media/derivados/2df1cc46802ba7c2-800.webp",
-        "1600w": "/media/derivados/2df1cc46802ba7c2-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Conexión Bocana del Payamino–Malecón: obra clave que impulsa el desarrollo del cantón",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+      "cloudinaryPublicId": "orellana-web/2df1cc46802ba7c2"
     },
     "url": "/noticia/272/",
     "fuente_url": "https://orellana.gob.ec/noticia/272/",
@@ -31,11 +32,11 @@
         "id": "2df1cc46802ba7c2",
         "hash": "2df1cc46802ba7c201c7f436e915b9d330c9d6cc553e7dbb46bc255e68842e2a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_I0481.JPG",
-        "rutaOriginal": "/media/originales/2df1cc46802ba7c2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2df1cc46802ba7c2-400.webp",
-          "800w": "/media/derivados/2df1cc46802ba7c2-800.webp",
-          "1600w": "/media/derivados/2df1cc46802ba7c2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Conexión Bocana del Payamino–Malecón: obra clave que impulsa el desarrollo del cantón",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/2df1cc46802ba7c2"
       }
     ]
   }

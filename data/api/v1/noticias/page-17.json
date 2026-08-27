@@ -10,11 +10,11 @@
         "id": "e261f0b9b5b87b33",
         "hash": "e261f0b9b5b87b332b4edb9832459664a5533c846c614ac0ebbca935bd7cf6b9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG1155.JPG",
-        "rutaOriginal": "/media/originales/e261f0b9b5b87b33.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e261f0b9b5b87b33-400.webp",
-          "800w": "/media/derivados/e261f0b9b5b87b33-800.webp",
-          "1600w": "/media/derivados/e261f0b9b5b87b33-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -22,7 +22,8 @@
         "alt": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/e261f0b9b5b87b33"
       },
       "url": "/noticia/144/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -37,11 +38,11 @@
         "id": "e5caae6850bbaed6",
         "hash": "e5caae6850bbaed612fd90bc52e7370ed1bb93125c8b5d592e64e996458b440c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_6364.JPG",
-        "rutaOriginal": "/media/originales/e5caae6850bbaed6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852682/orellana-web/e5caae6850bbaed6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e5caae6850bbaed6-400.webp",
-          "800w": "/media/derivados/e5caae6850bbaed6-800.webp",
-          "1600w": "/media/derivados/e5caae6850bbaed6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852682/orellana-web/e5caae6850bbaed6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852682/orellana-web/e5caae6850bbaed6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852682/orellana-web/e5caae6850bbaed6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "80 niños y niñas disfrutaron de colonias vacacionales del proyecto ETI",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/e5caae6850bbaed6"
       },
       "url": "/noticia/143/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -64,11 +66,11 @@
         "id": "df4f41bfa7b51f7c",
         "hash": "df4f41bfa7b51f7c0fa95216333711bc3078c345c61cda1fda34c40f70fc86e2",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG0151.JPG",
-        "rutaOriginal": "/media/originales/df4f41bfa7b51f7c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/df4f41bfa7b51f7c-400.webp",
-          "800w": "/media/derivados/df4f41bfa7b51f7c-800.webp",
-          "1600w": "/media/derivados/df4f41bfa7b51f7c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/df4f41bfa7b51f7c"
       },
       "url": "/noticia/142/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -91,10 +94,11 @@
         "id": "49c915f2e28f643d",
         "hash": "49c915f2e28f643d0c923b390530dd5bd33a2d359f363fe6d2248ad92c432597",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_MVI_9631.jpg",
-        "rutaOriginal": "/media/originales/49c915f2e28f643d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850878/orellana-web/49c915f2e28f643d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/49c915f2e28f643d-400.webp",
-          "800w": "/media/derivados/49c915f2e28f643d-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg"
         },
         "ancho": 1280,
         "alto": 711,
@@ -102,7 +106,8 @@
         "alt": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/49c915f2e28f643d"
       },
       "url": "/noticia/141/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -117,10 +122,11 @@
         "id": "cd9ca28f9287c25d",
         "hash": "cd9ca28f9287c25df24debe347d2be66cacb7d47eefb2e2727a7226c51aed510",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_MVI_9368.jpg",
-        "rutaOriginal": "/media/originales/cd9ca28f9287c25d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/cd9ca28f9287c25d-400.webp",
-          "800w": "/media/derivados/cd9ca28f9287c25d-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg"
         },
         "ancho": 1280,
         "alto": 671,
@@ -128,7 +134,8 @@
         "alt": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/cd9ca28f9287c25d"
       },
       "url": "/noticia/140/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -143,11 +150,11 @@
         "id": "4ca8773aec62cbdf",
         "hash": "4ca8773aec62cbdfb7021b929d33e17eaa5984a53dfb478a1be793f1767ef633",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9334.JPG",
-        "rutaOriginal": "/media/originales/4ca8773aec62cbdf.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850915/orellana-web/4ca8773aec62cbdf.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4ca8773aec62cbdf-400.webp",
-          "800w": "/media/derivados/4ca8773aec62cbdf-800.webp",
-          "1600w": "/media/derivados/4ca8773aec62cbdf-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850915/orellana-web/4ca8773aec62cbdf.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850915/orellana-web/4ca8773aec62cbdf.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850915/orellana-web/4ca8773aec62cbdf.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -155,7 +162,8 @@
         "alt": "Municipio y DGAC firman convenio para optimizar señalización en pista del Aeropuerto de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/4ca8773aec62cbdf"
       },
       "url": "/noticia/139/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -170,11 +178,11 @@
         "id": "4dbae7915a482af8",
         "hash": "4dbae7915a482af82057e7445d4e780d6dfb2587fb59a277a4aa13337f5ac6bb",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_1_IMG_8706.JPG",
-        "rutaOriginal": "/media/originales/4dbae7915a482af8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852687/orellana-web/4dbae7915a482af8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4dbae7915a482af8-400.webp",
-          "800w": "/media/derivados/4dbae7915a482af8-800.webp",
-          "1600w": "/media/derivados/4dbae7915a482af8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -182,7 +190,8 @@
         "alt": "Alcaldía inicia importante obra deportiva en Estrella Yacu",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/4dbae7915a482af8"
       },
       "url": "/noticia/138/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -197,11 +206,11 @@
         "id": "7fecebaba2fbc703",
         "hash": "7fecebaba2fbc703bcb11e31094d1890bb42211825d5bb33a3eca1565f2405ac",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG0301.JPG",
-        "rutaOriginal": "/media/originales/7fecebaba2fbc703.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7fecebaba2fbc703-400.webp",
-          "800w": "/media/derivados/7fecebaba2fbc703-800.webp",
-          "1600w": "/media/derivados/7fecebaba2fbc703-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -209,7 +218,8 @@
         "alt": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/7fecebaba2fbc703"
       },
       "url": "/noticia/137/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"
@@ -224,11 +234,11 @@
         "id": "6a8073d5628bd770",
         "hash": "6a8073d5628bd77098e7b42a3a5d3d30cf451c8e21e4f19ad5d100654c3122f8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG9045.JPG",
-        "rutaOriginal": "/media/originales/6a8073d5628bd770.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850924/orellana-web/6a8073d5628bd770.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6a8073d5628bd770-400.webp",
-          "800w": "/media/derivados/6a8073d5628bd770-800.webp",
-          "1600w": "/media/derivados/6a8073d5628bd770-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -236,7 +246,8 @@
         "alt": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/6a8073d5628bd770"
       },
       "url": "/noticia/114/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=17"

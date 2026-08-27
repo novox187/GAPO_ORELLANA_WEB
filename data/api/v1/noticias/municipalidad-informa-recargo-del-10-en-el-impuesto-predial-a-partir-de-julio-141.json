@@ -9,10 +9,11 @@
       "id": "49c915f2e28f643d",
       "hash": "49c915f2e28f643d0c923b390530dd5bd33a2d359f363fe6d2248ad92c432597",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_MVI_9631.jpg",
-      "rutaOriginal": "/media/originales/49c915f2e28f643d.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850878/orellana-web/49c915f2e28f643d.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/49c915f2e28f643d-400.webp",
-        "800w": "/media/derivados/49c915f2e28f643d-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg"
       },
       "ancho": 1280,
       "alto": 711,
@@ -20,7 +21,8 @@
       "alt": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+      "cloudinaryPublicId": "orellana-web/49c915f2e28f643d"
     },
     "url": "/noticia/141/",
     "fuente_url": "https://orellana.gob.ec/noticia/141/",
@@ -30,10 +32,11 @@
         "id": "49c915f2e28f643d",
         "hash": "49c915f2e28f643d0c923b390530dd5bd33a2d359f363fe6d2248ad92c432597",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_MVI_9631.jpg",
-        "rutaOriginal": "/media/originales/49c915f2e28f643d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850878/orellana-web/49c915f2e28f643d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/49c915f2e28f643d-400.webp",
-          "800w": "/media/derivados/49c915f2e28f643d-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850878/orellana-web/49c915f2e28f643d.jpg"
         },
         "ancho": 1280,
         "alto": 711,
@@ -41,7 +44,8 @@
         "alt": "Municipalidad Informa: Recargo del 10% en el Impuesto Predial a partir de julio",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/49c915f2e28f643d"
       }
     ]
   }

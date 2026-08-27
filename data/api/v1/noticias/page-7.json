@@ -10,11 +10,11 @@
         "id": "802099af50daf631",
         "hash": "802099af50daf631a2985f159e89a63ab6bd4e43cad233d59412705308923692",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_3691.JPG",
-        "rutaOriginal": "/media/originales/802099af50daf631.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850053/orellana-web/802099af50daf631.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/802099af50daf631-400.webp",
-          "800w": "/media/derivados/802099af50daf631-800.webp",
-          "1600w": "/media/derivados/802099af50daf631-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Medios de comunicación conocen proceso de recuperación de maquinaria y vehículos pesados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/802099af50daf631"
       },
       "url": "/noticia/234/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -37,11 +38,11 @@
         "id": "786c9cb2c0c2907f",
         "hash": "786c9cb2c0c2907fca2538b20a32925140dc97bbac20f8fac5db6619e6085264",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_3607.JPG",
-        "rutaOriginal": "/media/originales/786c9cb2c0c2907f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850056/orellana-web/786c9cb2c0c2907f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/786c9cb2c0c2907f-400.webp",
-          "800w": "/media/derivados/786c9cb2c0c2907f-800.webp",
-          "1600w": "/media/derivados/786c9cb2c0c2907f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850056/orellana-web/786c9cb2c0c2907f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850056/orellana-web/786c9cb2c0c2907f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850056/orellana-web/786c9cb2c0c2907f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Con obras firmes, la Alcaldía protege la vida y las riberas del río Coca con la colocación de geocontenedores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/786c9cb2c0c2907f"
       },
       "url": "/noticia/233/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -64,11 +66,11 @@
         "id": "da466de6ea5da039",
         "hash": "da466de6ea5da03913b6ce666ef1ba535a064ec3689541de1233e0ec47929f46",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_0415_VBxsm2F.JPG",
-        "rutaOriginal": "/media/originales/da466de6ea5da039.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849871/orellana-web/da466de6ea5da039.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/da466de6ea5da039-400.webp",
-          "800w": "/media/derivados/da466de6ea5da039-800.webp",
-          "1600w": "/media/derivados/da466de6ea5da039-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Aprovecha el descuento en tu impuesto predial urbano y rural",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/da466de6ea5da039"
       },
       "url": "/noticia/232/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -91,11 +94,11 @@
         "id": "598b852a8933aae4",
         "hash": "598b852a8933aae48b43724043f34579bf8b71f8c322634695d74829c4a0b3eb",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG.JPG",
-        "rutaOriginal": "/media/originales/598b852a8933aae4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849874/orellana-web/598b852a8933aae4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/598b852a8933aae4-400.webp",
-          "800w": "/media/derivados/598b852a8933aae4-800.webp",
-          "1600w": "/media/derivados/598b852a8933aae4-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Muy pronto, la cancha cubierta del barrio Luis Guerra estará al servicio de la ciudadanía",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/598b852a8933aae4"
       },
       "url": "/noticia/231/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -118,11 +122,11 @@
         "id": "e0124a3bbd5b27be",
         "hash": "e0124a3bbd5b27bebd82631e41f1c63a85077efbef6dcbe20c4fe6ae37e6f7ee",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9883.JPG",
-        "rutaOriginal": "/media/originales/e0124a3bbd5b27be.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e0124a3bbd5b27be-400.webp",
-          "800w": "/media/derivados/e0124a3bbd5b27be-800.webp",
-          "1600w": "/media/derivados/e0124a3bbd5b27be-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -130,7 +134,8 @@
         "alt": "Nuevo Coca se fortalece con la construcción de la Casa Taller",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/e0124a3bbd5b27be"
       },
       "url": "/noticia/230/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -145,11 +150,11 @@
         "id": "6c646bf783752a41",
         "hash": "6c646bf783752a41bd2167625a9174bb125f509161e9df0fb8bf96aa4eaff62b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9798_1nChh9s.JPG",
-        "rutaOriginal": "/media/originales/6c646bf783752a41.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852607/orellana-web/6c646bf783752a41.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6c646bf783752a41-400.webp",
-          "800w": "/media/derivados/6c646bf783752a41-800.webp",
-          "1600w": "/media/derivados/6c646bf783752a41-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -157,7 +162,8 @@
         "alt": "Procuraduría Síndica: La legalidad como pilar de una gestión responsable",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/6c646bf783752a41"
       },
       "url": "/noticia/229/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -172,10 +178,11 @@
         "id": "4401a5b58a8c7cd1",
         "hash": "4401a5b58a8c7cd1678281f5cb5d389eff20d3d89275abe1a43f6e8492c9e7ab",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31.jpg",
-        "rutaOriginal": "/media/originales/4401a5b58a8c7cd1.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4401a5b58a8c7cd1-400.webp",
-          "800w": "/media/derivados/4401a5b58a8c7cd1-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg"
         },
         "ancho": 1280,
         "alto": 720,
@@ -183,7 +190,8 @@
         "alt": "Picadito 2025: El deporte que une y proyecta sueños en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/4401a5b58a8c7cd1"
       },
       "url": "/noticia/228/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -198,11 +206,11 @@
         "id": "6168c0b7ecd56ff6",
         "hash": "6168c0b7ecd56ff632ac57942f986b5e95690e8a940a87640b37cf16eef8ce57",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_YIqkMd8.JPG",
-        "rutaOriginal": "/media/originales/6168c0b7ecd56ff6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6168c0b7ecd56ff6-400.webp",
-          "800w": "/media/derivados/6168c0b7ecd56ff6-800.webp",
-          "1600w": "/media/derivados/6168c0b7ecd56ff6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -210,7 +218,8 @@
         "alt": "“Navidad en acción, un diciembre para recordar”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/6168c0b7ecd56ff6"
       },
       "url": "/noticia/227/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"
@@ -225,11 +234,11 @@
         "id": "9499b7544406cbd3",
         "hash": "9499b7544406cbd32e3bf3bc9c17f4b0b64f1f3af4ed5cbeaeee0bdb286bfb5d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1QaOVVw.JPG",
-        "rutaOriginal": "/media/originales/9499b7544406cbd3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852622/orellana-web/9499b7544406cbd3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9499b7544406cbd3-400.webp",
-          "800w": "/media/derivados/9499b7544406cbd3-800.webp",
-          "1600w": "/media/derivados/9499b7544406cbd3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -237,7 +246,8 @@
         "alt": "Ordenanza de Zonas Homogéneas 2026–2027: valoración justa de predios",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/9499b7544406cbd3"
       },
       "url": "/noticia/226/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=7"

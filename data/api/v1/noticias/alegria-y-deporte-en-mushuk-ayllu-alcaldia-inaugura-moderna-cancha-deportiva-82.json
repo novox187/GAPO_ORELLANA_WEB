@@ -9,11 +9,11 @@
       "id": "eeb2645b41c0920d",
       "hash": "eeb2645b41c0920d046a12be67ea64775aa25f64ea21ebedd2315fb8ceadce54",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_DJI_0449.JPG",
-      "rutaOriginal": "/media/originales/eeb2645b41c0920d.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/eeb2645b41c0920d-400.webp",
-        "800w": "/media/derivados/eeb2645b41c0920d-800.webp",
-        "1600w": "/media/derivados/eeb2645b41c0920d-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg"
       },
       "ancho": 4000,
       "alto": 2250,
@@ -21,7 +21,8 @@
       "alt": "¡Alegría y deporte en Mushuk Ayllu! Alcaldía inaugura moderna cancha deportiva",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+      "cloudinaryPublicId": "orellana-web/eeb2645b41c0920d"
     },
     "url": "/noticia/82/",
     "fuente_url": "https://orellana.gob.ec/noticia/82/",
@@ -31,11 +32,11 @@
         "id": "eeb2645b41c0920d",
         "hash": "eeb2645b41c0920d046a12be67ea64775aa25f64ea21ebedd2315fb8ceadce54",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_DJI_0449.JPG",
-        "rutaOriginal": "/media/originales/eeb2645b41c0920d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/eeb2645b41c0920d-400.webp",
-          "800w": "/media/derivados/eeb2645b41c0920d-800.webp",
-          "1600w": "/media/derivados/eeb2645b41c0920d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg"
         },
         "ancho": 4000,
         "alto": 2250,
@@ -43,7 +44,8 @@
         "alt": "¡Alegría y deporte en Mushuk Ayllu! Alcaldía inaugura moderna cancha deportiva",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/eeb2645b41c0920d"
       }
     ]
   }

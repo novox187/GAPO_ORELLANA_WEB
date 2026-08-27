@@ -9,11 +9,11 @@
       "id": "5957480d736e1f2a",
       "hash": "5957480d736e1f2a0c4bfda4b985eacb923490b72cebacff3534a95272d758ce",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG7200.JPG",
-      "rutaOriginal": "/media/originales/5957480d736e1f2a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850950/orellana-web/5957480d736e1f2a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/5957480d736e1f2a-400.webp",
-        "800w": "/media/derivados/5957480d736e1f2a-800.webp",
-        "1600w": "/media/derivados/5957480d736e1f2a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850950/orellana-web/5957480d736e1f2a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850950/orellana-web/5957480d736e1f2a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850950/orellana-web/5957480d736e1f2a.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Colocación de la primera piedra de alcantarillado y adoquinado en Ñucanchi Wasi y Los Sauces.",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+      "cloudinaryPublicId": "orellana-web/5957480d736e1f2a"
     },
     "url": "/noticia/128/",
     "fuente_url": "https://orellana.gob.ec/noticia/128/",
@@ -31,11 +32,11 @@
         "id": "5957480d736e1f2a",
         "hash": "5957480d736e1f2a0c4bfda4b985eacb923490b72cebacff3534a95272d758ce",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG7200.JPG",
-        "rutaOriginal": "/media/originales/5957480d736e1f2a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850950/orellana-web/5957480d736e1f2a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5957480d736e1f2a-400.webp",
-          "800w": "/media/derivados/5957480d736e1f2a-800.webp",
-          "1600w": "/media/derivados/5957480d736e1f2a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850950/orellana-web/5957480d736e1f2a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850950/orellana-web/5957480d736e1f2a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850950/orellana-web/5957480d736e1f2a.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Colocación de la primera piedra de alcantarillado y adoquinado en Ñucanchi Wasi y Los Sauces.",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+        "cloudinaryPublicId": "orellana-web/5957480d736e1f2a"
       }
     ]
   }

@@ -9,10 +9,11 @@
       "id": "0d4508b5eec67d78",
       "hash": "0d4508b5eec67d786d67c6610b48d378d8b26a2730167c3cb4e31e57a498e97c",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_SENALIZACION_HORIZONTAL.png",
-      "rutaOriginal": "/media/originales/0d4508b5eec67d78.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852390/orellana-web/0d4508b5eec67d78.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/0d4508b5eec67d78-400.webp",
-        "800w": "/media/derivados/0d4508b5eec67d78-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+      "cloudinaryPublicId": "orellana-web/0d4508b5eec67d78"
     },
     "url": "/noticia/13/",
     "fuente_url": "https://orellana.gob.ec/noticia/13/",
@@ -30,10 +32,11 @@
         "id": "0d4508b5eec67d78",
         "hash": "0d4508b5eec67d786d67c6610b48d378d8b26a2730167c3cb4e31e57a498e97c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_SENALIZACION_HORIZONTAL.png",
-        "rutaOriginal": "/media/originales/0d4508b5eec67d78.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852390/orellana-web/0d4508b5eec67d78.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/0d4508b5eec67d78-400.webp",
-          "800w": "/media/derivados/0d4508b5eec67d78-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/0d4508b5eec67d78"
       }
     ]
   }

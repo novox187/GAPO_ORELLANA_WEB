@@ -10,11 +10,11 @@
         "id": "8b8daa9c55ce9784",
         "hash": "8b8daa9c55ce9784e95e49883108432a87304ca56c86b3a81c26dc5a0399b506",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_PiyP88I.JPG",
-        "rutaOriginal": "/media/originales/8b8daa9c55ce9784.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850342/orellana-web/8b8daa9c55ce9784.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8b8daa9c55ce9784-400.webp",
-          "800w": "/media/derivados/8b8daa9c55ce9784-800.webp",
-          "1600w": "/media/derivados/8b8daa9c55ce9784-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850342/orellana-web/8b8daa9c55ce9784.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850342/orellana-web/8b8daa9c55ce9784.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850342/orellana-web/8b8daa9c55ce9784.jpg"
         },
         "ancho": 5472,
         "alto": 3648,
@@ -22,7 +22,8 @@
         "alt": "Alcaldía entrega renovada cancha cubierta al barrio 20 de Mayo y fortalece el impulso de una comunidad que avanza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/8b8daa9c55ce9784"
       },
       "url": "/noticia/216/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -37,11 +38,11 @@
         "id": "b4d3c18dce5310c3",
         "hash": "b4d3c18dce5310c38ea055ff94e5741e889d5b33ebf0f77eba3b176daaa04562",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_clSemGj.JPG",
-        "rutaOriginal": "/media/originales/b4d3c18dce5310c3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b4d3c18dce5310c3-400.webp",
-          "800w": "/media/derivados/b4d3c18dce5310c3-800.webp",
-          "1600w": "/media/derivados/b4d3c18dce5310c3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "La alcaldía impulsa proyecto amazónico y prevenir la violencia de género COCAPRODE",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/b4d3c18dce5310c3"
       },
       "url": "/noticia/215/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -64,10 +66,11 @@
         "id": "28cae161dc19988e",
         "hash": "28cae161dc19988e1fada5364ecfc7e306c8c360d4dadb138a0f28cc2d65fb6c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.jpg",
-        "rutaOriginal": "/media/originales/28cae161dc19988e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850346/orellana-web/28cae161dc19988e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/28cae161dc19988e-400.webp",
-          "800w": "/media/derivados/28cae161dc19988e-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg"
         },
         "ancho": 1280,
         "alto": 720,
@@ -75,7 +78,8 @@
         "alt": "La alcaldía defiende el orden y la seguridad vial ante agresiones a agentes de control por conductores incumplidos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/28cae161dc19988e"
       },
       "url": "/noticia/214/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -90,11 +94,11 @@
         "id": "2ee63b492bdc8a88",
         "hash": "2ee63b492bdc8a889c0de46884c3bae0ae3238bc8dc02687cf3f5cad855f0041",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_HZuFAl1.JPG",
-        "rutaOriginal": "/media/originales/2ee63b492bdc8a88.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2ee63b492bdc8a88-400.webp",
-          "800w": "/media/derivados/2ee63b492bdc8a88-800.webp",
-          "1600w": "/media/derivados/2ee63b492bdc8a88-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850350/orellana-web/2ee63b492bdc8a88.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -102,7 +106,8 @@
         "alt": "Capacitación vial: cuidando vidas en nuestras calles manejando a la defensiva",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/2ee63b492bdc8a88"
       },
       "url": "/noticia/213/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -117,11 +122,11 @@
         "id": "4e6c1581b7346a36",
         "hash": "4e6c1581b7346a36ffbf5789b3b7d5a4abd3795ad2e1e8d72210a03ed7e8e1b6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.JPG",
-        "rutaOriginal": "/media/originales/4e6c1581b7346a36.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4e6c1581b7346a36-400.webp",
-          "800w": "/media/derivados/4e6c1581b7346a36-800.webp",
-          "1600w": "/media/derivados/4e6c1581b7346a36-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -129,7 +134,8 @@
         "alt": "Movilidad ordenada y progreso urbano: con la construcción de una bahía de transporte en el barrio 28 de Marzo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/4e6c1581b7346a36"
       },
       "url": "/noticia/212/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -144,11 +150,11 @@
         "id": "2f30fedaa18b99a1",
         "hash": "2f30fedaa18b99a14c5fb932ccd59f3875e69d2d02abe24b728059e013f9a8e9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_YwfhNsW.JPG",
-        "rutaOriginal": "/media/originales/2f30fedaa18b99a1.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2f30fedaa18b99a1-400.webp",
-          "800w": "/media/derivados/2f30fedaa18b99a1-800.webp",
-          "1600w": "/media/derivados/2f30fedaa18b99a1-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -156,7 +162,8 @@
         "alt": "Agentes de Control monitorean el ingreso de vehículos en Guayusa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/2f30fedaa18b99a1"
       },
       "url": "/noticia/211/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -171,11 +178,11 @@
         "id": "561406fed6b9ea26",
         "hash": "561406fed6b9ea261a2fdc23699a62510f45d44a9ec5aacaa3c319bf80c9e493",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.JPG",
-        "rutaOriginal": "/media/originales/561406fed6b9ea26.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850357/orellana-web/561406fed6b9ea26.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/561406fed6b9ea26-400.webp",
-          "800w": "/media/derivados/561406fed6b9ea26-800.webp",
-          "1600w": "/media/derivados/561406fed6b9ea26-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -183,7 +190,8 @@
         "alt": "Lugares emblemáticos para preservar su historia y sus raíces como patrimonio cultural",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/561406fed6b9ea26"
       },
       "url": "/noticia/210/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -198,11 +206,11 @@
         "id": "8c6149cde83157a6",
         "hash": "8c6149cde83157a6fcf9ed80cb2b8e01425520402a3e8a4856345f6652a3055e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_WuX69JV.JPG",
-        "rutaOriginal": "/media/originales/8c6149cde83157a6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850361/orellana-web/8c6149cde83157a6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8c6149cde83157a6-400.webp",
-          "800w": "/media/derivados/8c6149cde83157a6-800.webp",
-          "1600w": "/media/derivados/8c6149cde83157a6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -210,7 +218,8 @@
         "alt": "Shirma Cortés transforma el futuro ambiental del cantón con una decisión histórica para el manejo de residuos sólidos no peligrosos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/8c6149cde83157a6"
       },
       "url": "/noticia/209/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"
@@ -225,11 +234,11 @@
         "id": "3478875ef38a5a85",
         "hash": "3478875ef38a5a8526544557ae5441ba104a585abe9a7491c905dc095b750fb2",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02.JPG",
-        "rutaOriginal": "/media/originales/3478875ef38a5a85.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850364/orellana-web/3478875ef38a5a85.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3478875ef38a5a85-400.webp",
-          "800w": "/media/derivados/3478875ef38a5a85-800.webp",
-          "1600w": "/media/derivados/3478875ef38a5a85-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -237,7 +246,8 @@
         "alt": "Alcaldía mantiene controles periódicos contra la invasión de bienes públicos y privados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/3478875ef38a5a85"
       },
       "url": "/noticia/208/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=9"

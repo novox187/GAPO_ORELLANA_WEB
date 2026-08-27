@@ -9,10 +9,11 @@
       "id": "f3cc5a6a9120766b",
       "hash": "f3cc5a6a9120766b1db7b0dee7385ffc85fd154080547b40d053af1dbc009efa",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_ELABORACION_ABONO.png",
-      "rutaOriginal": "/media/originales/f3cc5a6a9120766b.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851985/orellana-web/f3cc5a6a9120766b.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/f3cc5a6a9120766b-400.webp",
-        "800w": "/media/derivados/f3cc5a6a9120766b-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Elaboración de abono denominado caldo mineral para todo",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/f3cc5a6a9120766b"
     },
     "url": "/noticia/37/",
     "fuente_url": "https://orellana.gob.ec/noticia/37/",
@@ -30,10 +32,11 @@
         "id": "f3cc5a6a9120766b",
         "hash": "f3cc5a6a9120766b1db7b0dee7385ffc85fd154080547b40d053af1dbc009efa",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_ELABORACION_ABONO.png",
-        "rutaOriginal": "/media/originales/f3cc5a6a9120766b.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851985/orellana-web/f3cc5a6a9120766b.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/f3cc5a6a9120766b-400.webp",
-          "800w": "/media/derivados/f3cc5a6a9120766b-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Elaboración de abono denominado caldo mineral para todo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/f3cc5a6a9120766b"
       }
     ]
   }

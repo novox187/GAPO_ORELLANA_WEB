@@ -10,11 +10,11 @@
         "id": "d86625b6b1157e42",
         "hash": "d86625b6b1157e42e74db474792b266e8bdfa13ff649a7f18f2d26733dbd5c0c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_Y69SPjG.JPG",
-        "rutaOriginal": "/media/originales/d86625b6b1157e42.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850076/orellana-web/d86625b6b1157e42.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d86625b6b1157e42-400.webp",
-          "800w": "/media/derivados/d86625b6b1157e42-800.webp",
-          "1600w": "/media/derivados/d86625b6b1157e42-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850076/orellana-web/d86625b6b1157e42.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850076/orellana-web/d86625b6b1157e42.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850076/orellana-web/d86625b6b1157e42.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Navidad con obras y esperanza: Shirma Cortés lleva alegría a los niños y anuncia proyectos que transforman el cantón",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/d86625b6b1157e42"
       },
       "url": "/noticia/225/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -37,10 +38,11 @@
         "id": "c6323c1bb81a6231",
         "hash": "c6323c1bb81a623199b07e10aa777a0d9aa288ae0194ee752c1e05e4475d3bc7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.jpg",
-        "rutaOriginal": "/media/originales/c6323c1bb81a6231.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c6323c1bb81a6231-400.webp",
-          "800w": "/media/derivados/c6323c1bb81a6231-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg"
         },
         "ancho": 1280,
         "alto": 717,
@@ -48,7 +50,8 @@
         "alt": "Con liderazgo y decisión, la alcaldesa Shirma Cortés recupera la maquinaria municipal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/c6323c1bb81a6231"
       },
       "url": "/noticia/224/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -63,11 +66,11 @@
         "id": "5caacdf172087dc5",
         "hash": "5caacdf172087dc5196f7712469f43bea4e19991f8af73871fc78dad46a5981c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_LcHXRw9.JPG",
-        "rutaOriginal": "/media/originales/5caacdf172087dc5.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850081/orellana-web/5caacdf172087dc5.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5caacdf172087dc5-400.webp",
-          "800w": "/media/derivados/5caacdf172087dc5-800.webp",
-          "1600w": "/media/derivados/5caacdf172087dc5-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg"
         },
         "ancho": 5472,
         "alto": 3078,
@@ -75,7 +78,8 @@
         "alt": "Alcaldesa Shirma Cortés lidera histórica obra de alcantarillado pluvial que protege a más de 8.000 familias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/5caacdf172087dc5"
       },
       "url": "/noticia/223/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -90,11 +94,11 @@
         "id": "f2d4e81aa4009082",
         "hash": "f2d4e81aa40090826b9c0cdda400a756fdfc0ddd63cc539942e3852e62fc1960",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG.JPG",
-        "rutaOriginal": "/media/originales/f2d4e81aa4009082.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f2d4e81aa4009082-400.webp",
-          "800w": "/media/derivados/f2d4e81aa4009082-800.webp",
-          "1600w": "/media/derivados/f2d4e81aa4009082-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -102,7 +106,8 @@
         "alt": "Concejo Municipal aprueba ordenanza de zonas homogéneas y delega a Dayuma la edificación de UBS",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/f2d4e81aa4009082"
       },
       "url": "/noticia/222/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -117,11 +122,11 @@
         "id": "263f0cd0aab41348",
         "hash": "263f0cd0aab41348b4a4bdd48919b5c79460e50c8c9fb0c9afd3eece4f58e605",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_BHLWyfO.JPG",
-        "rutaOriginal": "/media/originales/263f0cd0aab41348.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850206/orellana-web/263f0cd0aab41348.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/263f0cd0aab41348-400.webp",
-          "800w": "/media/derivados/263f0cd0aab41348-800.webp",
-          "1600w": "/media/derivados/263f0cd0aab41348-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850206/orellana-web/263f0cd0aab41348.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850206/orellana-web/263f0cd0aab41348.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850206/orellana-web/263f0cd0aab41348.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -129,7 +134,8 @@
         "alt": "La alcaldesa Shirma Cortés clausura las colonias navideñas que transforman vidas en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/263f0cd0aab41348"
       },
       "url": "/noticia/221/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -144,11 +150,11 @@
         "id": "3a8554c5726d513c",
         "hash": "3a8554c5726d513c9d0e94c450143ad9f7c1259cee97f59cd5aa38f435af4119",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_2svBt1l.JPG",
-        "rutaOriginal": "/media/originales/3a8554c5726d513c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852624/orellana-web/3a8554c5726d513c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3a8554c5726d513c-400.webp",
-          "800w": "/media/derivados/3a8554c5726d513c-800.webp",
-          "1600w": "/media/derivados/3a8554c5726d513c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -156,7 +162,8 @@
         "alt": "Funcionarios municipales reciben capacitaciones en seguridad laboral y manejo defensivo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/3a8554c5726d513c"
       },
       "url": "/noticia/220/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -171,11 +178,11 @@
         "id": "c3014dd0f0b3ee8e",
         "hash": "c3014dd0f0b3ee8e18b76e3374c1586ab91d9cd5cde3020cb91adf4a65622210",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_aDqdD7P.JPG",
-        "rutaOriginal": "/media/originales/c3014dd0f0b3ee8e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852626/orellana-web/c3014dd0f0b3ee8e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c3014dd0f0b3ee8e-400.webp",
-          "800w": "/media/derivados/c3014dd0f0b3ee8e-800.webp",
-          "1600w": "/media/derivados/c3014dd0f0b3ee8e-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852626/orellana-web/c3014dd0f0b3ee8e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852626/orellana-web/c3014dd0f0b3ee8e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852626/orellana-web/c3014dd0f0b3ee8e.jpg"
         },
         "ancho": 4096,
         "alto": 2304,
@@ -183,7 +190,8 @@
         "alt": "Después de décadas de espera, Estrella Yaku inaugura su cancha gracias a una gestión que cumple",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/c3014dd0f0b3ee8e"
       },
       "url": "/noticia/219/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -198,11 +206,11 @@
         "id": "c40bad02c9b8f76a",
         "hash": "c40bad02c9b8f76a16a7e20d529dbae81e2aeb9c213a034fa445dd088fea22c4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_barZub1.jpg",
-        "rutaOriginal": "/media/originales/c40bad02c9b8f76a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c40bad02c9b8f76a-400.webp",
-          "800w": "/media/derivados/c40bad02c9b8f76a-800.webp",
-          "1600w": "/media/derivados/c40bad02c9b8f76a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -210,7 +218,8 @@
         "alt": "El Coca brilla esta Navidad: la alcaldesa lidera el encendido de luces navideñas",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/c40bad02c9b8f76a"
       },
       "url": "/noticia/218/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"
@@ -225,11 +234,11 @@
         "id": "8211235eec48f186",
         "hash": "8211235eec48f186892915a825f211fe4039a744095101f8318cb111978bbf17",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_7ddyoCy.JPG",
-        "rutaOriginal": "/media/originales/8211235eec48f186.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852628/orellana-web/8211235eec48f186.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8211235eec48f186-400.webp",
-          "800w": "/media/derivados/8211235eec48f186-800.webp",
-          "1600w": "/media/derivados/8211235eec48f186-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg"
         },
         "ancho": 5472,
         "alto": 3648,
@@ -237,7 +246,8 @@
         "alt": "Visita técnica de juez confirma grandes progresos en gestión de desechos sólidos en el sitio de disposición final",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/8211235eec48f186"
       },
       "url": "/noticia/217/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=8"

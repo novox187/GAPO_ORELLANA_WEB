@@ -9,10 +9,11 @@
       "id": "1e252531216f79c6",
       "hash": "1e252531216f79c6282af312d42490e1d8624646b8a0574cdf2a7b3ee9b55170",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17.jpg",
-      "rutaOriginal": "/media/originales/1e252531216f79c6.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851299/orellana-web/1e252531216f79c6.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/1e252531216f79c6-400.webp",
-        "800w": "/media/derivados/1e252531216f79c6-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg"
       },
       "ancho": 1280,
       "alto": 960,
@@ -20,7 +21,8 @@
       "alt": "Estudiantes de la ESPOCH realizan recorrido técnico al relleno sanitario",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+      "cloudinaryPublicId": "orellana-web/1e252531216f79c6"
     },
     "url": "/noticia/105/",
     "fuente_url": "https://orellana.gob.ec/noticia/105/",
@@ -30,10 +32,11 @@
         "id": "1e252531216f79c6",
         "hash": "1e252531216f79c6282af312d42490e1d8624646b8a0574cdf2a7b3ee9b55170",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17.jpg",
-        "rutaOriginal": "/media/originales/1e252531216f79c6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851299/orellana-web/1e252531216f79c6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1e252531216f79c6-400.webp",
-          "800w": "/media/derivados/1e252531216f79c6-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg"
         },
         "ancho": 1280,
         "alto": 960,
@@ -41,7 +44,8 @@
         "alt": "Estudiantes de la ESPOCH realizan recorrido técnico al relleno sanitario",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/1e252531216f79c6"
       }
     ]
   }

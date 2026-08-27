@@ -9,11 +9,11 @@
       "id": "b26d7e03f4a8600f",
       "hash": "b26d7e03f4a8600f3fa96c3c9c459870d03a529a2ed30c1482b3a7eb99c4f23f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_cF2uRhS.JPG",
-      "rutaOriginal": "/media/originales/b26d7e03f4a8600f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852645/orellana-web/b26d7e03f4a8600f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/b26d7e03f4a8600f-400.webp",
-        "800w": "/media/derivados/b26d7e03f4a8600f-800.webp",
-        "1600w": "/media/derivados/b26d7e03f4a8600f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852645/orellana-web/b26d7e03f4a8600f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852645/orellana-web/b26d7e03f4a8600f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852645/orellana-web/b26d7e03f4a8600f.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Entrega de Kits Alimenticios a personas con discapacidad en la parroquia Dayuma",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+      "cloudinaryPublicId": "orellana-web/b26d7e03f4a8600f"
     },
     "url": "/noticia/186/",
     "fuente_url": "https://orellana.gob.ec/noticia/186/",
@@ -31,11 +32,11 @@
         "id": "b26d7e03f4a8600f",
         "hash": "b26d7e03f4a8600f3fa96c3c9c459870d03a529a2ed30c1482b3a7eb99c4f23f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_cF2uRhS.JPG",
-        "rutaOriginal": "/media/originales/b26d7e03f4a8600f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852645/orellana-web/b26d7e03f4a8600f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b26d7e03f4a8600f-400.webp",
-          "800w": "/media/derivados/b26d7e03f4a8600f-800.webp",
-          "1600w": "/media/derivados/b26d7e03f4a8600f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852645/orellana-web/b26d7e03f4a8600f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852645/orellana-web/b26d7e03f4a8600f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852645/orellana-web/b26d7e03f4a8600f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Entrega de Kits Alimenticios a personas con discapacidad en la parroquia Dayuma",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+        "cloudinaryPublicId": "orellana-web/b26d7e03f4a8600f"
       }
     ]
   }

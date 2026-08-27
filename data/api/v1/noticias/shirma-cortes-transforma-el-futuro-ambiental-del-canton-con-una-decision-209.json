@@ -9,11 +9,11 @@
       "id": "8c6149cde83157a6",
       "hash": "8c6149cde83157a6fcf9ed80cb2b8e01425520402a3e8a4856345f6652a3055e",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_WuX69JV.JPG",
-      "rutaOriginal": "/media/originales/8c6149cde83157a6.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850361/orellana-web/8c6149cde83157a6.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8c6149cde83157a6-400.webp",
-        "800w": "/media/derivados/8c6149cde83157a6-800.webp",
-        "1600w": "/media/derivados/8c6149cde83157a6-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Shirma Cortés transforma el futuro ambiental del cantón con una decisión histórica para el manejo de residuos sólidos no peligrosos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/8c6149cde83157a6"
     },
     "url": "/noticia/209/",
     "fuente_url": "https://orellana.gob.ec/noticia/209/",
@@ -31,11 +32,11 @@
         "id": "8c6149cde83157a6",
         "hash": "8c6149cde83157a6fcf9ed80cb2b8e01425520402a3e8a4856345f6652a3055e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_WuX69JV.JPG",
-        "rutaOriginal": "/media/originales/8c6149cde83157a6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850361/orellana-web/8c6149cde83157a6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8c6149cde83157a6-400.webp",
-          "800w": "/media/derivados/8c6149cde83157a6-800.webp",
-          "1600w": "/media/derivados/8c6149cde83157a6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850361/orellana-web/8c6149cde83157a6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Shirma Cortés transforma el futuro ambiental del cantón con una decisión histórica para el manejo de residuos sólidos no peligrosos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/8c6149cde83157a6"
       }
     ]
   }

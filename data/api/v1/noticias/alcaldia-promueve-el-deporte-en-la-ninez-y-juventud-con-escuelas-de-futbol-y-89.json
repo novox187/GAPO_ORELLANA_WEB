@@ -9,11 +9,11 @@
       "id": "0265d14b9470d845",
       "hash": "0265d14b9470d845992cc3f6b3f6dab510398952793ea5109c0fba2068a0e4db",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_1_IMG_3661.JPG",
-      "rutaOriginal": "/media/originales/0265d14b9470d845.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851347/orellana-web/0265d14b9470d845.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/0265d14b9470d845-400.webp",
-        "800w": "/media/derivados/0265d14b9470d845-800.webp",
-        "1600w": "/media/derivados/0265d14b9470d845-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía promueve el deporte en la niñez y juventud con escuelas de fútbol y básquet",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+      "cloudinaryPublicId": "orellana-web/0265d14b9470d845"
     },
     "url": "/noticia/89/",
     "fuente_url": "https://orellana.gob.ec/noticia/89/",
@@ -31,11 +32,11 @@
         "id": "0265d14b9470d845",
         "hash": "0265d14b9470d845992cc3f6b3f6dab510398952793ea5109c0fba2068a0e4db",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_1_IMG_3661.JPG",
-        "rutaOriginal": "/media/originales/0265d14b9470d845.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851347/orellana-web/0265d14b9470d845.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0265d14b9470d845-400.webp",
-          "800w": "/media/derivados/0265d14b9470d845-800.webp",
-          "1600w": "/media/derivados/0265d14b9470d845-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía promueve el deporte en la niñez y juventud con escuelas de fútbol y básquet",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/0265d14b9470d845"
       }
     ]
   }

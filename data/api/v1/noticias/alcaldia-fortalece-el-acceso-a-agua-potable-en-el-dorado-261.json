@@ -9,11 +9,11 @@
       "id": "91b403111640cda4",
       "hash": "91b403111640cda44a055043346d59f65821f285e7f464b1c97d15a3fec09637",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9646.JPG",
-      "rutaOriginal": "/media/originales/91b403111640cda4.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852596/orellana-web/91b403111640cda4.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/91b403111640cda4-400.webp",
-        "800w": "/media/derivados/91b403111640cda4-800.webp",
-        "1600w": "/media/derivados/91b403111640cda4-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852596/orellana-web/91b403111640cda4.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852596/orellana-web/91b403111640cda4.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852596/orellana-web/91b403111640cda4.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía fortalece el acceso a agua potable en El Dorado",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/91b403111640cda4"
     },
     "url": "/noticia/261/",
     "fuente_url": "https://orellana.gob.ec/noticia/261/",
@@ -31,11 +32,11 @@
         "id": "91b403111640cda4",
         "hash": "91b403111640cda44a055043346d59f65821f285e7f464b1c97d15a3fec09637",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9646.JPG",
-        "rutaOriginal": "/media/originales/91b403111640cda4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852596/orellana-web/91b403111640cda4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/91b403111640cda4-400.webp",
-          "800w": "/media/derivados/91b403111640cda4-800.webp",
-          "1600w": "/media/derivados/91b403111640cda4-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852596/orellana-web/91b403111640cda4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852596/orellana-web/91b403111640cda4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852596/orellana-web/91b403111640cda4.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía fortalece el acceso a agua potable en El Dorado",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/91b403111640cda4"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "79733f8383cce085",
       "hash": "79733f8383cce08574037a974dda391baecc1e014d63fec3a701b2b55a707268",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24.JPG",
-      "rutaOriginal": "/media/originales/79733f8383cce085.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852648/orellana-web/79733f8383cce085.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/79733f8383cce085-400.webp",
-        "800w": "/media/derivados/79733f8383cce085-800.webp",
-        "1600w": "/media/derivados/79733f8383cce085-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852648/orellana-web/79733f8383cce085.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852648/orellana-web/79733f8383cce085.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852648/orellana-web/79733f8383cce085.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Con alegría y gratitud, la alcaldía celebra la vida y la sabiduría de sus adultos mayores",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+      "cloudinaryPublicId": "orellana-web/79733f8383cce085"
     },
     "url": "/noticia/184/",
     "fuente_url": "https://orellana.gob.ec/noticia/184/",
@@ -31,11 +32,11 @@
         "id": "79733f8383cce085",
         "hash": "79733f8383cce08574037a974dda391baecc1e014d63fec3a701b2b55a707268",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24.JPG",
-        "rutaOriginal": "/media/originales/79733f8383cce085.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852648/orellana-web/79733f8383cce085.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/79733f8383cce085-400.webp",
-          "800w": "/media/derivados/79733f8383cce085-800.webp",
-          "1600w": "/media/derivados/79733f8383cce085-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852648/orellana-web/79733f8383cce085.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852648/orellana-web/79733f8383cce085.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852648/orellana-web/79733f8383cce085.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Con alegría y gratitud, la alcaldía celebra la vida y la sabiduría de sus adultos mayores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+        "cloudinaryPublicId": "orellana-web/79733f8383cce085"
       }
     ]
   }

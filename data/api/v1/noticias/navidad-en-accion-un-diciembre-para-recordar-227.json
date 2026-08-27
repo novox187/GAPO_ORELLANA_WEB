@@ -9,11 +9,11 @@
       "id": "6168c0b7ecd56ff6",
       "hash": "6168c0b7ecd56ff632ac57942f986b5e95690e8a940a87640b37cf16eef8ce57",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_YIqkMd8.JPG",
-      "rutaOriginal": "/media/originales/6168c0b7ecd56ff6.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/6168c0b7ecd56ff6-400.webp",
-        "800w": "/media/derivados/6168c0b7ecd56ff6-800.webp",
-        "1600w": "/media/derivados/6168c0b7ecd56ff6-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "“Navidad en acción, un diciembre para recordar”",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+      "cloudinaryPublicId": "orellana-web/6168c0b7ecd56ff6"
     },
     "url": "/noticia/227/",
     "fuente_url": "https://orellana.gob.ec/noticia/227/",
@@ -31,11 +32,11 @@
         "id": "6168c0b7ecd56ff6",
         "hash": "6168c0b7ecd56ff632ac57942f986b5e95690e8a940a87640b37cf16eef8ce57",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_YIqkMd8.JPG",
-        "rutaOriginal": "/media/originales/6168c0b7ecd56ff6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6168c0b7ecd56ff6-400.webp",
-          "800w": "/media/derivados/6168c0b7ecd56ff6-800.webp",
-          "1600w": "/media/derivados/6168c0b7ecd56ff6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850069/orellana-web/6168c0b7ecd56ff6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "“Navidad en acción, un diciembre para recordar”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/6168c0b7ecd56ff6"
       }
     ]
   }

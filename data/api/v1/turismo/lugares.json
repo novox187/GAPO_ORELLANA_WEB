@@ -241,11 +241,11 @@
         "id": "644ebd3e1a73af2b",
         "hash": "644ebd3e1a73af2bd0169c0fd1bc3ce1837d3cfc16d5e5198ff1fb73f0d50b16",
         "urlOriginal": "https://orellana.gob.ec/static/img/lugares-por-visitar.png",
-        "rutaOriginal": "/media/originales/644ebd3e1a73af2b.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849396/orellana-web/644ebd3e1a73af2b.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/644ebd3e1a73af2b-400.webp",
-          "800w": "/media/derivados/644ebd3e1a73af2b-800.webp",
-          "1600w": "/media/derivados/644ebd3e1a73af2b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849396/orellana-web/644ebd3e1a73af2b.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849396/orellana-web/644ebd3e1a73af2b.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849396/orellana-web/644ebd3e1a73af2b.png"
         },
         "ancho": 1635,
         "alto": 229,
@@ -253,15 +253,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/644ebd3e1a73af2b"
       },
       {
         "id": "7220d2efca8ee036",
         "hash": "7220d2efca8ee036e86fd32edd2390df52497cc5401ab0f19e9c004efade3bcf",
         "urlOriginal": "https://orellana.gob.ec/static/img/amanecer.jpg",
-        "rutaOriginal": "/media/originales/7220d2efca8ee036.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849397/orellana-web/7220d2efca8ee036.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7220d2efca8ee036-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849397/orellana-web/7220d2efca8ee036.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849397/orellana-web/7220d2efca8ee036.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849397/orellana-web/7220d2efca8ee036.jpg"
         },
         "ancho": 781,
         "alto": 501,
@@ -269,15 +272,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/7220d2efca8ee036"
       },
       {
         "id": "a63b805f0bbfb39c",
         "hash": "a63b805f0bbfb39cb4c8ab5898875684f40ba622cb0875e9ac18bb3812f3c213",
         "urlOriginal": "https://orellana.gob.ec/static/img/atardecer-comunidad-pompeya.jpg",
-        "rutaOriginal": "/media/originales/a63b805f0bbfb39c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849400/orellana-web/a63b805f0bbfb39c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a63b805f0bbfb39c-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849400/orellana-web/a63b805f0bbfb39c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849400/orellana-web/a63b805f0bbfb39c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849400/orellana-web/a63b805f0bbfb39c.jpg"
         },
         "ancho": 781,
         "alto": 501,
@@ -285,15 +291,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/a63b805f0bbfb39c"
       },
       {
         "id": "af2c1997650e8558",
         "hash": "af2c1997650e85582a1a93b870c43377204b7c2b1818dad003a544765d49c4f6",
         "urlOriginal": "https://orellana.gob.ec/static/img/bocana-rio-payamino.jpg",
-        "rutaOriginal": "/media/originales/af2c1997650e8558.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849402/orellana-web/af2c1997650e8558.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/af2c1997650e8558-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849402/orellana-web/af2c1997650e8558.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849402/orellana-web/af2c1997650e8558.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849402/orellana-web/af2c1997650e8558.jpg"
         },
         "ancho": 781,
         "alto": 501,
@@ -301,15 +310,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/af2c1997650e8558"
       },
       {
         "id": "d691ce970c4028b2",
         "hash": "d691ce970c4028b2018271df66d6bb9b9a09bef0631152c4a81941e979803021",
         "urlOriginal": "https://orellana.gob.ec/static/img/laguna-de-anangu.jpg",
-        "rutaOriginal": "/media/originales/d691ce970c4028b2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849403/orellana-web/d691ce970c4028b2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d691ce970c4028b2-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849403/orellana-web/d691ce970c4028b2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849403/orellana-web/d691ce970c4028b2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849403/orellana-web/d691ce970c4028b2.jpg"
         },
         "ancho": 781,
         "alto": 501,
@@ -317,15 +329,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/d691ce970c4028b2"
       },
       {
         "id": "bffa89f3c901cd47",
         "hash": "bffa89f3c901cd47867d8daa7cc71186ad7d2ee71c9eeddb8d97b6ee966f2a39",
         "urlOriginal": "https://orellana.gob.ec/static/img/laguna-de-taracoa.jpg",
-        "rutaOriginal": "/media/originales/bffa89f3c901cd47.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849405/orellana-web/bffa89f3c901cd47.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bffa89f3c901cd47-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849405/orellana-web/bffa89f3c901cd47.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849405/orellana-web/bffa89f3c901cd47.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849405/orellana-web/bffa89f3c901cd47.jpg"
         },
         "ancho": 781,
         "alto": 511,
@@ -333,15 +348,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/bffa89f3c901cd47"
       },
       {
         "id": "c700026bfff8b35c",
         "hash": "c700026bfff8b35c6b4ab2076852e066d24e2d4fb0266ea492cd13438f66e0b7",
         "urlOriginal": "https://orellana.gob.ec/static/img/malocas.jpg",
-        "rutaOriginal": "/media/originales/c700026bfff8b35c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849406/orellana-web/c700026bfff8b35c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c700026bfff8b35c-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849406/orellana-web/c700026bfff8b35c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849406/orellana-web/c700026bfff8b35c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849406/orellana-web/c700026bfff8b35c.jpg"
         },
         "ancho": 781,
         "alto": 511,
@@ -349,15 +367,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/c700026bfff8b35c"
       },
       {
         "id": "cd82af8e6d7e3b30",
         "hash": "cd82af8e6d7e3b3039c2d23ad7cd1278430171e86679d323bb95ce9e1a8923ee",
         "urlOriginal": "https://orellana.gob.ec/static/img/mirardor-comunidad-anangu.jpg",
-        "rutaOriginal": "/media/originales/cd82af8e6d7e3b30.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849408/orellana-web/cd82af8e6d7e3b30.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/cd82af8e6d7e3b30-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849408/orellana-web/cd82af8e6d7e3b30.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849408/orellana-web/cd82af8e6d7e3b30.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849408/orellana-web/cd82af8e6d7e3b30.jpg"
         },
         "ancho": 781,
         "alto": 501,
@@ -365,29 +386,37 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/cd82af8e6d7e3b30"
       },
       {
         "id": "c6647ada5832ee2b",
         "hash": "c6647ada5832ee2b94a047fd0b5e42c78a13d5dc02467dd307d6d2b501bcc92d",
         "urlOriginal": "https://orellana.gob.ec/static/img/banner-primero.gif",
-        "rutaOriginal": "/media/originales/c6647ada5832ee2b.gif",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849409/orellana-web/c6647ada5832ee2b.gif",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849409/orellana-web/c6647ada5832ee2b.gif",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849409/orellana-web/c6647ada5832ee2b.gif",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849409/orellana-web/c6647ada5832ee2b.gif"
+        },
         "ancho": null,
         "alto": null,
         "bytes": 256047,
         "alt": "",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/c6647ada5832ee2b"
       },
       {
         "id": "a14bddb9f754396a",
         "hash": "a14bddb9f754396a912b94a22936e5e01ad83b748779031cea53eac1ff946b9a",
         "urlOriginal": "https://orellana.gob.ec/static/img/supay-kucha.png",
-        "rutaOriginal": "/media/originales/a14bddb9f754396a.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849413/orellana-web/a14bddb9f754396a.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/a14bddb9f754396a-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849413/orellana-web/a14bddb9f754396a.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849413/orellana-web/a14bddb9f754396a.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849413/orellana-web/a14bddb9f754396a.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -395,43 +424,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/a14bddb9f754396a"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "6f268707ae544183",
         "hash": "6f268707ae54418382c53986eef3319cd47b02eb2a6f71bc4b2e57f57b584690",
         "urlOriginal": "https://orellana.gob.ec/static/img/amaru-yaya.png",
-        "rutaOriginal": "/media/originales/6f268707ae544183.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849417/orellana-web/6f268707ae544183.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/6f268707ae544183-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849417/orellana-web/6f268707ae544183.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849417/orellana-web/6f268707ae544183.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849417/orellana-web/6f268707ae544183.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -439,43 +481,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/6f268707ae544183"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "61f31767ea8ae975",
         "hash": "61f31767ea8ae975f420f6d5513cd65ed93da5676049d3da9e8c4298008e30d8",
         "urlOriginal": "https://orellana.gob.ec/static/img/yasuni-land.png",
-        "rutaOriginal": "/media/originales/61f31767ea8ae975.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849418/orellana-web/61f31767ea8ae975.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/61f31767ea8ae975-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849418/orellana-web/61f31767ea8ae975.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849418/orellana-web/61f31767ea8ae975.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849418/orellana-web/61f31767ea8ae975.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -483,43 +538,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/61f31767ea8ae975"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "d551d702b70e8361",
         "hash": "d551d702b70e83617b72a5799883ea43df6835234a0ed0d5214fa26175ced8c2",
         "urlOriginal": "https://orellana.gob.ec/static/img/isla-de-los-monos.png",
-        "rutaOriginal": "/media/originales/d551d702b70e8361.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849421/orellana-web/d551d702b70e8361.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/d551d702b70e8361-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849421/orellana-web/d551d702b70e8361.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849421/orellana-web/d551d702b70e8361.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849421/orellana-web/d551d702b70e8361.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -527,45 +595,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/d551d702b70e8361"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "a097d90a3e0c7617",
         "hash": "a097d90a3e0c76172c68dea7470c2edaa1028c6089a395c6ece95845f63e44da",
         "urlOriginal": "https://orellana.gob.ec/static/img/banner-2.jpg",
-        "rutaOriginal": "/media/originales/a097d90a3e0c7617.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849422/orellana-web/a097d90a3e0c7617.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a097d90a3e0c7617-400.webp",
-          "800w": "/media/derivados/a097d90a3e0c7617-800.webp",
-          "1600w": "/media/derivados/a097d90a3e0c7617-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849422/orellana-web/a097d90a3e0c7617.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849422/orellana-web/a097d90a3e0c7617.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849422/orellana-web/a097d90a3e0c7617.jpg"
         },
         "ancho": 2260,
         "alto": 329,
@@ -573,15 +652,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/a097d90a3e0c7617"
       },
       {
         "id": "f7b1d7099b316b8d",
         "hash": "f7b1d7099b316b8d87aa4b9b91ecaf8fde90fd2764ba071ab89564fef31bb58f",
         "urlOriginal": "https://orellana.gob.ec/static/img/los-tres-rios.png",
-        "rutaOriginal": "/media/originales/f7b1d7099b316b8d.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849424/orellana-web/f7b1d7099b316b8d.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/f7b1d7099b316b8d-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849424/orellana-web/f7b1d7099b316b8d.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849424/orellana-web/f7b1d7099b316b8d.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849424/orellana-web/f7b1d7099b316b8d.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -589,43 +671,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/f7b1d7099b316b8d"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "46e80cc6a07f6d5f",
         "hash": "46e80cc6a07f6d5ff12c0326b1566cfd2341e109b4b7f2343fbf1c4ab9807ba4",
         "urlOriginal": "https://orellana.gob.ec/static/img/coca-zoo.png",
-        "rutaOriginal": "/media/originales/46e80cc6a07f6d5f.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849546/orellana-web/46e80cc6a07f6d5f.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/46e80cc6a07f6d5f-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849546/orellana-web/46e80cc6a07f6d5f.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849546/orellana-web/46e80cc6a07f6d5f.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849546/orellana-web/46e80cc6a07f6d5f.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -633,43 +728,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/46e80cc6a07f6d5f"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "c8754fa41a23e1dc",
         "hash": "c8754fa41a23e1dcd7f83080543f2a3dbd37c01cd2ce01a0c9270a5ca24b7103",
         "urlOriginal": "https://orellana.gob.ec/static/img/yarina.png",
-        "rutaOriginal": "/media/originales/c8754fa41a23e1dc.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849549/orellana-web/c8754fa41a23e1dc.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/c8754fa41a23e1dc-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849549/orellana-web/c8754fa41a23e1dc.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849549/orellana-web/c8754fa41a23e1dc.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849549/orellana-web/c8754fa41a23e1dc.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -677,43 +785,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/c8754fa41a23e1dc"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "2733146604aa4aa2",
         "hash": "2733146604aa4aa2f28fdb94ee3d94889f7fa7027f14990f114aabba724e0954",
         "urlOriginal": "https://orellana.gob.ec/static/img/saladero.png",
-        "rutaOriginal": "/media/originales/2733146604aa4aa2.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849551/orellana-web/2733146604aa4aa2.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/2733146604aa4aa2-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849551/orellana-web/2733146604aa4aa2.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849551/orellana-web/2733146604aa4aa2.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849551/orellana-web/2733146604aa4aa2.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -721,43 +842,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/2733146604aa4aa2"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "67468885359789aa",
         "hash": "67468885359789aa9dfe9b53a20eb782f536e62104afff171c0027572345f683",
         "urlOriginal": "https://orellana.gob.ec/static/img/laguna-de-anangu.png",
-        "rutaOriginal": "/media/originales/67468885359789aa.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849553/orellana-web/67468885359789aa.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/67468885359789aa-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849553/orellana-web/67468885359789aa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849553/orellana-web/67468885359789aa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849553/orellana-web/67468885359789aa.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -765,43 +899,56 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/67468885359789aa"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       },
       {
         "id": "17161ddfe9fd1e6e",
         "hash": "17161ddfe9fd1e6e6bdd6f1dee35b591329951181f4085d754d2b73a26148750",
         "urlOriginal": "https://orellana.gob.ec/static/img/ila-kucha.png",
-        "rutaOriginal": "/media/originales/17161ddfe9fd1e6e.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849555/orellana-web/17161ddfe9fd1e6e.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/17161ddfe9fd1e6e-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849555/orellana-web/17161ddfe9fd1e6e.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849555/orellana-web/17161ddfe9fd1e6e.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849555/orellana-web/17161ddfe9fd1e6e.png"
         },
         "ancho": 489,
         "alto": 652,
@@ -809,35 +956,46 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/17161ddfe9fd1e6e"
       },
       {
         "id": "33eaf5b035e2d486",
         "hash": "33eaf5b035e2d48622ba6407d8e081a9280af40c0fff9b42b448e3ae6a8c9bba",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-2.png",
-        "rutaOriginal": "/media/originales/33eaf5b035e2d486.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849414/orellana-web/33eaf5b035e2d486.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849414/orellana-web/33eaf5b035e2d486.png"
+        },
         "ancho": 179,
         "alto": 197,
         "bytes": 9649,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/33eaf5b035e2d486"
       },
       {
         "id": "050072933d1ad8fa",
         "hash": "050072933d1ad8faafeaa167f12eea6b4c632f30f4b770d034a01272738b2fd8",
         "urlOriginal": "https://orellana.gob.ec/static/img/ICONO-1.png",
-        "rutaOriginal": "/media/originales/050072933d1ad8fa.png",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849415/orellana-web/050072933d1ad8fa.png",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849415/orellana-web/050072933d1ad8fa.png"
+        },
         "ancho": 175,
         "alto": 139,
         "bytes": 6108,
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/lugares/"
+        "fuenteUrl": "https://orellana.gob.ec/lugares/",
+        "cloudinaryPublicId": "orellana-web/050072933d1ad8fa"
       }
     ],
     "documentos": [],

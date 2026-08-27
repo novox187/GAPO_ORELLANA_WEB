@@ -9,11 +9,11 @@
       "id": "2732e17cdf14f421",
       "hash": "2732e17cdf14f421565b819a7fd0be9f8aa4224f5417a8e9cbc97045a2665e90",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_9111.JPG",
-      "rutaOriginal": "/media/originales/2732e17cdf14f421.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851892/orellana-web/2732e17cdf14f421.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/2732e17cdf14f421-400.webp",
-        "800w": "/media/derivados/2732e17cdf14f421-800.webp",
-        "1600w": "/media/derivados/2732e17cdf14f421-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851892/orellana-web/2732e17cdf14f421.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851892/orellana-web/2732e17cdf14f421.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851892/orellana-web/2732e17cdf14f421.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Operativos de control en la parroquia Nuevo Paraíso",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/2732e17cdf14f421"
     },
     "url": "/noticia/71/",
     "fuente_url": "https://orellana.gob.ec/noticia/71/",
@@ -31,11 +32,11 @@
         "id": "2732e17cdf14f421",
         "hash": "2732e17cdf14f421565b819a7fd0be9f8aa4224f5417a8e9cbc97045a2665e90",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_9111.JPG",
-        "rutaOriginal": "/media/originales/2732e17cdf14f421.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851892/orellana-web/2732e17cdf14f421.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2732e17cdf14f421-400.webp",
-          "800w": "/media/derivados/2732e17cdf14f421-800.webp",
-          "1600w": "/media/derivados/2732e17cdf14f421-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851892/orellana-web/2732e17cdf14f421.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851892/orellana-web/2732e17cdf14f421.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851892/orellana-web/2732e17cdf14f421.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Operativos de control en la parroquia Nuevo Paraíso",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/2732e17cdf14f421"
       }
     ]
   }

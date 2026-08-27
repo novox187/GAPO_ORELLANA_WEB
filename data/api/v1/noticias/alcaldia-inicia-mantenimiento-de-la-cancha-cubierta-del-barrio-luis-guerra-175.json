@@ -9,11 +9,11 @@
       "id": "1548d8a4bce135ca",
       "hash": "1548d8a4bce135ca0cf9a0b067f006c7b30613ad071fca44dc1c0df8db59e067",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.jpg",
-      "rutaOriginal": "/media/originales/1548d8a4bce135ca.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/1548d8a4bce135ca-400.webp",
-        "800w": "/media/derivados/1548d8a4bce135ca-800.webp",
-        "1600w": "/media/derivados/1548d8a4bce135ca-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía inicia mantenimiento de la cancha cubierta del barrio Luis Guerra",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+      "cloudinaryPublicId": "orellana-web/1548d8a4bce135ca"
     },
     "url": "/noticia/175/",
     "fuente_url": "https://orellana.gob.ec/noticia/175/",
@@ -31,11 +32,11 @@
         "id": "1548d8a4bce135ca",
         "hash": "1548d8a4bce135ca0cf9a0b067f006c7b30613ad071fca44dc1c0df8db59e067",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.jpg",
-        "rutaOriginal": "/media/originales/1548d8a4bce135ca.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1548d8a4bce135ca-400.webp",
-          "800w": "/media/derivados/1548d8a4bce135ca-800.webp",
-          "1600w": "/media/derivados/1548d8a4bce135ca-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía inicia mantenimiento de la cancha cubierta del barrio Luis Guerra",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/1548d8a4bce135ca"
       }
     ]
   }

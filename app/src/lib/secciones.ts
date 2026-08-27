@@ -66,7 +66,7 @@ export const CANTON: EntradaSeccion[] = [
 		origen: 'institucional',
 		picto: 'cultura',
 		grupo: 'territorio',
-		imagen: '/media/originales/311c1d181da9b52e.jpg',
+		imagen: 'https://res.cloudinary.com/ddajcyupy/image/upload/w_1200,f_auto,q_auto/v1787848707/orellana-web/311c1d181da9b52e.jpg',
 		...CARBON
 	},
 	{
@@ -76,7 +76,7 @@ export const CANTON: EntradaSeccion[] = [
 		origen: 'institucional',
 		picto: 'institucionesadscritas',
 		grupo: 'territorio',
-		imagen: '/media/originales/a5db66281ab7c839.jpg',
+		imagen: 'https://res.cloudinary.com/ddajcyupy/image/upload/w_1200,f_auto,q_auto/v1787848711/orellana-web/a5db66281ab7c839.jpg',
 		...VERDE
 	},
 	{
@@ -104,7 +104,7 @@ export const CANTON: EntradaSeccion[] = [
 		origen: 'turismo',
 		picto: 'turismo',
 		grupo: 'visitar',
-		imagen: '/media/originales/cd82af8e6d7e3b30.jpg',
+		imagen: 'https://res.cloudinary.com/ddajcyupy/image/upload/w_1200,f_auto,q_auto/v1787849408/orellana-web/cd82af8e6d7e3b30.jpg',
 		...VERDE_OSCURO
 	},
 	{
@@ -114,7 +114,7 @@ export const CANTON: EntradaSeccion[] = [
 		origen: 'turismo',
 		picto: 'gacetamunicipal',
 		grupo: 'visitar',
-		imagen: '/media/originales/bffa89f3c901cd47.jpg',
+		imagen: 'https://res.cloudinary.com/ddajcyupy/image/upload/w_1200,f_auto,q_auto/v1787849405/orellana-web/bffa89f3c901cd47.jpg',
 		...VERDE
 	},
 	{
@@ -124,7 +124,7 @@ export const CANTON: EntradaSeccion[] = [
 		origen: 'turismo',
 		picto: 'cultura',
 		grupo: 'visitar',
-		imagen: '/media/originales/fcd766e94b2e88e9.png',
+		imagen: 'https://res.cloudinary.com/ddajcyupy/image/upload/w_1200,f_auto,q_auto/v1787849559/orellana-web/fcd766e94b2e88e9.png',
 		...CARBON
 	},
 	{
@@ -134,7 +134,7 @@ export const CANTON: EntradaSeccion[] = [
 		origen: 'turismo',
 		picto: 'emprendedores',
 		grupo: 'visitar',
-		imagen: '/media/originales/46e80cc6a07f6d5f.png',
+		imagen: 'https://res.cloudinary.com/ddajcyupy/image/upload/w_1200,f_auto,q_auto/v1787849546/orellana-web/46e80cc6a07f6d5f.png',
 		...VERDE_CLARO
 	}
 ];

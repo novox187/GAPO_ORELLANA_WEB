@@ -10,11 +10,11 @@
         "id": "60259805f46be4a6",
         "hash": "60259805f46be4a6618a88e374a8b3dd4a5e575f2a81808fc2d1bca9394edeaf",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.JPG",
-        "rutaOriginal": "/media/originales/60259805f46be4a6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850599/orellana-web/60259805f46be4a6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/60259805f46be4a6-400.webp",
-          "800w": "/media/derivados/60259805f46be4a6-800.webp",
-          "1600w": "/media/derivados/60259805f46be4a6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850599/orellana-web/60259805f46be4a6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850599/orellana-web/60259805f46be4a6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850599/orellana-web/60259805f46be4a6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Agua potable para Alto Manduru ya cuenta con un 70% de avance, donde marcará el futuro de miles de habitantes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/60259805f46be4a6"
       },
       "url": "/noticia/171/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -37,11 +38,11 @@
         "id": "788474ab46cb78eb",
         "hash": "788474ab46cb78ebb57cbcd3345cb1aa5e7f58b72680ffb74f0806e19975d27e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_qRvDhax.JPG",
-        "rutaOriginal": "/media/originales/788474ab46cb78eb.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850603/orellana-web/788474ab46cb78eb.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/788474ab46cb78eb-400.webp",
-          "800w": "/media/derivados/788474ab46cb78eb-800.webp",
-          "1600w": "/media/derivados/788474ab46cb78eb-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -49,7 +50,8 @@
         "alt": "Alcaldía presente en la II feria de biodiversidad y ciencia ciudadana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/788474ab46cb78eb"
       },
       "url": "/noticia/170/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -64,11 +66,11 @@
         "id": "e630a265d5f7a4ec",
         "hash": "e630a265d5f7a4ec40634c5d93ea393d5afa6acc4ac9f18a2f46629a14769809",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29.JPG",
-        "rutaOriginal": "/media/originales/e630a265d5f7a4ec.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e630a265d5f7a4ec-400.webp",
-          "800w": "/media/derivados/e630a265d5f7a4ec-800.webp",
-          "1600w": "/media/derivados/e630a265d5f7a4ec-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Alcaldía garantiza transporte tras 13 días de diálogo y firmeza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/e630a265d5f7a4ec"
       },
       "url": "/noticia/169/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -91,11 +94,11 @@
         "id": "bd2ee91103146d55",
         "hash": "bd2ee91103146d554b85bf1b4f42fb5a772baf61a454410d1ce5225a67d8e04d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IM.jpg",
-        "rutaOriginal": "/media/originales/bd2ee91103146d55.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850627/orellana-web/bd2ee91103146d55.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bd2ee91103146d55-400.webp",
-          "800w": "/media/derivados/bd2ee91103146d55-800.webp",
-          "1600w": "/media/derivados/bd2ee91103146d55-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -103,7 +106,8 @@
         "alt": "Del abandono a la transformación: arranca el alcantarillado pluvial que cambiará la vida de cuatro barrios",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/bd2ee91103146d55"
       },
       "url": "/noticia/168/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -118,11 +122,11 @@
         "id": "f59f845b9aeece8f",
         "hash": "f59f845b9aeece8f53d8378416a8e77db77ffbf828927519418d1ac69a026b84",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_DD.JPG",
-        "rutaOriginal": "/media/originales/f59f845b9aeece8f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f59f845b9aeece8f-400.webp",
-          "800w": "/media/derivados/f59f845b9aeece8f-800.webp",
-          "1600w": "/media/derivados/f59f845b9aeece8f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg"
         },
         "ancho": 4000,
         "alto": 2256,
@@ -130,7 +134,8 @@
         "alt": "Agua que transforma vidas: Shirma Cortés cumple el sueño de El Dorado",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/f59f845b9aeece8f"
       },
       "url": "/noticia/167/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -145,11 +150,11 @@
         "id": "1b604c1fbb852e3f",
         "hash": "1b604c1fbb852e3fc0a5e4de2f81e1343907e0547ce5fdbb15504a72cc1492fa",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG8340.JPG",
-        "rutaOriginal": "/media/originales/1b604c1fbb852e3f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1b604c1fbb852e3f-400.webp",
-          "800w": "/media/derivados/1b604c1fbb852e3f-800.webp",
-          "1600w": "/media/derivados/1b604c1fbb852e3f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -157,7 +162,8 @@
         "alt": "Alcaldesa Shirma Cortés llega a la zona rural con apoyo a familias en situación de vulnerabilidad",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/1b604c1fbb852e3f"
       },
       "url": "/noticia/166/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -172,11 +178,11 @@
         "id": "d4926d64a41b9a30",
         "hash": "d4926d64a41b9a30278cad58b6ef736eafecfec41fe6d79b068d9ea435e3cdd0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG2620.JPG",
-        "rutaOriginal": "/media/originales/d4926d64a41b9a30.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852673/orellana-web/d4926d64a41b9a30.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d4926d64a41b9a30-400.webp",
-          "800w": "/media/derivados/d4926d64a41b9a30-800.webp",
-          "1600w": "/media/derivados/d4926d64a41b9a30-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852673/orellana-web/d4926d64a41b9a30.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852673/orellana-web/d4926d64a41b9a30.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852673/orellana-web/d4926d64a41b9a30.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -184,7 +190,8 @@
         "alt": "Municipalidad mejora la infraestructura pública de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/d4926d64a41b9a30"
       },
       "url": "/noticia/165/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -199,11 +206,11 @@
         "id": "ee65533e6c1d4256",
         "hash": "ee65533e6c1d4256028ce710733981a9124e8c89562825b3151b6325c41cef58",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG5947.JPG",
-        "rutaOriginal": "/media/originales/ee65533e6c1d4256.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ee65533e6c1d4256-400.webp",
-          "800w": "/media/derivados/ee65533e6c1d4256-800.webp",
-          "1600w": "/media/derivados/ee65533e6c1d4256-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "Un espacio para el deporte y la unidad crece en Estrella Yacu",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/ee65533e6c1d4256"
       },
       "url": "/noticia/164/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"
@@ -226,11 +234,11 @@
         "id": "74eac1bf699d01df",
         "hash": "74eac1bf699d01dfda3ca8313a24373cb5ec2eb3afa8924f5826e59924923398",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_qbqtTpG.JPG",
-        "rutaOriginal": "/media/originales/74eac1bf699d01df.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850535/orellana-web/74eac1bf699d01df.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/74eac1bf699d01df-400.webp",
-          "800w": "/media/derivados/74eac1bf699d01df-800.webp",
-          "1600w": "/media/derivados/74eac1bf699d01df-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -238,7 +246,8 @@
         "alt": "La Alcaldía impulsa inclusión y bienestar en la ruralidad junto a COCAPRODE",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/74eac1bf699d01df"
       },
       "url": "/noticia/163/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=14"

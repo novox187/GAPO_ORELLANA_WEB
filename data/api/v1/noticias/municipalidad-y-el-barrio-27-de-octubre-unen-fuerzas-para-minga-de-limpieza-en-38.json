@@ -9,11 +9,11 @@
       "id": "0e9fcefaab4c6e2c",
       "hash": "0e9fcefaab4c6e2c02b20125568c299c7a0e7ed2d98d3c1b91ae8d42be554a5b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_0102.JPG",
-      "rutaOriginal": "/media/originales/0e9fcefaab4c6e2c.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/0e9fcefaab4c6e2c-400.webp",
-        "800w": "/media/derivados/0e9fcefaab4c6e2c-800.webp",
-        "1600w": "/media/derivados/0e9fcefaab4c6e2c-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Municipalidad y el barrio 27 de Octubre unen fuerzas para minga de limpieza en el estadio",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/0e9fcefaab4c6e2c"
     },
     "url": "/noticia/38/",
     "fuente_url": "https://orellana.gob.ec/noticia/38/",
@@ -31,11 +32,11 @@
         "id": "0e9fcefaab4c6e2c",
         "hash": "0e9fcefaab4c6e2c02b20125568c299c7a0e7ed2d98d3c1b91ae8d42be554a5b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_0102.JPG",
-        "rutaOriginal": "/media/originales/0e9fcefaab4c6e2c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0e9fcefaab4c6e2c-400.webp",
-          "800w": "/media/derivados/0e9fcefaab4c6e2c-800.webp",
-          "1600w": "/media/derivados/0e9fcefaab4c6e2c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Municipalidad y el barrio 27 de Octubre unen fuerzas para minga de limpieza en el estadio",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/0e9fcefaab4c6e2c"
       }
     ]
   }

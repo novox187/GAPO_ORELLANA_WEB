@@ -10,11 +10,11 @@
         "id": "ea2bc2bd929d43bb",
         "hash": "ea2bc2bd929d43bb0d9d7da2e2c9edc484155b536111443723617edbbf08f6b0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_9905.JPG",
-        "rutaOriginal": "/media/originales/ea2bc2bd929d43bb.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851291/orellana-web/ea2bc2bd929d43bb.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ea2bc2bd929d43bb-400.webp",
-          "800w": "/media/derivados/ea2bc2bd929d43bb-800.webp",
-          "1600w": "/media/derivados/ea2bc2bd929d43bb-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851291/orellana-web/ea2bc2bd929d43bb.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851291/orellana-web/ea2bc2bd929d43bb.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851291/orellana-web/ea2bc2bd929d43bb.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Ministro de turismo entrega reconocimiento Rincón Mágico “El Coca entrada al Yasuní”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/ea2bc2bd929d43bb"
       },
       "url": "/noticia/108/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -37,11 +38,11 @@
         "id": "1770b471be3de7a3",
         "hash": "1770b471be3de7a37809041f8606459ccde602aa362331c45e5705f548160649",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_DJI_0015.JPG",
-        "rutaOriginal": "/media/originales/1770b471be3de7a3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851294/orellana-web/1770b471be3de7a3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1770b471be3de7a3-400.webp",
-          "800w": "/media/derivados/1770b471be3de7a3-800.webp",
-          "1600w": "/media/derivados/1770b471be3de7a3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg"
         },
         "ancho": 4000,
         "alto": 2250,
@@ -49,7 +50,8 @@
         "alt": "Impulsando el futuro desde la primera infancia, en el CDI Gotitas de Amor",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/1770b471be3de7a3"
       },
       "url": "/noticia/107/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -64,11 +66,11 @@
         "id": "3d2612a8fb5c5787",
         "hash": "3d2612a8fb5c578776a086d5849dcf71314bf65c5f50967c30395545c497acb7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_8764.JPG",
-        "rutaOriginal": "/media/originales/3d2612a8fb5c5787.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3d2612a8fb5c5787-400.webp",
-          "800w": "/media/derivados/3d2612a8fb5c5787-800.webp",
-          "1600w": "/media/derivados/3d2612a8fb5c5787-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Con juegos tradicionales y baile, la Alcaldía celebra el Día del Niño en el CDI El Edén en Guayusa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/3d2612a8fb5c5787"
       },
       "url": "/noticia/106/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -91,10 +94,11 @@
         "id": "1e252531216f79c6",
         "hash": "1e252531216f79c6282af312d42490e1d8624646b8a0574cdf2a7b3ee9b55170",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17.jpg",
-        "rutaOriginal": "/media/originales/1e252531216f79c6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851299/orellana-web/1e252531216f79c6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1e252531216f79c6-400.webp",
-          "800w": "/media/derivados/1e252531216f79c6-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851299/orellana-web/1e252531216f79c6.jpg"
         },
         "ancho": 1280,
         "alto": 960,
@@ -102,7 +106,8 @@
         "alt": "Estudiantes de la ESPOCH realizan recorrido técnico al relleno sanitario",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/1e252531216f79c6"
       },
       "url": "/noticia/105/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -117,11 +122,11 @@
         "id": "9ca01eae56f5978e",
         "hash": "9ca01eae56f5978ebb65a5c143828f47b5640754e12ea4b9b4f49373efa26f0c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_1_IMG_5852.JPG",
-        "rutaOriginal": "/media/originales/9ca01eae56f5978e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851304/orellana-web/9ca01eae56f5978e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9ca01eae56f5978e-400.webp",
-          "800w": "/media/derivados/9ca01eae56f5978e-800.webp",
-          "1600w": "/media/derivados/9ca01eae56f5978e-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851304/orellana-web/9ca01eae56f5978e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851304/orellana-web/9ca01eae56f5978e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851304/orellana-web/9ca01eae56f5978e.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -129,7 +134,8 @@
         "alt": "Inspección técnica de paradas de bus en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/9ca01eae56f5978e"
       },
       "url": "/noticia/104/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -144,11 +150,11 @@
         "id": "d71735d3ec7c226b",
         "hash": "d71735d3ec7c226b7c614719aa4f52eaa6836418e2a2c9c59d6d40d78a318a9b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG_8608_jBSidtC.JPG",
-        "rutaOriginal": "/media/originales/d71735d3ec7c226b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d71735d3ec7c226b-400.webp",
-          "800w": "/media/derivados/d71735d3ec7c226b-800.webp",
-          "1600w": "/media/derivados/d71735d3ec7c226b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -156,7 +162,8 @@
         "alt": "La Alcaldía impulsa la economía local con la feria de emprendimientos \"Aprende Emprendedor\"",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/d71735d3ec7c226b"
       },
       "url": "/noticia/103/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -171,11 +178,11 @@
         "id": "533ef13fa5e83673",
         "hash": "533ef13fa5e83673be47a0d017df435b11803c7099e206011a37a721b124e1e5",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_5450.JPG",
-        "rutaOriginal": "/media/originales/533ef13fa5e83673.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851310/orellana-web/533ef13fa5e83673.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/533ef13fa5e83673-400.webp",
-          "800w": "/media/derivados/533ef13fa5e83673-800.webp",
-          "1600w": "/media/derivados/533ef13fa5e83673-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851310/orellana-web/533ef13fa5e83673.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851310/orellana-web/533ef13fa5e83673.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851310/orellana-web/533ef13fa5e83673.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -183,7 +190,8 @@
         "alt": "Diversión, risas y unión familiar en el parque Bocana del Payamino",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/533ef13fa5e83673"
       },
       "url": "/noticia/102/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -198,11 +206,11 @@
         "id": "c02f230c3b9a7caa",
         "hash": "c02f230c3b9a7caa8fc8d232a30a0134552e4936465b5e178ad86b2af7721799",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_5256.JPG",
-        "rutaOriginal": "/media/originales/c02f230c3b9a7caa.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c02f230c3b9a7caa-400.webp",
-          "800w": "/media/derivados/c02f230c3b9a7caa-800.webp",
-          "1600w": "/media/derivados/c02f230c3b9a7caa-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -210,7 +218,8 @@
         "alt": "Avanza a gran medida la construcción de la cancha de fútbol El Moretal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/c02f230c3b9a7caa"
       },
       "url": "/noticia/100/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"
@@ -225,11 +234,11 @@
         "id": "62a10a3780784f95",
         "hash": "62a10a3780784f95d33ee1fac5f23fe8f60820247628ff3a3cb9584ce1c79f84",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_1_IMG_5104.JPG",
-        "rutaOriginal": "/media/originales/62a10a3780784f95.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851315/orellana-web/62a10a3780784f95.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/62a10a3780784f95-400.webp",
-          "800w": "/media/derivados/62a10a3780784f95-800.webp",
-          "1600w": "/media/derivados/62a10a3780784f95-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851315/orellana-web/62a10a3780784f95.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851315/orellana-web/62a10a3780784f95.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851315/orellana-web/62a10a3780784f95.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -237,7 +246,8 @@
         "alt": "Alcaldía entrega ayuda humanitaria a familias afectadas por desastres",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/62a10a3780784f95"
       },
       "url": "/noticia/99/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=21"

@@ -9,11 +9,11 @@
       "id": "f05a44b911b514fb",
       "hash": "f05a44b911b514fbc5117bc25bb06166d16a7ae6c030d3f185178a3bf64c3f3b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG4585.JPG",
-      "rutaOriginal": "/media/originales/f05a44b911b514fb.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852693/orellana-web/f05a44b911b514fb.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/f05a44b911b514fb-400.webp",
-        "800w": "/media/derivados/f05a44b911b514fb-800.webp",
-        "1600w": "/media/derivados/f05a44b911b514fb-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852693/orellana-web/f05a44b911b514fb.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852693/orellana-web/f05a44b911b514fb.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852693/orellana-web/f05a44b911b514fb.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Limpieza de terrenos montosos en la ciudad de El Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+      "cloudinaryPublicId": "orellana-web/f05a44b911b514fb"
     },
     "url": "/noticia/132/",
     "fuente_url": "https://orellana.gob.ec/noticia/132/",
@@ -31,11 +32,11 @@
         "id": "f05a44b911b514fb",
         "hash": "f05a44b911b514fbc5117bc25bb06166d16a7ae6c030d3f185178a3bf64c3f3b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG4585.JPG",
-        "rutaOriginal": "/media/originales/f05a44b911b514fb.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852693/orellana-web/f05a44b911b514fb.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f05a44b911b514fb-400.webp",
-          "800w": "/media/derivados/f05a44b911b514fb-800.webp",
-          "1600w": "/media/derivados/f05a44b911b514fb-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852693/orellana-web/f05a44b911b514fb.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852693/orellana-web/f05a44b911b514fb.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852693/orellana-web/f05a44b911b514fb.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Limpieza de terrenos montosos en la ciudad de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+        "cloudinaryPublicId": "orellana-web/f05a44b911b514fb"
       }
     ]
   }

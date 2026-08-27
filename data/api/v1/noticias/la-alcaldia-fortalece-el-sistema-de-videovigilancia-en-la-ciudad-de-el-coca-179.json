@@ -9,11 +9,11 @@
       "id": "42b25dd0f4ed6b32",
       "hash": "42b25dd0f4ed6b3250413584fc1e0721619e28c9b064f3fc65c5283e4e6d1bf6",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16.JPG",
-      "rutaOriginal": "/media/originales/42b25dd0f4ed6b32.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/42b25dd0f4ed6b32-400.webp",
-        "800w": "/media/derivados/42b25dd0f4ed6b32-800.webp",
-        "1600w": "/media/derivados/42b25dd0f4ed6b32-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "La Alcaldía fortalece el sistema de videovigilancia en la ciudad de El Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+      "cloudinaryPublicId": "orellana-web/42b25dd0f4ed6b32"
     },
     "url": "/noticia/179/",
     "fuente_url": "https://orellana.gob.ec/noticia/179/",
@@ -31,11 +32,11 @@
         "id": "42b25dd0f4ed6b32",
         "hash": "42b25dd0f4ed6b3250413584fc1e0721619e28c9b064f3fc65c5283e4e6d1bf6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16.JPG",
-        "rutaOriginal": "/media/originales/42b25dd0f4ed6b32.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/42b25dd0f4ed6b32-400.webp",
-          "800w": "/media/derivados/42b25dd0f4ed6b32-800.webp",
-          "1600w": "/media/derivados/42b25dd0f4ed6b32-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "La Alcaldía fortalece el sistema de videovigilancia en la ciudad de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/42b25dd0f4ed6b32"
       }
     ]
   }

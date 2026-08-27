@@ -9,10 +9,11 @@
       "id": "29f9e8f8a214e6ea",
       "hash": "29f9e8f8a214e6ea343611336416151d92cd7701171ea18bd2b85b9fd877ed88",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_ATENCION_CIUDADANA.png",
-      "rutaOriginal": "/media/originales/29f9e8f8a214e6ea.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/29f9e8f8a214e6ea-400.webp",
-        "800w": "/media/derivados/29f9e8f8a214e6ea-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía prioriza la atención ciudadana personal y grupal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+      "cloudinaryPublicId": "orellana-web/29f9e8f8a214e6ea"
     },
     "url": "/noticia/10/",
     "fuente_url": "https://orellana.gob.ec/noticia/10/",
@@ -30,10 +32,11 @@
         "id": "29f9e8f8a214e6ea",
         "hash": "29f9e8f8a214e6ea343611336416151d92cd7701171ea18bd2b85b9fd877ed88",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_ATENCION_CIUDADANA.png",
-        "rutaOriginal": "/media/originales/29f9e8f8a214e6ea.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/29f9e8f8a214e6ea-400.webp",
-          "800w": "/media/derivados/29f9e8f8a214e6ea-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía prioriza la atención ciudadana personal y grupal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/29f9e8f8a214e6ea"
       }
     ]
   }

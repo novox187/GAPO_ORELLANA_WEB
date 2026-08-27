@@ -10,10 +10,11 @@
         "id": "88c8daaca03314b5",
         "hash": "88c8daaca03314b555f68fe1cdc129516daaf6b4f6d762939d01f31ec3a32c71",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_VEHICULOS_MAL_ESTACIONADOS.png",
-        "rutaOriginal": "/media/originales/88c8daaca03314b5.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852248/orellana-web/88c8daaca03314b5.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/88c8daaca03314b5-400.webp",
-          "800w": "/media/derivados/88c8daaca03314b5-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852248/orellana-web/88c8daaca03314b5.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852248/orellana-web/88c8daaca03314b5.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852248/orellana-web/88c8daaca03314b5.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -21,7 +22,8 @@
         "alt": "Operativos de control vehículos mal estacionados en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/88c8daaca03314b5"
       },
       "url": "/noticia/26/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -36,10 +38,11 @@
         "id": "d8b84868748f9368",
         "hash": "d8b84868748f936822ec623bbc78504bd9b009f8247f4611165ad1efb9254207",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_CAPACITACION_COMERCIANTES.png",
-        "rutaOriginal": "/media/originales/d8b84868748f9368.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852250/orellana-web/d8b84868748f9368.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/d8b84868748f9368-400.webp",
-          "800w": "/media/derivados/d8b84868748f9368-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -47,7 +50,8 @@
         "alt": "Alcaldía realiza capacitación ambiental a comerciantes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/d8b84868748f9368"
       },
       "url": "/noticia/25/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -62,10 +66,11 @@
         "id": "185e898b87cd8f83",
         "hash": "185e898b87cd8f838cc04cc826485bd59d03e9b7ba40c5d8e726516972239c1b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_PORTICOS_INFORMATIVOS.png",
-        "rutaOriginal": "/media/originales/185e898b87cd8f83.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852251/orellana-web/185e898b87cd8f83.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/185e898b87cd8f83-400.webp",
-          "800w": "/media/derivados/185e898b87cd8f83-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852251/orellana-web/185e898b87cd8f83.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852251/orellana-web/185e898b87cd8f83.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852251/orellana-web/185e898b87cd8f83.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -73,7 +78,8 @@
         "alt": "Alcaldía realiza trabajos integrales de señalización vial en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/185e898b87cd8f83"
       },
       "url": "/noticia/24/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -88,10 +94,11 @@
         "id": "4a705e3282de2273",
         "hash": "4a705e3282de2273d0ad29ecf91555e8aca02de824a275df907a13c6c01f6af3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_VISITA_ESTUDIANTES.png",
-        "rutaOriginal": "/media/originales/4a705e3282de2273.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852253/orellana-web/4a705e3282de2273.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/4a705e3282de2273-400.webp",
-          "800w": "/media/derivados/4a705e3282de2273-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -99,7 +106,8 @@
         "alt": "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/4a705e3282de2273"
       },
       "url": "/noticia/23/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -114,10 +122,11 @@
         "id": "538f3e30565e84d7",
         "hash": "538f3e30565e84d7fecf9a884b5cafdeae08bb42561c6f7716609697f958377a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_BOMBAS_SUMERGIBLES.png",
-        "rutaOriginal": "/media/originales/538f3e30565e84d7.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852255/orellana-web/538f3e30565e84d7.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/538f3e30565e84d7-400.webp",
-          "800w": "/media/derivados/538f3e30565e84d7-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -125,7 +134,8 @@
         "alt": "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/538f3e30565e84d7"
       },
       "url": "/noticia/22/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -140,10 +150,11 @@
         "id": "ca9c41274fc1c9d6",
         "hash": "ca9c41274fc1c9d64d56fae8389a5213f1dc8f0a03f87b61cdcf7a17b35a1ebf",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_CANCHA_FUTBOL_MORETAL.png",
-        "rutaOriginal": "/media/originales/ca9c41274fc1c9d6.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/ca9c41274fc1c9d6-400.webp",
-          "800w": "/media/derivados/ca9c41274fc1c9d6-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -151,7 +162,8 @@
         "alt": "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/ca9c41274fc1c9d6"
       },
       "url": "/noticia/21/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -166,10 +178,11 @@
         "id": "7180bfdbb0a9daf4",
         "hash": "7180bfdbb0a9daf40f63e3dae6e9345fa4811d635708cbd8dc2c9128e36e8f85",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_CAPACITACION_COMERCIANTES.png",
-        "rutaOriginal": "/media/originales/7180bfdbb0a9daf4.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852379/orellana-web/7180bfdbb0a9daf4.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/7180bfdbb0a9daf4-400.webp",
-          "800w": "/media/derivados/7180bfdbb0a9daf4-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852379/orellana-web/7180bfdbb0a9daf4.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852379/orellana-web/7180bfdbb0a9daf4.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852379/orellana-web/7180bfdbb0a9daf4.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -177,7 +190,8 @@
         "alt": "Comerciantes reciben capacitación sobre ordenanza de Francisco de Orellana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/7180bfdbb0a9daf4"
       },
       "url": "/noticia/20/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -192,10 +206,11 @@
         "id": "a053a40d7c9c7bf2",
         "hash": "a053a40d7c9c7bf27d516b5f1366d79aeccb84d659865ce9ada2bdb32aaf74f3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_RELLENO_SANITARIO.png",
-        "rutaOriginal": "/media/originales/a053a40d7c9c7bf2.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/a053a40d7c9c7bf2-400.webp",
-          "800w": "/media/derivados/a053a40d7c9c7bf2-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -203,7 +218,8 @@
         "alt": "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/a053a40d7c9c7bf2"
       },
       "url": "/noticia/19/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"
@@ -218,10 +234,11 @@
         "id": "d742bb6c6e915055",
         "hash": "d742bb6c6e915055931d7036749600aafb161168cf7aaa85b5e2db9f08342e0f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_NUCANCHI_WASI.png",
-        "rutaOriginal": "/media/originales/d742bb6c6e915055.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852382/orellana-web/d742bb6c6e915055.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/d742bb6c6e915055-400.webp",
-          "800w": "/media/derivados/d742bb6c6e915055-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -229,7 +246,8 @@
         "alt": "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/d742bb6c6e915055"
       },
       "url": "/noticia/18/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=30"

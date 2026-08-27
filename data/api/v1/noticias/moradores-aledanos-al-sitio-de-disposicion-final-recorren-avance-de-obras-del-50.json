@@ -9,11 +9,11 @@
       "id": "407b838c8edc9aa1",
       "hash": "407b838c8edc9aa18a445606c0e6e317c30e1f653fa0c753798650d91eb86728",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_4292.JPG",
-      "rutaOriginal": "/media/originales/407b838c8edc9aa1.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/407b838c8edc9aa1-400.webp",
-        "800w": "/media/derivados/407b838c8edc9aa1-800.webp",
-        "1600w": "/media/derivados/407b838c8edc9aa1-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Moradores aledaños al sitio de disposición final recorren avance de obras del cierre técnico",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+      "cloudinaryPublicId": "orellana-web/407b838c8edc9aa1"
     },
     "url": "/noticia/50/",
     "fuente_url": "https://orellana.gob.ec/noticia/50/",
@@ -31,11 +32,11 @@
         "id": "407b838c8edc9aa1",
         "hash": "407b838c8edc9aa18a445606c0e6e317c30e1f653fa0c753798650d91eb86728",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_4292.JPG",
-        "rutaOriginal": "/media/originales/407b838c8edc9aa1.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/407b838c8edc9aa1-400.webp",
-          "800w": "/media/derivados/407b838c8edc9aa1-800.webp",
-          "1600w": "/media/derivados/407b838c8edc9aa1-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Moradores aledaños al sitio de disposición final recorren avance de obras del cierre técnico",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/407b838c8edc9aa1"
       }
     ]
   }

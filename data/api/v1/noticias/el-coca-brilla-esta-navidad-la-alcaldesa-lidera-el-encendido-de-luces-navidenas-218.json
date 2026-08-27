@@ -9,11 +9,11 @@
       "id": "c40bad02c9b8f76a",
       "hash": "c40bad02c9b8f76a16a7e20d529dbae81e2aeb9c213a034fa445dd088fea22c4",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_barZub1.jpg",
-      "rutaOriginal": "/media/originales/c40bad02c9b8f76a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c40bad02c9b8f76a-400.webp",
-        "800w": "/media/derivados/c40bad02c9b8f76a-800.webp",
-        "1600w": "/media/derivados/c40bad02c9b8f76a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "El Coca brilla esta Navidad: la alcaldesa lidera el encendido de luces navideñas",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+      "cloudinaryPublicId": "orellana-web/c40bad02c9b8f76a"
     },
     "url": "/noticia/218/",
     "fuente_url": "https://orellana.gob.ec/noticia/218/",
@@ -31,11 +32,11 @@
         "id": "c40bad02c9b8f76a",
         "hash": "c40bad02c9b8f76a16a7e20d529dbae81e2aeb9c213a034fa445dd088fea22c4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_barZub1.jpg",
-        "rutaOriginal": "/media/originales/c40bad02c9b8f76a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c40bad02c9b8f76a-400.webp",
-          "800w": "/media/derivados/c40bad02c9b8f76a-800.webp",
-          "1600w": "/media/derivados/c40bad02c9b8f76a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850336/orellana-web/c40bad02c9b8f76a.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "El Coca brilla esta Navidad: la alcaldesa lidera el encendido de luces navideñas",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/c40bad02c9b8f76a"
       }
     ]
   }

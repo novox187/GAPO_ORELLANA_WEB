@@ -9,11 +9,11 @@
       "id": "017cd63e04048339",
       "hash": "017cd63e0404833973bd7fb2ad02158ce5c5c2d0008e4d81bb9aa78c0ade22ce",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_9749.JPG",
-      "rutaOriginal": "/media/originales/017cd63e04048339.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851162/orellana-web/017cd63e04048339.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/017cd63e04048339-400.webp",
-        "800w": "/media/derivados/017cd63e04048339-800.webp",
-        "1600w": "/media/derivados/017cd63e04048339-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Niño de proyecto ETI recibe ayuda para radiografías",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+      "cloudinaryPublicId": "orellana-web/017cd63e04048339"
     },
     "url": "/noticia/111/",
     "fuente_url": "https://orellana.gob.ec/noticia/111/",
@@ -31,11 +32,11 @@
         "id": "017cd63e04048339",
         "hash": "017cd63e0404833973bd7fb2ad02158ce5c5c2d0008e4d81bb9aa78c0ade22ce",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_9749.JPG",
-        "rutaOriginal": "/media/originales/017cd63e04048339.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851162/orellana-web/017cd63e04048339.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/017cd63e04048339-400.webp",
-          "800w": "/media/derivados/017cd63e04048339-800.webp",
-          "1600w": "/media/derivados/017cd63e04048339-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Niño de proyecto ETI recibe ayuda para radiografías",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/017cd63e04048339"
       }
     ]
   }

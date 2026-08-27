@@ -9,10 +9,11 @@
       "id": "1db42ba389e8f2db",
       "hash": "1db42ba389e8f2db602f4c0882cbb6b417e3ee71676c7910ad423a91a2064aab",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_TURISMO_ECOLOGICO.png",
-      "rutaOriginal": "/media/originales/1db42ba389e8f2db.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852232/orellana-web/1db42ba389e8f2db.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/1db42ba389e8f2db-400.webp",
-        "800w": "/media/derivados/1db42ba389e8f2db-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852232/orellana-web/1db42ba389e8f2db.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852232/orellana-web/1db42ba389e8f2db.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852232/orellana-web/1db42ba389e8f2db.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Autoridades atienden necesidades del barrio Turismo Ecológico",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+      "cloudinaryPublicId": "orellana-web/1db42ba389e8f2db"
     },
     "url": "/noticia/33/",
     "fuente_url": "https://orellana.gob.ec/noticia/33/",
@@ -30,10 +32,11 @@
         "id": "1db42ba389e8f2db",
         "hash": "1db42ba389e8f2db602f4c0882cbb6b417e3ee71676c7910ad423a91a2064aab",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_TURISMO_ECOLOGICO.png",
-        "rutaOriginal": "/media/originales/1db42ba389e8f2db.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852232/orellana-web/1db42ba389e8f2db.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/1db42ba389e8f2db-400.webp",
-          "800w": "/media/derivados/1db42ba389e8f2db-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852232/orellana-web/1db42ba389e8f2db.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852232/orellana-web/1db42ba389e8f2db.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852232/orellana-web/1db42ba389e8f2db.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Autoridades atienden necesidades del barrio Turismo Ecológico",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+        "cloudinaryPublicId": "orellana-web/1db42ba389e8f2db"
       }
     ]
   }

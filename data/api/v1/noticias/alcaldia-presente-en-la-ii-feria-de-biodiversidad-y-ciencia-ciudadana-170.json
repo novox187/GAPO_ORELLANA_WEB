@@ -9,11 +9,11 @@
       "id": "788474ab46cb78eb",
       "hash": "788474ab46cb78ebb57cbcd3345cb1aa5e7f58b72680ffb74f0806e19975d27e",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_qRvDhax.JPG",
-      "rutaOriginal": "/media/originales/788474ab46cb78eb.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850603/orellana-web/788474ab46cb78eb.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/788474ab46cb78eb-400.webp",
-        "800w": "/media/derivados/788474ab46cb78eb-800.webp",
-        "1600w": "/media/derivados/788474ab46cb78eb-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía presente en la II feria de biodiversidad y ciencia ciudadana",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+      "cloudinaryPublicId": "orellana-web/788474ab46cb78eb"
     },
     "url": "/noticia/170/",
     "fuente_url": "https://orellana.gob.ec/noticia/170/",
@@ -31,11 +32,11 @@
         "id": "788474ab46cb78eb",
         "hash": "788474ab46cb78ebb57cbcd3345cb1aa5e7f58b72680ffb74f0806e19975d27e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_qRvDhax.JPG",
-        "rutaOriginal": "/media/originales/788474ab46cb78eb.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850603/orellana-web/788474ab46cb78eb.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/788474ab46cb78eb-400.webp",
-          "800w": "/media/derivados/788474ab46cb78eb-800.webp",
-          "1600w": "/media/derivados/788474ab46cb78eb-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850603/orellana-web/788474ab46cb78eb.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía presente en la II feria de biodiversidad y ciencia ciudadana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/788474ab46cb78eb"
       }
     ]
   }

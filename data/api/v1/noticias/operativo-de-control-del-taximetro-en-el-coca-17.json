@@ -9,10 +9,11 @@
       "id": "bbed663307e02477",
       "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
-      "rutaOriginal": "/media/originales/bbed663307e02477.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852384/orellana-web/bbed663307e02477.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/bbed663307e02477-400.webp",
-        "800w": "/media/derivados/bbed663307e02477-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Operativo de control del taxímetro en El Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+      "cloudinaryPublicId": "orellana-web/bbed663307e02477"
     },
     "url": "/noticia/17/",
     "fuente_url": "https://orellana.gob.ec/noticia/17/",
@@ -30,10 +32,11 @@
         "id": "bbed663307e02477",
         "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
-        "rutaOriginal": "/media/originales/bbed663307e02477.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852384/orellana-web/bbed663307e02477.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/bbed663307e02477-400.webp",
-          "800w": "/media/derivados/bbed663307e02477-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Operativo de control del taxímetro en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/bbed663307e02477"
       }
     ]
   }

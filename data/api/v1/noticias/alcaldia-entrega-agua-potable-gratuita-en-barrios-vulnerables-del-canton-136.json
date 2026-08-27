@@ -9,11 +9,11 @@
       "id": "9ce66fd84e9bf44a",
       "hash": "9ce66fd84e9bf44af30ca20471d26d6551ca6067f4d6c040e9f7e534c5a46cea",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30.JPG",
-      "rutaOriginal": "/media/originales/9ce66fd84e9bf44a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9ce66fd84e9bf44a-400.webp",
-        "800w": "/media/derivados/9ce66fd84e9bf44a-800.webp",
-        "1600w": "/media/derivados/9ce66fd84e9bf44a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg"
       },
       "ancho": 4096,
       "alto": 2304,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía entrega agua potable gratuita en barrios vulnerables del cantón",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+      "cloudinaryPublicId": "orellana-web/9ce66fd84e9bf44a"
     },
     "url": "/noticia/136/",
     "fuente_url": "https://orellana.gob.ec/noticia/136/",
@@ -31,11 +32,11 @@
         "id": "9ce66fd84e9bf44a",
         "hash": "9ce66fd84e9bf44af30ca20471d26d6551ca6067f4d6c040e9f7e534c5a46cea",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30.JPG",
-        "rutaOriginal": "/media/originales/9ce66fd84e9bf44a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9ce66fd84e9bf44a-400.webp",
-          "800w": "/media/derivados/9ce66fd84e9bf44a-800.webp",
-          "1600w": "/media/derivados/9ce66fd84e9bf44a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852689/orellana-web/9ce66fd84e9bf44a.jpg"
         },
         "ancho": 4096,
         "alto": 2304,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía entrega agua potable gratuita en barrios vulnerables del cantón",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+        "cloudinaryPublicId": "orellana-web/9ce66fd84e9bf44a"
       }
     ]
   }

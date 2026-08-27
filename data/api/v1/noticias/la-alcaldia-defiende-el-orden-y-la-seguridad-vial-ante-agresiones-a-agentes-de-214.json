@@ -9,10 +9,11 @@
       "id": "28cae161dc19988e",
       "hash": "28cae161dc19988e1fada5364ecfc7e306c8c360d4dadb138a0f28cc2d65fb6c",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.jpg",
-      "rutaOriginal": "/media/originales/28cae161dc19988e.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850346/orellana-web/28cae161dc19988e.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/28cae161dc19988e-400.webp",
-        "800w": "/media/derivados/28cae161dc19988e-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg"
       },
       "ancho": 1280,
       "alto": 720,
@@ -20,7 +21,8 @@
       "alt": "La alcaldía defiende el orden y la seguridad vial ante agresiones a agentes de control por conductores incumplidos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/28cae161dc19988e"
     },
     "url": "/noticia/214/",
     "fuente_url": "https://orellana.gob.ec/noticia/214/",
@@ -30,10 +32,11 @@
         "id": "28cae161dc19988e",
         "hash": "28cae161dc19988e1fada5364ecfc7e306c8c360d4dadb138a0f28cc2d65fb6c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.jpg",
-        "rutaOriginal": "/media/originales/28cae161dc19988e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850346/orellana-web/28cae161dc19988e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/28cae161dc19988e-400.webp",
-          "800w": "/media/derivados/28cae161dc19988e-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850346/orellana-web/28cae161dc19988e.jpg"
         },
         "ancho": 1280,
         "alto": 720,
@@ -41,7 +44,8 @@
         "alt": "La alcaldía defiende el orden y la seguridad vial ante agresiones a agentes de control por conductores incumplidos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/28cae161dc19988e"
       }
     ]
   }

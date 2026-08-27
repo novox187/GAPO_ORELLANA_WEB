@@ -9,11 +9,11 @@
       "id": "3d2612a8fb5c5787",
       "hash": "3d2612a8fb5c578776a086d5849dcf71314bf65c5f50967c30395545c497acb7",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_8764.JPG",
-      "rutaOriginal": "/media/originales/3d2612a8fb5c5787.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/3d2612a8fb5c5787-400.webp",
-        "800w": "/media/derivados/3d2612a8fb5c5787-800.webp",
-        "1600w": "/media/derivados/3d2612a8fb5c5787-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Con juegos tradicionales y baile, la Alcaldía celebra el Día del Niño en el CDI El Edén en Guayusa",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+      "cloudinaryPublicId": "orellana-web/3d2612a8fb5c5787"
     },
     "url": "/noticia/106/",
     "fuente_url": "https://orellana.gob.ec/noticia/106/",
@@ -31,11 +32,11 @@
         "id": "3d2612a8fb5c5787",
         "hash": "3d2612a8fb5c578776a086d5849dcf71314bf65c5f50967c30395545c497acb7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_8764.JPG",
-        "rutaOriginal": "/media/originales/3d2612a8fb5c5787.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3d2612a8fb5c5787-400.webp",
-          "800w": "/media/derivados/3d2612a8fb5c5787-800.webp",
-          "1600w": "/media/derivados/3d2612a8fb5c5787-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851297/orellana-web/3d2612a8fb5c5787.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Con juegos tradicionales y baile, la Alcaldía celebra el Día del Niño en el CDI El Edén en Guayusa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/3d2612a8fb5c5787"
       }
     ]
   }

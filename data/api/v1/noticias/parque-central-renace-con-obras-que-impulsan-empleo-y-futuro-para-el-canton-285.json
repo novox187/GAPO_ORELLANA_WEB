@@ -9,11 +9,11 @@
       "id": "e3d5fe7b9cc349b6",
       "hash": "e3d5fe7b9cc349b69d322b07d420e781569147bcaadc6b8eb9105ce56f88f9dd",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_1_IMG.JPG",
-      "rutaOriginal": "/media/originales/e3d5fe7b9cc349b6.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e3d5fe7b9cc349b6-400.webp",
-        "800w": "/media/derivados/e3d5fe7b9cc349b6-800.webp",
-        "1600w": "/media/derivados/e3d5fe7b9cc349b6-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Parque Central renace con obras que impulsan empleo y futuro para el cantón",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/e3d5fe7b9cc349b6"
     },
     "url": "/noticia/285/",
     "fuente_url": "https://orellana.gob.ec/noticia/285/",
@@ -31,11 +32,11 @@
         "id": "e3d5fe7b9cc349b6",
         "hash": "e3d5fe7b9cc349b69d322b07d420e781569147bcaadc6b8eb9105ce56f88f9dd",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_1_IMG.JPG",
-        "rutaOriginal": "/media/originales/e3d5fe7b9cc349b6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e3d5fe7b9cc349b6-400.webp",
-          "800w": "/media/derivados/e3d5fe7b9cc349b6-800.webp",
-          "1600w": "/media/derivados/e3d5fe7b9cc349b6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Parque Central renace con obras que impulsan empleo y futuro para el cantón",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/e3d5fe7b9cc349b6"
       }
     ]
   }

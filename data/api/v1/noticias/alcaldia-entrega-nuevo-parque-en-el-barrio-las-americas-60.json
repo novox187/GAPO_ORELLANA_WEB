@@ -9,11 +9,11 @@
       "id": "37209897a6d89be5",
       "hash": "37209897a6d89be5c988120d647590d217b66df5dff49aca7f8823654415c8dd",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_8636.JPG",
-      "rutaOriginal": "/media/originales/37209897a6d89be5.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852839/orellana-web/37209897a6d89be5.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/37209897a6d89be5-400.webp",
-        "800w": "/media/derivados/37209897a6d89be5-800.webp",
-        "1600w": "/media/derivados/37209897a6d89be5-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852839/orellana-web/37209897a6d89be5.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852839/orellana-web/37209897a6d89be5.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852839/orellana-web/37209897a6d89be5.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía entrega nuevo parque en el barrio Las Américas",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+      "cloudinaryPublicId": "orellana-web/37209897a6d89be5"
     },
     "url": "/noticia/60/",
     "fuente_url": "https://orellana.gob.ec/noticia/60/",
@@ -31,11 +32,11 @@
         "id": "37209897a6d89be5",
         "hash": "37209897a6d89be5c988120d647590d217b66df5dff49aca7f8823654415c8dd",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_8636.JPG",
-        "rutaOriginal": "/media/originales/37209897a6d89be5.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852839/orellana-web/37209897a6d89be5.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/37209897a6d89be5-400.webp",
-          "800w": "/media/derivados/37209897a6d89be5-800.webp",
-          "1600w": "/media/derivados/37209897a6d89be5-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852839/orellana-web/37209897a6d89be5.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852839/orellana-web/37209897a6d89be5.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852839/orellana-web/37209897a6d89be5.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía entrega nuevo parque en el barrio Las Américas",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+        "cloudinaryPublicId": "orellana-web/37209897a6d89be5"
       }
     ]
   }

@@ -10,11 +10,11 @@
         "id": "8bf55d5f87602448",
         "hash": "8bf55d5f87602448541dc12939d4a3085fe52d9a1b5f719eda8b3fc74704d60d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_2542.JPG",
-        "rutaOriginal": "/media/originales/8bf55d5f87602448.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851968/orellana-web/8bf55d5f87602448.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8bf55d5f87602448-400.webp",
-          "800w": "/media/derivados/8bf55d5f87602448-800.webp",
-          "1600w": "/media/derivados/8bf55d5f87602448-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Concejo Municipal aprueba ordenanza que regula la remisión de intereses, multas y recargos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/8bf55d5f87602448"
       },
       "url": "/noticia/44/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -37,11 +38,11 @@
         "id": "d50e264defecabf6",
         "hash": "d50e264defecabf6c3f33cc73c26e1392cbbb780065cf1cd1f7640c39704bba2",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG_1957.JPG",
-        "rutaOriginal": "/media/originales/d50e264defecabf6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851970/orellana-web/d50e264defecabf6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d50e264defecabf6-400.webp",
-          "800w": "/media/derivados/d50e264defecabf6-800.webp",
-          "1600w": "/media/derivados/d50e264defecabf6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -49,7 +50,8 @@
         "alt": "Alcaldía realizó feria gastronómica y festival de DJs",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/d50e264defecabf6"
       },
       "url": "/noticia/43/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -64,11 +66,11 @@
         "id": "fb9507471fcbfd94",
         "hash": "fb9507471fcbfd947e59aae787a25a2e27a49c5892c8be7ced1602774cdcb814",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_1412.JPG",
-        "rutaOriginal": "/media/originales/fb9507471fcbfd94.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/fb9507471fcbfd94-400.webp",
-          "800w": "/media/derivados/fb9507471fcbfd94-800.webp",
-          "1600w": "/media/derivados/fb9507471fcbfd94-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -76,7 +78,8 @@
         "alt": "Diversión y emprendimientos: gran festival en La Bocana del Payamino",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/fb9507471fcbfd94"
       },
       "url": "/noticia/42/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -91,11 +94,11 @@
         "id": "035194099381d7a2",
         "hash": "035194099381d7a2d0579aaed1c9f0483fd281b25f6d93f30796916a23bff95a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_2450.JPG",
-        "rutaOriginal": "/media/originales/035194099381d7a2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851975/orellana-web/035194099381d7a2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/035194099381d7a2-400.webp",
-          "800w": "/media/derivados/035194099381d7a2-800.webp",
-          "1600w": "/media/derivados/035194099381d7a2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Recorridos guiados \"Rostros de Luna\" organizados por el MACCO",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/035194099381d7a2"
       },
       "url": "/noticia/41/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -118,11 +122,11 @@
         "id": "b2afe3b0242c62c0",
         "hash": "b2afe3b0242c62c09772df72d7481ffdac761b2ce03aea6b0f5b2f469b4588a0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_1942.JPG",
-        "rutaOriginal": "/media/originales/b2afe3b0242c62c0.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b2afe3b0242c62c0-400.webp",
-          "800w": "/media/derivados/b2afe3b0242c62c0-800.webp",
-          "1600w": "/media/derivados/b2afe3b0242c62c0-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -130,7 +134,8 @@
         "alt": "Francisco de Orellana se prepara para recibir a turistas en este carnaval",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/b2afe3b0242c62c0"
       },
       "url": "/noticia/40/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -145,11 +150,11 @@
         "id": "a360978bdc2e0c92",
         "hash": "a360978bdc2e0c929c69930278fed4bf0173f4d897dfba897f4a5ebecc0b21e1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_0251.JPG",
-        "rutaOriginal": "/media/originales/a360978bdc2e0c92.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a360978bdc2e0c92-400.webp",
-          "800w": "/media/derivados/a360978bdc2e0c92-800.webp",
-          "1600w": "/media/derivados/a360978bdc2e0c92-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -157,7 +162,8 @@
         "alt": "Taller prevención y erradicación de la violencia de género en la U. E. Jorge Rodríguez Román",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/a360978bdc2e0c92"
       },
       "url": "/noticia/39/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -172,11 +178,11 @@
         "id": "0e9fcefaab4c6e2c",
         "hash": "0e9fcefaab4c6e2c02b20125568c299c7a0e7ed2d98d3c1b91ae8d42be554a5b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_0102.JPG",
-        "rutaOriginal": "/media/originales/0e9fcefaab4c6e2c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0e9fcefaab4c6e2c-400.webp",
-          "800w": "/media/derivados/0e9fcefaab4c6e2c-800.webp",
-          "1600w": "/media/derivados/0e9fcefaab4c6e2c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851983/orellana-web/0e9fcefaab4c6e2c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -184,7 +190,8 @@
         "alt": "Municipalidad y el barrio 27 de Octubre unen fuerzas para minga de limpieza en el estadio",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/0e9fcefaab4c6e2c"
       },
       "url": "/noticia/38/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -199,10 +206,11 @@
         "id": "f3cc5a6a9120766b",
         "hash": "f3cc5a6a9120766b1db7b0dee7385ffc85fd154080547b40d053af1dbc009efa",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_ELABORACION_ABONO.png",
-        "rutaOriginal": "/media/originales/f3cc5a6a9120766b.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851985/orellana-web/f3cc5a6a9120766b.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/f3cc5a6a9120766b-400.webp",
-          "800w": "/media/derivados/f3cc5a6a9120766b-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851985/orellana-web/f3cc5a6a9120766b.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -210,7 +218,8 @@
         "alt": "Elaboración de abono denominado caldo mineral para todo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/f3cc5a6a9120766b"
       },
       "url": "/noticia/37/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"
@@ -225,11 +234,11 @@
         "id": "e9993436a9d79768",
         "hash": "e9993436a9d797686316ecb51606367dac32877c92bd16cbe0d9dee05eded0c1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_MINERIA.jpg",
-        "rutaOriginal": "/media/originales/e9993436a9d79768.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851986/orellana-web/e9993436a9d79768.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e9993436a9d79768-400.webp",
-          "800w": "/media/derivados/e9993436a9d79768-800.webp",
-          "1600w": "/media/derivados/e9993436a9d79768-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg"
         },
         "ancho": 2560,
         "alto": 1437,
@@ -237,7 +246,8 @@
         "alt": "Operativo de control a la explotación de materiales de áridos y pétreos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/e9993436a9d79768"
       },
       "url": "/noticia/36/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=28"

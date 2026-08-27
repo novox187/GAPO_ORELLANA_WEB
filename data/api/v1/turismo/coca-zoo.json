@@ -20,24 +20,30 @@
         "id": "01cd02f5e85f1e4d",
         "hash": "01cd02f5e85f1e4d2b5803b990569714ac77143d9d4cc4b51ca103385b5fdff4",
         "urlOriginal": "https://orellana.gob.ec/static/img/z00s.gif",
-        "rutaOriginal": "/media/originales/01cd02f5e85f1e4d.gif",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849592/orellana-web/01cd02f5e85f1e4d.gif",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849592/orellana-web/01cd02f5e85f1e4d.gif",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849592/orellana-web/01cd02f5e85f1e4d.gif",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849592/orellana-web/01cd02f5e85f1e4d.gif"
+        },
         "ancho": null,
         "alto": null,
         "bytes": 387536,
         "alt": "",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/01cd02f5e85f1e4d"
       },
       {
         "id": "4df9a50dd37bbeda",
         "hash": "4df9a50dd37bbeda3e97d94f4777aeeef8426fdb472460339c83518190a5b8bb",
         "urlOriginal": "https://orellana.gob.ec/static/img/TUCAN.jpg",
-        "rutaOriginal": "/media/originales/4df9a50dd37bbeda.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849594/orellana-web/4df9a50dd37bbeda.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4df9a50dd37bbeda-400.webp",
-          "800w": "/media/derivados/4df9a50dd37bbeda-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849594/orellana-web/4df9a50dd37bbeda.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849594/orellana-web/4df9a50dd37bbeda.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849594/orellana-web/4df9a50dd37bbeda.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -45,16 +51,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/4df9a50dd37bbeda"
       },
       {
         "id": "514388c1a614c7c2",
         "hash": "514388c1a614c7c25138a40865267b8c5a5c125305be1f785fbea8b6f1de28ab",
         "urlOriginal": "https://orellana.gob.ec/static/img/TAPIR.jpg",
-        "rutaOriginal": "/media/originales/514388c1a614c7c2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849595/orellana-web/514388c1a614c7c2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/514388c1a614c7c2-400.webp",
-          "800w": "/media/derivados/514388c1a614c7c2-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849595/orellana-web/514388c1a614c7c2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849595/orellana-web/514388c1a614c7c2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849595/orellana-web/514388c1a614c7c2.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -62,16 +70,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/514388c1a614c7c2"
       },
       {
         "id": "84a1fb084cfc9e95",
         "hash": "84a1fb084cfc9e95ef0d450e78a722fec42c46249ac8ccf4d1c27835501a22e1",
         "urlOriginal": "https://orellana.gob.ec/static/img/TIGRILLO-.jpg",
-        "rutaOriginal": "/media/originales/84a1fb084cfc9e95.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849597/orellana-web/84a1fb084cfc9e95.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/84a1fb084cfc9e95-400.webp",
-          "800w": "/media/derivados/84a1fb084cfc9e95-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849597/orellana-web/84a1fb084cfc9e95.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849597/orellana-web/84a1fb084cfc9e95.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849597/orellana-web/84a1fb084cfc9e95.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -79,16 +89,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/84a1fb084cfc9e95"
       },
       {
         "id": "1714114285ff4267",
         "hash": "1714114285ff4267630686e328323037ca8637db7758b7f7ce3f9468ef836944",
         "urlOriginal": "https://orellana.gob.ec/static/img/OSO-PERES.jpg",
-        "rutaOriginal": "/media/originales/1714114285ff4267.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849599/orellana-web/1714114285ff4267.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1714114285ff4267-400.webp",
-          "800w": "/media/derivados/1714114285ff4267-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849599/orellana-web/1714114285ff4267.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849599/orellana-web/1714114285ff4267.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849599/orellana-web/1714114285ff4267.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -96,16 +108,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/1714114285ff4267"
       },
       {
         "id": "b18d84fc05f7245c",
         "hash": "b18d84fc05f7245cfc6287a8bb3729f935698374f2b880557cd7cde09bdb2962",
         "urlOriginal": "https://orellana.gob.ec/static/img/MOTELO.jpg",
-        "rutaOriginal": "/media/originales/b18d84fc05f7245c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849600/orellana-web/b18d84fc05f7245c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b18d84fc05f7245c-400.webp",
-          "800w": "/media/derivados/b18d84fc05f7245c-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849600/orellana-web/b18d84fc05f7245c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849600/orellana-web/b18d84fc05f7245c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849600/orellana-web/b18d84fc05f7245c.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -113,16 +127,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/b18d84fc05f7245c"
       },
       {
         "id": "7cda873427da64c9",
         "hash": "7cda873427da64c9ba440661a34898c406f59328167fb8142cfec781292ab20b",
         "urlOriginal": "https://orellana.gob.ec/static/img/MONO-CHORONGO.jpg",
-        "rutaOriginal": "/media/originales/7cda873427da64c9.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849602/orellana-web/7cda873427da64c9.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7cda873427da64c9-400.webp",
-          "800w": "/media/derivados/7cda873427da64c9-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849602/orellana-web/7cda873427da64c9.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849602/orellana-web/7cda873427da64c9.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849602/orellana-web/7cda873427da64c9.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -130,16 +146,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/7cda873427da64c9"
       },
       {
         "id": "f265b1ff1df431db",
         "hash": "f265b1ff1df431db36463a6bcfaa5e0b26a84f03244e69bb58e9a1a01ab36393",
         "urlOriginal": "https://orellana.gob.ec/static/img/MONO-ARDILLA.jpg",
-        "rutaOriginal": "/media/originales/f265b1ff1df431db.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849604/orellana-web/f265b1ff1df431db.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f265b1ff1df431db-400.webp",
-          "800w": "/media/derivados/f265b1ff1df431db-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849604/orellana-web/f265b1ff1df431db.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849604/orellana-web/f265b1ff1df431db.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849604/orellana-web/f265b1ff1df431db.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -147,16 +165,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/f265b1ff1df431db"
       },
       {
         "id": "df917866a6e04d20",
         "hash": "df917866a6e04d20c668be3178b8390cf590c5b84c1a0bfd08b0e28c1718ddd9",
         "urlOriginal": "https://orellana.gob.ec/static/img/ANACONDA.jpg",
-        "rutaOriginal": "/media/originales/df917866a6e04d20.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849605/orellana-web/df917866a6e04d20.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/df917866a6e04d20-400.webp",
-          "800w": "/media/derivados/df917866a6e04d20-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849605/orellana-web/df917866a6e04d20.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849605/orellana-web/df917866a6e04d20.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849605/orellana-web/df917866a6e04d20.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -164,16 +184,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/df917866a6e04d20"
       },
       {
         "id": "787aa608a4162aa6",
         "hash": "787aa608a4162aa6cf7e0a287856285f307caa299168c3ca78183b6cf985b916",
         "urlOriginal": "https://orellana.gob.ec/static/img/CAIMAN.jpg",
-        "rutaOriginal": "/media/originales/787aa608a4162aa6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849607/orellana-web/787aa608a4162aa6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/787aa608a4162aa6-400.webp",
-          "800w": "/media/derivados/787aa608a4162aa6-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849607/orellana-web/787aa608a4162aa6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849607/orellana-web/787aa608a4162aa6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849607/orellana-web/787aa608a4162aa6.jpg"
         },
         "ancho": 1140,
         "alto": 500,
@@ -181,7 +203,8 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_zoo/",
+        "cloudinaryPublicId": "orellana-web/787aa608a4162aa6"
       }
     ],
     "documentos": [],

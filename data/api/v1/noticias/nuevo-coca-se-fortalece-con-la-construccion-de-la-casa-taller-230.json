@@ -9,11 +9,11 @@
       "id": "e0124a3bbd5b27be",
       "hash": "e0124a3bbd5b27bebd82631e41f1c63a85077efbef6dcbe20c4fe6ae37e6f7ee",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9883.JPG",
-      "rutaOriginal": "/media/originales/e0124a3bbd5b27be.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e0124a3bbd5b27be-400.webp",
-        "800w": "/media/derivados/e0124a3bbd5b27be-800.webp",
-        "1600w": "/media/derivados/e0124a3bbd5b27be-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Nuevo Coca se fortalece con la construcción de la Casa Taller",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+      "cloudinaryPublicId": "orellana-web/e0124a3bbd5b27be"
     },
     "url": "/noticia/230/",
     "fuente_url": "https://orellana.gob.ec/noticia/230/",
@@ -31,11 +32,11 @@
         "id": "e0124a3bbd5b27be",
         "hash": "e0124a3bbd5b27bebd82631e41f1c63a85077efbef6dcbe20c4fe6ae37e6f7ee",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_9883.JPG",
-        "rutaOriginal": "/media/originales/e0124a3bbd5b27be.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e0124a3bbd5b27be-400.webp",
-          "800w": "/media/derivados/e0124a3bbd5b27be-800.webp",
-          "1600w": "/media/derivados/e0124a3bbd5b27be-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850060/orellana-web/e0124a3bbd5b27be.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Nuevo Coca se fortalece con la construcción de la Casa Taller",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/e0124a3bbd5b27be"
       }
     ]
   }

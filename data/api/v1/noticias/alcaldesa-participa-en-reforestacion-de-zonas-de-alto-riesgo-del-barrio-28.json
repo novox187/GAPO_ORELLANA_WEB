@@ -9,10 +9,11 @@
       "id": "34244b3615118658",
       "hash": "34244b361511865880494bd998a90797b87a88562a2f4bff233826959f118e42",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_REFORESTACION_ALCALDESA.png",
-      "rutaOriginal": "/media/originales/34244b3615118658.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852243/orellana-web/34244b3615118658.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/34244b3615118658-400.webp",
-        "800w": "/media/derivados/34244b3615118658-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852243/orellana-web/34244b3615118658.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852243/orellana-web/34244b3615118658.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852243/orellana-web/34244b3615118658.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+      "cloudinaryPublicId": "orellana-web/34244b3615118658"
     },
     "url": "/noticia/28/",
     "fuente_url": "https://orellana.gob.ec/noticia/28/",
@@ -30,10 +32,11 @@
         "id": "34244b3615118658",
         "hash": "34244b361511865880494bd998a90797b87a88562a2f4bff233826959f118e42",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_REFORESTACION_ALCALDESA.png",
-        "rutaOriginal": "/media/originales/34244b3615118658.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852243/orellana-web/34244b3615118658.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/34244b3615118658-400.webp",
-          "800w": "/media/derivados/34244b3615118658-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852243/orellana-web/34244b3615118658.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852243/orellana-web/34244b3615118658.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852243/orellana-web/34244b3615118658.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+        "cloudinaryPublicId": "orellana-web/34244b3615118658"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "328629b26cbc5afa",
       "hash": "328629b26cbc5afae103284bcfd631f5ce94808482f3bb298d9842518802c6ae",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_IMGN_1063.JPG",
-      "rutaOriginal": "/media/originales/328629b26cbc5afa.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851351/orellana-web/328629b26cbc5afa.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/328629b26cbc5afa-400.webp",
-        "800w": "/media/derivados/328629b26cbc5afa-800.webp",
-        "1600w": "/media/derivados/328629b26cbc5afa-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía adquiere un moderno camión refrigerador de transporte de productos cárnicos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+      "cloudinaryPublicId": "orellana-web/328629b26cbc5afa"
     },
     "url": "/noticia/88/",
     "fuente_url": "https://orellana.gob.ec/noticia/88/",
@@ -31,11 +32,11 @@
         "id": "328629b26cbc5afa",
         "hash": "328629b26cbc5afae103284bcfd631f5ce94808482f3bb298d9842518802c6ae",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_IMGN_1063.JPG",
-        "rutaOriginal": "/media/originales/328629b26cbc5afa.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851351/orellana-web/328629b26cbc5afa.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/328629b26cbc5afa-400.webp",
-          "800w": "/media/derivados/328629b26cbc5afa-800.webp",
-          "1600w": "/media/derivados/328629b26cbc5afa-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía adquiere un moderno camión refrigerador de transporte de productos cárnicos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/328629b26cbc5afa"
       }
     ]
   }

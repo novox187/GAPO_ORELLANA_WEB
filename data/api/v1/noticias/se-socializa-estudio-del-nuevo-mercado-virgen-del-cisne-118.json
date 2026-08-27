@@ -9,10 +9,11 @@
       "id": "7828493ce83a4cff",
       "hash": "7828493ce83a4cff054fd1f3667a7b59bebe5eb8715c4f3221d27e7d58b76a02",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.jpeg",
-      "rutaOriginal": "/media/originales/7828493ce83a4cff.jpeg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851147/orellana-web/7828493ce83a4cff.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/7828493ce83a4cff-400.webp",
-        "800w": "/media/derivados/7828493ce83a4cff-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg"
       },
       "ancho": 1280,
       "alto": 720,
@@ -20,7 +21,8 @@
       "alt": "Se socializa estudio del nuevo mercado \"Virgen del Cisne\"",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+      "cloudinaryPublicId": "orellana-web/7828493ce83a4cff"
     },
     "url": "/noticia/118/",
     "fuente_url": "https://orellana.gob.ec/noticia/118/",
@@ -30,10 +32,11 @@
         "id": "7828493ce83a4cff",
         "hash": "7828493ce83a4cff054fd1f3667a7b59bebe5eb8715c4f3221d27e7d58b76a02",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.jpeg",
-        "rutaOriginal": "/media/originales/7828493ce83a4cff.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851147/orellana-web/7828493ce83a4cff.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7828493ce83a4cff-400.webp",
-          "800w": "/media/derivados/7828493ce83a4cff-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg"
         },
         "ancho": 1280,
         "alto": 720,
@@ -41,7 +44,8 @@
         "alt": "Se socializa estudio del nuevo mercado \"Virgen del Cisne\"",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/7828493ce83a4cff"
       }
     ]
   }

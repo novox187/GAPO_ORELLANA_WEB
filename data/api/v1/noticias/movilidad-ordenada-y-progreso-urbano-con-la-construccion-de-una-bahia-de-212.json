@@ -9,11 +9,11 @@
       "id": "4e6c1581b7346a36",
       "hash": "4e6c1581b7346a36ffbf5789b3b7d5a4abd3795ad2e1e8d72210a03ed7e8e1b6",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.JPG",
-      "rutaOriginal": "/media/originales/4e6c1581b7346a36.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/4e6c1581b7346a36-400.webp",
-        "800w": "/media/derivados/4e6c1581b7346a36-800.webp",
-        "1600w": "/media/derivados/4e6c1581b7346a36-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Movilidad ordenada y progreso urbano: con la construcción de una bahía de transporte en el barrio 28 de Marzo",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/4e6c1581b7346a36"
     },
     "url": "/noticia/212/",
     "fuente_url": "https://orellana.gob.ec/noticia/212/",
@@ -31,11 +32,11 @@
         "id": "4e6c1581b7346a36",
         "hash": "4e6c1581b7346a36ffbf5789b3b7d5a4abd3795ad2e1e8d72210a03ed7e8e1b6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.JPG",
-        "rutaOriginal": "/media/originales/4e6c1581b7346a36.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4e6c1581b7346a36-400.webp",
-          "800w": "/media/derivados/4e6c1581b7346a36-800.webp",
-          "1600w": "/media/derivados/4e6c1581b7346a36-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852630/orellana-web/4e6c1581b7346a36.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Movilidad ordenada y progreso urbano: con la construcción de una bahía de transporte en el barrio 28 de Marzo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/4e6c1581b7346a36"
       }
     ]
   }

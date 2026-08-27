@@ -9,11 +9,11 @@
       "id": "e23abfa496fa47ab",
       "hash": "e23abfa496fa47abb0de683366621935a3b3e4425284e648a49f758c3a4b85c6",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2290.JPG",
-      "rutaOriginal": "/media/originales/e23abfa496fa47ab.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e23abfa496fa47ab-400.webp",
-        "800w": "/media/derivados/e23abfa496fa47ab-800.webp",
-        "1600w": "/media/derivados/e23abfa496fa47ab-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "¡Gran avance! La cancha de fútbol y mini parque de El Moretal ya alcanza el 60% de construcción",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+      "cloudinaryPublicId": "orellana-web/e23abfa496fa47ab"
     },
     "url": "/noticia/87/",
     "fuente_url": "https://orellana.gob.ec/noticia/87/",
@@ -31,11 +32,11 @@
         "id": "e23abfa496fa47ab",
         "hash": "e23abfa496fa47abb0de683366621935a3b3e4425284e648a49f758c3a4b85c6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2290.JPG",
-        "rutaOriginal": "/media/originales/e23abfa496fa47ab.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e23abfa496fa47ab-400.webp",
-          "800w": "/media/derivados/e23abfa496fa47ab-800.webp",
-          "1600w": "/media/derivados/e23abfa496fa47ab-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "¡Gran avance! La cancha de fútbol y mini parque de El Moretal ya alcanza el 60% de construcción",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/e23abfa496fa47ab"
       }
     ]
   }

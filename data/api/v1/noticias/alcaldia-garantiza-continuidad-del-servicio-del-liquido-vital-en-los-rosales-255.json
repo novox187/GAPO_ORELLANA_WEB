@@ -9,11 +9,11 @@
       "id": "bff6a2460a909b31",
       "hash": "bff6a2460a909b31bfdc691ba885c21954cc112ef68ab2aebed8e493856e05c4",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG4623.JPG",
-      "rutaOriginal": "/media/originales/bff6a2460a909b31.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852603/orellana-web/bff6a2460a909b31.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/bff6a2460a909b31-400.webp",
-        "800w": "/media/derivados/bff6a2460a909b31-800.webp",
-        "1600w": "/media/derivados/bff6a2460a909b31-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852603/orellana-web/bff6a2460a909b31.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852603/orellana-web/bff6a2460a909b31.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852603/orellana-web/bff6a2460a909b31.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía garantiza continuidad del servicio del líquido vital en Los Rosales",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/bff6a2460a909b31"
     },
     "url": "/noticia/255/",
     "fuente_url": "https://orellana.gob.ec/noticia/255/",
@@ -31,11 +32,11 @@
         "id": "bff6a2460a909b31",
         "hash": "bff6a2460a909b31bfdc691ba885c21954cc112ef68ab2aebed8e493856e05c4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG4623.JPG",
-        "rutaOriginal": "/media/originales/bff6a2460a909b31.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852603/orellana-web/bff6a2460a909b31.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bff6a2460a909b31-400.webp",
-          "800w": "/media/derivados/bff6a2460a909b31-800.webp",
-          "1600w": "/media/derivados/bff6a2460a909b31-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852603/orellana-web/bff6a2460a909b31.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852603/orellana-web/bff6a2460a909b31.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852603/orellana-web/bff6a2460a909b31.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía garantiza continuidad del servicio del líquido vital en Los Rosales",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/bff6a2460a909b31"
       }
     ]
   }

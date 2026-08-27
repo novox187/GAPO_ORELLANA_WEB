@@ -9,11 +9,11 @@
       "id": "54b85515dc5e7134",
       "hash": "54b85515dc5e71346cdb88399227ab558f31c48e0d1a3c08be6e2c1f0dd16eb3",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_MG9978.JPG",
-      "rutaOriginal": "/media/originales/54b85515dc5e7134.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852599/orellana-web/54b85515dc5e7134.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/54b85515dc5e7134-400.webp",
-        "800w": "/media/derivados/54b85515dc5e7134-800.webp",
-        "1600w": "/media/derivados/54b85515dc5e7134-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852599/orellana-web/54b85515dc5e7134.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852599/orellana-web/54b85515dc5e7134.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852599/orellana-web/54b85515dc5e7134.jpg"
       },
       "ancho": 6160,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "El Coca celebró su historia con la Velada del Día de la Identidad Coqueña",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/54b85515dc5e7134"
     },
     "url": "/noticia/258/",
     "fuente_url": "https://orellana.gob.ec/noticia/258/",
@@ -31,11 +32,11 @@
         "id": "54b85515dc5e7134",
         "hash": "54b85515dc5e71346cdb88399227ab558f31c48e0d1a3c08be6e2c1f0dd16eb3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_MG9978.JPG",
-        "rutaOriginal": "/media/originales/54b85515dc5e7134.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852599/orellana-web/54b85515dc5e7134.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/54b85515dc5e7134-400.webp",
-          "800w": "/media/derivados/54b85515dc5e7134-800.webp",
-          "1600w": "/media/derivados/54b85515dc5e7134-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852599/orellana-web/54b85515dc5e7134.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852599/orellana-web/54b85515dc5e7134.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852599/orellana-web/54b85515dc5e7134.jpg"
         },
         "ancho": 6160,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "El Coca celebró su historia con la Velada del Día de la Identidad Coqueña",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/54b85515dc5e7134"
       }
     ]
   }

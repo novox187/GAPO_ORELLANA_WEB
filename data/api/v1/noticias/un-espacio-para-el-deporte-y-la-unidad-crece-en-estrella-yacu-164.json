@@ -9,11 +9,11 @@
       "id": "ee65533e6c1d4256",
       "hash": "ee65533e6c1d4256028ce710733981a9124e8c89562825b3151b6325c41cef58",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG5947.JPG",
-      "rutaOriginal": "/media/originales/ee65533e6c1d4256.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ee65533e6c1d4256-400.webp",
-        "800w": "/media/derivados/ee65533e6c1d4256-800.webp",
-        "1600w": "/media/derivados/ee65533e6c1d4256-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Un espacio para el deporte y la unidad crece en Estrella Yacu",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+      "cloudinaryPublicId": "orellana-web/ee65533e6c1d4256"
     },
     "url": "/noticia/164/",
     "fuente_url": "https://orellana.gob.ec/noticia/164/",
@@ -31,11 +32,11 @@
         "id": "ee65533e6c1d4256",
         "hash": "ee65533e6c1d4256028ce710733981a9124e8c89562825b3151b6325c41cef58",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG5947.JPG",
-        "rutaOriginal": "/media/originales/ee65533e6c1d4256.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ee65533e6c1d4256-400.webp",
-          "800w": "/media/derivados/ee65533e6c1d4256-800.webp",
-          "1600w": "/media/derivados/ee65533e6c1d4256-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850641/orellana-web/ee65533e6c1d4256.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Un espacio para el deporte y la unidad crece en Estrella Yacu",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/ee65533e6c1d4256"
       }
     ]
   }

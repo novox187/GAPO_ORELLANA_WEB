@@ -9,11 +9,11 @@
       "id": "e385873b0f68a595",
       "hash": "e385873b0f68a5950812efcd3fe1874a2de35bf51682e70c960df9a2ea6d63e8",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_6380.JPG",
-      "rutaOriginal": "/media/originales/e385873b0f68a595.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852837/orellana-web/e385873b0f68a595.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e385873b0f68a595-400.webp",
-        "800w": "/media/derivados/e385873b0f68a595-800.webp",
-        "1600w": "/media/derivados/e385873b0f68a595-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Municipalidad fortalece infraestructura hídrica para garantizar mejor servicio de agua potable",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/e385873b0f68a595"
     },
     "url": "/noticia/63/",
     "fuente_url": "https://orellana.gob.ec/noticia/63/",
@@ -31,11 +32,11 @@
         "id": "e385873b0f68a595",
         "hash": "e385873b0f68a5950812efcd3fe1874a2de35bf51682e70c960df9a2ea6d63e8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_6380.JPG",
-        "rutaOriginal": "/media/originales/e385873b0f68a595.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852837/orellana-web/e385873b0f68a595.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e385873b0f68a595-400.webp",
-          "800w": "/media/derivados/e385873b0f68a595-800.webp",
-          "1600w": "/media/derivados/e385873b0f68a595-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Municipalidad fortalece infraestructura hídrica para garantizar mejor servicio de agua potable",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/e385873b0f68a595"
       }
     ]
   }

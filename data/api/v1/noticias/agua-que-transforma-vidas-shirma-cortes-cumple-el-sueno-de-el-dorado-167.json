@@ -9,11 +9,11 @@
       "id": "f59f845b9aeece8f",
       "hash": "f59f845b9aeece8f53d8378416a8e77db77ffbf828927519418d1ac69a026b84",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_DD.JPG",
-      "rutaOriginal": "/media/originales/f59f845b9aeece8f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/f59f845b9aeece8f-400.webp",
-        "800w": "/media/derivados/f59f845b9aeece8f-800.webp",
-        "1600w": "/media/derivados/f59f845b9aeece8f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg"
       },
       "ancho": 4000,
       "alto": 2256,
@@ -21,7 +21,8 @@
       "alt": "Agua que transforma vidas: Shirma Cortés cumple el sueño de El Dorado",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+      "cloudinaryPublicId": "orellana-web/f59f845b9aeece8f"
     },
     "url": "/noticia/167/",
     "fuente_url": "https://orellana.gob.ec/noticia/167/",
@@ -31,11 +32,11 @@
         "id": "f59f845b9aeece8f",
         "hash": "f59f845b9aeece8f53d8378416a8e77db77ffbf828927519418d1ac69a026b84",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_DD.JPG",
-        "rutaOriginal": "/media/originales/f59f845b9aeece8f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f59f845b9aeece8f-400.webp",
-          "800w": "/media/derivados/f59f845b9aeece8f-800.webp",
-          "1600w": "/media/derivados/f59f845b9aeece8f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850631/orellana-web/f59f845b9aeece8f.jpg"
         },
         "ancho": 4000,
         "alto": 2256,
@@ -43,7 +44,8 @@
         "alt": "Agua que transforma vidas: Shirma Cortés cumple el sueño de El Dorado",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/f59f845b9aeece8f"
       }
     ]
   }

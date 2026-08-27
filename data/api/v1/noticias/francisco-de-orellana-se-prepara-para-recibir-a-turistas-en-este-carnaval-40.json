@@ -9,11 +9,11 @@
       "id": "b2afe3b0242c62c0",
       "hash": "b2afe3b0242c62c09772df72d7481ffdac761b2ce03aea6b0f5b2f469b4588a0",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_1942.JPG",
-      "rutaOriginal": "/media/originales/b2afe3b0242c62c0.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/b2afe3b0242c62c0-400.webp",
-        "800w": "/media/derivados/b2afe3b0242c62c0-800.webp",
-        "1600w": "/media/derivados/b2afe3b0242c62c0-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Francisco de Orellana se prepara para recibir a turistas en este carnaval",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/b2afe3b0242c62c0"
     },
     "url": "/noticia/40/",
     "fuente_url": "https://orellana.gob.ec/noticia/40/",
@@ -31,11 +32,11 @@
         "id": "b2afe3b0242c62c0",
         "hash": "b2afe3b0242c62c09772df72d7481ffdac761b2ce03aea6b0f5b2f469b4588a0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_1942.JPG",
-        "rutaOriginal": "/media/originales/b2afe3b0242c62c0.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b2afe3b0242c62c0-400.webp",
-          "800w": "/media/derivados/b2afe3b0242c62c0-800.webp",
-          "1600w": "/media/derivados/b2afe3b0242c62c0-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851977/orellana-web/b2afe3b0242c62c0.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Francisco de Orellana se prepara para recibir a turistas en este carnaval",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/b2afe3b0242c62c0"
       }
     ]
   }

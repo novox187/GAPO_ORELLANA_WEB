@@ -9,11 +9,11 @@
       "id": "1c07a1db4fca2e58",
       "hash": "1c07a1db4fca2e58272a6117560bb81f9ac898e67d8f22c5023232ddcee55185",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_2237.JPG",
-      "rutaOriginal": "/media/originales/1c07a1db4fca2e58.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851740/orellana-web/1c07a1db4fca2e58.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/1c07a1db4fca2e58-400.webp",
-        "800w": "/media/derivados/1c07a1db4fca2e58-800.webp",
-        "1600w": "/media/derivados/1c07a1db4fca2e58-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851740/orellana-web/1c07a1db4fca2e58.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851740/orellana-web/1c07a1db4fca2e58.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851740/orellana-web/1c07a1db4fca2e58.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía entrega renovada cancha en el barrio 30 de Abril",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/1c07a1db4fca2e58"
     },
     "url": "/noticia/78/",
     "fuente_url": "https://orellana.gob.ec/noticia/78/",
@@ -31,11 +32,11 @@
         "id": "1c07a1db4fca2e58",
         "hash": "1c07a1db4fca2e58272a6117560bb81f9ac898e67d8f22c5023232ddcee55185",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_2237.JPG",
-        "rutaOriginal": "/media/originales/1c07a1db4fca2e58.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851740/orellana-web/1c07a1db4fca2e58.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1c07a1db4fca2e58-400.webp",
-          "800w": "/media/derivados/1c07a1db4fca2e58-800.webp",
-          "1600w": "/media/derivados/1c07a1db4fca2e58-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851740/orellana-web/1c07a1db4fca2e58.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851740/orellana-web/1c07a1db4fca2e58.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851740/orellana-web/1c07a1db4fca2e58.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía entrega renovada cancha en el barrio 30 de Abril",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/1c07a1db4fca2e58"
       }
     ]
   }

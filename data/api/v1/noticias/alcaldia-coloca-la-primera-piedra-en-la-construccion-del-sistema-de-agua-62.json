@@ -9,11 +9,11 @@
       "id": "730adde5208a0754",
       "hash": "730adde5208a0754eb875948ee0690ae129fb605c9a26c1a2053a747d06aa00e",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08.png",
-      "rutaOriginal": "/media/originales/730adde5208a0754.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851916/orellana-web/730adde5208a0754.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/730adde5208a0754-400.webp",
-        "800w": "/media/derivados/730adde5208a0754-800.webp",
-        "1600w": "/media/derivados/730adde5208a0754-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png"
       },
       "ancho": 1920,
       "alto": 1080,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía coloca la primera piedra en la construcción del sistema de agua potable de Alto Manduru",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/730adde5208a0754"
     },
     "url": "/noticia/62/",
     "fuente_url": "https://orellana.gob.ec/noticia/62/",
@@ -31,11 +32,11 @@
         "id": "730adde5208a0754",
         "hash": "730adde5208a0754eb875948ee0690ae129fb605c9a26c1a2053a747d06aa00e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08.png",
-        "rutaOriginal": "/media/originales/730adde5208a0754.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851916/orellana-web/730adde5208a0754.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/730adde5208a0754-400.webp",
-          "800w": "/media/derivados/730adde5208a0754-800.webp",
-          "1600w": "/media/derivados/730adde5208a0754-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png"
         },
         "ancho": 1920,
         "alto": 1080,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía coloca la primera piedra en la construcción del sistema de agua potable de Alto Manduru",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/730adde5208a0754"
       }
     ]
   }

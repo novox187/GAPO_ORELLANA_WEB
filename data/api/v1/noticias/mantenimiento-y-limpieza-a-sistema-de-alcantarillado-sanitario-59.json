@@ -9,11 +9,11 @@
       "id": "82a3790081532c35",
       "hash": "82a3790081532c3548e7987328298bcde5213f28076378160035360a68b2a2ca",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_IMG_5451_xtkm7ED.JPG",
-      "rutaOriginal": "/media/originales/82a3790081532c35.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851926/orellana-web/82a3790081532c35.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/82a3790081532c35-400.webp",
-        "800w": "/media/derivados/82a3790081532c35-800.webp",
-        "1600w": "/media/derivados/82a3790081532c35-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851926/orellana-web/82a3790081532c35.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851926/orellana-web/82a3790081532c35.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851926/orellana-web/82a3790081532c35.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Mantenimiento y limpieza a sistema de alcantarillado sanitario",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+      "cloudinaryPublicId": "orellana-web/82a3790081532c35"
     },
     "url": "/noticia/59/",
     "fuente_url": "https://orellana.gob.ec/noticia/59/",
@@ -31,11 +32,11 @@
         "id": "82a3790081532c35",
         "hash": "82a3790081532c3548e7987328298bcde5213f28076378160035360a68b2a2ca",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_IMG_5451_xtkm7ED.JPG",
-        "rutaOriginal": "/media/originales/82a3790081532c35.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851926/orellana-web/82a3790081532c35.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/82a3790081532c35-400.webp",
-          "800w": "/media/derivados/82a3790081532c35-800.webp",
-          "1600w": "/media/derivados/82a3790081532c35-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851926/orellana-web/82a3790081532c35.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851926/orellana-web/82a3790081532c35.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851926/orellana-web/82a3790081532c35.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Mantenimiento y limpieza a sistema de alcantarillado sanitario",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+        "cloudinaryPublicId": "orellana-web/82a3790081532c35"
       }
     ]
   }

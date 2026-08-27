@@ -9,11 +9,11 @@
       "id": "9499b7544406cbd3",
       "hash": "9499b7544406cbd32e3bf3bc9c17f4b0b64f1f3af4ed5cbeaeee0bdb286bfb5d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1QaOVVw.JPG",
-      "rutaOriginal": "/media/originales/9499b7544406cbd3.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852622/orellana-web/9499b7544406cbd3.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9499b7544406cbd3-400.webp",
-        "800w": "/media/derivados/9499b7544406cbd3-800.webp",
-        "1600w": "/media/derivados/9499b7544406cbd3-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Ordenanza de Zonas Homogéneas 2026–2027: valoración justa de predios",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+      "cloudinaryPublicId": "orellana-web/9499b7544406cbd3"
     },
     "url": "/noticia/226/",
     "fuente_url": "https://orellana.gob.ec/noticia/226/",
@@ -31,11 +32,11 @@
         "id": "9499b7544406cbd3",
         "hash": "9499b7544406cbd32e3bf3bc9c17f4b0b64f1f3af4ed5cbeaeee0bdb286bfb5d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1QaOVVw.JPG",
-        "rutaOriginal": "/media/originales/9499b7544406cbd3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852622/orellana-web/9499b7544406cbd3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9499b7544406cbd3-400.webp",
-          "800w": "/media/derivados/9499b7544406cbd3-800.webp",
-          "1600w": "/media/derivados/9499b7544406cbd3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852622/orellana-web/9499b7544406cbd3.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Ordenanza de Zonas Homogéneas 2026–2027: valoración justa de predios",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/9499b7544406cbd3"
       }
     ]
   }

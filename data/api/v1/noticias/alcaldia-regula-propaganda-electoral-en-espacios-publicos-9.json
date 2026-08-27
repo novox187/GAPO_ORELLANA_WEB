@@ -9,10 +9,11 @@
       "id": "575e98bad477f356",
       "hash": "575e98bad477f3561e4eb22b8a80d749e7f1308b2453253cc431b9000521da2d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/REGULACION_PROPAGANDA.jpg",
-      "rutaOriginal": "/media/originales/575e98bad477f356.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852414/orellana-web/575e98bad477f356.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/575e98bad477f356-400.webp",
-        "800w": "/media/derivados/575e98bad477f356-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía regula propaganda electoral en espacios públicos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+      "cloudinaryPublicId": "orellana-web/575e98bad477f356"
     },
     "url": "/noticia/9/",
     "fuente_url": "https://orellana.gob.ec/noticia/9/",
@@ -30,10 +32,11 @@
         "id": "575e98bad477f356",
         "hash": "575e98bad477f3561e4eb22b8a80d749e7f1308b2453253cc431b9000521da2d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/REGULACION_PROPAGANDA.jpg",
-        "rutaOriginal": "/media/originales/575e98bad477f356.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852414/orellana-web/575e98bad477f356.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/575e98bad477f356-400.webp",
-          "800w": "/media/derivados/575e98bad477f356-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía regula propaganda electoral en espacios públicos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/575e98bad477f356"
       }
     ]
   }

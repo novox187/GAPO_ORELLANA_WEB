@@ -9,11 +9,11 @@
       "id": "a7af3e17ca68c6e7",
       "hash": "a7af3e17ca68c6e7c0ad5253fd82ec8e24a085942c1f9495243d6241406b85ad",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03.JPG",
-      "rutaOriginal": "/media/originales/a7af3e17ca68c6e7.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a7af3e17ca68c6e7-400.webp",
-        "800w": "/media/derivados/a7af3e17ca68c6e7-800.webp",
-        "1600w": "/media/derivados/a7af3e17ca68c6e7-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Con obras que transforman, la alcaldesa Shirma Cortés impulsa soluciones reales para Perla Amazónica",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+      "cloudinaryPublicId": "orellana-web/a7af3e17ca68c6e7"
     },
     "url": "/noticia/172/",
     "fuente_url": "https://orellana.gob.ec/noticia/172/",
@@ -31,11 +32,11 @@
         "id": "a7af3e17ca68c6e7",
         "hash": "a7af3e17ca68c6e7c0ad5253fd82ec8e24a085942c1f9495243d6241406b85ad",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03.JPG",
-        "rutaOriginal": "/media/originales/a7af3e17ca68c6e7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a7af3e17ca68c6e7-400.webp",
-          "800w": "/media/derivados/a7af3e17ca68c6e7-800.webp",
-          "1600w": "/media/derivados/a7af3e17ca68c6e7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Con obras que transforman, la alcaldesa Shirma Cortés impulsa soluciones reales para Perla Amazónica",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/a7af3e17ca68c6e7"
       }
     ]
   }

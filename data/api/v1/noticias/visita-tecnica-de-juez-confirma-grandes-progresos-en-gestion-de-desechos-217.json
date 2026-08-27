@@ -9,11 +9,11 @@
       "id": "8211235eec48f186",
       "hash": "8211235eec48f186892915a825f211fe4039a744095101f8318cb111978bbf17",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_7ddyoCy.JPG",
-      "rutaOriginal": "/media/originales/8211235eec48f186.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852628/orellana-web/8211235eec48f186.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8211235eec48f186-400.webp",
-        "800w": "/media/derivados/8211235eec48f186-800.webp",
-        "1600w": "/media/derivados/8211235eec48f186-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg"
       },
       "ancho": 5472,
       "alto": 3648,
@@ -21,7 +21,8 @@
       "alt": "Visita técnica de juez confirma grandes progresos en gestión de desechos sólidos en el sitio de disposición final",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+      "cloudinaryPublicId": "orellana-web/8211235eec48f186"
     },
     "url": "/noticia/217/",
     "fuente_url": "https://orellana.gob.ec/noticia/217/",
@@ -31,11 +32,11 @@
         "id": "8211235eec48f186",
         "hash": "8211235eec48f186892915a825f211fe4039a744095101f8318cb111978bbf17",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_7ddyoCy.JPG",
-        "rutaOriginal": "/media/originales/8211235eec48f186.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852628/orellana-web/8211235eec48f186.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8211235eec48f186-400.webp",
-          "800w": "/media/derivados/8211235eec48f186-800.webp",
-          "1600w": "/media/derivados/8211235eec48f186-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852628/orellana-web/8211235eec48f186.jpg"
         },
         "ancho": 5472,
         "alto": 3648,
@@ -43,7 +44,8 @@
         "alt": "Visita técnica de juez confirma grandes progresos en gestión de desechos sólidos en el sitio de disposición final",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/8211235eec48f186"
       }
     ]
   }

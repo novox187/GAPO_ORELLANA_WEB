@@ -9,11 +9,11 @@
       "id": "ca1e2442332e04f2",
       "hash": "ca1e2442332e04f22b7a2dab2268b4a92174bc7f31d4c0b96ba842538b225554",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG931.JPG",
-      "rutaOriginal": "/media/originales/ca1e2442332e04f2.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ca1e2442332e04f2-400.webp",
-        "800w": "/media/derivados/ca1e2442332e04f2-800.webp",
-        "1600w": "/media/derivados/ca1e2442332e04f2-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Esperanza y Progreso en el sector 19 de Octubre con el mantenimiento vial",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+      "cloudinaryPublicId": "orellana-web/ca1e2442332e04f2"
     },
     "url": "/noticia/273/",
     "fuente_url": "https://orellana.gob.ec/noticia/273/",
@@ -31,11 +32,11 @@
         "id": "ca1e2442332e04f2",
         "hash": "ca1e2442332e04f22b7a2dab2268b4a92174bc7f31d4c0b96ba842538b225554",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG931.JPG",
-        "rutaOriginal": "/media/originales/ca1e2442332e04f2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ca1e2442332e04f2-400.webp",
-          "800w": "/media/derivados/ca1e2442332e04f2-800.webp",
-          "1600w": "/media/derivados/ca1e2442332e04f2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Esperanza y Progreso en el sector 19 de Octubre con el mantenimiento vial",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/ca1e2442332e04f2"
       }
     ]
   }

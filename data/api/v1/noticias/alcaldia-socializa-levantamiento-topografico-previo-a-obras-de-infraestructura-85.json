@@ -9,11 +9,11 @@
       "id": "15e570dff80d7151",
       "hash": "15e570dff80d71516e45257641b3ff33a47a495388d25324ca5349f3941153cd",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_4038.JPG",
-      "rutaOriginal": "/media/originales/15e570dff80d7151.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851721/orellana-web/15e570dff80d7151.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/15e570dff80d7151-400.webp",
-        "800w": "/media/derivados/15e570dff80d7151-800.webp",
-        "1600w": "/media/derivados/15e570dff80d7151-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía socializa levantamiento topográfico previo a obras de infraestructura en Ñukanchi Wasi y Los Sauces",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+      "cloudinaryPublicId": "orellana-web/15e570dff80d7151"
     },
     "url": "/noticia/85/",
     "fuente_url": "https://orellana.gob.ec/noticia/85/",
@@ -31,11 +32,11 @@
         "id": "15e570dff80d7151",
         "hash": "15e570dff80d71516e45257641b3ff33a47a495388d25324ca5349f3941153cd",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_4038.JPG",
-        "rutaOriginal": "/media/originales/15e570dff80d7151.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851721/orellana-web/15e570dff80d7151.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/15e570dff80d7151-400.webp",
-          "800w": "/media/derivados/15e570dff80d7151-800.webp",
-          "1600w": "/media/derivados/15e570dff80d7151-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía socializa levantamiento topográfico previo a obras de infraestructura en Ñukanchi Wasi y Los Sauces",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/15e570dff80d7151"
       }
     ]
   }

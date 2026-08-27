@@ -9,11 +9,11 @@
       "id": "c4b102281d7783e9",
       "hash": "c4b102281d7783e9db70972f8eef6592d1b675f1e015f8ea55a2f7640b52366d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3200.JPG",
-      "rutaOriginal": "/media/originales/c4b102281d7783e9.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851598/orellana-web/c4b102281d7783e9.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c4b102281d7783e9-400.webp",
-        "800w": "/media/derivados/c4b102281d7783e9-800.webp",
-        "1600w": "/media/derivados/c4b102281d7783e9-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Rehabilitación vial en la intersección de la avenida 9 de Octubre y Tetetes",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+      "cloudinaryPublicId": "orellana-web/c4b102281d7783e9"
     },
     "url": "/noticia/86/",
     "fuente_url": "https://orellana.gob.ec/noticia/86/",
@@ -31,11 +32,11 @@
         "id": "c4b102281d7783e9",
         "hash": "c4b102281d7783e9db70972f8eef6592d1b675f1e015f8ea55a2f7640b52366d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3200.JPG",
-        "rutaOriginal": "/media/originales/c4b102281d7783e9.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851598/orellana-web/c4b102281d7783e9.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c4b102281d7783e9-400.webp",
-          "800w": "/media/derivados/c4b102281d7783e9-800.webp",
-          "1600w": "/media/derivados/c4b102281d7783e9-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Rehabilitación vial en la intersección de la avenida 9 de Octubre y Tetetes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/c4b102281d7783e9"
       }
     ]
   }

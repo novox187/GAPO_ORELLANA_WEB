@@ -9,11 +9,11 @@
       "id": "6a8073d5628bd770",
       "hash": "6a8073d5628bd77098e7b42a3a5d3d30cf451c8e21e4f19ad5d100654c3122f8",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG9045.JPG",
-      "rutaOriginal": "/media/originales/6a8073d5628bd770.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850924/orellana-web/6a8073d5628bd770.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/6a8073d5628bd770-400.webp",
-        "800w": "/media/derivados/6a8073d5628bd770-800.webp",
-        "1600w": "/media/derivados/6a8073d5628bd770-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+      "cloudinaryPublicId": "orellana-web/6a8073d5628bd770"
     },
     "url": "/noticia/114/",
     "fuente_url": "https://orellana.gob.ec/noticia/114/",
@@ -31,11 +32,11 @@
         "id": "6a8073d5628bd770",
         "hash": "6a8073d5628bd77098e7b42a3a5d3d30cf451c8e21e4f19ad5d100654c3122f8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG9045.JPG",
-        "rutaOriginal": "/media/originales/6a8073d5628bd770.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850924/orellana-web/6a8073d5628bd770.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6a8073d5628bd770-400.webp",
-          "800w": "/media/derivados/6a8073d5628bd770-800.webp",
-          "1600w": "/media/derivados/6a8073d5628bd770-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850924/orellana-web/6a8073d5628bd770.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Capacitación a taxistas de El Coca fortalece el transporte seguro y eficiente",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/6a8073d5628bd770"
       }
     ]
   }

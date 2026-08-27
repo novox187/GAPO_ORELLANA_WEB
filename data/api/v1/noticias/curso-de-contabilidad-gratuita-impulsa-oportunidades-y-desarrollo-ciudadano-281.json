@@ -9,11 +9,11 @@
       "id": "547cdbfef03e86c8",
       "hash": "547cdbfef03e86c8a20d0293e6469cbb5af53bdad41ecb0814eb7b6a42a9b746",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_1_IMG_2531.JPG",
-      "rutaOriginal": "/media/originales/547cdbfef03e86c8.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/547cdbfef03e86c8-400.webp",
-        "800w": "/media/derivados/547cdbfef03e86c8-800.webp",
-        "1600w": "/media/derivados/547cdbfef03e86c8-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg"
       },
       "ancho": 6160,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "Curso de contabilidad gratuita impulsa oportunidades y desarrollo ciudadano",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/547cdbfef03e86c8"
     },
     "url": "/noticia/281/",
     "fuente_url": "https://orellana.gob.ec/noticia/281/",
@@ -31,11 +32,11 @@
         "id": "547cdbfef03e86c8",
         "hash": "547cdbfef03e86c8a20d0293e6469cbb5af53bdad41ecb0814eb7b6a42a9b746",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_1_IMG_2531.JPG",
-        "rutaOriginal": "/media/originales/547cdbfef03e86c8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/547cdbfef03e86c8-400.webp",
-          "800w": "/media/derivados/547cdbfef03e86c8-800.webp",
-          "1600w": "/media/derivados/547cdbfef03e86c8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg"
         },
         "ancho": 6160,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "Curso de contabilidad gratuita impulsa oportunidades y desarrollo ciudadano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/547cdbfef03e86c8"
       }
     ]
   }

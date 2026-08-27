@@ -9,11 +9,11 @@
       "id": "598b852a8933aae4",
       "hash": "598b852a8933aae48b43724043f34579bf8b71f8c322634695d74829c4a0b3eb",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG.JPG",
-      "rutaOriginal": "/media/originales/598b852a8933aae4.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849874/orellana-web/598b852a8933aae4.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/598b852a8933aae4-400.webp",
-        "800w": "/media/derivados/598b852a8933aae4-800.webp",
-        "1600w": "/media/derivados/598b852a8933aae4-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Muy pronto, la cancha cubierta del barrio Luis Guerra estará al servicio de la ciudadanía",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+      "cloudinaryPublicId": "orellana-web/598b852a8933aae4"
     },
     "url": "/noticia/231/",
     "fuente_url": "https://orellana.gob.ec/noticia/231/",
@@ -31,11 +32,11 @@
         "id": "598b852a8933aae4",
         "hash": "598b852a8933aae48b43724043f34579bf8b71f8c322634695d74829c4a0b3eb",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG.JPG",
-        "rutaOriginal": "/media/originales/598b852a8933aae4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849874/orellana-web/598b852a8933aae4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/598b852a8933aae4-400.webp",
-          "800w": "/media/derivados/598b852a8933aae4-800.webp",
-          "1600w": "/media/derivados/598b852a8933aae4-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849874/orellana-web/598b852a8933aae4.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Muy pronto, la cancha cubierta del barrio Luis Guerra estará al servicio de la ciudadanía",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/598b852a8933aae4"
       }
     ]
   }

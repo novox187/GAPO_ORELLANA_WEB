@@ -9,11 +9,11 @@
       "id": "f550126220a1ab06",
       "hash": "f550126220a1ab0676c083dcb1ee0ef7fbc974929bd395074287fc6febe0d7c9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG0286.JPG",
-      "rutaOriginal": "/media/originales/f550126220a1ab06.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852675/orellana-web/f550126220a1ab06.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/f550126220a1ab06-400.webp",
-        "800w": "/media/derivados/f550126220a1ab06-800.webp",
-        "1600w": "/media/derivados/f550126220a1ab06-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852675/orellana-web/f550126220a1ab06.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852675/orellana-web/f550126220a1ab06.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852675/orellana-web/f550126220a1ab06.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Comunidades de La Belleza celebran el avance de su nuevo sistema de agua potable",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+      "cloudinaryPublicId": "orellana-web/f550126220a1ab06"
     },
     "url": "/noticia/151/",
     "fuente_url": "https://orellana.gob.ec/noticia/151/",
@@ -31,11 +32,11 @@
         "id": "f550126220a1ab06",
         "hash": "f550126220a1ab0676c083dcb1ee0ef7fbc974929bd395074287fc6febe0d7c9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG0286.JPG",
-        "rutaOriginal": "/media/originales/f550126220a1ab06.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852675/orellana-web/f550126220a1ab06.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f550126220a1ab06-400.webp",
-          "800w": "/media/derivados/f550126220a1ab06-800.webp",
-          "1600w": "/media/derivados/f550126220a1ab06-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852675/orellana-web/f550126220a1ab06.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852675/orellana-web/f550126220a1ab06.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852675/orellana-web/f550126220a1ab06.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Comunidades de La Belleza celebran el avance de su nuevo sistema de agua potable",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+        "cloudinaryPublicId": "orellana-web/f550126220a1ab06"
       }
     ]
   }

@@ -9,10 +9,11 @@
         "id": "20256708685d279f",
         "hash": "20256708685d279faacaac707caa03e07d59525f0d1fc54ed5daf35f82c4774d",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/WhatsApp_Image_2025-09-22_at_12.13.43_PM.jpeg",
-        "rutaOriginal": "/media/originales/20256708685d279f.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848743/orellana-web/20256708685d279f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/20256708685d279f-400.webp",
-          "800w": "/media/derivados/20256708685d279f-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848743/orellana-web/20256708685d279f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848743/orellana-web/20256708685d279f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848743/orellana-web/20256708685d279f.jpg"
         },
         "ancho": 1086,
         "alto": 1280,
@@ -20,7 +21,8 @@
         "alt": "Dirección Administrativa — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/20256708685d279f"
       },
       "mision": "Dirigir y controlar los procesos administrativos destinados a suplir bienes, materiales y de servicios, que las diferentes unidades administrativas requieren para el cumplimiento de su misión.",
       "directorio_telefonico": [
@@ -116,11 +118,11 @@
         "id": "a7d9909804084297",
         "hash": "a7d9909804084297f141b17ca2233d3eea26f4c900d0c5f99790e361f45ded33",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_16_7zdK0w5.jpg",
-        "rutaOriginal": "/media/originales/a7d9909804084297.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848865/orellana-web/a7d9909804084297.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a7d9909804084297-400.webp",
-          "800w": "/media/derivados/a7d9909804084297-800.webp",
-          "1600w": "/media/derivados/a7d9909804084297-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848865/orellana-web/a7d9909804084297.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848865/orellana-web/a7d9909804084297.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848865/orellana-web/a7d9909804084297.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -128,7 +130,8 @@
         "alt": "Dirección de Ambiente — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/a7d9909804084297"
       },
       "mision": "Planificar, organizar y dirigir las acciones ambientales necesarias y de forma oportuna, garantizando la participación ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo y protección del ambiente.",
       "directorio_telefonico": [
@@ -164,10 +167,11 @@
         "id": "7ac1e1102af1ecdd",
         "hash": "7ac1e1102af1ecdddf824249cefb1ba11e8b9c4e3d5002b228f4df2abf311ea4",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_3.jpg.jpeg",
-        "rutaOriginal": "/media/originales/7ac1e1102af1ecdd.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848867/orellana-web/7ac1e1102af1ecdd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7ac1e1102af1ecdd-400.webp",
-          "800w": "/media/derivados/7ac1e1102af1ecdd-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848867/orellana-web/7ac1e1102af1ecdd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848867/orellana-web/7ac1e1102af1ecdd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848867/orellana-web/7ac1e1102af1ecdd.jpg"
         },
         "ancho": 1305,
         "alto": 1537,
@@ -175,7 +179,8 @@
         "alt": "Dirección de Comunicación Social — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/7ac1e1102af1ecdd"
       },
       "mision": "Generar ámbitos de comunicación y difundir de manera ágil y oportuna la gestión Municipal, a través de la relación directa y armónica con los medios de comunicación, para fomentar la participación ciudadana y fortalecer la imagen institucional municipal.",
       "directorio_telefonico": [
@@ -203,11 +208,11 @@
         "id": "123b561d26309720",
         "hash": "123b561d2630972015768e4bf2be1edd0dd17962da2b52c5f08e4c26c4942512",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_18.jpg",
-        "rutaOriginal": "/media/originales/123b561d26309720.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848869/orellana-web/123b561d26309720.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/123b561d26309720-400.webp",
-          "800w": "/media/derivados/123b561d26309720-800.webp",
-          "1600w": "/media/derivados/123b561d26309720-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848869/orellana-web/123b561d26309720.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848869/orellana-web/123b561d26309720.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848869/orellana-web/123b561d26309720.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -215,7 +220,8 @@
         "alt": "Procuraduría Síndica — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/123b561d26309720"
       },
       "mision": "Asesorar a las diferentes instancias municipales en todos los aspectos legales, judiciales y de contratación pública que requieran para su gestión y operación; así como también patrocinar, auspiciar y representar en los procesos judiciales de la institución, intervenir en los procesos precontractuales y contractuales, sustanciar reclamos y recursos administrativos en contra de actos administrativos de la Municipalidad; ejercer la representación judicial conjuntamente con la máxima autoridad.",
       "directorio_telefonico": [
@@ -239,11 +245,11 @@
         "id": "65726cf87bd29bf2",
         "hash": "65726cf87bd29bf22407492266b8090cc1570419933a2612784ceff47e3f447a",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_10.jpg",
-        "rutaOriginal": "/media/originales/65726cf87bd29bf2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848870/orellana-web/65726cf87bd29bf2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/65726cf87bd29bf2-400.webp",
-          "800w": "/media/derivados/65726cf87bd29bf2-800.webp",
-          "1600w": "/media/derivados/65726cf87bd29bf2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848870/orellana-web/65726cf87bd29bf2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848870/orellana-web/65726cf87bd29bf2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848870/orellana-web/65726cf87bd29bf2.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -251,7 +257,8 @@
         "alt": "Dirección de Obras Públicas — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/65726cf87bd29bf2"
       },
       "mision": "Planificar, organizar, direccionar, supervisar, controlar los programas y proyectos de construcción, rehabilitación y mantenimiento de las instalaciones de infraestructura civil y vial; además vigilar el uso del Equipo Caminero a fin de brindar obras de calidad a través de un trabajo en equipo y eficiente.",
       "directorio_telefonico": [
@@ -283,11 +290,11 @@
         "id": "7c04a0a0f3552b68",
         "hash": "7c04a0a0f3552b68374b1853a5d210324fffb7554a6577a2bc1de30742c31eaa",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_5.jpg",
-        "rutaOriginal": "/media/originales/7c04a0a0f3552b68.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848873/orellana-web/7c04a0a0f3552b68.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7c04a0a0f3552b68-400.webp",
-          "800w": "/media/derivados/7c04a0a0f3552b68-800.webp",
-          "1600w": "/media/derivados/7c04a0a0f3552b68-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848873/orellana-web/7c04a0a0f3552b68.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848873/orellana-web/7c04a0a0f3552b68.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848873/orellana-web/7c04a0a0f3552b68.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -295,7 +302,8 @@
         "alt": "Dirección de Compras Públicas — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/7c04a0a0f3552b68"
       },
       "mision": "",
       "directorio_telefonico": [
@@ -347,11 +355,11 @@
         "id": "9fbf3d4c24b45633",
         "hash": "9fbf3d4c24b456331432bda7f6ca55bff20e62afd02d684766cd4dec24370def",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_17.jpg",
-        "rutaOriginal": "/media/originales/9fbf3d4c24b45633.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848875/orellana-web/9fbf3d4c24b45633.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9fbf3d4c24b45633-400.webp",
-          "800w": "/media/derivados/9fbf3d4c24b45633-800.webp",
-          "1600w": "/media/derivados/9fbf3d4c24b45633-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848875/orellana-web/9fbf3d4c24b45633.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848875/orellana-web/9fbf3d4c24b45633.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848875/orellana-web/9fbf3d4c24b45633.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -359,7 +367,8 @@
         "alt": "Dirección de Seguridad y Gobernabilidad — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/9fbf3d4c24b45633"
       },
       "mision": "Juzgar y sancionar a los infractores y contraventores de las norma jurídicas municipales, mediante las correcta administración de la justicia, en procura de la paz y bienestar de la comunidad; cumplir y hacer cumplir las leyes, ordenanza, reglamentos y disposiciones de las autoridades municipales en lo concerniente a seguridad ciudadana, control de contribuyentes, higiene, medio ambiente, vía pública, salubridad, abasto, ornato, obra pública, usos de espacio y bienes público de propiedad municip",
       "directorio_telefonico": [
@@ -391,11 +400,11 @@
         "id": "3ec4ab1ab46fe4d3",
         "hash": "3ec4ab1ab46fe4d373ea1cab5e16771eb852105c127b48d1b291b13dedd46694",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_12.jpg",
-        "rutaOriginal": "/media/originales/3ec4ab1ab46fe4d3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848876/orellana-web/3ec4ab1ab46fe4d3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3ec4ab1ab46fe4d3-400.webp",
-          "800w": "/media/derivados/3ec4ab1ab46fe4d3-800.webp",
-          "1600w": "/media/derivados/3ec4ab1ab46fe4d3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848876/orellana-web/3ec4ab1ab46fe4d3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848876/orellana-web/3ec4ab1ab46fe4d3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848876/orellana-web/3ec4ab1ab46fe4d3.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -403,7 +412,8 @@
         "alt": "Dirección de Desarrollo Social — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/3ec4ab1ab46fe4d3"
       },
       "mision": "Planificar, organizar y dirigir las acciones necesarias y de forma oportuna, garantizando la participación e inclusión ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo y protección de sus derechos.",
       "directorio_telefonico": [
@@ -443,11 +453,11 @@
         "id": "c81ea4f1343f663b",
         "hash": "c81ea4f1343f663b6bb12f1caba5c292f8adcb1743bf98c4396ca9446f17fe6e",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_13.jpg",
-        "rutaOriginal": "/media/originales/c81ea4f1343f663b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848878/orellana-web/c81ea4f1343f663b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c81ea4f1343f663b-400.webp",
-          "800w": "/media/derivados/c81ea4f1343f663b-800.webp",
-          "1600w": "/media/derivados/c81ea4f1343f663b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848878/orellana-web/c81ea4f1343f663b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848878/orellana-web/c81ea4f1343f663b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848878/orellana-web/c81ea4f1343f663b.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -455,7 +465,8 @@
         "alt": "Dirección de Riesgos — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/c81ea4f1343f663b"
       },
       "mision": "Planear, direccionar, coordinar y ejecutar los programas y proyectos de obras de mitigación y prevención de riesgos, atención de emergencias y demás políticas y acciones para reducir la vulnerabilidad de los ciudadanos y ciudadanas del cantón de Francisco de Orellana, frente a las amenazas de eventos adversos, coordinando acciones de cooperación con instituciones públicas y privadas, enfocados al Buen Vivir.",
       "directorio_telefonico": [
@@ -487,11 +498,11 @@
         "id": "5cbfb7bdd0a84e99",
         "hash": "5cbfb7bdd0a84e99b9836e1585a6a02ab038f2a7ab0aab824699ce2ffe144322",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia.jpg.jpeg",
-        "rutaOriginal": "/media/originales/5cbfb7bdd0a84e99.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848881/orellana-web/5cbfb7bdd0a84e99.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5cbfb7bdd0a84e99-400.webp",
-          "800w": "/media/derivados/5cbfb7bdd0a84e99-800.webp",
-          "1600w": "/media/derivados/5cbfb7bdd0a84e99-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848881/orellana-web/5cbfb7bdd0a84e99.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848881/orellana-web/5cbfb7bdd0a84e99.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848881/orellana-web/5cbfb7bdd0a84e99.jpg"
         },
         "ancho": 2480,
         "alto": 2979,
@@ -499,7 +510,8 @@
         "alt": "Dirección de Agua Potable y Alcantarillado — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/5cbfb7bdd0a84e99"
       },
       "mision": "Planificar, organizar y dirigir las acciones necesarias y de forma oportuna, garantizando la participación e inclusión ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo y protección de sus derechos.",
       "directorio_telefonico": [
@@ -527,11 +539,11 @@
         "id": "96bb8ff279723c3c",
         "hash": "96bb8ff279723c3c1f7033ca04a8c5bf1ec3604c1215c001191347bb1163bab6",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_16.jpg",
-        "rutaOriginal": "/media/originales/96bb8ff279723c3c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848883/orellana-web/96bb8ff279723c3c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/96bb8ff279723c3c-400.webp",
-          "800w": "/media/derivados/96bb8ff279723c3c-800.webp",
-          "1600w": "/media/derivados/96bb8ff279723c3c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848883/orellana-web/96bb8ff279723c3c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848883/orellana-web/96bb8ff279723c3c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848883/orellana-web/96bb8ff279723c3c.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -539,7 +551,8 @@
         "alt": "Dirección de Turismo — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/96bb8ff279723c3c"
       },
       "mision": "Impulsar la dinámica del desarrollo socio-económico y turístico cantonal, poniendo una atención especial en el sector de la economía social y solidaria del Cantón Francisco de Orellana, propiciando la implementación y ejecución de planes, programas y proyectos, basados en un enfoque sustentable y de alta participación social.",
       "directorio_telefonico": [
@@ -567,11 +580,11 @@
         "id": "528d305211dfec8e",
         "hash": "528d305211dfec8edfde0fccc72cfcca1aaf1f9659e99516a40ba25ebe0b2c65",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_15.jpg",
-        "rutaOriginal": "/media/originales/528d305211dfec8e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848885/orellana-web/528d305211dfec8e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/528d305211dfec8e-400.webp",
-          "800w": "/media/derivados/528d305211dfec8e-800.webp",
-          "1600w": "/media/derivados/528d305211dfec8e-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848885/orellana-web/528d305211dfec8e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848885/orellana-web/528d305211dfec8e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848885/orellana-web/528d305211dfec8e.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -579,7 +592,8 @@
         "alt": "Dirección de Talento Humano — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/528d305211dfec8e"
       },
       "mision": "Garantizar en el Gobierno Autónomo Descentralizado, un equipo humano competente de servidores y servidoras, comprometidos, capaces de adaptarse a nuevas políticas y realidades para asumir retos y conseguir el logro de los objetivos institucionales, con eficacia, eficiencia, calidad, jerarquía, coordinación, participación, planificación, transparencia, evaluación y responsabilidad.",
       "directorio_telefonico": [
@@ -635,11 +649,11 @@
         "id": "bffafe21f9677d03",
         "hash": "bffafe21f9677d03d8402b607035bacf25b27198cc73ba1d2f79a6cb4d1860a9",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_9.jpg",
-        "rutaOriginal": "/media/originales/bffafe21f9677d03.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848887/orellana-web/bffafe21f9677d03.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bffafe21f9677d03-400.webp",
-          "800w": "/media/derivados/bffafe21f9677d03-800.webp",
-          "1600w": "/media/derivados/bffafe21f9677d03-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848887/orellana-web/bffafe21f9677d03.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848887/orellana-web/bffafe21f9677d03.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848887/orellana-web/bffafe21f9677d03.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -647,7 +661,8 @@
         "alt": "Dirección Financiera — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/bffafe21f9677d03"
       },
       "mision": "Impulsar, coordinar y articular la implementación, seguimiento, evaluación de políticas, planes, programas y proyectos para dotar y administrar recursos financieros en función de los requerimientos de la planificación institucional, así como generar planes para obtener ingresos propios.",
       "directorio_telefonico": [
@@ -723,11 +738,11 @@
         "id": "f99099fdc9f4e294",
         "hash": "f99099fdc9f4e294290117c837f86dee1cf9607a193170bd263f663c2d522cc9",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_14_Mesa_de_trabajo_1_copia_19.jpg",
-        "rutaOriginal": "/media/originales/f99099fdc9f4e294.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848889/orellana-web/f99099fdc9f4e294.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f99099fdc9f4e294-400.webp",
-          "800w": "/media/derivados/f99099fdc9f4e294-800.webp",
-          "1600w": "/media/derivados/f99099fdc9f4e294-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848889/orellana-web/f99099fdc9f4e294.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848889/orellana-web/f99099fdc9f4e294.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848889/orellana-web/f99099fdc9f4e294.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -735,7 +750,8 @@
         "alt": "Dirección de Servicios Municipales — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/f99099fdc9f4e294"
       },
       "mision": "Planificar, organizar y dirigir las acciones de servicios en el cantón, de forma oportuna, garantizando la participación ciudadana en el desarrollo integral y la satisfacción de las necesidades de la comunidad correspondientes al desarrollo ordenado del cantón.",
       "directorio_telefonico": [
@@ -759,11 +775,11 @@
         "id": "7dd0de89c9cee2f2",
         "hash": "7dd0de89c9cee2f29c1e0a4032a51fbbc154590bf4a9ac4b8bb1cf8999fdf399",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_6.jpg",
-        "rutaOriginal": "/media/originales/7dd0de89c9cee2f2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848891/orellana-web/7dd0de89c9cee2f2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7dd0de89c9cee2f2-400.webp",
-          "800w": "/media/derivados/7dd0de89c9cee2f2-800.webp",
-          "1600w": "/media/derivados/7dd0de89c9cee2f2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848891/orellana-web/7dd0de89c9cee2f2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848891/orellana-web/7dd0de89c9cee2f2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848891/orellana-web/7dd0de89c9cee2f2.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -771,7 +787,8 @@
         "alt": "Secretario General — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/7dd0de89c9cee2f2"
       },
       "mision": "",
       "directorio_telefonico": [
@@ -791,10 +808,11 @@
         "id": "b434fb7c840bc503",
         "hash": "b434fb7c840bc5032bd01be1ff8794ee02b7954d3edbb597000450fd21abcf05",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_21.jpg.jpeg",
-        "rutaOriginal": "/media/originales/b434fb7c840bc503.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848893/orellana-web/b434fb7c840bc503.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b434fb7c840bc503-400.webp",
-          "800w": "/media/derivados/b434fb7c840bc503-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848893/orellana-web/b434fb7c840bc503.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848893/orellana-web/b434fb7c840bc503.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848893/orellana-web/b434fb7c840bc503.jpg"
         },
         "ancho": 1305,
         "alto": 1537,
@@ -802,7 +820,8 @@
         "alt": "Secretario de Concejo — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/b434fb7c840bc503"
       },
       "mision": "",
       "directorio_telefonico": [
@@ -822,11 +841,11 @@
         "id": "45079668fc5687ea",
         "hash": "45079668fc5687ea00bc007f5018dc557712c65f3b8a3325c2289e395a91317d",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_2.jpg",
-        "rutaOriginal": "/media/originales/45079668fc5687ea.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849015/orellana-web/45079668fc5687ea.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/45079668fc5687ea-400.webp",
-          "800w": "/media/derivados/45079668fc5687ea-800.webp",
-          "1600w": "/media/derivados/45079668fc5687ea-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849015/orellana-web/45079668fc5687ea.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849015/orellana-web/45079668fc5687ea.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849015/orellana-web/45079668fc5687ea.jpg"
         },
         "ancho": 2480,
         "alto": 2979,
@@ -834,7 +853,8 @@
         "alt": "Dirección de Planificación Institucional — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/45079668fc5687ea"
       },
       "mision": "Impulsar el desarrollo de la comunidad preocupándose de la formulación y mantenimiento en el tiempo de las estrategias y objetivos cantonales de desarrollo sustentable, integral y equilibrado de la población y el territorio, en base a las políticas, planes, programas y proyectos de desarrollo del cantón, promoviendo permanentemente la participación social, intercultural, plurinacional e inclusiva de la ciudadanía, debiendo evaluar el cumplimiento del plan de desarrollo; además asesorar a los niv",
       "directorio_telefonico": [
@@ -862,11 +882,11 @@
         "id": "5d41e0c24c4fc613",
         "hash": "5d41e0c24c4fc613c22dd6ed839d6d1c26ff61b753167147153a9850b9fdd487",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_11.jpg",
-        "rutaOriginal": "/media/originales/5d41e0c24c4fc613.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849018/orellana-web/5d41e0c24c4fc613.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5d41e0c24c4fc613-400.webp",
-          "800w": "/media/derivados/5d41e0c24c4fc613-800.webp",
-          "1600w": "/media/derivados/5d41e0c24c4fc613-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849018/orellana-web/5d41e0c24c4fc613.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849018/orellana-web/5d41e0c24c4fc613.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849018/orellana-web/5d41e0c24c4fc613.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -874,7 +894,8 @@
         "alt": "Asesor de Alcaldía — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/5d41e0c24c4fc613"
       },
       "mision": "",
       "directorio_telefonico": [
@@ -906,11 +927,11 @@
         "id": "8206be06cf2044a8",
         "hash": "8206be06cf2044a812d58cae62ed0d4cde806cce69020518eb5fb4d6d39776af",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1.jpg",
-        "rutaOriginal": "/media/originales/8206be06cf2044a8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849140/orellana-web/8206be06cf2044a8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8206be06cf2044a8-400.webp",
-          "800w": "/media/derivados/8206be06cf2044a8-800.webp",
-          "1600w": "/media/derivados/8206be06cf2044a8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849140/orellana-web/8206be06cf2044a8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849140/orellana-web/8206be06cf2044a8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849140/orellana-web/8206be06cf2044a8.jpg"
         },
         "ancho": 2480,
         "alto": 2979,
@@ -918,7 +939,8 @@
         "alt": "Dirección de Tránsito, TTSV — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/8206be06cf2044a8"
       },
       "mision": "Planificará, organizará y regulará en términos técnicos, económicos, sociales y medio ambientales su servicio público y privado deberá tener condiciones de seguridad, regularidad, calidad y protección ambiental, de acuerdo a las disposiciones y reglamentaciones impartidas por la Dirección de Tránsito, Transporte Terrestre y Seguridad Vial, aprobadas por el Concejo Municipal, y en base a las Resoluciones y Regulaciones emanadas por la Agencia Nacional de Tránsito, Transporte Terrestre y Seguridad",
       "directorio_telefonico": [
@@ -938,11 +960,11 @@
         "id": "52afe5c44035e6a8",
         "hash": "52afe5c44035e6a887143270edf37841e132e60ab871b33d8dfafeb3e795d160",
         "urlOriginal": "https://orellana.gob.ec/media/img/directores/fotos_directores_Mesa_de_trabajo_1_copia_7.jpg.jpeg",
-        "rutaOriginal": "/media/originales/52afe5c44035e6a8.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849145/orellana-web/52afe5c44035e6a8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/52afe5c44035e6a8-400.webp",
-          "800w": "/media/derivados/52afe5c44035e6a8-800.webp",
-          "1600w": "/media/derivados/52afe5c44035e6a8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849145/orellana-web/52afe5c44035e6a8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849145/orellana-web/52afe5c44035e6a8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849145/orellana-web/52afe5c44035e6a8.jpg"
         },
         "ancho": 2608,
         "alto": 3072,
@@ -950,7 +972,8 @@
         "alt": "Dirección Ordenamiento Territorial — responsable",
         "altPendiente": false,
         "seccion": "direcciones",
-        "fuenteUrl": "https://orellana.gob.ec/direcciones/"
+        "fuenteUrl": "https://orellana.gob.ec/direcciones/",
+        "cloudinaryPublicId": "orellana-web/52afe5c44035e6a8"
       },
       "mision": "Dotar al Gobierno Municipal de Francisco de Orellana con capacidades instaladas dentro del campo de la Planificación y Ordenamiento Territorial a fin de poder disponer de una plataforma de planeamiento, seguimiento y control de las actuaciones que se desarrollen en el territorio urbano y rural referente a avalúos y catastros, control de construcciones, comprobación topográfica territorial, planeamiento, verificación, regulación y proyectos de desarrollo territorial.",
       "directorio_telefonico": [

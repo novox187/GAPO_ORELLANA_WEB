@@ -9,11 +9,11 @@
       "id": "0c363a2917e2ac83",
       "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
-      "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
-        "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
-        "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+      "cloudinaryPublicId": "orellana-web/0c363a2917e2ac83"
     },
     "url": "/noticia/196/",
     "fuente_url": "https://orellana.gob.ec/noticia/196/",
@@ -31,11 +32,11 @@
         "id": "0c363a2917e2ac83",
         "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
-        "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
-          "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
-          "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/0c363a2917e2ac83"
       }
     ]
   }

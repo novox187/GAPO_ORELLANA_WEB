@@ -9,11 +9,11 @@
       "id": "81818208571bc03a",
       "hash": "81818208571bc03a4d25cd9aab88634bda6895b958549e1dc1af4dd75ec33345",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_1_IMG_0686.JPG",
-      "rutaOriginal": "/media/originales/81818208571bc03a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852678/orellana-web/81818208571bc03a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/81818208571bc03a-400.webp",
-        "800w": "/media/derivados/81818208571bc03a-800.webp",
-        "1600w": "/media/derivados/81818208571bc03a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852678/orellana-web/81818208571bc03a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852678/orellana-web/81818208571bc03a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852678/orellana-web/81818208571bc03a.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Del trabajo infantil al Cocazoo, ETI transforma vidas",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+      "cloudinaryPublicId": "orellana-web/81818208571bc03a"
     },
     "url": "/noticia/147/",
     "fuente_url": "https://orellana.gob.ec/noticia/147/",
@@ -31,11 +32,11 @@
         "id": "81818208571bc03a",
         "hash": "81818208571bc03a4d25cd9aab88634bda6895b958549e1dc1af4dd75ec33345",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_1_IMG_0686.JPG",
-        "rutaOriginal": "/media/originales/81818208571bc03a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852678/orellana-web/81818208571bc03a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/81818208571bc03a-400.webp",
-          "800w": "/media/derivados/81818208571bc03a-800.webp",
-          "1600w": "/media/derivados/81818208571bc03a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852678/orellana-web/81818208571bc03a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852678/orellana-web/81818208571bc03a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852678/orellana-web/81818208571bc03a.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Del trabajo infantil al Cocazoo, ETI transforma vidas",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+        "cloudinaryPublicId": "orellana-web/81818208571bc03a"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "47e3ff2537c93bd6",
       "hash": "47e3ff2537c93bd6c13acf1be45dc364f3b5cfe07b51588a5739ac6959166a4b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3534.JPG",
-      "rutaOriginal": "/media/originales/47e3ff2537c93bd6.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/47e3ff2537c93bd6-400.webp",
-        "800w": "/media/derivados/47e3ff2537c93bd6-800.webp",
-        "1600w": "/media/derivados/47e3ff2537c93bd6-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldesa inaugura capacitación empresarial y marketing para emprendedores",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+      "cloudinaryPublicId": "orellana-web/47e3ff2537c93bd6"
     },
     "url": "/noticia/52/",
     "fuente_url": "https://orellana.gob.ec/noticia/52/",
@@ -31,11 +32,11 @@
         "id": "47e3ff2537c93bd6",
         "hash": "47e3ff2537c93bd6c13acf1be45dc364f3b5cfe07b51588a5739ac6959166a4b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3534.JPG",
-        "rutaOriginal": "/media/originales/47e3ff2537c93bd6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/47e3ff2537c93bd6-400.webp",
-          "800w": "/media/derivados/47e3ff2537c93bd6-800.webp",
-          "1600w": "/media/derivados/47e3ff2537c93bd6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldesa inaugura capacitación empresarial y marketing para emprendedores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/47e3ff2537c93bd6"
       }
     ]
   }

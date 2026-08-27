@@ -9,11 +9,11 @@
       "id": "d71735d3ec7c226b",
       "hash": "d71735d3ec7c226b7c614719aa4f52eaa6836418e2a2c9c59d6d40d78a318a9b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG_8608_jBSidtC.JPG",
-      "rutaOriginal": "/media/originales/d71735d3ec7c226b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d71735d3ec7c226b-400.webp",
-        "800w": "/media/derivados/d71735d3ec7c226b-800.webp",
-        "1600w": "/media/derivados/d71735d3ec7c226b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "La Alcaldía impulsa la economía local con la feria de emprendimientos \"Aprende Emprendedor\"",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+      "cloudinaryPublicId": "orellana-web/d71735d3ec7c226b"
     },
     "url": "/noticia/103/",
     "fuente_url": "https://orellana.gob.ec/noticia/103/",
@@ -31,11 +32,11 @@
         "id": "d71735d3ec7c226b",
         "hash": "d71735d3ec7c226b7c614719aa4f52eaa6836418e2a2c9c59d6d40d78a318a9b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG_8608_jBSidtC.JPG",
-        "rutaOriginal": "/media/originales/d71735d3ec7c226b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d71735d3ec7c226b-400.webp",
-          "800w": "/media/derivados/d71735d3ec7c226b-800.webp",
-          "1600w": "/media/derivados/d71735d3ec7c226b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851307/orellana-web/d71735d3ec7c226b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "La Alcaldía impulsa la economía local con la feria de emprendimientos \"Aprende Emprendedor\"",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/d71735d3ec7c226b"
       }
     ]
   }

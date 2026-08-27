@@ -9,11 +9,11 @@
       "id": "9b3303514dcae271",
       "hash": "9b3303514dcae2712610db66afb558a3e8b8c90d017d69b609f0220632acf78e",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_jymiIN8.JPG",
-      "rutaOriginal": "/media/originales/9b3303514dcae271.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852612/orellana-web/9b3303514dcae271.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9b3303514dcae271-400.webp",
-        "800w": "/media/derivados/9b3303514dcae271-800.webp",
-        "1600w": "/media/derivados/9b3303514dcae271-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Universitarios imbabureños apuestan por la conservación y la innovación ambiental en el Cocazoo",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/9b3303514dcae271"
     },
     "url": "/noticia/241/",
     "fuente_url": "https://orellana.gob.ec/noticia/241/",
@@ -31,11 +32,11 @@
         "id": "9b3303514dcae271",
         "hash": "9b3303514dcae2712610db66afb558a3e8b8c90d017d69b609f0220632acf78e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_jymiIN8.JPG",
-        "rutaOriginal": "/media/originales/9b3303514dcae271.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852612/orellana-web/9b3303514dcae271.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9b3303514dcae271-400.webp",
-          "800w": "/media/derivados/9b3303514dcae271-800.webp",
-          "1600w": "/media/derivados/9b3303514dcae271-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Universitarios imbabureños apuestan por la conservación y la innovación ambiental en el Cocazoo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/9b3303514dcae271"
       }
     ]
   }

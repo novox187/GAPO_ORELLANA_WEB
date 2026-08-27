@@ -9,11 +9,11 @@
       "id": "d763e55da34d7b86",
       "hash": "d763e55da34d7b86bcb716ea7e08616ae1a9d19748c8a25a0be768c4afd85406",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15.JPG",
-      "rutaOriginal": "/media/originales/d763e55da34d7b86.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852652/orellana-web/d763e55da34d7b86.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d763e55da34d7b86-400.webp",
-        "800w": "/media/derivados/d763e55da34d7b86-800.webp",
-        "1600w": "/media/derivados/d763e55da34d7b86-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "La Alcaldía ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+      "cloudinaryPublicId": "orellana-web/d763e55da34d7b86"
     },
     "url": "/noticia/178/",
     "fuente_url": "https://orellana.gob.ec/noticia/178/",
@@ -31,11 +32,11 @@
         "id": "d763e55da34d7b86",
         "hash": "d763e55da34d7b86bcb716ea7e08616ae1a9d19748c8a25a0be768c4afd85406",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15.JPG",
-        "rutaOriginal": "/media/originales/d763e55da34d7b86.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852652/orellana-web/d763e55da34d7b86.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d763e55da34d7b86-400.webp",
-          "800w": "/media/derivados/d763e55da34d7b86-800.webp",
-          "1600w": "/media/derivados/d763e55da34d7b86-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "La Alcaldía ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/d763e55da34d7b86"
       }
     ]
   }

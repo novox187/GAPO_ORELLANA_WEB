@@ -9,11 +9,11 @@
       "id": "3574af6b16f77409",
       "hash": "3574af6b16f7740975e62bfb258a54066f45cc9efbac86331550ac0cb5c2a1b0",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_1_IMG5728.JPG",
-      "rutaOriginal": "/media/originales/3574af6b16f77409.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850644/orellana-web/3574af6b16f77409.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/3574af6b16f77409-400.webp",
-        "800w": "/media/derivados/3574af6b16f77409-800.webp",
-        "1600w": "/media/derivados/3574af6b16f77409-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/3574af6b16f77409"
     },
     "url": "/noticia/162/",
     "fuente_url": "https://orellana.gob.ec/noticia/162/",
@@ -31,11 +32,11 @@
         "id": "3574af6b16f77409",
         "hash": "3574af6b16f7740975e62bfb258a54066f45cc9efbac86331550ac0cb5c2a1b0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_1_IMG5728.JPG",
-        "rutaOriginal": "/media/originales/3574af6b16f77409.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850644/orellana-web/3574af6b16f77409.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3574af6b16f77409-400.webp",
-          "800w": "/media/derivados/3574af6b16f77409-800.webp",
-          "1600w": "/media/derivados/3574af6b16f77409-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/3574af6b16f77409"
       }
     ]
   }

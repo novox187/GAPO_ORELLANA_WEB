@@ -9,11 +9,11 @@
       "id": "4a6e3cd8497f0b30",
       "hash": "4a6e3cd8497f0b30c41ead6278d90bb4936d6dc0e4378d13b1ad6e02eb3c1daf",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG6192.JPG",
-      "rutaOriginal": "/media/originales/4a6e3cd8497f0b30.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/4a6e3cd8497f0b30-400.webp",
-        "800w": "/media/derivados/4a6e3cd8497f0b30-800.webp",
-        "1600w": "/media/derivados/4a6e3cd8497f0b30-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía impulsa turismo y economía local con el festival \"Freestyle, Toques y Ritmos\"",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/4a6e3cd8497f0b30"
     },
     "url": "/noticia/123/",
     "fuente_url": "https://orellana.gob.ec/noticia/123/",
@@ -31,11 +32,11 @@
         "id": "4a6e3cd8497f0b30",
         "hash": "4a6e3cd8497f0b30c41ead6278d90bb4936d6dc0e4378d13b1ad6e02eb3c1daf",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG6192.JPG",
-        "rutaOriginal": "/media/originales/4a6e3cd8497f0b30.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4a6e3cd8497f0b30-400.webp",
-          "800w": "/media/derivados/4a6e3cd8497f0b30-800.webp",
-          "1600w": "/media/derivados/4a6e3cd8497f0b30-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850965/orellana-web/4a6e3cd8497f0b30.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía impulsa turismo y economía local con el festival \"Freestyle, Toques y Ritmos\"",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/4a6e3cd8497f0b30"
       }
     ]
   }

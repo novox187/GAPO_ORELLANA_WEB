@@ -9,11 +9,11 @@
       "id": "656624fdf4c72307",
       "hash": "656624fdf4c723075534547d88cc2bdf7d4af1c47af9c210a842ecd8436311d7",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG3939.JPG",
-      "rutaOriginal": "/media/originales/656624fdf4c72307.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849634/orellana-web/656624fdf4c72307.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/656624fdf4c72307-400.webp",
-        "800w": "/media/derivados/656624fdf4c72307-800.webp",
-        "1600w": "/media/derivados/656624fdf4c72307-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Dignidad y sonrisas para nuestros adultos mayores de García Moreno",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/656624fdf4c72307"
     },
     "url": "/noticia/282/",
     "fuente_url": "https://orellana.gob.ec/noticia/282/",
@@ -31,11 +32,11 @@
         "id": "656624fdf4c72307",
         "hash": "656624fdf4c723075534547d88cc2bdf7d4af1c47af9c210a842ecd8436311d7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG3939.JPG",
-        "rutaOriginal": "/media/originales/656624fdf4c72307.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849634/orellana-web/656624fdf4c72307.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/656624fdf4c72307-400.webp",
-          "800w": "/media/derivados/656624fdf4c72307-800.webp",
-          "1600w": "/media/derivados/656624fdf4c72307-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Dignidad y sonrisas para nuestros adultos mayores de García Moreno",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/656624fdf4c72307"
       }
     ]
   }

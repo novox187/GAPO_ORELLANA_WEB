@@ -9,11 +9,11 @@
       "id": "c2b70bf99f3e501c",
       "hash": "c2b70bf99f3e501c33108228c274d2fa7a61271ac497779f8a79fc350c829f9f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_WhatsApp_Image_2026-01-13_at_2.56.50_PM_5.jpeg",
-      "rutaOriginal": "/media/originales/c2b70bf99f3e501c.jpeg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c2b70bf99f3e501c-400.webp",
-        "800w": "/media/derivados/c2b70bf99f3e501c-800.webp",
-        "1600w": "/media/derivados/c2b70bf99f3e501c-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg"
       },
       "ancho": 1600,
       "alto": 900,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía planifica nueva ubicación de la planta de asfalto, equipo caminero, talleres mecánicos y de combustibles",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/c2b70bf99f3e501c"
     },
     "url": "/noticia/237/",
     "fuente_url": "https://orellana.gob.ec/noticia/237/",
@@ -31,11 +32,11 @@
         "id": "c2b70bf99f3e501c",
         "hash": "c2b70bf99f3e501c33108228c274d2fa7a61271ac497779f8a79fc350c829f9f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_WhatsApp_Image_2026-01-13_at_2.56.50_PM_5.jpeg",
-        "rutaOriginal": "/media/originales/c2b70bf99f3e501c.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c2b70bf99f3e501c-400.webp",
-          "800w": "/media/derivados/c2b70bf99f3e501c-800.webp",
-          "1600w": "/media/derivados/c2b70bf99f3e501c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg"
         },
         "ancho": 1600,
         "alto": 900,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía planifica nueva ubicación de la planta de asfalto, equipo caminero, talleres mecánicos y de combustibles",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/c2b70bf99f3e501c"
       }
     ]
   }

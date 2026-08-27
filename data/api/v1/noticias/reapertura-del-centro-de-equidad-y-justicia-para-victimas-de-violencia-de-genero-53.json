@@ -9,11 +9,11 @@
       "id": "8dc42ad52c18b946",
       "hash": "8dc42ad52c18b9465b933a65f2f2acf6004b1bc662e989c94e05be436f3fc30e",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_4068.JPG",
-      "rutaOriginal": "/media/originales/8dc42ad52c18b946.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8dc42ad52c18b946-400.webp",
-        "800w": "/media/derivados/8dc42ad52c18b946-800.webp",
-        "1600w": "/media/derivados/8dc42ad52c18b946-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg"
       },
       "ancho": 6960,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "Reapertura del centro de equidad y justicia para víctimas de violencia de género",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+      "cloudinaryPublicId": "orellana-web/8dc42ad52c18b946"
     },
     "url": "/noticia/53/",
     "fuente_url": "https://orellana.gob.ec/noticia/53/",
@@ -31,11 +32,11 @@
         "id": "8dc42ad52c18b946",
         "hash": "8dc42ad52c18b9465b933a65f2f2acf6004b1bc662e989c94e05be436f3fc30e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_4068.JPG",
-        "rutaOriginal": "/media/originales/8dc42ad52c18b946.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8dc42ad52c18b946-400.webp",
-          "800w": "/media/derivados/8dc42ad52c18b946-800.webp",
-          "1600w": "/media/derivados/8dc42ad52c18b946-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "Reapertura del centro de equidad y justicia para víctimas de violencia de género",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/8dc42ad52c18b946"
       }
     ]
   }

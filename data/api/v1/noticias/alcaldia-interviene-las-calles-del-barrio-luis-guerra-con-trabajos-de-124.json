@@ -9,11 +9,11 @@
       "id": "ef5429b030718508",
       "hash": "ef5429b030718508000bb771994a2dbad2995f0a8e7e0aab3e4611a560865ec9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG2550.JPG",
-      "rutaOriginal": "/media/originales/ef5429b030718508.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852822/orellana-web/ef5429b030718508.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ef5429b030718508-400.webp",
-        "800w": "/media/derivados/ef5429b030718508-800.webp",
-        "1600w": "/media/derivados/ef5429b030718508-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía interviene las calles del barrio Luis Guerra con trabajos de mantenimiento vial",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/ef5429b030718508"
     },
     "url": "/noticia/124/",
     "fuente_url": "https://orellana.gob.ec/noticia/124/",
@@ -31,11 +32,11 @@
         "id": "ef5429b030718508",
         "hash": "ef5429b030718508000bb771994a2dbad2995f0a8e7e0aab3e4611a560865ec9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG2550.JPG",
-        "rutaOriginal": "/media/originales/ef5429b030718508.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852822/orellana-web/ef5429b030718508.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ef5429b030718508-400.webp",
-          "800w": "/media/derivados/ef5429b030718508-800.webp",
-          "1600w": "/media/derivados/ef5429b030718508-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852822/orellana-web/ef5429b030718508.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía interviene las calles del barrio Luis Guerra con trabajos de mantenimiento vial",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/ef5429b030718508"
       }
     ]
   }

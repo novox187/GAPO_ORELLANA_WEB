@@ -9,11 +9,11 @@
       "id": "b4d3c18dce5310c3",
       "hash": "b4d3c18dce5310c38ea055ff94e5741e889d5b33ebf0f77eba3b176daaa04562",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_clSemGj.JPG",
-      "rutaOriginal": "/media/originales/b4d3c18dce5310c3.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/b4d3c18dce5310c3-400.webp",
-        "800w": "/media/derivados/b4d3c18dce5310c3-800.webp",
-        "1600w": "/media/derivados/b4d3c18dce5310c3-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "La alcaldía impulsa proyecto amazónico y prevenir la violencia de género COCAPRODE",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/b4d3c18dce5310c3"
     },
     "url": "/noticia/215/",
     "fuente_url": "https://orellana.gob.ec/noticia/215/",
@@ -31,11 +32,11 @@
         "id": "b4d3c18dce5310c3",
         "hash": "b4d3c18dce5310c38ea055ff94e5741e889d5b33ebf0f77eba3b176daaa04562",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_clSemGj.JPG",
-        "rutaOriginal": "/media/originales/b4d3c18dce5310c3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b4d3c18dce5310c3-400.webp",
-          "800w": "/media/derivados/b4d3c18dce5310c3-800.webp",
-          "1600w": "/media/derivados/b4d3c18dce5310c3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850345/orellana-web/b4d3c18dce5310c3.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "La alcaldía impulsa proyecto amazónico y prevenir la violencia de género COCAPRODE",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/b4d3c18dce5310c3"
       }
     ]
   }

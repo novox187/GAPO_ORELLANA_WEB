@@ -9,11 +9,11 @@
       "id": "d2cdf683df8940a7",
       "hash": "d2cdf683df8940a7d9c34602b6c8c1518ac07842b89c89a0a9baaae22cf45242",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG8524.JPG",
-      "rutaOriginal": "/media/originales/d2cdf683df8940a7.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850805/orellana-web/d2cdf683df8940a7.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d2cdf683df8940a7-400.webp",
-        "800w": "/media/derivados/d2cdf683df8940a7-800.webp",
-        "1600w": "/media/derivados/d2cdf683df8940a7-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850805/orellana-web/d2cdf683df8940a7.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850805/orellana-web/d2cdf683df8940a7.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850805/orellana-web/d2cdf683df8940a7.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía ejecuta mantenimiento vial en el barrio 27 de Octubre",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+      "cloudinaryPublicId": "orellana-web/d2cdf683df8940a7"
     },
     "url": "/noticia/153/",
     "fuente_url": "https://orellana.gob.ec/noticia/153/",
@@ -31,11 +32,11 @@
         "id": "d2cdf683df8940a7",
         "hash": "d2cdf683df8940a7d9c34602b6c8c1518ac07842b89c89a0a9baaae22cf45242",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG8524.JPG",
-        "rutaOriginal": "/media/originales/d2cdf683df8940a7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850805/orellana-web/d2cdf683df8940a7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d2cdf683df8940a7-400.webp",
-          "800w": "/media/derivados/d2cdf683df8940a7-800.webp",
-          "1600w": "/media/derivados/d2cdf683df8940a7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850805/orellana-web/d2cdf683df8940a7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850805/orellana-web/d2cdf683df8940a7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850805/orellana-web/d2cdf683df8940a7.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía ejecuta mantenimiento vial en el barrio 27 de Octubre",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+        "cloudinaryPublicId": "orellana-web/d2cdf683df8940a7"
       }
     ]
   }

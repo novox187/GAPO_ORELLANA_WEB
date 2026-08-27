@@ -9,10 +9,11 @@
       "id": "7e2b48491a95696a",
       "hash": "7e2b48491a95696a78fb22727d76ba9a52f33e1e10c7d2bbdfa43795fe9e227a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_FIRMA_CONVENIO_MIES.png",
-      "rutaOriginal": "/media/originales/7e2b48491a95696a.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852388/orellana-web/7e2b48491a95696a.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/7e2b48491a95696a-400.webp",
-        "800w": "/media/derivados/7e2b48491a95696a-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía y MIES firman convenios para la inclusión social",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+      "cloudinaryPublicId": "orellana-web/7e2b48491a95696a"
     },
     "url": "/noticia/14/",
     "fuente_url": "https://orellana.gob.ec/noticia/14/",
@@ -30,10 +32,11 @@
         "id": "7e2b48491a95696a",
         "hash": "7e2b48491a95696a78fb22727d76ba9a52f33e1e10c7d2bbdfa43795fe9e227a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_FIRMA_CONVENIO_MIES.png",
-        "rutaOriginal": "/media/originales/7e2b48491a95696a.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852388/orellana-web/7e2b48491a95696a.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/7e2b48491a95696a-400.webp",
-          "800w": "/media/derivados/7e2b48491a95696a-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía y MIES firman convenios para la inclusión social",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/7e2b48491a95696a"
       }
     ]
   }

@@ -10,11 +10,11 @@
         "id": "a0f4033748b0324c",
         "hash": "a0f4033748b0324ce89c7865a0c23aefbb2fdb8e172eb14095a8a0ac13135ff3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG.JPG",
-        "rutaOriginal": "/media/originales/a0f4033748b0324c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850014/orellana-web/a0f4033748b0324c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a0f4033748b0324c-400.webp",
-          "800w": "/media/derivados/a0f4033748b0324c-800.webp",
-          "1600w": "/media/derivados/a0f4033748b0324c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850014/orellana-web/a0f4033748b0324c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850014/orellana-web/a0f4033748b0324c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850014/orellana-web/a0f4033748b0324c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Con liderazgo y visión, la Alcaldía impulsa la educación ambiental",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/a0f4033748b0324c"
       },
       "url": "/noticia/243/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -37,11 +38,11 @@
         "id": "bf9c2e91b1e24a3b",
         "hash": "bf9c2e91b1e24a3bba79fae86b33e1baa971f233cdef31a5d8cb937e4534bbf0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_UN7UIGF.JPG",
-        "rutaOriginal": "/media/originales/bf9c2e91b1e24a3b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bf9c2e91b1e24a3b-400.webp",
-          "800w": "/media/derivados/bf9c2e91b1e24a3b-800.webp",
-          "1600w": "/media/derivados/bf9c2e91b1e24a3b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Municipalidad recuerda horarios establecidos para embarques y desembarques en casas comerciales",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/bf9c2e91b1e24a3b"
       },
       "url": "/noticia/242/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -64,11 +66,11 @@
         "id": "9b3303514dcae271",
         "hash": "9b3303514dcae2712610db66afb558a3e8b8c90d017d69b609f0220632acf78e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_jymiIN8.JPG",
-        "rutaOriginal": "/media/originales/9b3303514dcae271.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852612/orellana-web/9b3303514dcae271.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9b3303514dcae271-400.webp",
-          "800w": "/media/derivados/9b3303514dcae271-800.webp",
-          "1600w": "/media/derivados/9b3303514dcae271-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852612/orellana-web/9b3303514dcae271.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Universitarios imbabureños apuestan por la conservación y la innovación ambiental en el Cocazoo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/9b3303514dcae271"
       },
       "url": "/noticia/241/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -91,11 +94,11 @@
         "id": "dcd052eada98ea63",
         "hash": "dcd052eada98ea630307520b10430ebfdd95e73220886e593443924888e9e50d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_Y8Npu3V.JPG",
-        "rutaOriginal": "/media/originales/dcd052eada98ea63.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852614/orellana-web/dcd052eada98ea63.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/dcd052eada98ea63-400.webp",
-          "800w": "/media/derivados/dcd052eada98ea63-800.webp",
-          "1600w": "/media/derivados/dcd052eada98ea63-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Cuidar El Coca es tarea de todos: Municipio actúa ante afectación ambiental",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/dcd052eada98ea63"
       },
       "url": "/noticia/240/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -118,11 +122,11 @@
         "id": "88f2093b2f950d41",
         "hash": "88f2093b2f950d418443c24e9f4d3813802638670b1d054374e80901e3901e00",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG1137.JPG",
-        "rutaOriginal": "/media/originales/88f2093b2f950d41.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852617/orellana-web/88f2093b2f950d41.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/88f2093b2f950d41-400.webp",
-          "800w": "/media/derivados/88f2093b2f950d41-800.webp",
-          "1600w": "/media/derivados/88f2093b2f950d41-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -130,7 +134,8 @@
         "alt": "Con liderazgo firme, la Alcaldía recupera la vialidad del barrio Nuevo Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/88f2093b2f950d41"
       },
       "url": "/noticia/239/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -145,11 +150,11 @@
         "id": "111b539bac201bc6",
         "hash": "111b539bac201bc6bac5ff792ada7d6877f5a93957d8fce78e52ccc1dab140cc",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG4231.JPG",
-        "rutaOriginal": "/media/originales/111b539bac201bc6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850044/orellana-web/111b539bac201bc6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/111b539bac201bc6-400.webp",
-          "800w": "/media/derivados/111b539bac201bc6-800.webp",
-          "1600w": "/media/derivados/111b539bac201bc6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -157,7 +162,8 @@
         "alt": "Alcaldía gestiona financiamiento para la construcción de un moderno mercado Virgen del Cisne",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/111b539bac201bc6"
       },
       "url": "/noticia/238/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -172,11 +178,11 @@
         "id": "c2b70bf99f3e501c",
         "hash": "c2b70bf99f3e501c33108228c274d2fa7a61271ac497779f8a79fc350c829f9f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_WhatsApp_Image_2026-01-13_at_2.56.50_PM_5.jpeg",
-        "rutaOriginal": "/media/originales/c2b70bf99f3e501c.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c2b70bf99f3e501c-400.webp",
-          "800w": "/media/derivados/c2b70bf99f3e501c-800.webp",
-          "1600w": "/media/derivados/c2b70bf99f3e501c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850046/orellana-web/c2b70bf99f3e501c.jpg"
         },
         "ancho": 1600,
         "alto": 900,
@@ -184,7 +190,8 @@
         "alt": "Alcaldía planifica nueva ubicación de la planta de asfalto, equipo caminero, talleres mecánicos y de combustibles",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/c2b70bf99f3e501c"
       },
       "url": "/noticia/237/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -199,11 +206,11 @@
         "id": "41e434a636031a7a",
         "hash": "41e434a636031a7a02a75eb7ad34a7df684e25acf86342c6ca0b86af33b4ee9b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG_3935.JPG",
-        "rutaOriginal": "/media/originales/41e434a636031a7a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852619/orellana-web/41e434a636031a7a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/41e434a636031a7a-400.webp",
-          "800w": "/media/derivados/41e434a636031a7a-800.webp",
-          "1600w": "/media/derivados/41e434a636031a7a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "Iniciamos el mantenimiento vial en el barrio Nuevo Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/41e434a636031a7a"
       },
       "url": "/noticia/236/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"
@@ -226,9 +234,11 @@
         "id": "9124673354350036",
         "hash": "9124673354350036aa0167a4dcbe0b58d579d4f23f197720dc5227e896851e02",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14.jpg",
-        "rutaOriginal": "/media/originales/9124673354350036.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850050/orellana-web/9124673354350036.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9124673354350036-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg"
         },
         "ancho": 561,
         "alto": 1034,
@@ -236,7 +246,8 @@
         "alt": "El respeto a la institucionalidad no admite abusos del concejal Miguel Murillo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/9124673354350036"
       },
       "url": "/noticia/235/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=6"

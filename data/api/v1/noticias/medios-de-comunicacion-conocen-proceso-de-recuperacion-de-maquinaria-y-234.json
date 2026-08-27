@@ -9,11 +9,11 @@
       "id": "802099af50daf631",
       "hash": "802099af50daf631a2985f159e89a63ab6bd4e43cad233d59412705308923692",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_3691.JPG",
-      "rutaOriginal": "/media/originales/802099af50daf631.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850053/orellana-web/802099af50daf631.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/802099af50daf631-400.webp",
-        "800w": "/media/derivados/802099af50daf631-800.webp",
-        "1600w": "/media/derivados/802099af50daf631-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Medios de comunicación conocen proceso de recuperación de maquinaria y vehículos pesados",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+      "cloudinaryPublicId": "orellana-web/802099af50daf631"
     },
     "url": "/noticia/234/",
     "fuente_url": "https://orellana.gob.ec/noticia/234/",
@@ -31,11 +32,11 @@
         "id": "802099af50daf631",
         "hash": "802099af50daf631a2985f159e89a63ab6bd4e43cad233d59412705308923692",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_3691.JPG",
-        "rutaOriginal": "/media/originales/802099af50daf631.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850053/orellana-web/802099af50daf631.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/802099af50daf631-400.webp",
-          "800w": "/media/derivados/802099af50daf631-800.webp",
-          "1600w": "/media/derivados/802099af50daf631-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850053/orellana-web/802099af50daf631.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Medios de comunicación conocen proceso de recuperación de maquinaria y vehículos pesados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/802099af50daf631"
       }
     ]
   }

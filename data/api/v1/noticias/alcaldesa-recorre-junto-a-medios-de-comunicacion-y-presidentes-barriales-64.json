@@ -9,11 +9,11 @@
       "id": "66523612028cab83",
       "hash": "66523612028cab83a869dbb15ff509189fde9b968b5158fb7245817973746333",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11__1_IMG_9623.JPG",
-      "rutaOriginal": "/media/originales/66523612028cab83.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851911/orellana-web/66523612028cab83.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/66523612028cab83-400.webp",
-        "800w": "/media/derivados/66523612028cab83-800.webp",
-        "1600w": "/media/derivados/66523612028cab83-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg"
       },
       "ancho": 6960,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "Alcaldesa recorre junto a medios de comunicación y presidentes barriales estaciones de bombeo",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/66523612028cab83"
     },
     "url": "/noticia/64/",
     "fuente_url": "https://orellana.gob.ec/noticia/64/",
@@ -31,11 +32,11 @@
         "id": "66523612028cab83",
         "hash": "66523612028cab83a869dbb15ff509189fde9b968b5158fb7245817973746333",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11__1_IMG_9623.JPG",
-        "rutaOriginal": "/media/originales/66523612028cab83.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851911/orellana-web/66523612028cab83.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/66523612028cab83-400.webp",
-          "800w": "/media/derivados/66523612028cab83-800.webp",
-          "1600w": "/media/derivados/66523612028cab83-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "Alcaldesa recorre junto a medios de comunicación y presidentes barriales estaciones de bombeo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/66523612028cab83"
       }
     ]
   }

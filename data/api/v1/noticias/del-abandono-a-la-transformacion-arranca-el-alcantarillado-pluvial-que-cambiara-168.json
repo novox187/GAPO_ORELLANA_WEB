@@ -9,11 +9,11 @@
       "id": "bd2ee91103146d55",
       "hash": "bd2ee91103146d554b85bf1b4f42fb5a772baf61a454410d1ce5225a67d8e04d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IM.jpg",
-      "rutaOriginal": "/media/originales/bd2ee91103146d55.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850627/orellana-web/bd2ee91103146d55.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/bd2ee91103146d55-400.webp",
-        "800w": "/media/derivados/bd2ee91103146d55-800.webp",
-        "1600w": "/media/derivados/bd2ee91103146d55-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Del abandono a la transformación: arranca el alcantarillado pluvial que cambiará la vida de cuatro barrios",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+      "cloudinaryPublicId": "orellana-web/bd2ee91103146d55"
     },
     "url": "/noticia/168/",
     "fuente_url": "https://orellana.gob.ec/noticia/168/",
@@ -31,11 +32,11 @@
         "id": "bd2ee91103146d55",
         "hash": "bd2ee91103146d554b85bf1b4f42fb5a772baf61a454410d1ce5225a67d8e04d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IM.jpg",
-        "rutaOriginal": "/media/originales/bd2ee91103146d55.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850627/orellana-web/bd2ee91103146d55.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bd2ee91103146d55-400.webp",
-          "800w": "/media/derivados/bd2ee91103146d55-800.webp",
-          "1600w": "/media/derivados/bd2ee91103146d55-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850627/orellana-web/bd2ee91103146d55.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Del abandono a la transformación: arranca el alcantarillado pluvial que cambiará la vida de cuatro barrios",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/bd2ee91103146d55"
       }
     ]
   }

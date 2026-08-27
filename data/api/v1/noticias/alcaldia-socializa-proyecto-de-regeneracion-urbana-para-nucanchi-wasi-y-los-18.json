@@ -9,10 +9,11 @@
       "id": "d742bb6c6e915055",
       "hash": "d742bb6c6e915055931d7036749600aafb161168cf7aaa85b5e2db9f08342e0f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_NUCANCHI_WASI.png",
-      "rutaOriginal": "/media/originales/d742bb6c6e915055.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852382/orellana-web/d742bb6c6e915055.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/d742bb6c6e915055-400.webp",
-        "800w": "/media/derivados/d742bb6c6e915055-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+      "cloudinaryPublicId": "orellana-web/d742bb6c6e915055"
     },
     "url": "/noticia/18/",
     "fuente_url": "https://orellana.gob.ec/noticia/18/",
@@ -30,10 +32,11 @@
         "id": "d742bb6c6e915055",
         "hash": "d742bb6c6e915055931d7036749600aafb161168cf7aaa85b5e2db9f08342e0f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_NUCANCHI_WASI.png",
-        "rutaOriginal": "/media/originales/d742bb6c6e915055.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852382/orellana-web/d742bb6c6e915055.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/d742bb6c6e915055-400.webp",
-          "800w": "/media/derivados/d742bb6c6e915055-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852382/orellana-web/d742bb6c6e915055.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/d742bb6c6e915055"
       }
     ]
   }

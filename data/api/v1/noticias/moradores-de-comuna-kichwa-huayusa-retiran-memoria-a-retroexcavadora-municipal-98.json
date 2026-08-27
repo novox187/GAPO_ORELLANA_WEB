@@ -9,11 +9,11 @@
       "id": "8d670bf18146bfd0",
       "hash": "8d670bf18146bfd0084ca59d352ae0ab7ca597dce3af9346b774bd69e7ad9a79",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_3613.JPG",
-      "rutaOriginal": "/media/originales/8d670bf18146bfd0.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8d670bf18146bfd0-400.webp",
-        "800w": "/media/derivados/8d670bf18146bfd0-800.webp",
-        "1600w": "/media/derivados/8d670bf18146bfd0-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg"
       },
       "ancho": 6960,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "Moradores de comuna Kichwa Huayusa retiran memoria a retroexcavadora municipal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+      "cloudinaryPublicId": "orellana-web/8d670bf18146bfd0"
     },
     "url": "/noticia/98/",
     "fuente_url": "https://orellana.gob.ec/noticia/98/",
@@ -31,11 +32,11 @@
         "id": "8d670bf18146bfd0",
         "hash": "8d670bf18146bfd0084ca59d352ae0ab7ca597dce3af9346b774bd69e7ad9a79",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_3613.JPG",
-        "rutaOriginal": "/media/originales/8d670bf18146bfd0.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8d670bf18146bfd0-400.webp",
-          "800w": "/media/derivados/8d670bf18146bfd0-800.webp",
-          "1600w": "/media/derivados/8d670bf18146bfd0-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "Moradores de comuna Kichwa Huayusa retiran memoria a retroexcavadora municipal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/8d670bf18146bfd0"
       }
     ]
   }

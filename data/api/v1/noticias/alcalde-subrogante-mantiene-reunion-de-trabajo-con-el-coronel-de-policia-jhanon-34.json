@@ -9,10 +9,11 @@
       "id": "828b5703feaf2e6d",
       "hash": "828b5703feaf2e6d4ab1794c97a97c667ac7750e032924042b5a63f4dad3f09b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_POLICIA_NACIONAL.png",
-      "rutaOriginal": "/media/originales/828b5703feaf2e6d.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852230/orellana-web/828b5703feaf2e6d.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/828b5703feaf2e6d-400.webp",
-        "800w": "/media/derivados/828b5703feaf2e6d-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852230/orellana-web/828b5703feaf2e6d.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852230/orellana-web/828b5703feaf2e6d.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852230/orellana-web/828b5703feaf2e6d.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcalde subrogante mantiene reunión de trabajo con el coronel de Policía Jhanón Varela",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+      "cloudinaryPublicId": "orellana-web/828b5703feaf2e6d"
     },
     "url": "/noticia/34/",
     "fuente_url": "https://orellana.gob.ec/noticia/34/",
@@ -30,10 +32,11 @@
         "id": "828b5703feaf2e6d",
         "hash": "828b5703feaf2e6d4ab1794c97a97c667ac7750e032924042b5a63f4dad3f09b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_POLICIA_NACIONAL.png",
-        "rutaOriginal": "/media/originales/828b5703feaf2e6d.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852230/orellana-web/828b5703feaf2e6d.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/828b5703feaf2e6d-400.webp",
-          "800w": "/media/derivados/828b5703feaf2e6d-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852230/orellana-web/828b5703feaf2e6d.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852230/orellana-web/828b5703feaf2e6d.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852230/orellana-web/828b5703feaf2e6d.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcalde subrogante mantiene reunión de trabajo con el coronel de Policía Jhanón Varela",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+        "cloudinaryPublicId": "orellana-web/828b5703feaf2e6d"
       }
     ]
   }

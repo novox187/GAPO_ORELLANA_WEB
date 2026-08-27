@@ -9,11 +9,11 @@
       "id": "f723c3cc16627a5f",
       "hash": "f723c3cc16627a5fe35ee4779aefa99fc6eda9c03835f6be5d8e61971a54c36f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG_9980.JPG",
-      "rutaOriginal": "/media/originales/f723c3cc16627a5f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850850/orellana-web/f723c3cc16627a5f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/f723c3cc16627a5f-400.webp",
-        "800w": "/media/derivados/f723c3cc16627a5f-800.webp",
-        "1600w": "/media/derivados/f723c3cc16627a5f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850850/orellana-web/f723c3cc16627a5f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850850/orellana-web/f723c3cc16627a5f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850850/orellana-web/f723c3cc16627a5f.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Juntos por El Coca, construyamos la ciudad ordenada y bonita que soñamos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+      "cloudinaryPublicId": "orellana-web/f723c3cc16627a5f"
     },
     "url": "/noticia/150/",
     "fuente_url": "https://orellana.gob.ec/noticia/150/",
@@ -31,11 +32,11 @@
         "id": "f723c3cc16627a5f",
         "hash": "f723c3cc16627a5fe35ee4779aefa99fc6eda9c03835f6be5d8e61971a54c36f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_1_IMG_9980.JPG",
-        "rutaOriginal": "/media/originales/f723c3cc16627a5f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850850/orellana-web/f723c3cc16627a5f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f723c3cc16627a5f-400.webp",
-          "800w": "/media/derivados/f723c3cc16627a5f-800.webp",
-          "1600w": "/media/derivados/f723c3cc16627a5f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850850/orellana-web/f723c3cc16627a5f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850850/orellana-web/f723c3cc16627a5f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850850/orellana-web/f723c3cc16627a5f.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Juntos por El Coca, construyamos la ciudad ordenada y bonita que soñamos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+        "cloudinaryPublicId": "orellana-web/f723c3cc16627a5f"
       }
     ]
   }

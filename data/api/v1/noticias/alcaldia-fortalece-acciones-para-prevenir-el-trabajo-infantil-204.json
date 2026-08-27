@@ -9,11 +9,11 @@
       "id": "502c4db4b1f5e979",
       "hash": "502c4db4b1f5e979bdc85a1628e4e23888693dc8be43a603da097b8bda99d56f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26.JPG",
-      "rutaOriginal": "/media/originales/502c4db4b1f5e979.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850500/orellana-web/502c4db4b1f5e979.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/502c4db4b1f5e979-400.webp",
-        "800w": "/media/derivados/502c4db4b1f5e979-800.webp",
-        "1600w": "/media/derivados/502c4db4b1f5e979-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850500/orellana-web/502c4db4b1f5e979.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850500/orellana-web/502c4db4b1f5e979.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850500/orellana-web/502c4db4b1f5e979.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía fortalece acciones para prevenir el trabajo infantil",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+      "cloudinaryPublicId": "orellana-web/502c4db4b1f5e979"
     },
     "url": "/noticia/204/",
     "fuente_url": "https://orellana.gob.ec/noticia/204/",
@@ -31,11 +32,11 @@
         "id": "502c4db4b1f5e979",
         "hash": "502c4db4b1f5e979bdc85a1628e4e23888693dc8be43a603da097b8bda99d56f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26.JPG",
-        "rutaOriginal": "/media/originales/502c4db4b1f5e979.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850500/orellana-web/502c4db4b1f5e979.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/502c4db4b1f5e979-400.webp",
-          "800w": "/media/derivados/502c4db4b1f5e979-800.webp",
-          "1600w": "/media/derivados/502c4db4b1f5e979-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850500/orellana-web/502c4db4b1f5e979.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850500/orellana-web/502c4db4b1f5e979.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850500/orellana-web/502c4db4b1f5e979.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía fortalece acciones para prevenir el trabajo infantil",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+        "cloudinaryPublicId": "orellana-web/502c4db4b1f5e979"
       }
     ]
   }

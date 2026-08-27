@@ -9,11 +9,11 @@
       "id": "c02f230c3b9a7caa",
       "hash": "c02f230c3b9a7caa8fc8d232a30a0134552e4936465b5e178ad86b2af7721799",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_5256.JPG",
-      "rutaOriginal": "/media/originales/c02f230c3b9a7caa.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c02f230c3b9a7caa-400.webp",
-        "800w": "/media/derivados/c02f230c3b9a7caa-800.webp",
-        "1600w": "/media/derivados/c02f230c3b9a7caa-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Avanza a gran medida la construcción de la cancha de fútbol El Moretal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+      "cloudinaryPublicId": "orellana-web/c02f230c3b9a7caa"
     },
     "url": "/noticia/100/",
     "fuente_url": "https://orellana.gob.ec/noticia/100/",
@@ -31,11 +32,11 @@
         "id": "c02f230c3b9a7caa",
         "hash": "c02f230c3b9a7caa8fc8d232a30a0134552e4936465b5e178ad86b2af7721799",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_5256.JPG",
-        "rutaOriginal": "/media/originales/c02f230c3b9a7caa.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c02f230c3b9a7caa-400.webp",
-          "800w": "/media/derivados/c02f230c3b9a7caa-800.webp",
-          "1600w": "/media/derivados/c02f230c3b9a7caa-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851312/orellana-web/c02f230c3b9a7caa.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Avanza a gran medida la construcción de la cancha de fútbol El Moretal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/c02f230c3b9a7caa"
       }
     ]
   }

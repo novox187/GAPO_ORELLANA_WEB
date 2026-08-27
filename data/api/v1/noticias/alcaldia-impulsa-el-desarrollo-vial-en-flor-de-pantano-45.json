@@ -9,11 +9,11 @@
       "id": "e2a43f12a48b97e4",
       "hash": "e2a43f12a48b97e4771d2c80d401abae17d6a267feb2a3162cf1e886458fd214",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_2089.JPG",
-      "rutaOriginal": "/media/originales/e2a43f12a48b97e4.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e2a43f12a48b97e4-400.webp",
-        "800w": "/media/derivados/e2a43f12a48b97e4-800.webp",
-        "1600w": "/media/derivados/e2a43f12a48b97e4-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg"
       },
       "ancho": 6960,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía impulsa el desarrollo vial en Flor de Pantano",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+      "cloudinaryPublicId": "orellana-web/e2a43f12a48b97e4"
     },
     "url": "/noticia/45/",
     "fuente_url": "https://orellana.gob.ec/noticia/45/",
@@ -31,11 +32,11 @@
         "id": "e2a43f12a48b97e4",
         "hash": "e2a43f12a48b97e4771d2c80d401abae17d6a267feb2a3162cf1e886458fd214",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_2089.JPG",
-        "rutaOriginal": "/media/originales/e2a43f12a48b97e4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e2a43f12a48b97e4-400.webp",
-          "800w": "/media/derivados/e2a43f12a48b97e4-800.webp",
-          "1600w": "/media/derivados/e2a43f12a48b97e4-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía impulsa el desarrollo vial en Flor de Pantano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/e2a43f12a48b97e4"
       }
     ]
   }

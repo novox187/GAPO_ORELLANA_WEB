@@ -10,11 +10,11 @@
         "id": "221fdc3a7f26f529",
         "hash": "221fdc3a7f26f5295ada7d50bb6b3b50ad652a7f7004bd8374cff19633acf376",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG1105.JPG",
-        "rutaOriginal": "/media/originales/221fdc3a7f26f529.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/221fdc3a7f26f529-400.webp",
-          "800w": "/media/derivados/221fdc3a7f26f529-800.webp",
-          "1600w": "/media/derivados/221fdc3a7f26f529-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -22,7 +22,8 @@
         "alt": "Alcaldía refuerza limpieza de sumideros para prevenir inundaciones",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/221fdc3a7f26f529"
       },
       "url": "/noticia/280/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -37,11 +38,11 @@
         "id": "fb6bedf382ebd0f5",
         "hash": "fb6bedf382ebd0f577e1257ddbce2aaab47b3028e16f4e2e2e0614e4baafe2cc",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_IMG9750.JPG",
-        "rutaOriginal": "/media/originales/fb6bedf382ebd0f5.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/fb6bedf382ebd0f5-400.webp",
-          "800w": "/media/derivados/fb6bedf382ebd0f5-800.webp",
-          "1600w": "/media/derivados/fb6bedf382ebd0f5-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -49,7 +50,8 @@
         "alt": "Alcaldía mejora la vialidad en Elías Gavilanes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/fb6bedf382ebd0f5"
       },
       "url": "/noticia/279/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -64,11 +66,11 @@
         "id": "bbe22468702d5fb4",
         "hash": "bbe22468702d5fb458cc660ac34952de9057230b73565a86cc10aceb82e93530",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_1_IMG2250.JPG",
-        "rutaOriginal": "/media/originales/bbe22468702d5fb4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852573/orellana-web/bbe22468702d5fb4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bbe22468702d5fb4-400.webp",
-          "800w": "/media/derivados/bbe22468702d5fb4-800.webp",
-          "1600w": "/media/derivados/bbe22468702d5fb4-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852573/orellana-web/bbe22468702d5fb4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852573/orellana-web/bbe22468702d5fb4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852573/orellana-web/bbe22468702d5fb4.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "San Carlos se fortalece comunidad preparada y segura gracias a la gestión de riesgos municipal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/bbe22468702d5fb4"
       },
       "url": "/noticia/278/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -91,11 +94,11 @@
         "id": "483bbb6a3dfd951f",
         "hash": "483bbb6a3dfd951f5d84e0c570d396685b836013e57dbb3d6e1ca9302b67b9e1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_1_IMG1642.JPG",
-        "rutaOriginal": "/media/originales/483bbb6a3dfd951f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/483bbb6a3dfd951f-400.webp",
-          "800w": "/media/derivados/483bbb6a3dfd951f-800.webp",
-          "1600w": "/media/derivados/483bbb6a3dfd951f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Municipalidad impulsa recuperación de espacios en El Coca ante terrenos montosos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/483bbb6a3dfd951f"
       },
       "url": "/noticia/276/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -118,11 +122,11 @@
         "id": "ed4c458377622794",
         "hash": "ed4c4583776227943b258c388c4636e391f8ec724b161ad6c4c60b990f6dc40f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_2748.JPG",
-        "rutaOriginal": "/media/originales/ed4c458377622794.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852576/orellana-web/ed4c458377622794.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ed4c458377622794-400.webp",
-          "800w": "/media/derivados/ed4c458377622794-800.webp",
-          "1600w": "/media/derivados/ed4c458377622794-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -130,7 +134,8 @@
         "alt": "Inicia la primera etapa de asfaltado en Flor de Pantano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/ed4c458377622794"
       },
       "url": "/noticia/275/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -145,11 +150,11 @@
         "id": "9078afabd13e831d",
         "hash": "9078afabd13e831df52810cdd7c56bc525e03d36cc4c2184a04bdc51c20e3cd8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG2223.JPG",
-        "rutaOriginal": "/media/originales/9078afabd13e831d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852579/orellana-web/9078afabd13e831d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9078afabd13e831d-400.webp",
-          "800w": "/media/derivados/9078afabd13e831d-800.webp",
-          "1600w": "/media/derivados/9078afabd13e831d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -157,7 +162,8 @@
         "alt": "Alcaldía brinda soluciones inmediatas a familias afectadas por vendaval y fuertes lluvias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/9078afabd13e831d"
       },
       "url": "/noticia/274/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -172,11 +178,11 @@
         "id": "ca1e2442332e04f2",
         "hash": "ca1e2442332e04f22b7a2dab2268b4a92174bc7f31d4c0b96ba842538b225554",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG931.JPG",
-        "rutaOriginal": "/media/originales/ca1e2442332e04f2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ca1e2442332e04f2-400.webp",
-          "800w": "/media/derivados/ca1e2442332e04f2-800.webp",
-          "1600w": "/media/derivados/ca1e2442332e04f2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852581/orellana-web/ca1e2442332e04f2.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -184,7 +190,8 @@
         "alt": "Esperanza y Progreso en el sector 19 de Octubre con el mantenimiento vial",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/ca1e2442332e04f2"
       },
       "url": "/noticia/273/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -199,11 +206,11 @@
         "id": "2df1cc46802ba7c2",
         "hash": "2df1cc46802ba7c201c7f436e915b9d330c9d6cc553e7dbb46bc255e68842e2a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_I0481.JPG",
-        "rutaOriginal": "/media/originales/2df1cc46802ba7c2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2df1cc46802ba7c2-400.webp",
-          "800w": "/media/derivados/2df1cc46802ba7c2-800.webp",
-          "1600w": "/media/derivados/2df1cc46802ba7c2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852583/orellana-web/2df1cc46802ba7c2.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "Conexión Bocana del Payamino–Malecón: obra clave que impulsa el desarrollo del cantón",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/2df1cc46802ba7c2"
       },
       "url": "/noticia/272/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"
@@ -226,11 +234,11 @@
         "id": "801e06774404308c",
         "hash": "801e06774404308cc96b69cfd194ebaf19decf518e780684d0be1f79cda96817",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG0176.JPG",
-        "rutaOriginal": "/media/originales/801e06774404308c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852586/orellana-web/801e06774404308c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/801e06774404308c-400.webp",
-          "800w": "/media/derivados/801e06774404308c-800.webp",
-          "1600w": "/media/derivados/801e06774404308c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852586/orellana-web/801e06774404308c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852586/orellana-web/801e06774404308c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852586/orellana-web/801e06774404308c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -238,7 +246,8 @@
         "alt": "Moderna cancha cubierta de Palanda 2, impulsa desarrollo, empleo y esperanza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/801e06774404308c"
       },
       "url": "/noticia/271/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=2"

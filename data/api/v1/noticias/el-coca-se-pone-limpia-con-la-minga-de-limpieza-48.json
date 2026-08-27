@@ -9,11 +9,11 @@
       "id": "b661e7e899cd6560",
       "hash": "b661e7e899cd65607d38c62a3fe701254470b134122ef0a734092cdaf843fa39",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_1134.JPG",
-      "rutaOriginal": "/media/originales/b661e7e899cd6560.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852850/orellana-web/b661e7e899cd6560.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/b661e7e899cd6560-400.webp",
-        "800w": "/media/derivados/b661e7e899cd6560-800.webp",
-        "1600w": "/media/derivados/b661e7e899cd6560-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "El Coca se pone limpia con la minga de limpieza",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+      "cloudinaryPublicId": "orellana-web/b661e7e899cd6560"
     },
     "url": "/noticia/48/",
     "fuente_url": "https://orellana.gob.ec/noticia/48/",
@@ -31,11 +32,11 @@
         "id": "b661e7e899cd6560",
         "hash": "b661e7e899cd65607d38c62a3fe701254470b134122ef0a734092cdaf843fa39",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_1134.JPG",
-        "rutaOriginal": "/media/originales/b661e7e899cd6560.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852850/orellana-web/b661e7e899cd6560.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b661e7e899cd6560-400.webp",
-          "800w": "/media/derivados/b661e7e899cd6560-800.webp",
-          "1600w": "/media/derivados/b661e7e899cd6560-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "El Coca se pone limpia con la minga de limpieza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/b661e7e899cd6560"
       }
     ]
   }

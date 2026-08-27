@@ -9,11 +9,11 @@
       "id": "8d25771648e72389",
       "hash": "8d25771648e72389453dff500257f59939488c8cf111d98fa0c6aa5a10a5d2af",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.JPG",
-      "rutaOriginal": "/media/originales/8d25771648e72389.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850503/orellana-web/8d25771648e72389.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8d25771648e72389-400.webp",
-        "800w": "/media/derivados/8d25771648e72389-800.webp",
-        "1600w": "/media/derivados/8d25771648e72389-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850503/orellana-web/8d25771648e72389.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850503/orellana-web/8d25771648e72389.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850503/orellana-web/8d25771648e72389.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Visita de ACNUR y ONU a la Casa Taller “Aprende Emprendedor”",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+      "cloudinaryPublicId": "orellana-web/8d25771648e72389"
     },
     "url": "/noticia/203/",
     "fuente_url": "https://orellana.gob.ec/noticia/203/",
@@ -31,11 +32,11 @@
         "id": "8d25771648e72389",
         "hash": "8d25771648e72389453dff500257f59939488c8cf111d98fa0c6aa5a10a5d2af",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.JPG",
-        "rutaOriginal": "/media/originales/8d25771648e72389.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850503/orellana-web/8d25771648e72389.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8d25771648e72389-400.webp",
-          "800w": "/media/derivados/8d25771648e72389-800.webp",
-          "1600w": "/media/derivados/8d25771648e72389-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850503/orellana-web/8d25771648e72389.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850503/orellana-web/8d25771648e72389.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850503/orellana-web/8d25771648e72389.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Visita de ACNUR y ONU a la Casa Taller “Aprende Emprendedor”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+        "cloudinaryPublicId": "orellana-web/8d25771648e72389"
       }
     ]
   }

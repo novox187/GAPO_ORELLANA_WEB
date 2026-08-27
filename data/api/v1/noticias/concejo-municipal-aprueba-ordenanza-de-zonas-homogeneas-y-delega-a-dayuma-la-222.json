@@ -9,11 +9,11 @@
       "id": "f2d4e81aa4009082",
       "hash": "f2d4e81aa40090826b9c0cdda400a756fdfc0ddd63cc539942e3852e62fc1960",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG.JPG",
-      "rutaOriginal": "/media/originales/f2d4e81aa4009082.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/f2d4e81aa4009082-400.webp",
-        "800w": "/media/derivados/f2d4e81aa4009082-800.webp",
-        "1600w": "/media/derivados/f2d4e81aa4009082-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Concejo Municipal aprueba ordenanza de zonas homogéneas y delega a Dayuma la edificación de UBS",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+      "cloudinaryPublicId": "orellana-web/f2d4e81aa4009082"
     },
     "url": "/noticia/222/",
     "fuente_url": "https://orellana.gob.ec/noticia/222/",
@@ -31,11 +32,11 @@
         "id": "f2d4e81aa4009082",
         "hash": "f2d4e81aa40090826b9c0cdda400a756fdfc0ddd63cc539942e3852e62fc1960",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG.JPG",
-        "rutaOriginal": "/media/originales/f2d4e81aa4009082.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f2d4e81aa4009082-400.webp",
-          "800w": "/media/derivados/f2d4e81aa4009082-800.webp",
-          "1600w": "/media/derivados/f2d4e81aa4009082-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850083/orellana-web/f2d4e81aa4009082.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Concejo Municipal aprueba ordenanza de zonas homogéneas y delega a Dayuma la edificación de UBS",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/f2d4e81aa4009082"
       }
     ]
   }

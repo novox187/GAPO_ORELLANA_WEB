@@ -10,11 +10,11 @@
         "id": "9d1cf4c3b0ec1896",
         "hash": "9d1cf4c3b0ec18965dd1d0a1504bbcc6aa2416ca0845214a47c4c093ac08a456",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG_5773.JPG",
-        "rutaOriginal": "/media/originales/9d1cf4c3b0ec1896.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9d1cf4c3b0ec1896-400.webp",
-          "800w": "/media/derivados/9d1cf4c3b0ec1896-800.webp",
-          "1600w": "/media/derivados/9d1cf4c3b0ec1896-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Alcaldía participa del programa comunidades seguras y protectoras",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/9d1cf4c3b0ec1896"
       },
       "url": "/noticia/70/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -37,11 +38,11 @@
         "id": "6fdbe46e6b07d276",
         "hash": "6fdbe46e6b07d276ec433acf1b01366b8ba8da16cd0dc0ce6ab9517d9316df29",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2163.JPG",
-        "rutaOriginal": "/media/originales/6fdbe46e6b07d276.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6fdbe46e6b07d276-400.webp",
-          "800w": "/media/derivados/6fdbe46e6b07d276-800.webp",
-          "1600w": "/media/derivados/6fdbe46e6b07d276-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg"
         },
         "ancho": 3472,
         "alto": 2320,
@@ -49,7 +50,8 @@
         "alt": "Alcaldía coloca la primera piedra del sistema de agua potable La Delicia",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/6fdbe46e6b07d276"
       },
       "url": "/noticia/69/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -64,11 +66,11 @@
         "id": "6b02078df0e1d934",
         "hash": "6b02078df0e1d93486e45b17965465cf431292975593cca838c419f34d379c14",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_9467.JPG",
-        "rutaOriginal": "/media/originales/6b02078df0e1d934.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851900/orellana-web/6b02078df0e1d934.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6b02078df0e1d934-400.webp",
-          "800w": "/media/derivados/6b02078df0e1d934-800.webp",
-          "1600w": "/media/derivados/6b02078df0e1d934-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851900/orellana-web/6b02078df0e1d934.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851900/orellana-web/6b02078df0e1d934.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851900/orellana-web/6b02078df0e1d934.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Estudiantes de “Aprende Emprendedor” demuestran sus habilidades culinarias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/6b02078df0e1d934"
       },
       "url": "/noticia/68/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -91,11 +94,11 @@
         "id": "8624c725dd5fce4f",
         "hash": "8624c725dd5fce4fffc417fc3a2495697d193945da7dc48df6c231be8f6b76eb",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_5817.JPG",
-        "rutaOriginal": "/media/originales/8624c725dd5fce4f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8624c725dd5fce4f-400.webp",
-          "800w": "/media/derivados/8624c725dd5fce4f-800.webp",
-          "1600w": "/media/derivados/8624c725dd5fce4f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -103,7 +106,8 @@
         "alt": "Concejo Municipal aprueba construcción de alcantarillado pluvial en barrios de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/8624c725dd5fce4f"
       },
       "url": "/noticia/67/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -118,11 +122,11 @@
         "id": "c8f17f2ce84d14fc",
         "hash": "c8f17f2ce84d14fce90c5e6192718b1168c72c6583a18c5f3f436b55a78e4c61",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_6309.JPG",
-        "rutaOriginal": "/media/originales/c8f17f2ce84d14fc.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c8f17f2ce84d14fc-400.webp",
-          "800w": "/media/derivados/c8f17f2ce84d14fc-800.webp",
-          "1600w": "/media/derivados/c8f17f2ce84d14fc-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -130,7 +134,8 @@
         "alt": "Alcaldía construye paradas inteligentes para una ciudad más segura y conectada",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/c8f17f2ce84d14fc"
       },
       "url": "/noticia/66/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -145,11 +150,11 @@
         "id": "c7c9dd0edaf4681c",
         "hash": "c7c9dd0edaf4681c35e9c6bd5798f06e887c1349a4cfe1b6df1d394196c2cf2d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_DJI_0021.JPG",
-        "rutaOriginal": "/media/originales/c7c9dd0edaf4681c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c7c9dd0edaf4681c-400.webp",
-          "800w": "/media/derivados/c7c9dd0edaf4681c-800.webp",
-          "1600w": "/media/derivados/c7c9dd0edaf4681c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg"
         },
         "ancho": 5472,
         "alto": 3648,
@@ -157,7 +162,8 @@
         "alt": "Un acto de amor al futuro: la Alcaldía de Shirma Cortés entrega CDI a la comunidad Palma Roja",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/c7c9dd0edaf4681c"
       },
       "url": "/noticia/65/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -172,11 +178,11 @@
         "id": "66523612028cab83",
         "hash": "66523612028cab83a869dbb15ff509189fde9b968b5158fb7245817973746333",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11__1_IMG_9623.JPG",
-        "rutaOriginal": "/media/originales/66523612028cab83.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851911/orellana-web/66523612028cab83.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/66523612028cab83-400.webp",
-          "800w": "/media/derivados/66523612028cab83-800.webp",
-          "1600w": "/media/derivados/66523612028cab83-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851911/orellana-web/66523612028cab83.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -184,7 +190,8 @@
         "alt": "Alcaldesa recorre junto a medios de comunicación y presidentes barriales estaciones de bombeo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/66523612028cab83"
       },
       "url": "/noticia/64/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -199,11 +206,11 @@
         "id": "e385873b0f68a595",
         "hash": "e385873b0f68a5950812efcd3fe1874a2de35bf51682e70c960df9a2ea6d63e8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_6380.JPG",
-        "rutaOriginal": "/media/originales/e385873b0f68a595.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852837/orellana-web/e385873b0f68a595.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e385873b0f68a595-400.webp",
-          "800w": "/media/derivados/e385873b0f68a595-800.webp",
-          "1600w": "/media/derivados/e385873b0f68a595-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852837/orellana-web/e385873b0f68a595.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "Municipalidad fortalece infraestructura hídrica para garantizar mejor servicio de agua potable",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/e385873b0f68a595"
       },
       "url": "/noticia/63/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"
@@ -226,11 +234,11 @@
         "id": "730adde5208a0754",
         "hash": "730adde5208a0754eb875948ee0690ae129fb605c9a26c1a2053a747d06aa00e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08.png",
-        "rutaOriginal": "/media/originales/730adde5208a0754.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851916/orellana-web/730adde5208a0754.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/730adde5208a0754-400.webp",
-          "800w": "/media/derivados/730adde5208a0754-800.webp",
-          "1600w": "/media/derivados/730adde5208a0754-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851916/orellana-web/730adde5208a0754.png"
         },
         "ancho": 1920,
         "alto": 1080,
@@ -238,7 +246,8 @@
         "alt": "Alcaldía coloca la primera piedra en la construcción del sistema de agua potable de Alto Manduru",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/730adde5208a0754"
       },
       "url": "/noticia/62/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=25"

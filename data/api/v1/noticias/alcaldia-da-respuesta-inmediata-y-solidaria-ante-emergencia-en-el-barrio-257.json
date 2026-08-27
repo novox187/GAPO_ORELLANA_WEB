@@ -9,11 +9,11 @@
       "id": "e83198585e2a97bd",
       "hash": "e83198585e2a97bdde1c916a3aacdda89157fe14b0084edb96d7e684f8814ded",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG8891.JPG",
-      "rutaOriginal": "/media/originales/e83198585e2a97bd.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852601/orellana-web/e83198585e2a97bd.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e83198585e2a97bd-400.webp",
-        "800w": "/media/derivados/e83198585e2a97bd-800.webp",
-        "1600w": "/media/derivados/e83198585e2a97bd-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852601/orellana-web/e83198585e2a97bd.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852601/orellana-web/e83198585e2a97bd.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852601/orellana-web/e83198585e2a97bd.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía da respuesta inmediata y solidaria ante emergencia en el barrio Paraíso Amazónico",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/e83198585e2a97bd"
     },
     "url": "/noticia/257/",
     "fuente_url": "https://orellana.gob.ec/noticia/257/",
@@ -31,11 +32,11 @@
         "id": "e83198585e2a97bd",
         "hash": "e83198585e2a97bdde1c916a3aacdda89157fe14b0084edb96d7e684f8814ded",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG8891.JPG",
-        "rutaOriginal": "/media/originales/e83198585e2a97bd.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852601/orellana-web/e83198585e2a97bd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e83198585e2a97bd-400.webp",
-          "800w": "/media/derivados/e83198585e2a97bd-800.webp",
-          "1600w": "/media/derivados/e83198585e2a97bd-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852601/orellana-web/e83198585e2a97bd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852601/orellana-web/e83198585e2a97bd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852601/orellana-web/e83198585e2a97bd.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía da respuesta inmediata y solidaria ante emergencia en el barrio Paraíso Amazónico",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/e83198585e2a97bd"
       }
     ]
   }

@@ -9,10 +9,11 @@
       "id": "c6323c1bb81a6231",
       "hash": "c6323c1bb81a623199b07e10aa777a0d9aa288ae0194ee752c1e05e4475d3bc7",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.jpg",
-      "rutaOriginal": "/media/originales/c6323c1bb81a6231.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c6323c1bb81a6231-400.webp",
-        "800w": "/media/derivados/c6323c1bb81a6231-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg"
       },
       "ancho": 1280,
       "alto": 717,
@@ -20,7 +21,8 @@
       "alt": "Con liderazgo y decisión, la alcaldesa Shirma Cortés recupera la maquinaria municipal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+      "cloudinaryPublicId": "orellana-web/c6323c1bb81a6231"
     },
     "url": "/noticia/224/",
     "fuente_url": "https://orellana.gob.ec/noticia/224/",
@@ -30,10 +32,11 @@
         "id": "c6323c1bb81a6231",
         "hash": "c6323c1bb81a623199b07e10aa777a0d9aa288ae0194ee752c1e05e4475d3bc7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25.jpg",
-        "rutaOriginal": "/media/originales/c6323c1bb81a6231.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c6323c1bb81a6231-400.webp",
-          "800w": "/media/derivados/c6323c1bb81a6231-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850078/orellana-web/c6323c1bb81a6231.jpg"
         },
         "ancho": 1280,
         "alto": 717,
@@ -41,7 +44,8 @@
         "alt": "Con liderazgo y decisión, la alcaldesa Shirma Cortés recupera la maquinaria municipal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/c6323c1bb81a6231"
       }
     ]
   }

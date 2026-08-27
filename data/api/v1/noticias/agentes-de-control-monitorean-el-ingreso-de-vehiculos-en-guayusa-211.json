@@ -9,11 +9,11 @@
       "id": "2f30fedaa18b99a1",
       "hash": "2f30fedaa18b99a14c5fb932ccd59f3875e69d2d02abe24b728059e013f9a8e9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_YwfhNsW.JPG",
-      "rutaOriginal": "/media/originales/2f30fedaa18b99a1.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/2f30fedaa18b99a1-400.webp",
-        "800w": "/media/derivados/2f30fedaa18b99a1-800.webp",
-        "1600w": "/media/derivados/2f30fedaa18b99a1-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Agentes de Control monitorean el ingreso de vehículos en Guayusa",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/2f30fedaa18b99a1"
     },
     "url": "/noticia/211/",
     "fuente_url": "https://orellana.gob.ec/noticia/211/",
@@ -31,11 +32,11 @@
         "id": "2f30fedaa18b99a1",
         "hash": "2f30fedaa18b99a14c5fb932ccd59f3875e69d2d02abe24b728059e013f9a8e9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_YwfhNsW.JPG",
-        "rutaOriginal": "/media/originales/2f30fedaa18b99a1.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2f30fedaa18b99a1-400.webp",
-          "800w": "/media/derivados/2f30fedaa18b99a1-800.webp",
-          "1600w": "/media/derivados/2f30fedaa18b99a1-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852633/orellana-web/2f30fedaa18b99a1.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Agentes de Control monitorean el ingreso de vehículos en Guayusa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/2f30fedaa18b99a1"
       }
     ]
   }

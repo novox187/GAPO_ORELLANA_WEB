@@ -9,11 +9,11 @@
       "id": "a9a624321d7f796a",
       "hash": "a9a624321d7f796a8e7154d09dfcb50f301dc2590ce957051c54bfff3548624d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_9Ww6rUx.JPG",
-      "rutaOriginal": "/media/originales/a9a624321d7f796a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850510/orellana-web/a9a624321d7f796a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a9a624321d7f796a-400.webp",
-        "800w": "/media/derivados/a9a624321d7f796a-800.webp",
-        "1600w": "/media/derivados/a9a624321d7f796a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850510/orellana-web/a9a624321d7f796a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850510/orellana-web/a9a624321d7f796a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850510/orellana-web/a9a624321d7f796a.jpg"
       },
       "ancho": 7008,
       "alto": 4672,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía firma convenio con la STCTEA para la obra de alcantarillado pluvial en El Moretal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+      "cloudinaryPublicId": "orellana-web/a9a624321d7f796a"
     },
     "url": "/noticia/201/",
     "fuente_url": "https://orellana.gob.ec/noticia/201/",
@@ -31,11 +32,11 @@
         "id": "a9a624321d7f796a",
         "hash": "a9a624321d7f796a8e7154d09dfcb50f301dc2590ce957051c54bfff3548624d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_9Ww6rUx.JPG",
-        "rutaOriginal": "/media/originales/a9a624321d7f796a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850510/orellana-web/a9a624321d7f796a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a9a624321d7f796a-400.webp",
-          "800w": "/media/derivados/a9a624321d7f796a-800.webp",
-          "1600w": "/media/derivados/a9a624321d7f796a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850510/orellana-web/a9a624321d7f796a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850510/orellana-web/a9a624321d7f796a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850510/orellana-web/a9a624321d7f796a.jpg"
         },
         "ancho": 7008,
         "alto": 4672,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía firma convenio con la STCTEA para la obra de alcantarillado pluvial en El Moretal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+        "cloudinaryPublicId": "orellana-web/a9a624321d7f796a"
       }
     ]
   }

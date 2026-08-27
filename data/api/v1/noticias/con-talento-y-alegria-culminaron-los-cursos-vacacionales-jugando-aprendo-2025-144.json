@@ -9,11 +9,11 @@
       "id": "e261f0b9b5b87b33",
       "hash": "e261f0b9b5b87b332b4edb9832459664a5533c846c614ac0ebbca935bd7cf6b9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG1155.JPG",
-      "rutaOriginal": "/media/originales/e261f0b9b5b87b33.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e261f0b9b5b87b33-400.webp",
-        "800w": "/media/derivados/e261f0b9b5b87b33-800.webp",
-        "1600w": "/media/derivados/e261f0b9b5b87b33-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+      "cloudinaryPublicId": "orellana-web/e261f0b9b5b87b33"
     },
     "url": "/noticia/144/",
     "fuente_url": "https://orellana.gob.ec/noticia/144/",
@@ -31,11 +32,11 @@
         "id": "e261f0b9b5b87b33",
         "hash": "e261f0b9b5b87b332b4edb9832459664a5533c846c614ac0ebbca935bd7cf6b9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG1155.JPG",
-        "rutaOriginal": "/media/originales/e261f0b9b5b87b33.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e261f0b9b5b87b33-400.webp",
-          "800w": "/media/derivados/e261f0b9b5b87b33-800.webp",
-          "1600w": "/media/derivados/e261f0b9b5b87b33-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852680/orellana-web/e261f0b9b5b87b33.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Con talento y alegría, culminaron los cursos vacacionales “Jugando Aprendo 2025”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/e261f0b9b5b87b33"
       }
     ]
   }

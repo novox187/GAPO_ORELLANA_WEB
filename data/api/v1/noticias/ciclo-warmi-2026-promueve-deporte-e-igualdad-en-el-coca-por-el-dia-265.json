@@ -9,11 +9,11 @@
       "id": "63542e98cd1c8e35",
       "hash": "63542e98cd1c8e3532ded4e90a0e0301b1f36123534635401b274a2833ad0a07",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_MG9677.jpg",
-      "rutaOriginal": "/media/originales/63542e98cd1c8e35.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852591/orellana-web/63542e98cd1c8e35.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/63542e98cd1c8e35-400.webp",
-        "800w": "/media/derivados/63542e98cd1c8e35-800.webp",
-        "1600w": "/media/derivados/63542e98cd1c8e35-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852591/orellana-web/63542e98cd1c8e35.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852591/orellana-web/63542e98cd1c8e35.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852591/orellana-web/63542e98cd1c8e35.jpg"
       },
       "ancho": 6160,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "Ciclo Warmi 2026 promueve deporte e igualdad en El Coca por el Día Internacional de la Mujer",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/63542e98cd1c8e35"
     },
     "url": "/noticia/265/",
     "fuente_url": "https://orellana.gob.ec/noticia/265/",
@@ -31,11 +32,11 @@
         "id": "63542e98cd1c8e35",
         "hash": "63542e98cd1c8e3532ded4e90a0e0301b1f36123534635401b274a2833ad0a07",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_MG9677.jpg",
-        "rutaOriginal": "/media/originales/63542e98cd1c8e35.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852591/orellana-web/63542e98cd1c8e35.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/63542e98cd1c8e35-400.webp",
-          "800w": "/media/derivados/63542e98cd1c8e35-800.webp",
-          "1600w": "/media/derivados/63542e98cd1c8e35-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852591/orellana-web/63542e98cd1c8e35.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852591/orellana-web/63542e98cd1c8e35.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852591/orellana-web/63542e98cd1c8e35.jpg"
         },
         "ancho": 6160,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "Ciclo Warmi 2026 promueve deporte e igualdad en El Coca por el Día Internacional de la Mujer",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/63542e98cd1c8e35"
       }
     ]
   }

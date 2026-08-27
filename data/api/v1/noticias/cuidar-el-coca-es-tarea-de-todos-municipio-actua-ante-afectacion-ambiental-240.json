@@ -9,11 +9,11 @@
       "id": "dcd052eada98ea63",
       "hash": "dcd052eada98ea630307520b10430ebfdd95e73220886e593443924888e9e50d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_Y8Npu3V.JPG",
-      "rutaOriginal": "/media/originales/dcd052eada98ea63.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852614/orellana-web/dcd052eada98ea63.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/dcd052eada98ea63-400.webp",
-        "800w": "/media/derivados/dcd052eada98ea63-800.webp",
-        "1600w": "/media/derivados/dcd052eada98ea63-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Cuidar El Coca es tarea de todos: Municipio actúa ante afectación ambiental",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/dcd052eada98ea63"
     },
     "url": "/noticia/240/",
     "fuente_url": "https://orellana.gob.ec/noticia/240/",
@@ -31,11 +32,11 @@
         "id": "dcd052eada98ea63",
         "hash": "dcd052eada98ea630307520b10430ebfdd95e73220886e593443924888e9e50d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_IMG_Y8Npu3V.JPG",
-        "rutaOriginal": "/media/originales/dcd052eada98ea63.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852614/orellana-web/dcd052eada98ea63.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/dcd052eada98ea63-400.webp",
-          "800w": "/media/derivados/dcd052eada98ea63-800.webp",
-          "1600w": "/media/derivados/dcd052eada98ea63-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852614/orellana-web/dcd052eada98ea63.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Cuidar El Coca es tarea de todos: Municipio actúa ante afectación ambiental",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/dcd052eada98ea63"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "e8569c19c54bbb15",
       "hash": "e8569c19c54bbb15167b496ff68ccf0f0976dd1fb6ac13403fcd23ddbc0179b8",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG3098.JPG",
-      "rutaOriginal": "/media/originales/e8569c19c54bbb15.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e8569c19c54bbb15-400.webp",
-        "800w": "/media/derivados/e8569c19c54bbb15-800.webp",
-        "1600w": "/media/derivados/e8569c19c54bbb15-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía inició la construcción de la cancha cubierta en la comunidad Estrella Yaku",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/e8569c19c54bbb15"
     },
     "url": "/noticia/126/",
     "fuente_url": "https://orellana.gob.ec/noticia/126/",
@@ -31,11 +32,11 @@
         "id": "e8569c19c54bbb15",
         "hash": "e8569c19c54bbb15167b496ff68ccf0f0976dd1fb6ac13403fcd23ddbc0179b8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG3098.JPG",
-        "rutaOriginal": "/media/originales/e8569c19c54bbb15.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e8569c19c54bbb15-400.webp",
-          "800w": "/media/derivados/e8569c19c54bbb15-800.webp",
-          "1600w": "/media/derivados/e8569c19c54bbb15-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852819/orellana-web/e8569c19c54bbb15.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía inició la construcción de la cancha cubierta en la comunidad Estrella Yaku",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/e8569c19c54bbb15"
       }
     ]
   }

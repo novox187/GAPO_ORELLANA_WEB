@@ -9,11 +9,11 @@
       "id": "40c555c1627c5e8f",
       "hash": "40c555c1627c5e8ff1e09cc080f6c3b6992932f7472abc8046e3aeee43fdb115",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21.JPG",
-      "rutaOriginal": "/media/originales/40c555c1627c5e8f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850571/orellana-web/40c555c1627c5e8f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/40c555c1627c5e8f-400.webp",
-        "800w": "/media/derivados/40c555c1627c5e8f-800.webp",
-        "1600w": "/media/derivados/40c555c1627c5e8f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850571/orellana-web/40c555c1627c5e8f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850571/orellana-web/40c555c1627c5e8f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850571/orellana-web/40c555c1627c5e8f.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía trabaja por el buen ornato del cantón Francisco de Orellana",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+      "cloudinaryPublicId": "orellana-web/40c555c1627c5e8f"
     },
     "url": "/noticia/181/",
     "fuente_url": "https://orellana.gob.ec/noticia/181/",
@@ -31,11 +32,11 @@
         "id": "40c555c1627c5e8f",
         "hash": "40c555c1627c5e8ff1e09cc080f6c3b6992932f7472abc8046e3aeee43fdb115",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21.JPG",
-        "rutaOriginal": "/media/originales/40c555c1627c5e8f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850571/orellana-web/40c555c1627c5e8f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/40c555c1627c5e8f-400.webp",
-          "800w": "/media/derivados/40c555c1627c5e8f-800.webp",
-          "1600w": "/media/derivados/40c555c1627c5e8f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850571/orellana-web/40c555c1627c5e8f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850571/orellana-web/40c555c1627c5e8f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850571/orellana-web/40c555c1627c5e8f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía trabaja por el buen ornato del cantón Francisco de Orellana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+        "cloudinaryPublicId": "orellana-web/40c555c1627c5e8f"
       }
     ]
   }

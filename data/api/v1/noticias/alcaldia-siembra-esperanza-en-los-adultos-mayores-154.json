@@ -9,11 +9,11 @@
       "id": "c9a3b709717416c7",
       "hash": "c9a3b709717416c7ef35f40dde35f8e50451651b9ff36e7da41fe517f11dd9f0",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG9382.JPG",
-      "rutaOriginal": "/media/originales/c9a3b709717416c7.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850798/orellana-web/c9a3b709717416c7.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c9a3b709717416c7-400.webp",
-        "800w": "/media/derivados/c9a3b709717416c7-800.webp",
-        "1600w": "/media/derivados/c9a3b709717416c7-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía siembra esperanza en los adultos mayores",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/c9a3b709717416c7"
     },
     "url": "/noticia/154/",
     "fuente_url": "https://orellana.gob.ec/noticia/154/",
@@ -31,11 +32,11 @@
         "id": "c9a3b709717416c7",
         "hash": "c9a3b709717416c7ef35f40dde35f8e50451651b9ff36e7da41fe517f11dd9f0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG9382.JPG",
-        "rutaOriginal": "/media/originales/c9a3b709717416c7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850798/orellana-web/c9a3b709717416c7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c9a3b709717416c7-400.webp",
-          "800w": "/media/derivados/c9a3b709717416c7-800.webp",
-          "1600w": "/media/derivados/c9a3b709717416c7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía siembra esperanza en los adultos mayores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/c9a3b709717416c7"
       }
     ]
   }

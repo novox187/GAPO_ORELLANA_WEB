@@ -9,10 +9,11 @@
       "id": "9c84e48ef3cede14",
       "hash": "9c84e48ef3cede14418d0e6f89f179ef57ab24dd9327bc2cf25d76b426e72899",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_CANCHAS.png",
-      "rutaOriginal": "/media/originales/9c84e48ef3cede14.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852239/orellana-web/9c84e48ef3cede14.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/9c84e48ef3cede14-400.webp",
-        "800w": "/media/derivados/9c84e48ef3cede14-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852239/orellana-web/9c84e48ef3cede14.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852239/orellana-web/9c84e48ef3cede14.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852239/orellana-web/9c84e48ef3cede14.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía invierte en el mantenimiento integral de canchas deportivas en El Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+      "cloudinaryPublicId": "orellana-web/9c84e48ef3cede14"
     },
     "url": "/noticia/30/",
     "fuente_url": "https://orellana.gob.ec/noticia/30/",
@@ -30,10 +32,11 @@
         "id": "9c84e48ef3cede14",
         "hash": "9c84e48ef3cede14418d0e6f89f179ef57ab24dd9327bc2cf25d76b426e72899",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_CANCHAS.png",
-        "rutaOriginal": "/media/originales/9c84e48ef3cede14.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852239/orellana-web/9c84e48ef3cede14.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/9c84e48ef3cede14-400.webp",
-          "800w": "/media/derivados/9c84e48ef3cede14-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852239/orellana-web/9c84e48ef3cede14.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852239/orellana-web/9c84e48ef3cede14.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852239/orellana-web/9c84e48ef3cede14.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía invierte en el mantenimiento integral de canchas deportivas en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+        "cloudinaryPublicId": "orellana-web/9c84e48ef3cede14"
       }
     ]
   }

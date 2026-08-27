@@ -9,11 +9,11 @@
       "id": "221fdc3a7f26f529",
       "hash": "221fdc3a7f26f5295ada7d50bb6b3b50ad652a7f7004bd8374cff19633acf376",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG1105.JPG",
-      "rutaOriginal": "/media/originales/221fdc3a7f26f529.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/221fdc3a7f26f529-400.webp",
-        "800w": "/media/derivados/221fdc3a7f26f529-800.webp",
-        "1600w": "/media/derivados/221fdc3a7f26f529-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía refuerza limpieza de sumideros para prevenir inundaciones",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+      "cloudinaryPublicId": "orellana-web/221fdc3a7f26f529"
     },
     "url": "/noticia/280/",
     "fuente_url": "https://orellana.gob.ec/noticia/280/",
@@ -31,11 +32,11 @@
         "id": "221fdc3a7f26f529",
         "hash": "221fdc3a7f26f5295ada7d50bb6b3b50ad652a7f7004bd8374cff19633acf376",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG1105.JPG",
-        "rutaOriginal": "/media/originales/221fdc3a7f26f529.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/221fdc3a7f26f529-400.webp",
-          "800w": "/media/derivados/221fdc3a7f26f529-800.webp",
-          "1600w": "/media/derivados/221fdc3a7f26f529-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849640/orellana-web/221fdc3a7f26f529.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía refuerza limpieza de sumideros para prevenir inundaciones",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/221fdc3a7f26f529"
       }
     ]
   }

@@ -10,15 +10,20 @@
         "id": "ede622266fa3d7dc",
         "hash": "ede622266fa3d7dc853f8d82847a1630d188f8967c8a9de7bd762b6a7174da15",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20.JPG",
-        "rutaOriginal": "/media/originales/ede622266fa3d7dc.jpg",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg"
+        },
         "ancho": 320,
         "alto": 179,
         "bytes": 16094,
         "alt": "Jóvenes de Fco. de Orellana impulsan una cultura de resiliencia y conciencia ambiental",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/ede622266fa3d7dc"
       },
       "url": "/noticia/180/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -33,11 +38,11 @@
         "id": "42b25dd0f4ed6b32",
         "hash": "42b25dd0f4ed6b3250413584fc1e0721619e28c9b064f3fc65c5283e4e6d1bf6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16.JPG",
-        "rutaOriginal": "/media/originales/42b25dd0f4ed6b32.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/42b25dd0f4ed6b32-400.webp",
-          "800w": "/media/derivados/42b25dd0f4ed6b32-800.webp",
-          "1600w": "/media/derivados/42b25dd0f4ed6b32-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850575/orellana-web/42b25dd0f4ed6b32.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -45,7 +50,8 @@
         "alt": "La Alcaldía fortalece el sistema de videovigilancia en la ciudad de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/42b25dd0f4ed6b32"
       },
       "url": "/noticia/179/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -60,11 +66,11 @@
         "id": "d763e55da34d7b86",
         "hash": "d763e55da34d7b86bcb716ea7e08616ae1a9d19748c8a25a0be768c4afd85406",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15.JPG",
-        "rutaOriginal": "/media/originales/d763e55da34d7b86.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852652/orellana-web/d763e55da34d7b86.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d763e55da34d7b86-400.webp",
-          "800w": "/media/derivados/d763e55da34d7b86-800.webp",
-          "1600w": "/media/derivados/d763e55da34d7b86-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852652/orellana-web/d763e55da34d7b86.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -72,7 +78,8 @@
         "alt": "La Alcaldía ejecuta trabajos de mitigación en el sector El Mirador del barrio Flor de Pantano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/d763e55da34d7b86"
       },
       "url": "/noticia/178/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -87,11 +94,11 @@
         "id": "33ebcec6bdc34a46",
         "hash": "33ebcec6bdc34a4637f8b2f26e884c20f96d5fafa92cfc44942e48f4962bb50f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13.JPG",
-        "rutaOriginal": "/media/originales/33ebcec6bdc34a46.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/33ebcec6bdc34a46-400.webp",
-          "800w": "/media/derivados/33ebcec6bdc34a46-800.webp",
-          "1600w": "/media/derivados/33ebcec6bdc34a46-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -99,7 +106,8 @@
         "alt": "Moderna cancha en el 20 de Mayo impulsa el deporte y la unidad ciudadana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/33ebcec6bdc34a46"
       },
       "url": "/noticia/177/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -114,11 +122,11 @@
         "id": "11b81453204baf8f",
         "hash": "11b81453204baf8f446895ffb6026740a58cd58dddfc89f08620d0422c923cd4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10.JPG",
-        "rutaOriginal": "/media/originales/11b81453204baf8f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850585/orellana-web/11b81453204baf8f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/11b81453204baf8f-400.webp",
-          "800w": "/media/derivados/11b81453204baf8f-800.webp",
-          "1600w": "/media/derivados/11b81453204baf8f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850585/orellana-web/11b81453204baf8f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850585/orellana-web/11b81453204baf8f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850585/orellana-web/11b81453204baf8f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -126,7 +134,8 @@
         "alt": "Fortaleciendo familias y valores, alcaldía y COCAPRODE impulsan el desarrollo integral en la comuna kichwa Patas Yaku",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/11b81453204baf8f"
       },
       "url": "/noticia/176/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -141,11 +150,11 @@
         "id": "1548d8a4bce135ca",
         "hash": "1548d8a4bce135ca0cf9a0b067f006c7b30613ad071fca44dc1c0df8db59e067",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09.jpg",
-        "rutaOriginal": "/media/originales/1548d8a4bce135ca.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1548d8a4bce135ca-400.webp",
-          "800w": "/media/derivados/1548d8a4bce135ca-800.webp",
-          "1600w": "/media/derivados/1548d8a4bce135ca-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850588/orellana-web/1548d8a4bce135ca.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -153,7 +162,8 @@
         "alt": "Alcaldía inicia mantenimiento de la cancha cubierta del barrio Luis Guerra",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/1548d8a4bce135ca"
       },
       "url": "/noticia/175/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -168,11 +178,11 @@
         "id": "ba27b881514fa9dd",
         "hash": "ba27b881514fa9ddcb760e00fbbc7dd0b656a708816ffd1232b0419c34522a8a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08.JPG",
-        "rutaOriginal": "/media/originales/ba27b881514fa9dd.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850592/orellana-web/ba27b881514fa9dd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ba27b881514fa9dd-400.webp",
-          "800w": "/media/derivados/ba27b881514fa9dd-800.webp",
-          "1600w": "/media/derivados/ba27b881514fa9dd-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850592/orellana-web/ba27b881514fa9dd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850592/orellana-web/ba27b881514fa9dd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850592/orellana-web/ba27b881514fa9dd.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -180,7 +190,8 @@
         "alt": "Shirma Cortés Sanmiguel cumple el sueño de Flor de Oriente, legalizar los predios tras tres décadas de espera",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/ba27b881514fa9dd"
       },
       "url": "/noticia/174/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -195,11 +206,11 @@
         "id": "db11d418385db63d",
         "hash": "db11d418385db63dded50d0e51d48c7cfcee7be58ef2ecf8adccdb13f84cd8fe",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06.JPG",
-        "rutaOriginal": "/media/originales/db11d418385db63d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852670/orellana-web/db11d418385db63d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/db11d418385db63d-400.webp",
-          "800w": "/media/derivados/db11d418385db63d-800.webp",
-          "1600w": "/media/derivados/db11d418385db63d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -207,7 +218,8 @@
         "alt": "Shirma Cortés Sanmiguel impulsa obra histórica de agua potable en comunidades de La Belleza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/db11d418385db63d"
       },
       "url": "/noticia/173/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"
@@ -222,11 +234,11 @@
         "id": "a7af3e17ca68c6e7",
         "hash": "a7af3e17ca68c6e7c0ad5253fd82ec8e24a085942c1f9495243d6241406b85ad",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03.JPG",
-        "rutaOriginal": "/media/originales/a7af3e17ca68c6e7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a7af3e17ca68c6e7-400.webp",
-          "800w": "/media/derivados/a7af3e17ca68c6e7-800.webp",
-          "1600w": "/media/derivados/a7af3e17ca68c6e7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850597/orellana-web/a7af3e17ca68c6e7.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -234,7 +246,8 @@
         "alt": "Con obras que transforman, la alcaldesa Shirma Cortés impulsa soluciones reales para Perla Amazónica",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/a7af3e17ca68c6e7"
       },
       "url": "/noticia/172/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=13"

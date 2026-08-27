@@ -9,11 +9,11 @@
       "id": "111b539bac201bc6",
       "hash": "111b539bac201bc6bac5ff792ada7d6877f5a93957d8fce78e52ccc1dab140cc",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG4231.JPG",
-      "rutaOriginal": "/media/originales/111b539bac201bc6.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850044/orellana-web/111b539bac201bc6.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/111b539bac201bc6-400.webp",
-        "800w": "/media/derivados/111b539bac201bc6-800.webp",
-        "1600w": "/media/derivados/111b539bac201bc6-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía gestiona financiamiento para la construcción de un moderno mercado Virgen del Cisne",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/111b539bac201bc6"
     },
     "url": "/noticia/238/",
     "fuente_url": "https://orellana.gob.ec/noticia/238/",
@@ -31,11 +32,11 @@
         "id": "111b539bac201bc6",
         "hash": "111b539bac201bc6bac5ff792ada7d6877f5a93957d8fce78e52ccc1dab140cc",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG4231.JPG",
-        "rutaOriginal": "/media/originales/111b539bac201bc6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850044/orellana-web/111b539bac201bc6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/111b539bac201bc6-400.webp",
-          "800w": "/media/derivados/111b539bac201bc6-800.webp",
-          "1600w": "/media/derivados/111b539bac201bc6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850044/orellana-web/111b539bac201bc6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía gestiona financiamiento para la construcción de un moderno mercado Virgen del Cisne",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/111b539bac201bc6"
       }
     ]
   }

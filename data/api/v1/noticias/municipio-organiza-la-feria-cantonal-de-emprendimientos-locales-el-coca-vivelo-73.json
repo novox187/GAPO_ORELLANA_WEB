@@ -9,11 +9,11 @@
       "id": "9dabd1b2707f8e4b",
       "hash": "9dabd1b2707f8e4bb5850494199d713ab3281c6181bf10c8d9f48f1abe7307e6",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_8661.JPG",
-      "rutaOriginal": "/media/originales/9dabd1b2707f8e4b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9dabd1b2707f8e4b-400.webp",
-        "800w": "/media/derivados/9dabd1b2707f8e4b-800.webp",
-        "1600w": "/media/derivados/9dabd1b2707f8e4b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Municipio organiza la feria cantonal de emprendimientos locales: El Coca Vívelo 2025",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/9dabd1b2707f8e4b"
     },
     "url": "/noticia/73/",
     "fuente_url": "https://orellana.gob.ec/noticia/73/",
@@ -31,11 +32,11 @@
         "id": "9dabd1b2707f8e4b",
         "hash": "9dabd1b2707f8e4bb5850494199d713ab3281c6181bf10c8d9f48f1abe7307e6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_8661.JPG",
-        "rutaOriginal": "/media/originales/9dabd1b2707f8e4b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9dabd1b2707f8e4b-400.webp",
-          "800w": "/media/derivados/9dabd1b2707f8e4b-800.webp",
-          "1600w": "/media/derivados/9dabd1b2707f8e4b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851887/orellana-web/9dabd1b2707f8e4b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Municipio organiza la feria cantonal de emprendimientos locales: El Coca Vívelo 2025",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/9dabd1b2707f8e4b"
       }
     ]
   }

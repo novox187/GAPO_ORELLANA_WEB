@@ -9,11 +9,11 @@
       "id": "a360978bdc2e0c92",
       "hash": "a360978bdc2e0c929c69930278fed4bf0173f4d897dfba897f4a5ebecc0b21e1",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_0251.JPG",
-      "rutaOriginal": "/media/originales/a360978bdc2e0c92.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a360978bdc2e0c92-400.webp",
-        "800w": "/media/derivados/a360978bdc2e0c92-800.webp",
-        "1600w": "/media/derivados/a360978bdc2e0c92-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Taller prevención y erradicación de la violencia de género en la U. E. Jorge Rodríguez Román",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/a360978bdc2e0c92"
     },
     "url": "/noticia/39/",
     "fuente_url": "https://orellana.gob.ec/noticia/39/",
@@ -31,11 +32,11 @@
         "id": "a360978bdc2e0c92",
         "hash": "a360978bdc2e0c929c69930278fed4bf0173f4d897dfba897f4a5ebecc0b21e1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG_0251.JPG",
-        "rutaOriginal": "/media/originales/a360978bdc2e0c92.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a360978bdc2e0c92-400.webp",
-          "800w": "/media/derivados/a360978bdc2e0c92-800.webp",
-          "1600w": "/media/derivados/a360978bdc2e0c92-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851980/orellana-web/a360978bdc2e0c92.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Taller prevención y erradicación de la violencia de género en la U. E. Jorge Rodríguez Román",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/a360978bdc2e0c92"
       }
     ]
   }

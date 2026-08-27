@@ -9,11 +9,11 @@
       "id": "e630a265d5f7a4ec",
       "hash": "e630a265d5f7a4ec40634c5d93ea393d5afa6acc4ac9f18a2f46629a14769809",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29.JPG",
-      "rutaOriginal": "/media/originales/e630a265d5f7a4ec.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e630a265d5f7a4ec-400.webp",
-        "800w": "/media/derivados/e630a265d5f7a4ec-800.webp",
-        "1600w": "/media/derivados/e630a265d5f7a4ec-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía garantiza transporte tras 13 días de diálogo y firmeza",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+      "cloudinaryPublicId": "orellana-web/e630a265d5f7a4ec"
     },
     "url": "/noticia/169/",
     "fuente_url": "https://orellana.gob.ec/noticia/169/",
@@ -31,11 +32,11 @@
         "id": "e630a265d5f7a4ec",
         "hash": "e630a265d5f7a4ec40634c5d93ea393d5afa6acc4ac9f18a2f46629a14769809",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29.JPG",
-        "rutaOriginal": "/media/originales/e630a265d5f7a4ec.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e630a265d5f7a4ec-400.webp",
-          "800w": "/media/derivados/e630a265d5f7a4ec-800.webp",
-          "1600w": "/media/derivados/e630a265d5f7a4ec-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850624/orellana-web/e630a265d5f7a4ec.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía garantiza transporte tras 13 días de diálogo y firmeza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/e630a265d5f7a4ec"
       }
     ]
   }

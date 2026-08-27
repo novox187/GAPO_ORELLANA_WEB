@@ -9,11 +9,11 @@
       "id": "c5311a934aa5b300",
       "hash": "c5311a934aa5b300855a1dea72775f79de3f9f3182c171075993e016513e6f7a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG7037.JPG",
-      "rutaOriginal": "/media/originales/c5311a934aa5b300.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850960/orellana-web/c5311a934aa5b300.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c5311a934aa5b300-400.webp",
-        "800w": "/media/derivados/c5311a934aa5b300-800.webp",
-        "1600w": "/media/derivados/c5311a934aa5b300-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Concejo Municipal aprueba reforma presupuestaria que impulsa el desarrollo territorial y fortalece la educación superior",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/c5311a934aa5b300"
     },
     "url": "/noticia/125/",
     "fuente_url": "https://orellana.gob.ec/noticia/125/",
@@ -31,11 +32,11 @@
         "id": "c5311a934aa5b300",
         "hash": "c5311a934aa5b300855a1dea72775f79de3f9f3182c171075993e016513e6f7a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG7037.JPG",
-        "rutaOriginal": "/media/originales/c5311a934aa5b300.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850960/orellana-web/c5311a934aa5b300.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c5311a934aa5b300-400.webp",
-          "800w": "/media/derivados/c5311a934aa5b300-800.webp",
-          "1600w": "/media/derivados/c5311a934aa5b300-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850960/orellana-web/c5311a934aa5b300.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Concejo Municipal aprueba reforma presupuestaria que impulsa el desarrollo territorial y fortalece la educación superior",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/c5311a934aa5b300"
       }
     ]
   }

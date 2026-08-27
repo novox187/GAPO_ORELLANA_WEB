@@ -9,10 +9,11 @@
       "id": "4401a5b58a8c7cd1",
       "hash": "4401a5b58a8c7cd1678281f5cb5d389eff20d3d89275abe1a43f6e8492c9e7ab",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31.jpg",
-      "rutaOriginal": "/media/originales/4401a5b58a8c7cd1.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/4401a5b58a8c7cd1-400.webp",
-        "800w": "/media/derivados/4401a5b58a8c7cd1-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg"
       },
       "ancho": 1280,
       "alto": 720,
@@ -20,7 +21,8 @@
       "alt": "Picadito 2025: El deporte que une y proyecta sueños en El Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+      "cloudinaryPublicId": "orellana-web/4401a5b58a8c7cd1"
     },
     "url": "/noticia/228/",
     "fuente_url": "https://orellana.gob.ec/noticia/228/",
@@ -30,10 +32,11 @@
         "id": "4401a5b58a8c7cd1",
         "hash": "4401a5b58a8c7cd1678281f5cb5d389eff20d3d89275abe1a43f6e8492c9e7ab",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31.jpg",
-        "rutaOriginal": "/media/originales/4401a5b58a8c7cd1.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4401a5b58a8c7cd1-400.webp",
-          "800w": "/media/derivados/4401a5b58a8c7cd1-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850061/orellana-web/4401a5b58a8c7cd1.jpg"
         },
         "ancho": 1280,
         "alto": 720,
@@ -41,7 +44,8 @@
         "alt": "Picadito 2025: El deporte que une y proyecta sueños en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=7",
+        "cloudinaryPublicId": "orellana-web/4401a5b58a8c7cd1"
       }
     ]
   }

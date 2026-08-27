@@ -9,10 +9,11 @@
       "id": "538f3e30565e84d7",
       "hash": "538f3e30565e84d7fecf9a884b5cafdeae08bb42561c6f7716609697f958377a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_BOMBAS_SUMERGIBLES.png",
-      "rutaOriginal": "/media/originales/538f3e30565e84d7.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852255/orellana-web/538f3e30565e84d7.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/538f3e30565e84d7-400.webp",
-        "800w": "/media/derivados/538f3e30565e84d7-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+      "cloudinaryPublicId": "orellana-web/538f3e30565e84d7"
     },
     "url": "/noticia/22/",
     "fuente_url": "https://orellana.gob.ec/noticia/22/",
@@ -30,10 +32,11 @@
         "id": "538f3e30565e84d7",
         "hash": "538f3e30565e84d7fecf9a884b5cafdeae08bb42561c6f7716609697f958377a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_BOMBAS_SUMERGIBLES.png",
-        "rutaOriginal": "/media/originales/538f3e30565e84d7.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852255/orellana-web/538f3e30565e84d7.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/538f3e30565e84d7-400.webp",
-          "800w": "/media/derivados/538f3e30565e84d7-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852255/orellana-web/538f3e30565e84d7.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/538f3e30565e84d7"
       }
     ]
   }

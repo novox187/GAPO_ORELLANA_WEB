@@ -9,11 +9,11 @@
       "id": "ced05bb3007b225f",
       "hash": "ced05bb3007b225f401839f23d3e68ae3b209c4bf4cc6e5f79c86ec0e092830c",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG7003.JPG",
-      "rutaOriginal": "/media/originales/ced05bb3007b225f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849859/orellana-web/ced05bb3007b225f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ced05bb3007b225f-400.webp",
-        "800w": "/media/derivados/ced05bb3007b225f-800.webp",
-        "1600w": "/media/derivados/ced05bb3007b225f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849859/orellana-web/ced05bb3007b225f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849859/orellana-web/ced05bb3007b225f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849859/orellana-web/ced05bb3007b225f.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Operativo conjunto pone freno a irregularidades: taxis foráneos y conductores infractores son sancionados",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/ced05bb3007b225f"
     },
     "url": "/noticia/253/",
     "fuente_url": "https://orellana.gob.ec/noticia/253/",
@@ -31,11 +32,11 @@
         "id": "ced05bb3007b225f",
         "hash": "ced05bb3007b225f401839f23d3e68ae3b209c4bf4cc6e5f79c86ec0e092830c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG7003.JPG",
-        "rutaOriginal": "/media/originales/ced05bb3007b225f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849859/orellana-web/ced05bb3007b225f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ced05bb3007b225f-400.webp",
-          "800w": "/media/derivados/ced05bb3007b225f-800.webp",
-          "1600w": "/media/derivados/ced05bb3007b225f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849859/orellana-web/ced05bb3007b225f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849859/orellana-web/ced05bb3007b225f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849859/orellana-web/ced05bb3007b225f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Operativo conjunto pone freno a irregularidades: taxis foráneos y conductores infractores son sancionados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/ced05bb3007b225f"
       }
     ]
   }

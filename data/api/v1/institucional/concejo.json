@@ -46,9 +46,11 @@
         "id": "603bb95b7f523c58",
         "hash": "603bb95b7f523c58320253ff56d0deef3058e969745b1348b2a96214ede49fd1",
         "urlOriginal": "https://orellana.gob.ec/static/img/concejales/VICTOR%20RUIZ.jpg",
-        "rutaOriginal": "/media/originales/603bb95b7f523c58.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848723/orellana-web/603bb95b7f523c58.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/603bb95b7f523c58-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848723/orellana-web/603bb95b7f523c58.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848723/orellana-web/603bb95b7f523c58.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848723/orellana-web/603bb95b7f523c58.jpg"
         },
         "ancho": 475,
         "alto": 447,
@@ -56,15 +58,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/",
+        "cloudinaryPublicId": "orellana-web/603bb95b7f523c58"
       },
       {
         "id": "e6b07acfcedd2306",
         "hash": "e6b07acfcedd2306ad6afc517d7af31d28fd971351f14ab11c0c8392f6fad769",
         "urlOriginal": "https://orellana.gob.ec/static/img/concejales/MIGUEL%20SABANDO.jpg",
-        "rutaOriginal": "/media/originales/e6b07acfcedd2306.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848725/orellana-web/e6b07acfcedd2306.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e6b07acfcedd2306-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848725/orellana-web/e6b07acfcedd2306.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848725/orellana-web/e6b07acfcedd2306.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848725/orellana-web/e6b07acfcedd2306.jpg"
         },
         "ancho": 475,
         "alto": 447,
@@ -72,15 +77,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/",
+        "cloudinaryPublicId": "orellana-web/e6b07acfcedd2306"
       },
       {
         "id": "489ea04696970465",
         "hash": "489ea04696970465baa7bf09699b7ea6ce0ce2364c7c7c8541a407611ba8f42e",
         "urlOriginal": "https://orellana.gob.ec/static/img/concejales/DANIEL%20CEDE%C3%91O-11.jpg",
-        "rutaOriginal": "/media/originales/489ea04696970465.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848726/orellana-web/489ea04696970465.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/489ea04696970465-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848726/orellana-web/489ea04696970465.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848726/orellana-web/489ea04696970465.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848726/orellana-web/489ea04696970465.jpg"
         },
         "ancho": 475,
         "alto": 447,
@@ -88,15 +96,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/",
+        "cloudinaryPublicId": "orellana-web/489ea04696970465"
       },
       {
         "id": "0246fa5cc9a5c8b4",
         "hash": "0246fa5cc9a5c8b4df46f584492b1cce3f1de5f6cc570b7a7ac3536b6a4ec976",
         "urlOriginal": "https://orellana.gob.ec/static/img/concejales/miguel%20murillo.jpg",
-        "rutaOriginal": "/media/originales/0246fa5cc9a5c8b4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848728/orellana-web/0246fa5cc9a5c8b4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0246fa5cc9a5c8b4-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848728/orellana-web/0246fa5cc9a5c8b4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848728/orellana-web/0246fa5cc9a5c8b4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848728/orellana-web/0246fa5cc9a5c8b4.jpg"
         },
         "ancho": 475,
         "alto": 447,
@@ -104,15 +115,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/",
+        "cloudinaryPublicId": "orellana-web/0246fa5cc9a5c8b4"
       },
       {
         "id": "3545ea033e33ea86",
         "hash": "3545ea033e33ea8643fc5fc84a2cd6c7c422eafffd3809a5e71088f678ed5e0b",
         "urlOriginal": "https://orellana.gob.ec/static/img/concejales/PAUL%20VALLADOLID.jpg",
-        "rutaOriginal": "/media/originales/3545ea033e33ea86.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848730/orellana-web/3545ea033e33ea86.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3545ea033e33ea86-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848730/orellana-web/3545ea033e33ea86.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848730/orellana-web/3545ea033e33ea86.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848730/orellana-web/3545ea033e33ea86.jpg"
         },
         "ancho": 475,
         "alto": 447,
@@ -120,15 +134,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/",
+        "cloudinaryPublicId": "orellana-web/3545ea033e33ea86"
       },
       {
         "id": "5eb66df3d67965cb",
         "hash": "5eb66df3d67965cbf00aac1d21478bf391f1ac097e3cd13c986645d3bad36cd3",
         "urlOriginal": "https://orellana.gob.ec/static/img/concejales/JUDITH%20HIDALGO.jpg",
-        "rutaOriginal": "/media/originales/5eb66df3d67965cb.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848731/orellana-web/5eb66df3d67965cb.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5eb66df3d67965cb-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848731/orellana-web/5eb66df3d67965cb.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848731/orellana-web/5eb66df3d67965cb.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848731/orellana-web/5eb66df3d67965cb.jpg"
         },
         "ancho": 475,
         "alto": 447,
@@ -136,15 +153,18 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/",
+        "cloudinaryPublicId": "orellana-web/5eb66df3d67965cb"
       },
       {
         "id": "24d8b3df604e19dd",
         "hash": "24d8b3df604e19ddfd7a4e57c3a6374da5dd0c001657d04541912f7898dd7c12",
         "urlOriginal": "https://orellana.gob.ec/static/img/concejales/WASHINTOG%20CARDONA.jpg",
-        "rutaOriginal": "/media/originales/24d8b3df604e19dd.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848733/orellana-web/24d8b3df604e19dd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/24d8b3df604e19dd-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848733/orellana-web/24d8b3df604e19dd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848733/orellana-web/24d8b3df604e19dd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848733/orellana-web/24d8b3df604e19dd.jpg"
         },
         "ancho": 475,
         "alto": 447,
@@ -152,7 +172,8 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/concejo_m/"
+        "fuenteUrl": "https://orellana.gob.ec/concejo_m/",
+        "cloudinaryPublicId": "orellana-web/24d8b3df604e19dd"
       }
     ],
     "documentos": [],

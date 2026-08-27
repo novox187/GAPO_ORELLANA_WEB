@@ -9,11 +9,11 @@
       "id": "4c340947b3225ab4",
       "hash": "4c340947b3225ab4d08acc75d095c9cf654cf8448184b58b7902f1ac6fcd6cd7",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_4211.JPG",
-      "rutaOriginal": "/media/originales/4c340947b3225ab4.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852830/orellana-web/4c340947b3225ab4.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/4c340947b3225ab4-400.webp",
-        "800w": "/media/derivados/4c340947b3225ab4-800.webp",
-        "1600w": "/media/derivados/4c340947b3225ab4-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852830/orellana-web/4c340947b3225ab4.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852830/orellana-web/4c340947b3225ab4.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852830/orellana-web/4c340947b3225ab4.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Festival de arte y creatividad “Pregón Mágico Mundo de los Cuentos de Hadas”",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/4c340947b3225ab4"
     },
     "url": "/noticia/72/",
     "fuente_url": "https://orellana.gob.ec/noticia/72/",
@@ -31,11 +32,11 @@
         "id": "4c340947b3225ab4",
         "hash": "4c340947b3225ab4d08acc75d095c9cf654cf8448184b58b7902f1ac6fcd6cd7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_4211.JPG",
-        "rutaOriginal": "/media/originales/4c340947b3225ab4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852830/orellana-web/4c340947b3225ab4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4c340947b3225ab4-400.webp",
-          "800w": "/media/derivados/4c340947b3225ab4-800.webp",
-          "1600w": "/media/derivados/4c340947b3225ab4-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852830/orellana-web/4c340947b3225ab4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852830/orellana-web/4c340947b3225ab4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852830/orellana-web/4c340947b3225ab4.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Festival de arte y creatividad “Pregón Mágico Mundo de los Cuentos de Hadas”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/4c340947b3225ab4"
       }
     ]
   }

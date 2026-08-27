@@ -9,11 +9,11 @@
       "id": "db11d418385db63d",
       "hash": "db11d418385db63dded50d0e51d48c7cfcee7be58ef2ecf8adccdb13f84cd8fe",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06.JPG",
-      "rutaOriginal": "/media/originales/db11d418385db63d.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852670/orellana-web/db11d418385db63d.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/db11d418385db63d-400.webp",
-        "800w": "/media/derivados/db11d418385db63d-800.webp",
-        "1600w": "/media/derivados/db11d418385db63d-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Shirma Cortés Sanmiguel impulsa obra histórica de agua potable en comunidades de La Belleza",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+      "cloudinaryPublicId": "orellana-web/db11d418385db63d"
     },
     "url": "/noticia/173/",
     "fuente_url": "https://orellana.gob.ec/noticia/173/",
@@ -31,11 +32,11 @@
         "id": "db11d418385db63d",
         "hash": "db11d418385db63dded50d0e51d48c7cfcee7be58ef2ecf8adccdb13f84cd8fe",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06.JPG",
-        "rutaOriginal": "/media/originales/db11d418385db63d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852670/orellana-web/db11d418385db63d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/db11d418385db63d-400.webp",
-          "800w": "/media/derivados/db11d418385db63d-800.webp",
-          "1600w": "/media/derivados/db11d418385db63d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852670/orellana-web/db11d418385db63d.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Shirma Cortés Sanmiguel impulsa obra histórica de agua potable en comunidades de La Belleza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/db11d418385db63d"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "767737c5f27152f7",
       "hash": "767737c5f27152f79d0993808fec85398d746baec77ccc59ac7e48ca8e7bd6f1",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG5063_rQo4c3p.JPG",
-      "rutaOriginal": "/media/originales/767737c5f27152f7.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850936/orellana-web/767737c5f27152f7.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/767737c5f27152f7-400.webp",
-        "800w": "/media/derivados/767737c5f27152f7-800.webp",
-        "1600w": "/media/derivados/767737c5f27152f7-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850936/orellana-web/767737c5f27152f7.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850936/orellana-web/767737c5f27152f7.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850936/orellana-web/767737c5f27152f7.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Capacitación de derechos para personas con discapacidad",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+      "cloudinaryPublicId": "orellana-web/767737c5f27152f7"
     },
     "url": "/noticia/133/",
     "fuente_url": "https://orellana.gob.ec/noticia/133/",
@@ -31,11 +32,11 @@
         "id": "767737c5f27152f7",
         "hash": "767737c5f27152f79d0993808fec85398d746baec77ccc59ac7e48ca8e7bd6f1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG5063_rQo4c3p.JPG",
-        "rutaOriginal": "/media/originales/767737c5f27152f7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850936/orellana-web/767737c5f27152f7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/767737c5f27152f7-400.webp",
-          "800w": "/media/derivados/767737c5f27152f7-800.webp",
-          "1600w": "/media/derivados/767737c5f27152f7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850936/orellana-web/767737c5f27152f7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850936/orellana-web/767737c5f27152f7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850936/orellana-web/767737c5f27152f7.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Capacitación de derechos para personas con discapacidad",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=18",
+        "cloudinaryPublicId": "orellana-web/767737c5f27152f7"
       }
     ]
   }

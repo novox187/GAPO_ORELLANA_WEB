@@ -9,11 +9,11 @@
       "id": "5caacdf172087dc5",
       "hash": "5caacdf172087dc5196f7712469f43bea4e19991f8af73871fc78dad46a5981c",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_LcHXRw9.JPG",
-      "rutaOriginal": "/media/originales/5caacdf172087dc5.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850081/orellana-web/5caacdf172087dc5.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/5caacdf172087dc5-400.webp",
-        "800w": "/media/derivados/5caacdf172087dc5-800.webp",
-        "1600w": "/media/derivados/5caacdf172087dc5-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg"
       },
       "ancho": 5472,
       "alto": 3078,
@@ -21,7 +21,8 @@
       "alt": "Alcaldesa Shirma Cortés lidera histórica obra de alcantarillado pluvial que protege a más de 8.000 familias",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+      "cloudinaryPublicId": "orellana-web/5caacdf172087dc5"
     },
     "url": "/noticia/223/",
     "fuente_url": "https://orellana.gob.ec/noticia/223/",
@@ -31,11 +32,11 @@
         "id": "5caacdf172087dc5",
         "hash": "5caacdf172087dc5196f7712469f43bea4e19991f8af73871fc78dad46a5981c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_LcHXRw9.JPG",
-        "rutaOriginal": "/media/originales/5caacdf172087dc5.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850081/orellana-web/5caacdf172087dc5.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5caacdf172087dc5-400.webp",
-          "800w": "/media/derivados/5caacdf172087dc5-800.webp",
-          "1600w": "/media/derivados/5caacdf172087dc5-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850081/orellana-web/5caacdf172087dc5.jpg"
         },
         "ancho": 5472,
         "alto": 3078,
@@ -43,7 +44,8 @@
         "alt": "Alcaldesa Shirma Cortés lidera histórica obra de alcantarillado pluvial que protege a más de 8.000 familias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/5caacdf172087dc5"
       }
     ]
   }

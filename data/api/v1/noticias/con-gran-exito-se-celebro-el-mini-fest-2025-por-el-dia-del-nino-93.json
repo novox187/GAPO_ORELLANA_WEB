@@ -9,11 +9,11 @@
       "id": "b360fe0b79ab7e55",
       "hash": "b360fe0b79ab7e556f976afc32660cac3bf3dcc42f9dc28777fb0451b1e705c5",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_0576.JPG",
-      "rutaOriginal": "/media/originales/b360fe0b79ab7e55.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/b360fe0b79ab7e55-400.webp",
-        "800w": "/media/derivados/b360fe0b79ab7e55-800.webp",
-        "1600w": "/media/derivados/b360fe0b79ab7e55-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Con gran éxito se celebró el “Mini Fest 2025” por el Día del Niño",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+      "cloudinaryPublicId": "orellana-web/b360fe0b79ab7e55"
     },
     "url": "/noticia/93/",
     "fuente_url": "https://orellana.gob.ec/noticia/93/",
@@ -31,11 +32,11 @@
         "id": "b360fe0b79ab7e55",
         "hash": "b360fe0b79ab7e556f976afc32660cac3bf3dcc42f9dc28777fb0451b1e705c5",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_0576.JPG",
-        "rutaOriginal": "/media/originales/b360fe0b79ab7e55.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b360fe0b79ab7e55-400.webp",
-          "800w": "/media/derivados/b360fe0b79ab7e55-800.webp",
-          "1600w": "/media/derivados/b360fe0b79ab7e55-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Con gran éxito se celebró el “Mini Fest 2025” por el Día del Niño",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/b360fe0b79ab7e55"
       }
     ]
   }

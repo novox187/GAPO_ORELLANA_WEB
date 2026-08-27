@@ -9,11 +9,11 @@
       "id": "d50e264defecabf6",
       "hash": "d50e264defecabf6c3f33cc73c26e1392cbbb780065cf1cd1f7640c39704bba2",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG_1957.JPG",
-      "rutaOriginal": "/media/originales/d50e264defecabf6.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851970/orellana-web/d50e264defecabf6.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d50e264defecabf6-400.webp",
-        "800w": "/media/derivados/d50e264defecabf6-800.webp",
-        "1600w": "/media/derivados/d50e264defecabf6-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía realizó feria gastronómica y festival de DJs",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/d50e264defecabf6"
     },
     "url": "/noticia/43/",
     "fuente_url": "https://orellana.gob.ec/noticia/43/",
@@ -31,11 +32,11 @@
         "id": "d50e264defecabf6",
         "hash": "d50e264defecabf6c3f33cc73c26e1392cbbb780065cf1cd1f7640c39704bba2",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG_1957.JPG",
-        "rutaOriginal": "/media/originales/d50e264defecabf6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851970/orellana-web/d50e264defecabf6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d50e264defecabf6-400.webp",
-          "800w": "/media/derivados/d50e264defecabf6-800.webp",
-          "1600w": "/media/derivados/d50e264defecabf6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851970/orellana-web/d50e264defecabf6.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía realizó feria gastronómica y festival de DJs",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/d50e264defecabf6"
       }
     ]
   }

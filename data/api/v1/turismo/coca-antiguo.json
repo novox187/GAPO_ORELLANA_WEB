@@ -15,10 +15,11 @@
         "id": "fcd766e94b2e88e9",
         "hash": "fcd766e94b2e88e9c49fbd3783cc6fbc6af4e4c28f8bce94c253ec70d6289e90",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo.png",
-        "rutaOriginal": "/media/originales/fcd766e94b2e88e9.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849559/orellana-web/fcd766e94b2e88e9.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/fcd766e94b2e88e9-400.webp",
-          "800w": "/media/derivados/fcd766e94b2e88e9-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849559/orellana-web/fcd766e94b2e88e9.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849559/orellana-web/fcd766e94b2e88e9.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849559/orellana-web/fcd766e94b2e88e9.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -26,16 +27,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/fcd766e94b2e88e9"
       },
       {
         "id": "7a285bf546893907",
         "hash": "7a285bf54689390749306d812dddaba953d9b08d34966199f02656f7e074baa2",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo2.png",
-        "rutaOriginal": "/media/originales/7a285bf546893907.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849561/orellana-web/7a285bf546893907.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/7a285bf546893907-400.webp",
-          "800w": "/media/derivados/7a285bf546893907-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849561/orellana-web/7a285bf546893907.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849561/orellana-web/7a285bf546893907.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849561/orellana-web/7a285bf546893907.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -43,16 +46,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/7a285bf546893907"
       },
       {
         "id": "6a35d2d9899962d3",
         "hash": "6a35d2d9899962d36b172a59935ffb3a710e8e524453364be73c7774d9a4f5ae",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo4.png",
-        "rutaOriginal": "/media/originales/6a35d2d9899962d3.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849563/orellana-web/6a35d2d9899962d3.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/6a35d2d9899962d3-400.webp",
-          "800w": "/media/derivados/6a35d2d9899962d3-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849563/orellana-web/6a35d2d9899962d3.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849563/orellana-web/6a35d2d9899962d3.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849563/orellana-web/6a35d2d9899962d3.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -60,16 +65,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/6a35d2d9899962d3"
       },
       {
         "id": "f935c206b86ad704",
         "hash": "f935c206b86ad70489b5186b2e9cbd2ee519005ca95e5d6f032c68951a97d13f",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo6.png",
-        "rutaOriginal": "/media/originales/f935c206b86ad704.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849564/orellana-web/f935c206b86ad704.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/f935c206b86ad704-400.webp",
-          "800w": "/media/derivados/f935c206b86ad704-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849564/orellana-web/f935c206b86ad704.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849564/orellana-web/f935c206b86ad704.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849564/orellana-web/f935c206b86ad704.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -77,16 +84,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/f935c206b86ad704"
       },
       {
         "id": "ab546b678cda071b",
         "hash": "ab546b678cda071bb8be7891e14a8c6f7d0384a81ae5d8a3b5a5b38c20a1ab85",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo8.png",
-        "rutaOriginal": "/media/originales/ab546b678cda071b.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849567/orellana-web/ab546b678cda071b.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/ab546b678cda071b-400.webp",
-          "800w": "/media/derivados/ab546b678cda071b-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849567/orellana-web/ab546b678cda071b.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849567/orellana-web/ab546b678cda071b.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849567/orellana-web/ab546b678cda071b.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -94,16 +103,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/ab546b678cda071b"
       },
       {
         "id": "5e9e3a16ad341ce1",
         "hash": "5e9e3a16ad341ce1312100cc4c24417eab05419617345e4f95362ddeb066dd45",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo10.png",
-        "rutaOriginal": "/media/originales/5e9e3a16ad341ce1.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849569/orellana-web/5e9e3a16ad341ce1.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/5e9e3a16ad341ce1-400.webp",
-          "800w": "/media/derivados/5e9e3a16ad341ce1-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849569/orellana-web/5e9e3a16ad341ce1.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849569/orellana-web/5e9e3a16ad341ce1.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849569/orellana-web/5e9e3a16ad341ce1.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -111,16 +122,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/5e9e3a16ad341ce1"
       },
       {
         "id": "32eef95673c277d5",
         "hash": "32eef95673c277d5c945b6ee8ba32431217b3b4f57b2bee9ff2bda1777979954",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo12.png",
-        "rutaOriginal": "/media/originales/32eef95673c277d5.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849570/orellana-web/32eef95673c277d5.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/32eef95673c277d5-400.webp",
-          "800w": "/media/derivados/32eef95673c277d5-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849570/orellana-web/32eef95673c277d5.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849570/orellana-web/32eef95673c277d5.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849570/orellana-web/32eef95673c277d5.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -128,16 +141,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/32eef95673c277d5"
       },
       {
         "id": "ffb46f862ee5c31a",
         "hash": "ffb46f862ee5c31a80836f2b19f78ea82c3afa0f114ebcd31c805a758aba4feb",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo14.png",
-        "rutaOriginal": "/media/originales/ffb46f862ee5c31a.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849588/orellana-web/ffb46f862ee5c31a.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/ffb46f862ee5c31a-400.webp",
-          "800w": "/media/derivados/ffb46f862ee5c31a-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849588/orellana-web/ffb46f862ee5c31a.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849588/orellana-web/ffb46f862ee5c31a.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849588/orellana-web/ffb46f862ee5c31a.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -145,16 +160,18 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/ffb46f862ee5c31a"
       },
       {
         "id": "fe874ad736b81646",
         "hash": "fe874ad736b81646cb12b4bde23bee4bddf8e836be1f4263c7f28faeeab73f0f",
         "urlOriginal": "https://orellana.gob.ec/static/img/fotos-cocao-antiguo18.png",
-        "rutaOriginal": "/media/originales/fe874ad736b81646.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849590/orellana-web/fe874ad736b81646.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/fe874ad736b81646-400.webp",
-          "800w": "/media/derivados/fe874ad736b81646-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849590/orellana-web/fe874ad736b81646.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849590/orellana-web/fe874ad736b81646.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849590/orellana-web/fe874ad736b81646.png"
         },
         "ancho": 1140,
         "alto": 642,
@@ -162,7 +179,8 @@
         "alt": "...",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/"
+        "fuenteUrl": "https://orellana.gob.ec/coca_antiguo/",
+        "cloudinaryPublicId": "orellana-web/fe874ad736b81646"
       }
     ],
     "documentos": [],

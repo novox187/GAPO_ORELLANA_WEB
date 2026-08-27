@@ -9,10 +9,11 @@
       "id": "d8b84868748f9368",
       "hash": "d8b84868748f936822ec623bbc78504bd9b009f8247f4611165ad1efb9254207",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_CAPACITACION_COMERCIANTES.png",
-      "rutaOriginal": "/media/originales/d8b84868748f9368.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852250/orellana-web/d8b84868748f9368.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/d8b84868748f9368-400.webp",
-        "800w": "/media/derivados/d8b84868748f9368-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía realiza capacitación ambiental a comerciantes",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+      "cloudinaryPublicId": "orellana-web/d8b84868748f9368"
     },
     "url": "/noticia/25/",
     "fuente_url": "https://orellana.gob.ec/noticia/25/",
@@ -30,10 +32,11 @@
         "id": "d8b84868748f9368",
         "hash": "d8b84868748f936822ec623bbc78504bd9b009f8247f4611165ad1efb9254207",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_CAPACITACION_COMERCIANTES.png",
-        "rutaOriginal": "/media/originales/d8b84868748f9368.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852250/orellana-web/d8b84868748f9368.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/d8b84868748f9368-400.webp",
-          "800w": "/media/derivados/d8b84868748f9368-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852250/orellana-web/d8b84868748f9368.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía realiza capacitación ambiental a comerciantes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/d8b84868748f9368"
       }
     ]
   }

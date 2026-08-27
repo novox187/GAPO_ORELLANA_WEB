@@ -9,11 +9,11 @@
       "id": "df4f41bfa7b51f7c",
       "hash": "df4f41bfa7b51f7c0fa95216333711bc3078c345c61cda1fda34c40f70fc86e2",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG0151.JPG",
-      "rutaOriginal": "/media/originales/df4f41bfa7b51f7c.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/df4f41bfa7b51f7c-400.webp",
-        "800w": "/media/derivados/df4f41bfa7b51f7c-800.webp",
-        "1600w": "/media/derivados/df4f41bfa7b51f7c-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+      "cloudinaryPublicId": "orellana-web/df4f41bfa7b51f7c"
     },
     "url": "/noticia/142/",
     "fuente_url": "https://orellana.gob.ec/noticia/142/",
@@ -31,11 +32,11 @@
         "id": "df4f41bfa7b51f7c",
         "hash": "df4f41bfa7b51f7c0fa95216333711bc3078c345c61cda1fda34c40f70fc86e2",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG0151.JPG",
-        "rutaOriginal": "/media/originales/df4f41bfa7b51f7c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/df4f41bfa7b51f7c-400.webp",
-          "800w": "/media/derivados/df4f41bfa7b51f7c-800.webp",
-          "1600w": "/media/derivados/df4f41bfa7b51f7c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852684/orellana-web/df4f41bfa7b51f7c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Agentes de Control promueven tenencia responsable de mascotas en la ciclovía de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/df4f41bfa7b51f7c"
       }
     ]
   }

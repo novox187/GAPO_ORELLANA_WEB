@@ -9,11 +9,11 @@
       "id": "5470cc0fe9570c46",
       "hash": "5470cc0fe9570c46a6b978c05be6ee73903cf74b4a826f500227e70c6a849770",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_4475.JPG",
-      "rutaOriginal": "/media/originales/5470cc0fe9570c46.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851935/orellana-web/5470cc0fe9570c46.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/5470cc0fe9570c46-400.webp",
-        "800w": "/media/derivados/5470cc0fe9570c46-800.webp",
-        "1600w": "/media/derivados/5470cc0fe9570c46-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851935/orellana-web/5470cc0fe9570c46.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851935/orellana-web/5470cc0fe9570c46.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851935/orellana-web/5470cc0fe9570c46.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía clausura del curso de contabilidad básica",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+      "cloudinaryPublicId": "orellana-web/5470cc0fe9570c46"
     },
     "url": "/noticia/56/",
     "fuente_url": "https://orellana.gob.ec/noticia/56/",
@@ -31,11 +32,11 @@
         "id": "5470cc0fe9570c46",
         "hash": "5470cc0fe9570c46a6b978c05be6ee73903cf74b4a826f500227e70c6a849770",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_4475.JPG",
-        "rutaOriginal": "/media/originales/5470cc0fe9570c46.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851935/orellana-web/5470cc0fe9570c46.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5470cc0fe9570c46-400.webp",
-          "800w": "/media/derivados/5470cc0fe9570c46-800.webp",
-          "1600w": "/media/derivados/5470cc0fe9570c46-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851935/orellana-web/5470cc0fe9570c46.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851935/orellana-web/5470cc0fe9570c46.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851935/orellana-web/5470cc0fe9570c46.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía clausura del curso de contabilidad básica",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+        "cloudinaryPublicId": "orellana-web/5470cc0fe9570c46"
       }
     ]
   }

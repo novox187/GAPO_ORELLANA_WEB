@@ -114,10 +114,11 @@
         "id": "311c1d181da9b52e",
         "hash": "311c1d181da9b52e4883bffce09f70a50cb5d889b615f27bde6b9957e48955e1",
         "urlOriginal": "https://orellana.gob.ec/static/img/bandera.jpg",
-        "rutaOriginal": "/media/originales/311c1d181da9b52e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848707/orellana-web/311c1d181da9b52e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/311c1d181da9b52e-400.webp",
-          "800w": "/media/derivados/311c1d181da9b52e-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848707/orellana-web/311c1d181da9b52e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848707/orellana-web/311c1d181da9b52e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848707/orellana-web/311c1d181da9b52e.jpg"
         },
         "ancho": 1000,
         "alto": 800,
@@ -125,21 +126,27 @@
         "alt": "La\n        bandera del cantón Francisco de Orellana",
         "altPendiente": false,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/historia_simbolos/"
+        "fuenteUrl": "https://orellana.gob.ec/historia_simbolos/",
+        "cloudinaryPublicId": "orellana-web/311c1d181da9b52e"
       },
       {
         "id": "32487732aaafb90b",
         "hash": "32487732aaafb90b5a85833c27a66795db4d88f756db6b10430738e52c3280c5",
         "urlOriginal": "https://orellana.gob.ec/static/img/Escudo_de_orellana.jpg",
-        "rutaOriginal": "/media/originales/32487732aaafb90b.jpg",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848710/orellana-web/32487732aaafb90b.jpg",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848710/orellana-web/32487732aaafb90b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848710/orellana-web/32487732aaafb90b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848710/orellana-web/32487732aaafb90b.jpg"
+        },
         "ancho": 320,
         "alto": 350,
         "bytes": 23057,
         "alt": "La\n        bandera del cantón Francisco de Orellana",
         "altPendiente": false,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/historia_simbolos/"
+        "fuenteUrl": "https://orellana.gob.ec/historia_simbolos/",
+        "cloudinaryPublicId": "orellana-web/32487732aaafb90b"
       }
     ],
     "documentos": [],

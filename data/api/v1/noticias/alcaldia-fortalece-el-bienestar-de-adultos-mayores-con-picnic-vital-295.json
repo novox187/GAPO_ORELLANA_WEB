@@ -9,11 +9,11 @@
       "id": "9010029ac29451ca",
       "hash": "9010029ac29451ca18152092cc363fec00dadcc98019ee3a74c2e1f923d63152",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_5706.JPG",
-      "rutaOriginal": "/media/originales/9010029ac29451ca.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849616/orellana-web/9010029ac29451ca.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9010029ac29451ca-400.webp",
-        "800w": "/media/derivados/9010029ac29451ca-800.webp",
-        "1600w": "/media/derivados/9010029ac29451ca-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/9010029ac29451ca"
     },
     "url": "/noticia/295/",
     "fuente_url": "https://orellana.gob.ec/noticia/295/",
@@ -31,11 +32,11 @@
         "id": "9010029ac29451ca",
         "hash": "9010029ac29451ca18152092cc363fec00dadcc98019ee3a74c2e1f923d63152",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_5706.JPG",
-        "rutaOriginal": "/media/originales/9010029ac29451ca.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849616/orellana-web/9010029ac29451ca.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9010029ac29451ca-400.webp",
-          "800w": "/media/derivados/9010029ac29451ca-800.webp",
-          "1600w": "/media/derivados/9010029ac29451ca-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/9010029ac29451ca"
       }
     ]
   }

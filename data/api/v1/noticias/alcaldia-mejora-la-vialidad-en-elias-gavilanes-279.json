@@ -9,11 +9,11 @@
       "id": "fb6bedf382ebd0f5",
       "hash": "fb6bedf382ebd0f577e1257ddbce2aaab47b3028e16f4e2e2e0614e4baafe2cc",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_IMG9750.JPG",
-      "rutaOriginal": "/media/originales/fb6bedf382ebd0f5.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/fb6bedf382ebd0f5-400.webp",
-        "800w": "/media/derivados/fb6bedf382ebd0f5-800.webp",
-        "1600w": "/media/derivados/fb6bedf382ebd0f5-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía mejora la vialidad en Elías Gavilanes",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+      "cloudinaryPublicId": "orellana-web/fb6bedf382ebd0f5"
     },
     "url": "/noticia/279/",
     "fuente_url": "https://orellana.gob.ec/noticia/279/",
@@ -31,11 +32,11 @@
         "id": "fb6bedf382ebd0f5",
         "hash": "fb6bedf382ebd0f577e1257ddbce2aaab47b3028e16f4e2e2e0614e4baafe2cc",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_IMG9750.JPG",
-        "rutaOriginal": "/media/originales/fb6bedf382ebd0f5.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/fb6bedf382ebd0f5-400.webp",
-          "800w": "/media/derivados/fb6bedf382ebd0f5-800.webp",
-          "1600w": "/media/derivados/fb6bedf382ebd0f5-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852570/orellana-web/fb6bedf382ebd0f5.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía mejora la vialidad en Elías Gavilanes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/fb6bedf382ebd0f5"
       }
     ]
   }

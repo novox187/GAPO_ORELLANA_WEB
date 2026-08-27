@@ -9,11 +9,11 @@
       "id": "98ed88dc58e2d953",
       "hash": "98ed88dc58e2d95369c487fdcbf2f476d686cdac269ff4e2660d07b6af22d905",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG8787.JPG",
-      "rutaOriginal": "/media/originales/98ed88dc58e2d953.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850854/orellana-web/98ed88dc58e2d953.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/98ed88dc58e2d953-400.webp",
-        "800w": "/media/derivados/98ed88dc58e2d953-800.webp",
-        "1600w": "/media/derivados/98ed88dc58e2d953-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850854/orellana-web/98ed88dc58e2d953.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850854/orellana-web/98ed88dc58e2d953.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850854/orellana-web/98ed88dc58e2d953.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía impulsa el deporte con obras en el barrio Turismo Ecológico",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+      "cloudinaryPublicId": "orellana-web/98ed88dc58e2d953"
     },
     "url": "/noticia/149/",
     "fuente_url": "https://orellana.gob.ec/noticia/149/",
@@ -31,11 +32,11 @@
         "id": "98ed88dc58e2d953",
         "hash": "98ed88dc58e2d95369c487fdcbf2f476d686cdac269ff4e2660d07b6af22d905",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG8787.JPG",
-        "rutaOriginal": "/media/originales/98ed88dc58e2d953.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850854/orellana-web/98ed88dc58e2d953.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/98ed88dc58e2d953-400.webp",
-          "800w": "/media/derivados/98ed88dc58e2d953-800.webp",
-          "1600w": "/media/derivados/98ed88dc58e2d953-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850854/orellana-web/98ed88dc58e2d953.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850854/orellana-web/98ed88dc58e2d953.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850854/orellana-web/98ed88dc58e2d953.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía impulsa el deporte con obras en el barrio Turismo Ecológico",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+        "cloudinaryPublicId": "orellana-web/98ed88dc58e2d953"
       }
     ]
   }

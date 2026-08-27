@@ -9,11 +9,11 @@
       "id": "f72254baf146cb4f",
       "hash": "f72254baf146cb4f961a8a95fe16ca525e27f9b41e906a7028ff6f2329bfc300",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_rbyAvod.JPG",
-      "rutaOriginal": "/media/originales/f72254baf146cb4f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850524/orellana-web/f72254baf146cb4f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/f72254baf146cb4f-400.webp",
-        "800w": "/media/derivados/f72254baf146cb4f-800.webp",
-        "1600w": "/media/derivados/f72254baf146cb4f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Operativos de control de vehículos mal estacionados",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+      "cloudinaryPublicId": "orellana-web/f72254baf146cb4f"
     },
     "url": "/noticia/195/",
     "fuente_url": "https://orellana.gob.ec/noticia/195/",
@@ -31,11 +32,11 @@
         "id": "f72254baf146cb4f",
         "hash": "f72254baf146cb4f961a8a95fe16ca525e27f9b41e906a7028ff6f2329bfc300",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_rbyAvod.JPG",
-        "rutaOriginal": "/media/originales/f72254baf146cb4f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850524/orellana-web/f72254baf146cb4f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f72254baf146cb4f-400.webp",
-          "800w": "/media/derivados/f72254baf146cb4f-800.webp",
-          "1600w": "/media/derivados/f72254baf146cb4f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Operativos de control de vehículos mal estacionados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/f72254baf146cb4f"
       }
     ]
   }

@@ -9,10 +9,11 @@
       "id": "68a8b27cbcce2525",
       "hash": "68a8b27cbcce25250dc332d36487252858b078fdabd14d257960b08a4f940304",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_NO_USO_CELULAR.png",
-      "rutaOriginal": "/media/originales/68a8b27cbcce2525.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852392/orellana-web/68a8b27cbcce2525.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/68a8b27cbcce2525-400.webp",
-        "800w": "/media/derivados/68a8b27cbcce2525-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+      "cloudinaryPublicId": "orellana-web/68a8b27cbcce2525"
     },
     "url": "/noticia/11/",
     "fuente_url": "https://orellana.gob.ec/noticia/11/",
@@ -30,10 +32,11 @@
         "id": "68a8b27cbcce2525",
         "hash": "68a8b27cbcce25250dc332d36487252858b078fdabd14d257960b08a4f940304",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_NO_USO_CELULAR.png",
-        "rutaOriginal": "/media/originales/68a8b27cbcce2525.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852392/orellana-web/68a8b27cbcce2525.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/68a8b27cbcce2525-400.webp",
-          "800w": "/media/derivados/68a8b27cbcce2525-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/68a8b27cbcce2525"
       }
     ]
   }

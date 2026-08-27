@@ -10,11 +10,11 @@
         "id": "8d670bf18146bfd0",
         "hash": "8d670bf18146bfd0084ca59d352ae0ab7ca597dce3af9346b774bd69e7ad9a79",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_3613.JPG",
-        "rutaOriginal": "/media/originales/8d670bf18146bfd0.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8d670bf18146bfd0-400.webp",
-          "800w": "/media/derivados/8d670bf18146bfd0-800.webp",
-          "1600w": "/media/derivados/8d670bf18146bfd0-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851323/orellana-web/8d670bf18146bfd0.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -22,7 +22,8 @@
         "alt": "Moradores de comuna Kichwa Huayusa retiran memoria a retroexcavadora municipal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/8d670bf18146bfd0"
       },
       "url": "/noticia/98/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -37,11 +38,11 @@
         "id": "5133f64a5a6d4e85",
         "hash": "5133f64a5a6d4e85d53260ab29c2c4d09a3fe12487dba325bce4a1e48e93b3a9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/9_IMG_4581.JPG",
-        "rutaOriginal": "/media/originales/5133f64a5a6d4e85.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851327/orellana-web/5133f64a5a6d4e85.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5133f64a5a6d4e85-400.webp",
-          "800w": "/media/derivados/5133f64a5a6d4e85-800.webp",
-          "1600w": "/media/derivados/5133f64a5a6d4e85-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851327/orellana-web/5133f64a5a6d4e85.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851327/orellana-web/5133f64a5a6d4e85.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851327/orellana-web/5133f64a5a6d4e85.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Municipalidad refuerza la seguridad vial en el barrio Paraíso Amazónico",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/5133f64a5a6d4e85"
       },
       "url": "/noticia/97/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -64,10 +66,11 @@
         "id": "9477538a1177f002",
         "hash": "9477538a1177f00219fb471acfb5dc1db70eaba322544211e0b29efb69b10150",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_MVI_5918.jpg",
-        "rutaOriginal": "/media/originales/9477538a1177f002.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851329/orellana-web/9477538a1177f002.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9477538a1177f002-400.webp",
-          "800w": "/media/derivados/9477538a1177f002-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg"
         },
         "ancho": 1280,
         "alto": 894,
@@ -75,7 +78,8 @@
         "alt": "Alcaldía conmemora el día mundial del medio ambiente",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/9477538a1177f002"
       },
       "url": "/noticia/96/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -90,11 +94,11 @@
         "id": "a5beb37913a9a798",
         "hash": "a5beb37913a9a798727ea0de3c3937017c3980bbab55081d8a1749a6f79c77d6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4.png",
-        "rutaOriginal": "/media/originales/a5beb37913a9a798.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851331/orellana-web/a5beb37913a9a798.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/a5beb37913a9a798-400.webp",
-          "800w": "/media/derivados/a5beb37913a9a798-800.webp",
-          "1600w": "/media/derivados/a5beb37913a9a798-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851331/orellana-web/a5beb37913a9a798.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851331/orellana-web/a5beb37913a9a798.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851331/orellana-web/a5beb37913a9a798.png"
         },
         "ancho": 1902,
         "alto": 1072,
@@ -102,7 +106,8 @@
         "alt": "Sonia Rodríguez transforma su pasión por la panadería y pastelería gracias al taller gratuito de la Alcaldía",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/a5beb37913a9a798"
       },
       "url": "/noticia/95/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -117,11 +122,11 @@
         "id": "faac000f95a67291",
         "hash": "faac000f95a672910c4a1483e5bf1fe7339fd41c5514bb72e505b6deed8068a0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_1_IMG_7583.JPG",
-        "rutaOriginal": "/media/originales/faac000f95a67291.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851334/orellana-web/faac000f95a67291.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/faac000f95a67291-400.webp",
-          "800w": "/media/derivados/faac000f95a67291-800.webp",
-          "1600w": "/media/derivados/faac000f95a67291-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -129,7 +134,8 @@
         "alt": "Festival de flores vivas 2025: un homenaje lleno de amor para Mamá",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/faac000f95a67291"
       },
       "url": "/noticia/94/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -144,11 +150,11 @@
         "id": "b360fe0b79ab7e55",
         "hash": "b360fe0b79ab7e556f976afc32660cac3bf3dcc42f9dc28777fb0451b1e705c5",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_1_IMG_0576.JPG",
-        "rutaOriginal": "/media/originales/b360fe0b79ab7e55.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b360fe0b79ab7e55-400.webp",
-          "800w": "/media/derivados/b360fe0b79ab7e55-800.webp",
-          "1600w": "/media/derivados/b360fe0b79ab7e55-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851337/orellana-web/b360fe0b79ab7e55.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -156,7 +162,8 @@
         "alt": "Con gran éxito se celebró el “Mini Fest 2025” por el Día del Niño",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/b360fe0b79ab7e55"
       },
       "url": "/noticia/93/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -171,11 +178,11 @@
         "id": "30fd03ea387645de",
         "hash": "30fd03ea387645dee54d237545fecbe7fbbac550cfa01b7829a0c116c1df5112",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_1_IMG_2194.JPG",
-        "rutaOriginal": "/media/originales/30fd03ea387645de.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851340/orellana-web/30fd03ea387645de.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/30fd03ea387645de-400.webp",
-          "800w": "/media/derivados/30fd03ea387645de-800.webp",
-          "1600w": "/media/derivados/30fd03ea387645de-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851340/orellana-web/30fd03ea387645de.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851340/orellana-web/30fd03ea387645de.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851340/orellana-web/30fd03ea387645de.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -183,7 +190,8 @@
         "alt": "Ejecutamos obras para beneficio de nuestro cantón",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/30fd03ea387645de"
       },
       "url": "/noticia/91/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -198,11 +206,11 @@
         "id": "51fb999576d291d8",
         "hash": "51fb999576d291d81a73d87251062a947fb3df0a7e91af7d5ba56d008d2997d4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_IMG_4015.JPG",
-        "rutaOriginal": "/media/originales/51fb999576d291d8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852825/orellana-web/51fb999576d291d8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/51fb999576d291d8-400.webp",
-          "800w": "/media/derivados/51fb999576d291d8-800.webp",
-          "1600w": "/media/derivados/51fb999576d291d8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852825/orellana-web/51fb999576d291d8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852825/orellana-web/51fb999576d291d8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852825/orellana-web/51fb999576d291d8.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -210,7 +218,8 @@
         "alt": "Municipalidad continúa con la campaña de concienciación vial para promover la seguridad en las calles",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/51fb999576d291d8"
       },
       "url": "/noticia/90/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"
@@ -225,9 +234,11 @@
         "id": "7746a0d3343e04a7",
         "hash": "7746a0d3343e04a73cf7a5080f4b3d1ad459da23b43a4cb32a9ae9c89a57aa55",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_HRktxkx.jpg",
-        "rutaOriginal": "/media/originales/7746a0d3343e04a7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7746a0d3343e04a7-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg"
         },
         "ancho": 679,
         "alto": 383,
@@ -235,7 +246,8 @@
         "alt": "Alcaldía aclara retención de maquinaria municipal por moradores de la comuna kichwa Huayusa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/7746a0d3343e04a7"
       },
       "url": "/noticia/92/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=22"

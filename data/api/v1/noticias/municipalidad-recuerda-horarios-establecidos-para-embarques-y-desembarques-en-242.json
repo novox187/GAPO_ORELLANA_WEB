@@ -9,11 +9,11 @@
       "id": "bf9c2e91b1e24a3b",
       "hash": "bf9c2e91b1e24a3bba79fae86b33e1baa971f233cdef31a5d8cb937e4534bbf0",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_UN7UIGF.JPG",
-      "rutaOriginal": "/media/originales/bf9c2e91b1e24a3b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/bf9c2e91b1e24a3b-400.webp",
-        "800w": "/media/derivados/bf9c2e91b1e24a3b-800.webp",
-        "1600w": "/media/derivados/bf9c2e91b1e24a3b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Municipalidad recuerda horarios establecidos para embarques y desembarques en casas comerciales",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/bf9c2e91b1e24a3b"
     },
     "url": "/noticia/242/",
     "fuente_url": "https://orellana.gob.ec/noticia/242/",
@@ -31,11 +32,11 @@
         "id": "bf9c2e91b1e24a3b",
         "hash": "bf9c2e91b1e24a3bba79fae86b33e1baa971f233cdef31a5d8cb937e4534bbf0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_UN7UIGF.JPG",
-        "rutaOriginal": "/media/originales/bf9c2e91b1e24a3b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/bf9c2e91b1e24a3b-400.webp",
-          "800w": "/media/derivados/bf9c2e91b1e24a3b-800.webp",
-          "1600w": "/media/derivados/bf9c2e91b1e24a3b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850017/orellana-web/bf9c2e91b1e24a3b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Municipalidad recuerda horarios establecidos para embarques y desembarques en casas comerciales",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/bf9c2e91b1e24a3b"
       }
     ]
   }

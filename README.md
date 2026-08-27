@@ -121,5 +121,8 @@ compartir, que sí funciona.
   fuente no detalla necesitan redacción humana.
 - Las categorías y perfiles de trámites los infirió un clasificador por
   palabras clave: hay que revisarlos editorialmente.
-- La compilación arrastra los 2 GB de `media/` por el symlink de
-  `app/static/media`; conviene servir los medios aparte antes de desplegar.
+- ~~La compilación arrastra los 2 GB de `media/`...~~ Resuelto: las 357
+  imágenes del catálogo se sirven desde Cloudinary (`tools/cloudinary/`,
+  ver `docs/arquitectura.md`); `media/originales/` y `media/derivados/`
+  siguen siendo la caché local del extractor, ya no hace falta que viajen
+  al servidor de producción.

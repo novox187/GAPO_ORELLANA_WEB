@@ -9,11 +9,11 @@
       "id": "483bbb6a3dfd951f",
       "hash": "483bbb6a3dfd951f5d84e0c570d396685b836013e57dbb3d6e1ca9302b67b9e1",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_1_IMG1642.JPG",
-      "rutaOriginal": "/media/originales/483bbb6a3dfd951f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/483bbb6a3dfd951f-400.webp",
-        "800w": "/media/derivados/483bbb6a3dfd951f-800.webp",
-        "1600w": "/media/derivados/483bbb6a3dfd951f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Municipalidad impulsa recuperación de espacios en El Coca ante terrenos montosos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+      "cloudinaryPublicId": "orellana-web/483bbb6a3dfd951f"
     },
     "url": "/noticia/276/",
     "fuente_url": "https://orellana.gob.ec/noticia/276/",
@@ -31,11 +32,11 @@
         "id": "483bbb6a3dfd951f",
         "hash": "483bbb6a3dfd951f5d84e0c570d396685b836013e57dbb3d6e1ca9302b67b9e1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_1_IMG1642.JPG",
-        "rutaOriginal": "/media/originales/483bbb6a3dfd951f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/483bbb6a3dfd951f-400.webp",
-          "800w": "/media/derivados/483bbb6a3dfd951f-800.webp",
-          "1600w": "/media/derivados/483bbb6a3dfd951f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849668/orellana-web/483bbb6a3dfd951f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Municipalidad impulsa recuperación de espacios en El Coca ante terrenos montosos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/483bbb6a3dfd951f"
       }
     ]
   }

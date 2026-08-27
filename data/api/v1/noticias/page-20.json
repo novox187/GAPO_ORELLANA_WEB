@@ -10,10 +10,11 @@
         "id": "7828493ce83a4cff",
         "hash": "7828493ce83a4cff054fd1f3667a7b59bebe5eb8715c4f3221d27e7d58b76a02",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.jpeg",
-        "rutaOriginal": "/media/originales/7828493ce83a4cff.jpeg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851147/orellana-web/7828493ce83a4cff.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7828493ce83a4cff-400.webp",
-          "800w": "/media/derivados/7828493ce83a4cff-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851147/orellana-web/7828493ce83a4cff.jpg"
         },
         "ancho": 1280,
         "alto": 720,
@@ -21,7 +22,8 @@
         "alt": "Se socializa estudio del nuevo mercado \"Virgen del Cisne\"",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/7828493ce83a4cff"
       },
       "url": "/noticia/118/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -36,11 +38,11 @@
         "id": "ca1c80198fa32c3b",
         "hash": "ca1c80198fa32c3b1d2efbc5ece19850f7563b19ef69eb16c28dbd06dff74908",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_DJI0045.JPG",
-        "rutaOriginal": "/media/originales/ca1c80198fa32c3b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ca1c80198fa32c3b-400.webp",
-          "800w": "/media/derivados/ca1c80198fa32c3b-800.webp",
-          "1600w": "/media/derivados/ca1c80198fa32c3b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg"
         },
         "ancho": 4000,
         "alto": 2250,
@@ -48,7 +50,8 @@
         "alt": "Francisco de Orellana da un paso histórico hacia la sostenibilidad con el cierre técnico del antiguo botadero",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/ca1c80198fa32c3b"
       },
       "url": "/noticia/117/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -63,11 +66,11 @@
         "id": "c717eb109dd82053",
         "hash": "c717eb109dd8205365b1e95ddefabebdb69be958f200524a2e2521ba63f522ca",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_IMG0306.JPG",
-        "rutaOriginal": "/media/originales/c717eb109dd82053.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851152/orellana-web/c717eb109dd82053.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c717eb109dd82053-400.webp",
-          "800w": "/media/derivados/c717eb109dd82053-800.webp",
-          "1600w": "/media/derivados/c717eb109dd82053-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -75,7 +78,8 @@
         "alt": "Inspección técnica en el barrio Cambahuasi ante creciente del río Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/c717eb109dd82053"
       },
       "url": "/noticia/116/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -90,10 +94,11 @@
         "id": "46dc5685bb84d628",
         "hash": "46dc5685bb84d62856c01e4323f84bd76ec81db30d11af9faf2e07f82b97c78a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.jpg",
-        "rutaOriginal": "/media/originales/46dc5685bb84d628.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851155/orellana-web/46dc5685bb84d628.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/46dc5685bb84d628-400.webp",
-          "800w": "/media/derivados/46dc5685bb84d628-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg"
         },
         "ancho": 1280,
         "alto": 729,
@@ -101,7 +106,8 @@
         "alt": "Transporte digno para nuestros adultos mayores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/46dc5685bb84d628"
       },
       "url": "/noticia/115/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -116,11 +122,11 @@
         "id": "df09a32554a49096",
         "hash": "df09a32554a4909697221f56d4a161ccb7fb3f0c5f1a6ad2489cbd8079615e64",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_IMG_9254.JPG",
-        "rutaOriginal": "/media/originales/df09a32554a49096.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851157/orellana-web/df09a32554a49096.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/df09a32554a49096-400.webp",
-          "800w": "/media/derivados/df09a32554a49096-800.webp",
-          "1600w": "/media/derivados/df09a32554a49096-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851157/orellana-web/df09a32554a49096.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851157/orellana-web/df09a32554a49096.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851157/orellana-web/df09a32554a49096.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -128,7 +134,8 @@
         "alt": "Niños del CDI Sonrisitas en Américas celebraron su día con alegría",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/df09a32554a49096"
       },
       "url": "/noticia/113/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -143,11 +150,11 @@
         "id": "59040b012288fded",
         "hash": "59040b012288fdedd5929926b0e287db13101daf24892cbe7fa20463f15f77a9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_9760.JPG",
-        "rutaOriginal": "/media/originales/59040b012288fded.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851160/orellana-web/59040b012288fded.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/59040b012288fded-400.webp",
-          "800w": "/media/derivados/59040b012288fded-800.webp",
-          "1600w": "/media/derivados/59040b012288fded-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -155,7 +162,8 @@
         "alt": "Adultos mayores celebran con alegría el Día del Padre",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/59040b012288fded"
       },
       "url": "/noticia/112/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -170,11 +178,11 @@
         "id": "017cd63e04048339",
         "hash": "017cd63e0404833973bd7fb2ad02158ce5c5c2d0008e4d81bb9aa78c0ade22ce",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_9749.JPG",
-        "rutaOriginal": "/media/originales/017cd63e04048339.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851162/orellana-web/017cd63e04048339.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/017cd63e04048339-400.webp",
-          "800w": "/media/derivados/017cd63e04048339-800.webp",
-          "1600w": "/media/derivados/017cd63e04048339-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851162/orellana-web/017cd63e04048339.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -182,7 +190,8 @@
         "alt": "Niño de proyecto ETI recibe ayuda para radiografías",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/017cd63e04048339"
       },
       "url": "/noticia/111/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -197,11 +206,11 @@
         "id": "1cf42debcede1273",
         "hash": "1cf42debcede12736c4e0a4d9469e924dbd830398851a25e4b02d764421db9c4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_2404.JPG",
-        "rutaOriginal": "/media/originales/1cf42debcede1273.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851285/orellana-web/1cf42debcede1273.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1cf42debcede1273-400.webp",
-          "800w": "/media/derivados/1cf42debcede1273-800.webp",
-          "1600w": "/media/derivados/1cf42debcede1273-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -209,7 +218,8 @@
         "alt": "Alcaldía impulsa talleres de protección, seguridad y política para personas con discapacidad en Dayuma y Taracoa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/1cf42debcede1273"
       },
       "url": "/noticia/110/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"
@@ -224,11 +234,11 @@
         "id": "a1a840ffecaad462",
         "hash": "a1a840ffecaad462b82fb96bb9f745464d6b7ed62ff7f0859670a71400f6fc7b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23_DJI_0923.JPG",
-        "rutaOriginal": "/media/originales/a1a840ffecaad462.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851288/orellana-web/a1a840ffecaad462.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a1a840ffecaad462-400.webp",
-          "800w": "/media/derivados/a1a840ffecaad462-800.webp",
-          "1600w": "/media/derivados/a1a840ffecaad462-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851288/orellana-web/a1a840ffecaad462.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851288/orellana-web/a1a840ffecaad462.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851288/orellana-web/a1a840ffecaad462.jpg"
         },
         "ancho": 4000,
         "alto": 2250,
@@ -236,7 +246,8 @@
         "alt": "Alcaldía impulsa importante obra de infraestructura en los barrios Ñucanchi Wasi y Los Sauces",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/a1a840ffecaad462"
       },
       "url": "/noticia/109/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=20"

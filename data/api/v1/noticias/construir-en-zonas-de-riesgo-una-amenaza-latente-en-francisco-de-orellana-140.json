@@ -9,10 +9,11 @@
       "id": "cd9ca28f9287c25d",
       "hash": "cd9ca28f9287c25df24debe347d2be66cacb7d47eefb2e2727a7226c51aed510",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_MVI_9368.jpg",
-      "rutaOriginal": "/media/originales/cd9ca28f9287c25d.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/cd9ca28f9287c25d-400.webp",
-        "800w": "/media/derivados/cd9ca28f9287c25d-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg"
       },
       "ancho": 1280,
       "alto": 671,
@@ -20,7 +21,8 @@
       "alt": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+      "cloudinaryPublicId": "orellana-web/cd9ca28f9287c25d"
     },
     "url": "/noticia/140/",
     "fuente_url": "https://orellana.gob.ec/noticia/140/",
@@ -30,10 +32,11 @@
         "id": "cd9ca28f9287c25d",
         "hash": "cd9ca28f9287c25df24debe347d2be66cacb7d47eefb2e2727a7226c51aed510",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_MVI_9368.jpg",
-        "rutaOriginal": "/media/originales/cd9ca28f9287c25d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/cd9ca28f9287c25d-400.webp",
-          "800w": "/media/derivados/cd9ca28f9287c25d-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850912/orellana-web/cd9ca28f9287c25d.jpg"
         },
         "ancho": 1280,
         "alto": 671,
@@ -41,7 +44,8 @@
         "alt": "Construir en zonas de riesgo, una amenaza latente en Francisco de Orellana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/cd9ca28f9287c25d"
       }
     ]
   }

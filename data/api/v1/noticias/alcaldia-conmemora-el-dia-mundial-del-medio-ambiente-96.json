@@ -9,10 +9,11 @@
       "id": "9477538a1177f002",
       "hash": "9477538a1177f00219fb471acfb5dc1db70eaba322544211e0b29efb69b10150",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_MVI_5918.jpg",
-      "rutaOriginal": "/media/originales/9477538a1177f002.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851329/orellana-web/9477538a1177f002.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9477538a1177f002-400.webp",
-        "800w": "/media/derivados/9477538a1177f002-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg"
       },
       "ancho": 1280,
       "alto": 894,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía conmemora el día mundial del medio ambiente",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+      "cloudinaryPublicId": "orellana-web/9477538a1177f002"
     },
     "url": "/noticia/96/",
     "fuente_url": "https://orellana.gob.ec/noticia/96/",
@@ -30,10 +32,11 @@
         "id": "9477538a1177f002",
         "hash": "9477538a1177f00219fb471acfb5dc1db70eaba322544211e0b29efb69b10150",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_MVI_5918.jpg",
-        "rutaOriginal": "/media/originales/9477538a1177f002.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851329/orellana-web/9477538a1177f002.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9477538a1177f002-400.webp",
-          "800w": "/media/derivados/9477538a1177f002-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851329/orellana-web/9477538a1177f002.jpg"
         },
         "ancho": 1280,
         "alto": 894,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía conmemora el día mundial del medio ambiente",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/9477538a1177f002"
       }
     ]
   }

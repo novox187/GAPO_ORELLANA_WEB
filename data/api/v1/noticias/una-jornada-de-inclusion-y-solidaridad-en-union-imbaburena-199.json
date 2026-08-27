@@ -9,11 +9,11 @@
       "id": "5564379f2e3fcfbd",
       "hash": "5564379f2e3fcfbdb64787ff272703a4480ffcca6acbce71ae0a5b86fcce4751",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19.JPG",
-      "rutaOriginal": "/media/originales/5564379f2e3fcfbd.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850515/orellana-web/5564379f2e3fcfbd.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/5564379f2e3fcfbd-400.webp",
-        "800w": "/media/derivados/5564379f2e3fcfbd-800.webp",
-        "1600w": "/media/derivados/5564379f2e3fcfbd-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850515/orellana-web/5564379f2e3fcfbd.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850515/orellana-web/5564379f2e3fcfbd.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850515/orellana-web/5564379f2e3fcfbd.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Una jornada de inclusión y solidaridad en Unión Imbabureña",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+      "cloudinaryPublicId": "orellana-web/5564379f2e3fcfbd"
     },
     "url": "/noticia/199/",
     "fuente_url": "https://orellana.gob.ec/noticia/199/",
@@ -31,11 +32,11 @@
         "id": "5564379f2e3fcfbd",
         "hash": "5564379f2e3fcfbdb64787ff272703a4480ffcca6acbce71ae0a5b86fcce4751",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19.JPG",
-        "rutaOriginal": "/media/originales/5564379f2e3fcfbd.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850515/orellana-web/5564379f2e3fcfbd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/5564379f2e3fcfbd-400.webp",
-          "800w": "/media/derivados/5564379f2e3fcfbd-800.webp",
-          "1600w": "/media/derivados/5564379f2e3fcfbd-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850515/orellana-web/5564379f2e3fcfbd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850515/orellana-web/5564379f2e3fcfbd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850515/orellana-web/5564379f2e3fcfbd.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Una jornada de inclusión y solidaridad en Unión Imbabureña",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+        "cloudinaryPublicId": "orellana-web/5564379f2e3fcfbd"
       }
     ]
   }

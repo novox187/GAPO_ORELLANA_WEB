@@ -9,11 +9,11 @@
       "id": "a50cdbb24fd65321",
       "hash": "a50cdbb24fd65321d5b0468301166b3c5b80e73ba225279a513f52302d8b1cdd",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_4896.JPG",
-      "rutaOriginal": "/media/originales/a50cdbb24fd65321.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851929/orellana-web/a50cdbb24fd65321.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a50cdbb24fd65321-400.webp",
-        "800w": "/media/derivados/a50cdbb24fd65321-800.webp",
-        "1600w": "/media/derivados/a50cdbb24fd65321-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851929/orellana-web/a50cdbb24fd65321.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851929/orellana-web/a50cdbb24fd65321.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851929/orellana-web/a50cdbb24fd65321.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Estudiantes realizan recorrido por la planta de agua potable Los Álamos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+      "cloudinaryPublicId": "orellana-web/a50cdbb24fd65321"
     },
     "url": "/noticia/76/",
     "fuente_url": "https://orellana.gob.ec/noticia/76/",
@@ -31,11 +32,11 @@
         "id": "a50cdbb24fd65321",
         "hash": "a50cdbb24fd65321d5b0468301166b3c5b80e73ba225279a513f52302d8b1cdd",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_4896.JPG",
-        "rutaOriginal": "/media/originales/a50cdbb24fd65321.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851929/orellana-web/a50cdbb24fd65321.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a50cdbb24fd65321-400.webp",
-          "800w": "/media/derivados/a50cdbb24fd65321-800.webp",
-          "1600w": "/media/derivados/a50cdbb24fd65321-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851929/orellana-web/a50cdbb24fd65321.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851929/orellana-web/a50cdbb24fd65321.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851929/orellana-web/a50cdbb24fd65321.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Estudiantes realizan recorrido por la planta de agua potable Los Álamos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+        "cloudinaryPublicId": "orellana-web/a50cdbb24fd65321"
       }
     ]
   }

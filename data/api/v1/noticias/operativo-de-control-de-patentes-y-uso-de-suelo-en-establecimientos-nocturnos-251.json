@@ -9,11 +9,11 @@
       "id": "222f91362896e20e",
       "hash": "222f91362896e20ed85566de1ad90689267b9821fb78a422477d05bb98147a0e",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_7433.JPG",
-      "rutaOriginal": "/media/originales/222f91362896e20e.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849864/orellana-web/222f91362896e20e.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/222f91362896e20e-400.webp",
-        "800w": "/media/derivados/222f91362896e20e-800.webp",
-        "1600w": "/media/derivados/222f91362896e20e-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849864/orellana-web/222f91362896e20e.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849864/orellana-web/222f91362896e20e.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849864/orellana-web/222f91362896e20e.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Operativo de control de patentes y uso de suelo en establecimientos nocturnos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+      "cloudinaryPublicId": "orellana-web/222f91362896e20e"
     },
     "url": "/noticia/251/",
     "fuente_url": "https://orellana.gob.ec/noticia/251/",
@@ -31,11 +32,11 @@
         "id": "222f91362896e20e",
         "hash": "222f91362896e20ed85566de1ad90689267b9821fb78a422477d05bb98147a0e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_7433.JPG",
-        "rutaOriginal": "/media/originales/222f91362896e20e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849864/orellana-web/222f91362896e20e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/222f91362896e20e-400.webp",
-          "800w": "/media/derivados/222f91362896e20e-800.webp",
-          "1600w": "/media/derivados/222f91362896e20e-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849864/orellana-web/222f91362896e20e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849864/orellana-web/222f91362896e20e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849864/orellana-web/222f91362896e20e.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Operativo de control de patentes y uso de suelo en establecimientos nocturnos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/222f91362896e20e"
       }
     ]
   }

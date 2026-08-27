@@ -9,11 +9,11 @@
       "id": "e487de0cd9a8d706",
       "hash": "e487de0cd9a8d706e30d60cc9b1dd8e844479a27879a895ce0ce60967070e00a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_4558.JPG",
-      "rutaOriginal": "/media/originales/e487de0cd9a8d706.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e487de0cd9a8d706-400.webp",
-        "800w": "/media/derivados/e487de0cd9a8d706-800.webp",
-        "1600w": "/media/derivados/e487de0cd9a8d706-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Con nuevas unidades, la Alcaldía mejora el servicio de recolección de basura",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/e487de0cd9a8d706"
     },
     "url": "/noticia/120/",
     "fuente_url": "https://orellana.gob.ec/noticia/120/",
@@ -31,11 +32,11 @@
         "id": "e487de0cd9a8d706",
         "hash": "e487de0cd9a8d706e30d60cc9b1dd8e844479a27879a895ce0ce60967070e00a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_4558.JPG",
-        "rutaOriginal": "/media/originales/e487de0cd9a8d706.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e487de0cd9a8d706-400.webp",
-          "800w": "/media/derivados/e487de0cd9a8d706-800.webp",
-          "1600w": "/media/derivados/e487de0cd9a8d706-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851141/orellana-web/e487de0cd9a8d706.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Con nuevas unidades, la Alcaldía mejora el servicio de recolección de basura",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/e487de0cd9a8d706"
       }
     ]
   }

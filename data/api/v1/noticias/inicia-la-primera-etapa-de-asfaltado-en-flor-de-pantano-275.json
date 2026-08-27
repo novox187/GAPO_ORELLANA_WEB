@@ -9,11 +9,11 @@
       "id": "ed4c458377622794",
       "hash": "ed4c4583776227943b258c388c4636e391f8ec724b161ad6c4c60b990f6dc40f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_2748.JPG",
-      "rutaOriginal": "/media/originales/ed4c458377622794.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852576/orellana-web/ed4c458377622794.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ed4c458377622794-400.webp",
-        "800w": "/media/derivados/ed4c458377622794-800.webp",
-        "1600w": "/media/derivados/ed4c458377622794-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Inicia la primera etapa de asfaltado en Flor de Pantano",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+      "cloudinaryPublicId": "orellana-web/ed4c458377622794"
     },
     "url": "/noticia/275/",
     "fuente_url": "https://orellana.gob.ec/noticia/275/",
@@ -31,11 +32,11 @@
         "id": "ed4c458377622794",
         "hash": "ed4c4583776227943b258c388c4636e391f8ec724b161ad6c4c60b990f6dc40f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_2748.JPG",
-        "rutaOriginal": "/media/originales/ed4c458377622794.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852576/orellana-web/ed4c458377622794.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ed4c458377622794-400.webp",
-          "800w": "/media/derivados/ed4c458377622794-800.webp",
-          "1600w": "/media/derivados/ed4c458377622794-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852576/orellana-web/ed4c458377622794.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Inicia la primera etapa de asfaltado en Flor de Pantano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/ed4c458377622794"
       }
     ]
   }

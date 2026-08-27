@@ -9,11 +9,11 @@
       "id": "a15b4a9136e0ce0f",
       "hash": "a15b4a9136e0ce0fd94bdc55f45aca4c4363b2349ff84898cd36cfb4bcfa3094",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_1_IMG1664.JPG",
-      "rutaOriginal": "/media/originales/a15b4a9136e0ce0f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a15b4a9136e0ce0f-400.webp",
-        "800w": "/media/derivados/a15b4a9136e0ce0f-800.webp",
-        "1600w": "/media/derivados/a15b4a9136e0ce0f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "El Coca se activa contra el dengue: la prevención empieza en casa",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/a15b4a9136e0ce0f"
     },
     "url": "/noticia/270/",
     "fuente_url": "https://orellana.gob.ec/noticia/270/",
@@ -31,11 +32,11 @@
         "id": "a15b4a9136e0ce0f",
         "hash": "a15b4a9136e0ce0fd94bdc55f45aca4c4363b2349ff84898cd36cfb4bcfa3094",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_1_IMG1664.JPG",
-        "rutaOriginal": "/media/originales/a15b4a9136e0ce0f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a15b4a9136e0ce0f-400.webp",
-          "800w": "/media/derivados/a15b4a9136e0ce0f-800.webp",
-          "1600w": "/media/derivados/a15b4a9136e0ce0f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852588/orellana-web/a15b4a9136e0ce0f.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "El Coca se activa contra el dengue: la prevención empieza en casa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/a15b4a9136e0ce0f"
       }
     ]
   }

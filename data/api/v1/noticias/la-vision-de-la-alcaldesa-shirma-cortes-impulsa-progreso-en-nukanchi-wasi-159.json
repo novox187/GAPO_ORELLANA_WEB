@@ -9,11 +9,11 @@
       "id": "dfa839368b5adaa9",
       "hash": "dfa839368b5adaa91b1df60fe6a7d4f47a871b82afaf6694ae6c0dbb68cf7f85",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/8_1_IMG2201.JPG",
-      "rutaOriginal": "/media/originales/dfa839368b5adaa9.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/dfa839368b5adaa9-400.webp",
-        "800w": "/media/derivados/dfa839368b5adaa9-800.webp",
-        "1600w": "/media/derivados/dfa839368b5adaa9-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/dfa839368b5adaa9"
     },
     "url": "/noticia/159/",
     "fuente_url": "https://orellana.gob.ec/noticia/159/",
@@ -31,11 +32,11 @@
         "id": "dfa839368b5adaa9",
         "hash": "dfa839368b5adaa91b1df60fe6a7d4f47a871b82afaf6694ae6c0dbb68cf7f85",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/8_1_IMG2201.JPG",
-        "rutaOriginal": "/media/originales/dfa839368b5adaa9.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/dfa839368b5adaa9-400.webp",
-          "800w": "/media/derivados/dfa839368b5adaa9-800.webp",
-          "1600w": "/media/derivados/dfa839368b5adaa9-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/dfa839368b5adaa9"
       }
     ]
   }

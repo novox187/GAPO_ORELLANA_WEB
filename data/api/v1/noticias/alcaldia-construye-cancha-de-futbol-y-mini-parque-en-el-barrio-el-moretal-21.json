@@ -9,10 +9,11 @@
       "id": "ca9c41274fc1c9d6",
       "hash": "ca9c41274fc1c9d64d56fae8389a5213f1dc8f0a03f87b61cdcf7a17b35a1ebf",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_CANCHA_FUTBOL_MORETAL.png",
-      "rutaOriginal": "/media/originales/ca9c41274fc1c9d6.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/ca9c41274fc1c9d6-400.webp",
-        "800w": "/media/derivados/ca9c41274fc1c9d6-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+      "cloudinaryPublicId": "orellana-web/ca9c41274fc1c9d6"
     },
     "url": "/noticia/21/",
     "fuente_url": "https://orellana.gob.ec/noticia/21/",
@@ -30,10 +32,11 @@
         "id": "ca9c41274fc1c9d6",
         "hash": "ca9c41274fc1c9d64d56fae8389a5213f1dc8f0a03f87b61cdcf7a17b35a1ebf",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_CANCHA_FUTBOL_MORETAL.png",
-        "rutaOriginal": "/media/originales/ca9c41274fc1c9d6.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/ca9c41274fc1c9d6-400.webp",
-          "800w": "/media/derivados/ca9c41274fc1c9d6-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852257/orellana-web/ca9c41274fc1c9d6.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/ca9c41274fc1c9d6"
       }
     ]
   }

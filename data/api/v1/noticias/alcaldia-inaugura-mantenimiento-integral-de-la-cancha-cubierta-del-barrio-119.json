@@ -9,11 +9,11 @@
       "id": "da0c993a3eeb0596",
       "hash": "da0c993a3eeb05961e0a95035981d248019d384fa371cac5744bacea9965c9f7",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG0645.JPG",
-      "rutaOriginal": "/media/originales/da0c993a3eeb0596.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/da0c993a3eeb0596-400.webp",
-        "800w": "/media/derivados/da0c993a3eeb0596-800.webp",
-        "1600w": "/media/derivados/da0c993a3eeb0596-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía inaugura mantenimiento integral de la cancha cubierta del barrio Conhogar",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/da0c993a3eeb0596"
     },
     "url": "/noticia/119/",
     "fuente_url": "https://orellana.gob.ec/noticia/119/",
@@ -31,11 +32,11 @@
         "id": "da0c993a3eeb0596",
         "hash": "da0c993a3eeb05961e0a95035981d248019d384fa371cac5744bacea9965c9f7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG0645.JPG",
-        "rutaOriginal": "/media/originales/da0c993a3eeb0596.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/da0c993a3eeb0596-400.webp",
-          "800w": "/media/derivados/da0c993a3eeb0596-800.webp",
-          "1600w": "/media/derivados/da0c993a3eeb0596-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851145/orellana-web/da0c993a3eeb0596.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía inaugura mantenimiento integral de la cancha cubierta del barrio Conhogar",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/da0c993a3eeb0596"
       }
     ]
   }

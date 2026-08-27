@@ -9,11 +9,11 @@
       "id": "33ebcec6bdc34a46",
       "hash": "33ebcec6bdc34a4637f8b2f26e884c20f96d5fafa92cfc44942e48f4962bb50f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13.JPG",
-      "rutaOriginal": "/media/originales/33ebcec6bdc34a46.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/33ebcec6bdc34a46-400.webp",
-        "800w": "/media/derivados/33ebcec6bdc34a46-800.webp",
-        "1600w": "/media/derivados/33ebcec6bdc34a46-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Moderna cancha en el 20 de Mayo impulsa el deporte y la unidad ciudadana",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+      "cloudinaryPublicId": "orellana-web/33ebcec6bdc34a46"
     },
     "url": "/noticia/177/",
     "fuente_url": "https://orellana.gob.ec/noticia/177/",
@@ -31,11 +32,11 @@
         "id": "33ebcec6bdc34a46",
         "hash": "33ebcec6bdc34a4637f8b2f26e884c20f96d5fafa92cfc44942e48f4962bb50f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13.JPG",
-        "rutaOriginal": "/media/originales/33ebcec6bdc34a46.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/33ebcec6bdc34a46-400.webp",
-          "800w": "/media/derivados/33ebcec6bdc34a46-800.webp",
-          "1600w": "/media/derivados/33ebcec6bdc34a46-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850582/orellana-web/33ebcec6bdc34a46.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Moderna cancha en el 20 de Mayo impulsa el deporte y la unidad ciudadana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/33ebcec6bdc34a46"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "da466de6ea5da039",
       "hash": "da466de6ea5da03913b6ce666ef1ba535a064ec3689541de1233e0ec47929f46",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_0415_VBxsm2F.JPG",
-      "rutaOriginal": "/media/originales/da466de6ea5da039.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849871/orellana-web/da466de6ea5da039.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/da466de6ea5da039-400.webp",
-        "800w": "/media/derivados/da466de6ea5da039-800.webp",
-        "1600w": "/media/derivados/da466de6ea5da039-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Aprovecha el descuento en tu impuesto predial urbano y rural",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+      "cloudinaryPublicId": "orellana-web/da466de6ea5da039"
     },
     "url": "/noticia/232/",
     "fuente_url": "https://orellana.gob.ec/noticia/232/",
@@ -31,11 +32,11 @@
         "id": "da466de6ea5da039",
         "hash": "da466de6ea5da03913b6ce666ef1ba535a064ec3689541de1233e0ec47929f46",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_0415_VBxsm2F.JPG",
-        "rutaOriginal": "/media/originales/da466de6ea5da039.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849871/orellana-web/da466de6ea5da039.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/da466de6ea5da039-400.webp",
-          "800w": "/media/derivados/da466de6ea5da039-800.webp",
-          "1600w": "/media/derivados/da466de6ea5da039-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849871/orellana-web/da466de6ea5da039.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Aprovecha el descuento en tu impuesto predial urbano y rural",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/da466de6ea5da039"
       }
     ]
   }

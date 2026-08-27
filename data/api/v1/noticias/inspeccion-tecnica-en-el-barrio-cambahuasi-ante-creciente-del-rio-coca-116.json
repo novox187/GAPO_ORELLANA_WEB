@@ -9,11 +9,11 @@
       "id": "c717eb109dd82053",
       "hash": "c717eb109dd8205365b1e95ddefabebdb69be958f200524a2e2521ba63f522ca",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_IMG0306.JPG",
-      "rutaOriginal": "/media/originales/c717eb109dd82053.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851152/orellana-web/c717eb109dd82053.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c717eb109dd82053-400.webp",
-        "800w": "/media/derivados/c717eb109dd82053-800.webp",
-        "1600w": "/media/derivados/c717eb109dd82053-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Inspección técnica en el barrio Cambahuasi ante creciente del río Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+      "cloudinaryPublicId": "orellana-web/c717eb109dd82053"
     },
     "url": "/noticia/116/",
     "fuente_url": "https://orellana.gob.ec/noticia/116/",
@@ -31,11 +32,11 @@
         "id": "c717eb109dd82053",
         "hash": "c717eb109dd8205365b1e95ddefabebdb69be958f200524a2e2521ba63f522ca",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02_IMG0306.JPG",
-        "rutaOriginal": "/media/originales/c717eb109dd82053.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851152/orellana-web/c717eb109dd82053.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c717eb109dd82053-400.webp",
-          "800w": "/media/derivados/c717eb109dd82053-800.webp",
-          "1600w": "/media/derivados/c717eb109dd82053-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851152/orellana-web/c717eb109dd82053.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Inspección técnica en el barrio Cambahuasi ante creciente del río Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/c717eb109dd82053"
       }
     ]
   }

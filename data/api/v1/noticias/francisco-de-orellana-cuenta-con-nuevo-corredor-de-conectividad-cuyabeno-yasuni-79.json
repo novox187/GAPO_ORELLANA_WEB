@@ -9,11 +9,11 @@
       "id": "4c2d09c102d43d24",
       "hash": "4c2d09c102d43d24f3ea745463d6b282f987e704da8bb0a291f382928b066260",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_1922.JPG",
-      "rutaOriginal": "/media/originales/4c2d09c102d43d24.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851738/orellana-web/4c2d09c102d43d24.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/4c2d09c102d43d24-400.webp",
-        "800w": "/media/derivados/4c2d09c102d43d24-800.webp",
-        "1600w": "/media/derivados/4c2d09c102d43d24-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851738/orellana-web/4c2d09c102d43d24.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851738/orellana-web/4c2d09c102d43d24.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851738/orellana-web/4c2d09c102d43d24.jpg"
       },
       "ancho": 3984,
       "alto": 2240,
@@ -21,7 +21,8 @@
       "alt": "Francisco de Orellana cuenta con nuevo Corredor de Conectividad Cuyabeno–Yasuní",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/4c2d09c102d43d24"
     },
     "url": "/noticia/79/",
     "fuente_url": "https://orellana.gob.ec/noticia/79/",
@@ -31,11 +32,11 @@
         "id": "4c2d09c102d43d24",
         "hash": "4c2d09c102d43d24f3ea745463d6b282f987e704da8bb0a291f382928b066260",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_1922.JPG",
-        "rutaOriginal": "/media/originales/4c2d09c102d43d24.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851738/orellana-web/4c2d09c102d43d24.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4c2d09c102d43d24-400.webp",
-          "800w": "/media/derivados/4c2d09c102d43d24-800.webp",
-          "1600w": "/media/derivados/4c2d09c102d43d24-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851738/orellana-web/4c2d09c102d43d24.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851738/orellana-web/4c2d09c102d43d24.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851738/orellana-web/4c2d09c102d43d24.jpg"
         },
         "ancho": 3984,
         "alto": 2240,
@@ -43,7 +44,8 @@
         "alt": "Francisco de Orellana cuenta con nuevo Corredor de Conectividad Cuyabeno–Yasuní",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/4c2d09c102d43d24"
       }
     ]
   }

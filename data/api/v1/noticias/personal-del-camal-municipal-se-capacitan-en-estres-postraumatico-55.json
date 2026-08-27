@@ -9,11 +9,11 @@
       "id": "61bf27b1e0067434",
       "hash": "61bf27b1e0067434c5a34d502e19184933ef601cbeb032560e3832c7c619ef8a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_3951.JPG",
-      "rutaOriginal": "/media/originales/61bf27b1e0067434.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851938/orellana-web/61bf27b1e0067434.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/61bf27b1e0067434-400.webp",
-        "800w": "/media/derivados/61bf27b1e0067434-800.webp",
-        "1600w": "/media/derivados/61bf27b1e0067434-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851938/orellana-web/61bf27b1e0067434.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851938/orellana-web/61bf27b1e0067434.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851938/orellana-web/61bf27b1e0067434.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Personal del camal municipal se capacitan en estrés postraumático",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+      "cloudinaryPublicId": "orellana-web/61bf27b1e0067434"
     },
     "url": "/noticia/55/",
     "fuente_url": "https://orellana.gob.ec/noticia/55/",
@@ -31,11 +32,11 @@
         "id": "61bf27b1e0067434",
         "hash": "61bf27b1e0067434c5a34d502e19184933ef601cbeb032560e3832c7c619ef8a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/25_IMG_3951.JPG",
-        "rutaOriginal": "/media/originales/61bf27b1e0067434.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851938/orellana-web/61bf27b1e0067434.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/61bf27b1e0067434-400.webp",
-          "800w": "/media/derivados/61bf27b1e0067434-800.webp",
-          "1600w": "/media/derivados/61bf27b1e0067434-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851938/orellana-web/61bf27b1e0067434.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851938/orellana-web/61bf27b1e0067434.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851938/orellana-web/61bf27b1e0067434.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Personal del camal municipal se capacitan en estrés postraumático",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+        "cloudinaryPublicId": "orellana-web/61bf27b1e0067434"
       }
     ]
   }

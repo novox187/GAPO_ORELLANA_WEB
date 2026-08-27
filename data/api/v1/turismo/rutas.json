@@ -10,10 +10,11 @@
         "id": "57d19c3c7a4de2f4",
         "hash": "57d19c3c7a4de2f4a324311051647ea41bfe86591fd53400ef1c24add7357e81",
         "urlOriginal": "https://orellana.gob.ec/static/img/rutas.jpg",
-        "rutaOriginal": "/media/originales/57d19c3c7a4de2f4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849557/orellana-web/57d19c3c7a4de2f4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/57d19c3c7a4de2f4-400.webp",
-          "800w": "/media/derivados/57d19c3c7a4de2f4-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849557/orellana-web/57d19c3c7a4de2f4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849557/orellana-web/57d19c3c7a4de2f4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849557/orellana-web/57d19c3c7a4de2f4.jpg"
         },
         "ancho": 990,
         "alto": 1059,
@@ -21,7 +22,8 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "turismo",
-        "fuenteUrl": "https://orellana.gob.ec/rutas_t/"
+        "fuenteUrl": "https://orellana.gob.ec/rutas_t/",
+        "cloudinaryPublicId": "orellana-web/57d19c3c7a4de2f4"
       }
     ],
     "documentos": [],

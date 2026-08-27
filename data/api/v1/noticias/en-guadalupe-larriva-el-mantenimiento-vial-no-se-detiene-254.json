@@ -9,11 +9,11 @@
       "id": "d0a62602f17bef68",
       "hash": "d0a62602f17bef68029e3d76c142c7ef9241d8b5c1446722b5aaf2a12f92309a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG951.JPG",
-      "rutaOriginal": "/media/originales/d0a62602f17bef68.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849856/orellana-web/d0a62602f17bef68.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d0a62602f17bef68-400.webp",
-        "800w": "/media/derivados/d0a62602f17bef68-800.webp",
-        "1600w": "/media/derivados/d0a62602f17bef68-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849856/orellana-web/d0a62602f17bef68.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849856/orellana-web/d0a62602f17bef68.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849856/orellana-web/d0a62602f17bef68.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "En Guadalupe Larriva, el mantenimiento vial no se detiene",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/d0a62602f17bef68"
     },
     "url": "/noticia/254/",
     "fuente_url": "https://orellana.gob.ec/noticia/254/",
@@ -31,11 +32,11 @@
         "id": "d0a62602f17bef68",
         "hash": "d0a62602f17bef68029e3d76c142c7ef9241d8b5c1446722b5aaf2a12f92309a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18_IMG951.JPG",
-        "rutaOriginal": "/media/originales/d0a62602f17bef68.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849856/orellana-web/d0a62602f17bef68.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d0a62602f17bef68-400.webp",
-          "800w": "/media/derivados/d0a62602f17bef68-800.webp",
-          "1600w": "/media/derivados/d0a62602f17bef68-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849856/orellana-web/d0a62602f17bef68.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849856/orellana-web/d0a62602f17bef68.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849856/orellana-web/d0a62602f17bef68.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "En Guadalupe Larriva, el mantenimiento vial no se detiene",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/d0a62602f17bef68"
       }
     ]
   }

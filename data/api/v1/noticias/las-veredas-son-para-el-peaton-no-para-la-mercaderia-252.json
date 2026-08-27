@@ -9,11 +9,11 @@
       "id": "ca60db8e935392ab",
       "hash": "ca60db8e935392ab651dbe0225aadc7d34149b7362a62fc004ece8960ade1eb5",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG.JPG",
-      "rutaOriginal": "/media/originales/ca60db8e935392ab.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849861/orellana-web/ca60db8e935392ab.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ca60db8e935392ab-400.webp",
-        "800w": "/media/derivados/ca60db8e935392ab-800.webp",
-        "1600w": "/media/derivados/ca60db8e935392ab-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849861/orellana-web/ca60db8e935392ab.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849861/orellana-web/ca60db8e935392ab.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849861/orellana-web/ca60db8e935392ab.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Las veredas son para el peatón, no para la mercadería",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+      "cloudinaryPublicId": "orellana-web/ca60db8e935392ab"
     },
     "url": "/noticia/252/",
     "fuente_url": "https://orellana.gob.ec/noticia/252/",
@@ -31,11 +32,11 @@
         "id": "ca60db8e935392ab",
         "hash": "ca60db8e935392ab651dbe0225aadc7d34149b7362a62fc004ece8960ade1eb5",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG.JPG",
-        "rutaOriginal": "/media/originales/ca60db8e935392ab.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849861/orellana-web/ca60db8e935392ab.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ca60db8e935392ab-400.webp",
-          "800w": "/media/derivados/ca60db8e935392ab-800.webp",
-          "1600w": "/media/derivados/ca60db8e935392ab-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849861/orellana-web/ca60db8e935392ab.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849861/orellana-web/ca60db8e935392ab.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849861/orellana-web/ca60db8e935392ab.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Las veredas son para el peatón, no para la mercadería",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/ca60db8e935392ab"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "b219cb6392d8c920",
       "hash": "b219cb6392d8c92072631ad83d33b3aaea1ad5e1175d329d3e25d8b23e708672",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_8137.JPG",
-      "rutaOriginal": "/media/originales/b219cb6392d8c920.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851732/orellana-web/b219cb6392d8c920.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/b219cb6392d8c920-400.webp",
-        "800w": "/media/derivados/b219cb6392d8c920-800.webp",
-        "1600w": "/media/derivados/b219cb6392d8c920-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg"
       },
       "ancho": 2400,
       "alto": 1344,
@@ -21,7 +21,8 @@
       "alt": "Reconocimiento al compromiso y la vocación de servicio a trabajadores y empleados",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+      "cloudinaryPublicId": "orellana-web/b219cb6392d8c920"
     },
     "url": "/noticia/81/",
     "fuente_url": "https://orellana.gob.ec/noticia/81/",
@@ -31,11 +32,11 @@
         "id": "b219cb6392d8c920",
         "hash": "b219cb6392d8c92072631ad83d33b3aaea1ad5e1175d329d3e25d8b23e708672",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_8137.JPG",
-        "rutaOriginal": "/media/originales/b219cb6392d8c920.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851732/orellana-web/b219cb6392d8c920.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b219cb6392d8c920-400.webp",
-          "800w": "/media/derivados/b219cb6392d8c920-800.webp",
-          "1600w": "/media/derivados/b219cb6392d8c920-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg"
         },
         "ancho": 2400,
         "alto": 1344,
@@ -43,7 +44,8 @@
         "alt": "Reconocimiento al compromiso y la vocación de servicio a trabajadores y empleados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/b219cb6392d8c920"
       }
     ]
   }

@@ -9,11 +9,11 @@
       "id": "8624c725dd5fce4f",
       "hash": "8624c725dd5fce4fffc417fc3a2495697d193945da7dc48df6c231be8f6b76eb",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_5817.JPG",
-      "rutaOriginal": "/media/originales/8624c725dd5fce4f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8624c725dd5fce4f-400.webp",
-        "800w": "/media/derivados/8624c725dd5fce4f-800.webp",
-        "1600w": "/media/derivados/8624c725dd5fce4f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Concejo Municipal aprueba construcción de alcantarillado pluvial en barrios de El Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/8624c725dd5fce4f"
     },
     "url": "/noticia/67/",
     "fuente_url": "https://orellana.gob.ec/noticia/67/",
@@ -31,11 +32,11 @@
         "id": "8624c725dd5fce4f",
         "hash": "8624c725dd5fce4fffc417fc3a2495697d193945da7dc48df6c231be8f6b76eb",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_5817.JPG",
-        "rutaOriginal": "/media/originales/8624c725dd5fce4f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8624c725dd5fce4f-400.webp",
-          "800w": "/media/derivados/8624c725dd5fce4f-800.webp",
-          "1600w": "/media/derivados/8624c725dd5fce4f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851903/orellana-web/8624c725dd5fce4f.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Concejo Municipal aprueba construcción de alcantarillado pluvial en barrios de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/8624c725dd5fce4f"
       }
     ]
   }

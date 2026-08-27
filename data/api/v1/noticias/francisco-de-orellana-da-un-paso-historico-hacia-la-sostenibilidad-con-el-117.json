@@ -9,11 +9,11 @@
       "id": "ca1c80198fa32c3b",
       "hash": "ca1c80198fa32c3b1d2efbc5ece19850f7563b19ef69eb16c28dbd06dff74908",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_DJI0045.JPG",
-      "rutaOriginal": "/media/originales/ca1c80198fa32c3b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ca1c80198fa32c3b-400.webp",
-        "800w": "/media/derivados/ca1c80198fa32c3b-800.webp",
-        "1600w": "/media/derivados/ca1c80198fa32c3b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg"
       },
       "ancho": 4000,
       "alto": 2250,
@@ -21,7 +21,8 @@
       "alt": "Francisco de Orellana da un paso histórico hacia la sostenibilidad con el cierre técnico del antiguo botadero",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+      "cloudinaryPublicId": "orellana-web/ca1c80198fa32c3b"
     },
     "url": "/noticia/117/",
     "fuente_url": "https://orellana.gob.ec/noticia/117/",
@@ -31,11 +32,11 @@
         "id": "ca1c80198fa32c3b",
         "hash": "ca1c80198fa32c3b1d2efbc5ece19850f7563b19ef69eb16c28dbd06dff74908",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_DJI0045.JPG",
-        "rutaOriginal": "/media/originales/ca1c80198fa32c3b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ca1c80198fa32c3b-400.webp",
-          "800w": "/media/derivados/ca1c80198fa32c3b-800.webp",
-          "1600w": "/media/derivados/ca1c80198fa32c3b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851149/orellana-web/ca1c80198fa32c3b.jpg"
         },
         "ancho": 4000,
         "alto": 2250,
@@ -43,7 +44,8 @@
         "alt": "Francisco de Orellana da un paso histórico hacia la sostenibilidad con el cierre técnico del antiguo botadero",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/ca1c80198fa32c3b"
       }
     ]
   }

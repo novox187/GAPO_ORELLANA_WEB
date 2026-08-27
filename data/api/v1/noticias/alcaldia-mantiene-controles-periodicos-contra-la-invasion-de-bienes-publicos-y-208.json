@@ -9,11 +9,11 @@
       "id": "3478875ef38a5a85",
       "hash": "3478875ef38a5a8526544557ae5441ba104a585abe9a7491c905dc095b750fb2",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02.JPG",
-      "rutaOriginal": "/media/originales/3478875ef38a5a85.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850364/orellana-web/3478875ef38a5a85.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/3478875ef38a5a85-400.webp",
-        "800w": "/media/derivados/3478875ef38a5a85-800.webp",
-        "1600w": "/media/derivados/3478875ef38a5a85-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía mantiene controles periódicos contra la invasión de bienes públicos y privados",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/3478875ef38a5a85"
     },
     "url": "/noticia/208/",
     "fuente_url": "https://orellana.gob.ec/noticia/208/",
@@ -31,11 +32,11 @@
         "id": "3478875ef38a5a85",
         "hash": "3478875ef38a5a8526544557ae5441ba104a585abe9a7491c905dc095b750fb2",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/02.JPG",
-        "rutaOriginal": "/media/originales/3478875ef38a5a85.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850364/orellana-web/3478875ef38a5a85.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3478875ef38a5a85-400.webp",
-          "800w": "/media/derivados/3478875ef38a5a85-800.webp",
-          "1600w": "/media/derivados/3478875ef38a5a85-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850364/orellana-web/3478875ef38a5a85.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía mantiene controles periódicos contra la invasión de bienes públicos y privados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/3478875ef38a5a85"
       }
     ]
   }

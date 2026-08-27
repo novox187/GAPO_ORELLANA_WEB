@@ -46,17 +46,54 @@ responden 200). Dos variables de entorno no son opcionales:
    código que dependa de conocer su origen real — se comprobó con
    `grep` sobre todo `src/`. Si en el futuro se añade autenticación,
    pagos o cualquier cosa con estado, este punto hay que revisitarlo.
-2. **El volumen de medios.** `media/originales/` y `media/derivados/`
-   (2 GB) no están en git por peso (ver `.gitignore` y el README); un
-   `git clone` fresco —que es lo que hace Coolify— no los trae. El build
-   de Docker no falla por su ausencia: Vite simplemente no copia lo que
-   no encuentra, y la imagen queda servible pero sin fotografías. Hace
-   falta un volumen persistente de Coolify montado en
-   `/app/build/client/media`, poblado una vez con el contenido real de
-   `media/` (por ejemplo, `rsync`/`scp` desde donde se generó con
-   `tools/scraper`). El contenedor imprime un aviso en sus logs de
-   arranque si detecta que el volumen no está montado, para que esto no
-   se descubra por un reporte de "las fotos no cargan".
+2. **El volumen de medios ya no hace falta — las fotos salen de
+   Cloudinary.** `media/originales/` y `media/derivados/` (2 GB) no están
+   en git por peso (ver `.gitignore` y el README); un `git clone` fresco
+   —que es lo que hace Coolify— no los trae, y el build de Docker no
+   fallaba por su ausencia: Vite simplemente no copiaba lo que no
+   encontraba, y la imagen quedaba servible pero sin fotografías. En vez
+   de resolver esto con un volumen persistente (la opción obvia, y la que
+   se documentaba aquí antes), las 357 imágenes del catálogo se subieron
+   a Cloudinary una sola vez con `tools/cloudinary/` — ver esa sección más
+   abajo. El contenedor sigue imprimiendo un aviso en sus logs de arranque
+   si detecta `media/originales` vacío, por si en el futuro se añade
+   contenido que no pase por Cloudinary.
+
+### Imágenes en Cloudinary (`tools/cloudinary/`)
+
+Las 357 fotografías y logos del catálogo (`media/manifest.json`) viven en
+Cloudinary, no en el servidor. `rutaOriginal` y `rutaDerivados` en
+`data/api/v1/**/*.json` son URLs absolutas de Cloudinary — mismos nombres
+de campo que antes, así que `img()` en `api.ts` y todos los componentes
+`.svelte` no cambiaron ni una línea. Cada objeto de medio también lleva
+`cloudinaryPublicId`, sin consumidor todavía; queda para administrar o
+volver a transformar el activo sin recuperar el id a mano.
+
+Cómo se hizo, para repetirlo si hace falta (nueva sección del sitio,
+recuperación de un fallo, etc.):
+
+1. `tools/cloudinary/subir.py` sube `media/originales/` a Cloudinary y
+   deja el mapa id → URL en `media/cloudinary.json`. Reanudable: escribe
+   el mapa después de cada subida, así que interrumpirlo no pierde
+   progreso.
+2. `tools/cloudinary/reescribir.py` recorre `data/api/v1/**/*.json`,
+   `media/manifest.json` y los seis literales de `secciones.ts`,
+   sustituyendo cada ruta local por su URL de Cloudinary. Las variantes de
+   400/800/1600 px no se suben aparte: se piden por URL con
+   `w_<ancho>,f_auto,q_auto` insertado antes del `public_id`, y Cloudinary
+   las genera al vuelo.
+3. Credenciales en `tools/cloudinary/.env` (no versionado), nunca en el
+   código ni en el chat.
+
+**Límite de 10 MB del plan gratuito.** 64 de las 357 fotos —capturas de
+cámara de hasta 7000 px de lado— superaban el límite de subida del plan
+gratuito de Cloudinary (10.485.760 bytes exactos; el error de la propia
+API lo confirma byte a byte). `subir.py` las reescala antes de subir
+(lado máximo 2400 px, re-encoded a JPEG calidad 90, bajando si hiciera
+falta) — no es un recorte forzado por el límite: el sitio nunca sirve
+nada a más de 1600 px, así que subir el original de 20 megapíxeles sin
+tocar habría sido peso muerto de todos modos. El reescalado sólo afecta
+al archivo que se sube; `media/originales/` (el máster) no se toca.
 
 ## Backend — Laravel
 

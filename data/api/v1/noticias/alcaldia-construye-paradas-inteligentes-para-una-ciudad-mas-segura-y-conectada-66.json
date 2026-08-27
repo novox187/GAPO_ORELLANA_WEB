@@ -9,11 +9,11 @@
       "id": "c8f17f2ce84d14fc",
       "hash": "c8f17f2ce84d14fce90c5e6192718b1168c72c6583a18c5f3f436b55a78e4c61",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_6309.JPG",
-      "rutaOriginal": "/media/originales/c8f17f2ce84d14fc.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c8f17f2ce84d14fc-400.webp",
-        "800w": "/media/derivados/c8f17f2ce84d14fc-800.webp",
-        "1600w": "/media/derivados/c8f17f2ce84d14fc-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía construye paradas inteligentes para una ciudad más segura y conectada",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/c8f17f2ce84d14fc"
     },
     "url": "/noticia/66/",
     "fuente_url": "https://orellana.gob.ec/noticia/66/",
@@ -31,11 +32,11 @@
         "id": "c8f17f2ce84d14fc",
         "hash": "c8f17f2ce84d14fce90c5e6192718b1168c72c6583a18c5f3f436b55a78e4c61",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_6309.JPG",
-        "rutaOriginal": "/media/originales/c8f17f2ce84d14fc.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c8f17f2ce84d14fc-400.webp",
-          "800w": "/media/derivados/c8f17f2ce84d14fc-800.webp",
-          "1600w": "/media/derivados/c8f17f2ce84d14fc-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851906/orellana-web/c8f17f2ce84d14fc.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía construye paradas inteligentes para una ciudad más segura y conectada",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/c8f17f2ce84d14fc"
       }
     ]
   }

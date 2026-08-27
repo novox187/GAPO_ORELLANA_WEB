@@ -9,10 +9,11 @@
       "id": "4496c5b7b3c83b7c",
       "hash": "4496c5b7b3c83b7cad4fdb5c8abf7703afd1121cca3c49c9e1d2cf449ce0dd80",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_ESTUDIANTES_ESPOCH.png",
-      "rutaOriginal": "/media/originales/4496c5b7b3c83b7c.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852245/orellana-web/4496c5b7b3c83b7c.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/4496c5b7b3c83b7c-400.webp",
-        "800w": "/media/derivados/4496c5b7b3c83b7c-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852245/orellana-web/4496c5b7b3c83b7c.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852245/orellana-web/4496c5b7b3c83b7c.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852245/orellana-web/4496c5b7b3c83b7c.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+      "cloudinaryPublicId": "orellana-web/4496c5b7b3c83b7c"
     },
     "url": "/noticia/27/",
     "fuente_url": "https://orellana.gob.ec/noticia/27/",
@@ -30,10 +32,11 @@
         "id": "4496c5b7b3c83b7c",
         "hash": "4496c5b7b3c83b7cad4fdb5c8abf7703afd1121cca3c49c9e1d2cf449ce0dd80",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/31_ESTUDIANTES_ESPOCH.png",
-        "rutaOriginal": "/media/originales/4496c5b7b3c83b7c.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852245/orellana-web/4496c5b7b3c83b7c.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/4496c5b7b3c83b7c-400.webp",
-          "800w": "/media/derivados/4496c5b7b3c83b7c-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852245/orellana-web/4496c5b7b3c83b7c.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852245/orellana-web/4496c5b7b3c83b7c.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852245/orellana-web/4496c5b7b3c83b7c.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+        "cloudinaryPublicId": "orellana-web/4496c5b7b3c83b7c"
       }
     ]
   }

@@ -10,11 +10,11 @@
         "id": "0c363a2917e2ac83",
         "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
-        "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
-          "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
-          "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/0c363a2917e2ac83"
       },
       "url": "/noticia/198/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -37,11 +38,11 @@
         "id": "9f0888ec2f2039f7",
         "hash": "9f0888ec2f2039f7115ef6f8879d76822a43b0c39373de5e347801902e0fa1d3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17.JPG",
-        "rutaOriginal": "/media/originales/9f0888ec2f2039f7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850520/orellana-web/9f0888ec2f2039f7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9f0888ec2f2039f7-400.webp",
-          "800w": "/media/derivados/9f0888ec2f2039f7-800.webp",
-          "1600w": "/media/derivados/9f0888ec2f2039f7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850520/orellana-web/9f0888ec2f2039f7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850520/orellana-web/9f0888ec2f2039f7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850520/orellana-web/9f0888ec2f2039f7.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Operativos de control para mantener espacios públicos seguros",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/9f0888ec2f2039f7"
       },
       "url": "/noticia/197/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -64,11 +66,11 @@
         "id": "0c363a2917e2ac83",
         "hash": "0c363a2917e2ac8313978c80c386cedc8ae6af9631989ad1f69eab036df76470",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/18.JPG",
-        "rutaOriginal": "/media/originales/0c363a2917e2ac83.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0c363a2917e2ac83-400.webp",
-          "800w": "/media/derivados/0c363a2917e2ac83-800.webp",
-          "1600w": "/media/derivados/0c363a2917e2ac83-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850517/orellana-web/0c363a2917e2ac83.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Alcaldía impulsa el empleo local con la socialización de la Ordenanza de Empleo Preferente",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/0c363a2917e2ac83"
       },
       "url": "/noticia/196/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -91,11 +94,11 @@
         "id": "f72254baf146cb4f",
         "hash": "f72254baf146cb4f961a8a95fe16ca525e27f9b41e906a7028ff6f2329bfc300",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_rbyAvod.JPG",
-        "rutaOriginal": "/media/originales/f72254baf146cb4f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850524/orellana-web/f72254baf146cb4f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/f72254baf146cb4f-400.webp",
-          "800w": "/media/derivados/f72254baf146cb4f-800.webp",
-          "1600w": "/media/derivados/f72254baf146cb4f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850524/orellana-web/f72254baf146cb4f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Operativos de control de vehículos mal estacionados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/f72254baf146cb4f"
       },
       "url": "/noticia/195/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -118,11 +122,11 @@
         "id": "b04672867789b9f0",
         "hash": "b04672867789b9f00fa52e3e190d0900e3a02cb0629df201a86355f0a544c639",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12.JPG",
-        "rutaOriginal": "/media/originales/b04672867789b9f0.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850527/orellana-web/b04672867789b9f0.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b04672867789b9f0-400.webp",
-          "800w": "/media/derivados/b04672867789b9f0-800.webp",
-          "1600w": "/media/derivados/b04672867789b9f0-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850527/orellana-web/b04672867789b9f0.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850527/orellana-web/b04672867789b9f0.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850527/orellana-web/b04672867789b9f0.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -130,7 +134,8 @@
         "alt": "La Alcaldía actúa con firmeza y compromiso ante la emergencia vial en San José de Guayusa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/b04672867789b9f0"
       },
       "url": "/noticia/194/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -145,11 +150,11 @@
         "id": "be62d6d4406191d8",
         "hash": "be62d6d4406191d8209b1ac7f470e18f15974dda1d34cbd6a2ed1d2373321b40",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.JPG",
-        "rutaOriginal": "/media/originales/be62d6d4406191d8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852638/orellana-web/be62d6d4406191d8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/be62d6d4406191d8-400.webp",
-          "800w": "/media/derivados/be62d6d4406191d8-800.webp",
-          "1600w": "/media/derivados/be62d6d4406191d8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -157,7 +162,8 @@
         "alt": "Alcaldía realiza Limpieza de drenajes en el barrio Nuevo Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/be62d6d4406191d8"
       },
       "url": "/noticia/193/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -172,11 +178,11 @@
         "id": "74eac1bf699d01df",
         "hash": "74eac1bf699d01dfda3ca8313a24373cb5ec2eb3afa8924f5826e59924923398",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_qbqtTpG.JPG",
-        "rutaOriginal": "/media/originales/74eac1bf699d01df.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850535/orellana-web/74eac1bf699d01df.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/74eac1bf699d01df-400.webp",
-          "800w": "/media/derivados/74eac1bf699d01df-800.webp",
-          "1600w": "/media/derivados/74eac1bf699d01df-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -184,7 +190,8 @@
         "alt": "La Alcaldía impulsa inclusión y bienestar en la ruralidad junto a COCAPRODE",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/74eac1bf699d01df"
       },
       "url": "/noticia/192/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -199,11 +206,11 @@
         "id": "d862857412302923",
         "hash": "d862857412302923bb60e933ffb576c52ae1dd5ef51fadd9480b2203b6439e13",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07.JPG",
-        "rutaOriginal": "/media/originales/d862857412302923.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850539/orellana-web/d862857412302923.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d862857412302923-400.webp",
-          "800w": "/media/derivados/d862857412302923-800.webp",
-          "1600w": "/media/derivados/d862857412302923-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "Capacitación a personas con discapacidad en participación ciudadana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/d862857412302923"
       },
       "url": "/noticia/191/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"
@@ -226,11 +234,11 @@
         "id": "831825ea036f004d",
         "hash": "831825ea036f004d59a29785348f5507391889f6698bc2dc62e2b7a4235d8122",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_FmC0Szl.JPG",
-        "rutaOriginal": "/media/originales/831825ea036f004d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852640/orellana-web/831825ea036f004d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/831825ea036f004d-400.webp",
-          "800w": "/media/derivados/831825ea036f004d-800.webp",
-          "1600w": "/media/derivados/831825ea036f004d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852640/orellana-web/831825ea036f004d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852640/orellana-web/831825ea036f004d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852640/orellana-web/831825ea036f004d.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -238,7 +246,8 @@
         "alt": "Alcaldía realiza trabajos de mejoras en avenida Alejandro Labaka",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/831825ea036f004d"
       },
       "url": "/noticia/190/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=11"

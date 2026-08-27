@@ -9,11 +9,11 @@
       "id": "618acdd1d8ec345e",
       "hash": "618acdd1d8ec345e369297ff95e2351acfdfa7a74cfb6855803600cf45ddc4b3",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_zNg6D5n.JPG",
-      "rutaOriginal": "/media/originales/618acdd1d8ec345e.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852635/orellana-web/618acdd1d8ec345e.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/618acdd1d8ec345e-400.webp",
-        "800w": "/media/derivados/618acdd1d8ec345e-800.webp",
-        "1600w": "/media/derivados/618acdd1d8ec345e-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852635/orellana-web/618acdd1d8ec345e.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852635/orellana-web/618acdd1d8ec345e.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852635/orellana-web/618acdd1d8ec345e.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "El Coca avanza: nueva bahía de estacionamiento impulsa orden, modernidad y progreso para todos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+      "cloudinaryPublicId": "orellana-web/618acdd1d8ec345e"
     },
     "url": "/noticia/200/",
     "fuente_url": "https://orellana.gob.ec/noticia/200/",
@@ -31,11 +32,11 @@
         "id": "618acdd1d8ec345e",
         "hash": "618acdd1d8ec345e369297ff95e2351acfdfa7a74cfb6855803600cf45ddc4b3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_zNg6D5n.JPG",
-        "rutaOriginal": "/media/originales/618acdd1d8ec345e.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852635/orellana-web/618acdd1d8ec345e.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/618acdd1d8ec345e-400.webp",
-          "800w": "/media/derivados/618acdd1d8ec345e-800.webp",
-          "1600w": "/media/derivados/618acdd1d8ec345e-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852635/orellana-web/618acdd1d8ec345e.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852635/orellana-web/618acdd1d8ec345e.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852635/orellana-web/618acdd1d8ec345e.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "El Coca avanza: nueva bahía de estacionamiento impulsa orden, modernidad y progreso para todos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+        "cloudinaryPublicId": "orellana-web/618acdd1d8ec345e"
       }
     ]
   }

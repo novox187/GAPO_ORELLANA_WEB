@@ -9,11 +9,11 @@
       "id": "8bf55d5f87602448",
       "hash": "8bf55d5f87602448541dc12939d4a3085fe52d9a1b5f719eda8b3fc74704d60d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_2542.JPG",
-      "rutaOriginal": "/media/originales/8bf55d5f87602448.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851968/orellana-web/8bf55d5f87602448.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8bf55d5f87602448-400.webp",
-        "800w": "/media/derivados/8bf55d5f87602448-800.webp",
-        "1600w": "/media/derivados/8bf55d5f87602448-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Concejo Municipal aprueba ordenanza que regula la remisión de intereses, multas y recargos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/8bf55d5f87602448"
     },
     "url": "/noticia/44/",
     "fuente_url": "https://orellana.gob.ec/noticia/44/",
@@ -31,11 +32,11 @@
         "id": "8bf55d5f87602448",
         "hash": "8bf55d5f87602448541dc12939d4a3085fe52d9a1b5f719eda8b3fc74704d60d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_IMG_2542.JPG",
-        "rutaOriginal": "/media/originales/8bf55d5f87602448.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851968/orellana-web/8bf55d5f87602448.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8bf55d5f87602448-400.webp",
-          "800w": "/media/derivados/8bf55d5f87602448-800.webp",
-          "1600w": "/media/derivados/8bf55d5f87602448-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851968/orellana-web/8bf55d5f87602448.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Concejo Municipal aprueba ordenanza que regula la remisión de intereses, multas y recargos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/8bf55d5f87602448"
       }
     ]
   }

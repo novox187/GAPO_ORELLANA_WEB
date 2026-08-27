@@ -9,11 +9,11 @@
       "id": "1b604c1fbb852e3f",
       "hash": "1b604c1fbb852e3fc0a5e4de2f81e1343907e0547ce5fdbb15504a72cc1492fa",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG8340.JPG",
-      "rutaOriginal": "/media/originales/1b604c1fbb852e3f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/1b604c1fbb852e3f-400.webp",
-        "800w": "/media/derivados/1b604c1fbb852e3f-800.webp",
-        "1600w": "/media/derivados/1b604c1fbb852e3f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldesa Shirma Cortés llega a la zona rural con apoyo a familias en situación de vulnerabilidad",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+      "cloudinaryPublicId": "orellana-web/1b604c1fbb852e3f"
     },
     "url": "/noticia/166/",
     "fuente_url": "https://orellana.gob.ec/noticia/166/",
@@ -31,11 +32,11 @@
         "id": "1b604c1fbb852e3f",
         "hash": "1b604c1fbb852e3fc0a5e4de2f81e1343907e0547ce5fdbb15504a72cc1492fa",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG8340.JPG",
-        "rutaOriginal": "/media/originales/1b604c1fbb852e3f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1b604c1fbb852e3f-400.webp",
-          "800w": "/media/derivados/1b604c1fbb852e3f-800.webp",
-          "1600w": "/media/derivados/1b604c1fbb852e3f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850636/orellana-web/1b604c1fbb852e3f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldesa Shirma Cortés llega a la zona rural con apoyo a familias en situación de vulnerabilidad",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=14",
+        "cloudinaryPublicId": "orellana-web/1b604c1fbb852e3f"
       }
     ]
   }

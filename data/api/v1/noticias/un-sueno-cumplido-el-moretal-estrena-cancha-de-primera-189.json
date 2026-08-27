@@ -9,11 +9,11 @@
       "id": "411280e81510479b",
       "hash": "411280e81510479b955dd1a27c1d9d1ed7a9babbd9030310a53443b26b627eed",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05.jpg",
-      "rutaOriginal": "/media/originales/411280e81510479b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850548/orellana-web/411280e81510479b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/411280e81510479b-400.webp",
-        "800w": "/media/derivados/411280e81510479b-800.webp",
-        "1600w": "/media/derivados/411280e81510479b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850548/orellana-web/411280e81510479b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850548/orellana-web/411280e81510479b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850548/orellana-web/411280e81510479b.jpg"
       },
       "ancho": 5472,
       "alto": 3648,
@@ -21,7 +21,8 @@
       "alt": "Un sueño cumplido: El Moretal estrena cancha de primera",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+      "cloudinaryPublicId": "orellana-web/411280e81510479b"
     },
     "url": "/noticia/189/",
     "fuente_url": "https://orellana.gob.ec/noticia/189/",
@@ -31,11 +32,11 @@
         "id": "411280e81510479b",
         "hash": "411280e81510479b955dd1a27c1d9d1ed7a9babbd9030310a53443b26b627eed",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05.jpg",
-        "rutaOriginal": "/media/originales/411280e81510479b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850548/orellana-web/411280e81510479b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/411280e81510479b-400.webp",
-          "800w": "/media/derivados/411280e81510479b-800.webp",
-          "1600w": "/media/derivados/411280e81510479b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850548/orellana-web/411280e81510479b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850548/orellana-web/411280e81510479b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850548/orellana-web/411280e81510479b.jpg"
         },
         "ancho": 5472,
         "alto": 3648,
@@ -43,7 +44,8 @@
         "alt": "Un sueño cumplido: El Moretal estrena cancha de primera",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+        "cloudinaryPublicId": "orellana-web/411280e81510479b"
       }
     ]
   }

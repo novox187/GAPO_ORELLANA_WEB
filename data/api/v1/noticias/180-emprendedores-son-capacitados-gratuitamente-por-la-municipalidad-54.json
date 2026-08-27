@@ -9,11 +9,11 @@
       "id": "99cd81b1713c0ad0",
       "hash": "99cd81b1713c0ad04e451762d75e616163df278998807577736501f061e41c12",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_3550.JPG",
-      "rutaOriginal": "/media/originales/99cd81b1713c0ad0.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851940/orellana-web/99cd81b1713c0ad0.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/99cd81b1713c0ad0-400.webp",
-        "800w": "/media/derivados/99cd81b1713c0ad0-800.webp",
-        "1600w": "/media/derivados/99cd81b1713c0ad0-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851940/orellana-web/99cd81b1713c0ad0.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851940/orellana-web/99cd81b1713c0ad0.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851940/orellana-web/99cd81b1713c0ad0.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "180 emprendedores son capacitados gratuitamente por la municipalidad",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+      "cloudinaryPublicId": "orellana-web/99cd81b1713c0ad0"
     },
     "url": "/noticia/54/",
     "fuente_url": "https://orellana.gob.ec/noticia/54/",
@@ -31,11 +32,11 @@
         "id": "99cd81b1713c0ad0",
         "hash": "99cd81b1713c0ad04e451762d75e616163df278998807577736501f061e41c12",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_3550.JPG",
-        "rutaOriginal": "/media/originales/99cd81b1713c0ad0.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851940/orellana-web/99cd81b1713c0ad0.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/99cd81b1713c0ad0-400.webp",
-          "800w": "/media/derivados/99cd81b1713c0ad0-800.webp",
-          "1600w": "/media/derivados/99cd81b1713c0ad0-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851940/orellana-web/99cd81b1713c0ad0.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851940/orellana-web/99cd81b1713c0ad0.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851940/orellana-web/99cd81b1713c0ad0.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "180 emprendedores son capacitados gratuitamente por la municipalidad",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+        "cloudinaryPublicId": "orellana-web/99cd81b1713c0ad0"
       }
     ]
   }

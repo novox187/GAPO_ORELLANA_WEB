@@ -9,11 +9,11 @@
       "id": "74eac1bf699d01df",
       "hash": "74eac1bf699d01dfda3ca8313a24373cb5ec2eb3afa8924f5826e59924923398",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_qbqtTpG.JPG",
-      "rutaOriginal": "/media/originales/74eac1bf699d01df.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850535/orellana-web/74eac1bf699d01df.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/74eac1bf699d01df-400.webp",
-        "800w": "/media/derivados/74eac1bf699d01df-800.webp",
-        "1600w": "/media/derivados/74eac1bf699d01df-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "La Alcaldía impulsa inclusión y bienestar en la ruralidad junto a COCAPRODE",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+      "cloudinaryPublicId": "orellana-web/74eac1bf699d01df"
     },
     "url": "/noticia/163/",
     "fuente_url": "https://orellana.gob.ec/noticia/163/",
@@ -31,11 +32,11 @@
         "id": "74eac1bf699d01df",
         "hash": "74eac1bf699d01dfda3ca8313a24373cb5ec2eb3afa8924f5826e59924923398",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_qbqtTpG.JPG",
-        "rutaOriginal": "/media/originales/74eac1bf699d01df.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850535/orellana-web/74eac1bf699d01df.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/74eac1bf699d01df-400.webp",
-          "800w": "/media/derivados/74eac1bf699d01df-800.webp",
-          "1600w": "/media/derivados/74eac1bf699d01df-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850535/orellana-web/74eac1bf699d01df.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "La Alcaldía impulsa inclusión y bienestar en la ruralidad junto a COCAPRODE",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/74eac1bf699d01df"
       }
     ]
   }

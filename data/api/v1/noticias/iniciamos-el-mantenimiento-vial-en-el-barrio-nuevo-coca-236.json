@@ -9,11 +9,11 @@
       "id": "41e434a636031a7a",
       "hash": "41e434a636031a7a02a75eb7ad34a7df684e25acf86342c6ca0b86af33b4ee9b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG_3935.JPG",
-      "rutaOriginal": "/media/originales/41e434a636031a7a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852619/orellana-web/41e434a636031a7a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/41e434a636031a7a-400.webp",
-        "800w": "/media/derivados/41e434a636031a7a-800.webp",
-        "1600w": "/media/derivados/41e434a636031a7a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Iniciamos el mantenimiento vial en el barrio Nuevo Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/41e434a636031a7a"
     },
     "url": "/noticia/236/",
     "fuente_url": "https://orellana.gob.ec/noticia/236/",
@@ -31,11 +32,11 @@
         "id": "41e434a636031a7a",
         "hash": "41e434a636031a7a02a75eb7ad34a7df684e25acf86342c6ca0b86af33b4ee9b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG_3935.JPG",
-        "rutaOriginal": "/media/originales/41e434a636031a7a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852619/orellana-web/41e434a636031a7a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/41e434a636031a7a-400.webp",
-          "800w": "/media/derivados/41e434a636031a7a-800.webp",
-          "1600w": "/media/derivados/41e434a636031a7a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852619/orellana-web/41e434a636031a7a.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Iniciamos el mantenimiento vial en el barrio Nuevo Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/41e434a636031a7a"
       }
     ]
   }

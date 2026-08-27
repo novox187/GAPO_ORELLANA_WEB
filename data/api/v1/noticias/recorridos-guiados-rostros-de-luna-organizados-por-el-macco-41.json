@@ -9,11 +9,11 @@
       "id": "035194099381d7a2",
       "hash": "035194099381d7a2d0579aaed1c9f0483fd281b25f6d93f30796916a23bff95a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_2450.JPG",
-      "rutaOriginal": "/media/originales/035194099381d7a2.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851975/orellana-web/035194099381d7a2.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/035194099381d7a2-400.webp",
-        "800w": "/media/derivados/035194099381d7a2-800.webp",
-        "1600w": "/media/derivados/035194099381d7a2-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Recorridos guiados \"Rostros de Luna\" organizados por el MACCO",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/035194099381d7a2"
     },
     "url": "/noticia/41/",
     "fuente_url": "https://orellana.gob.ec/noticia/41/",
@@ -31,11 +32,11 @@
         "id": "035194099381d7a2",
         "hash": "035194099381d7a2d0579aaed1c9f0483fd281b25f6d93f30796916a23bff95a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_IMG_2450.JPG",
-        "rutaOriginal": "/media/originales/035194099381d7a2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851975/orellana-web/035194099381d7a2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/035194099381d7a2-400.webp",
-          "800w": "/media/derivados/035194099381d7a2-800.webp",
-          "1600w": "/media/derivados/035194099381d7a2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851975/orellana-web/035194099381d7a2.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Recorridos guiados \"Rostros de Luna\" organizados por el MACCO",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/035194099381d7a2"
       }
     ]
   }

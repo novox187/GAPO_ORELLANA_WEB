@@ -68,9 +68,11 @@
         "id": "a5db66281ab7c839",
         "hash": "a5db66281ab7c839ac4fee48ae33cec3fc2b9e1f75f7e287fc641ae438f56a9f",
         "urlOriginal": "https://orellana.gob.ec/static/img/ALCALDESA.jpg",
-        "rutaOriginal": "/media/originales/a5db66281ab7c839.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848711/orellana-web/a5db66281ab7c839.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a5db66281ab7c839-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848711/orellana-web/a5db66281ab7c839.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848711/orellana-web/a5db66281ab7c839.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848711/orellana-web/a5db66281ab7c839.jpg"
         },
         "ancho": 562,
         "alto": 563,
@@ -78,31 +80,37 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/alcaldia/"
+        "fuenteUrl": "https://orellana.gob.ec/alcaldia/",
+        "cloudinaryPublicId": "orellana-web/a5db66281ab7c839"
       },
       {
         "id": "d1824b32f3b79542",
         "hash": "d1824b32f3b79542f5ab1c3fd591286054dff6b57e11d16b6b9fd4b20d7a25cb",
         "urlOriginal": "https://orellana.gob.ec/static/img/principios.jpg",
-        "rutaOriginal": "/media/originales/d1824b32f3b79542.jpg",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848713/orellana-web/d1824b32f3b79542.jpg",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848713/orellana-web/d1824b32f3b79542.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848713/orellana-web/d1824b32f3b79542.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848713/orellana-web/d1824b32f3b79542.jpg"
+        },
         "ancho": 385,
         "alto": 481,
         "bytes": 194997,
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/alcaldia/"
+        "fuenteUrl": "https://orellana.gob.ec/alcaldia/",
+        "cloudinaryPublicId": "orellana-web/d1824b32f3b79542"
       },
       {
         "id": "90420251ee4ede30",
         "hash": "90420251ee4ede30ce6166df5cf7dca9b7ad9308b8f9d95448812b6cb553cc61",
         "urlOriginal": "https://orellana.gob.ec/static/img/mision.jpg",
-        "rutaOriginal": "/media/originales/90420251ee4ede30.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848715/orellana-web/90420251ee4ede30.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/90420251ee4ede30-400.webp",
-          "800w": "/media/derivados/90420251ee4ede30-800.webp",
-          "1600w": "/media/derivados/90420251ee4ede30-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848715/orellana-web/90420251ee4ede30.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848715/orellana-web/90420251ee4ede30.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848715/orellana-web/90420251ee4ede30.jpg"
         },
         "ancho": 3152,
         "alto": 4000,
@@ -110,21 +118,27 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/alcaldia/"
+        "fuenteUrl": "https://orellana.gob.ec/alcaldia/",
+        "cloudinaryPublicId": "orellana-web/90420251ee4ede30"
       },
       {
         "id": "98d2d1b60a5670c5",
         "hash": "98d2d1b60a5670c5b3ee825d45f2b4cc91aef4a934ad2aa3e00f4b20eb1bab14",
         "urlOriginal": "https://orellana.gob.ec/static/img/vision.jpg",
-        "rutaOriginal": "/media/originales/98d2d1b60a5670c5.jpg",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787848722/orellana-web/98d2d1b60a5670c5.jpg",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787848722/orellana-web/98d2d1b60a5670c5.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787848722/orellana-web/98d2d1b60a5670c5.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787848722/orellana-web/98d2d1b60a5670c5.jpg"
+        },
         "ancho": 385,
         "alto": 481,
         "bytes": 143040,
         "alt": "",
         "altPendiente": true,
         "seccion": "institucional",
-        "fuenteUrl": "https://orellana.gob.ec/alcaldia/"
+        "fuenteUrl": "https://orellana.gob.ec/alcaldia/",
+        "cloudinaryPublicId": "orellana-web/98d2d1b60a5670c5"
       }
     ],
     "documentos": [],

@@ -9,11 +9,11 @@
       "id": "10d180f51e9ce937",
       "hash": "10d180f51e9ce9378c9a7fb9270745b17d3e02ba667545cf8fad00d03a7f8c79",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG7129.JPG",
-      "rutaOriginal": "/media/originales/10d180f51e9ce937.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850868/orellana-web/10d180f51e9ce937.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/10d180f51e9ce937-400.webp",
-        "800w": "/media/derivados/10d180f51e9ce937-800.webp",
-        "1600w": "/media/derivados/10d180f51e9ce937-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850868/orellana-web/10d180f51e9ce937.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850868/orellana-web/10d180f51e9ce937.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850868/orellana-web/10d180f51e9ce937.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "¡Por un futuro limpio y seguro! Alcaldía refuerza el control ambiental en beneficio de todos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+      "cloudinaryPublicId": "orellana-web/10d180f51e9ce937"
     },
     "url": "/noticia/145/",
     "fuente_url": "https://orellana.gob.ec/noticia/145/",
@@ -31,11 +32,11 @@
         "id": "10d180f51e9ce937",
         "hash": "10d180f51e9ce9378c9a7fb9270745b17d3e02ba667545cf8fad00d03a7f8c79",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_IMG7129.JPG",
-        "rutaOriginal": "/media/originales/10d180f51e9ce937.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850868/orellana-web/10d180f51e9ce937.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/10d180f51e9ce937-400.webp",
-          "800w": "/media/derivados/10d180f51e9ce937-800.webp",
-          "1600w": "/media/derivados/10d180f51e9ce937-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850868/orellana-web/10d180f51e9ce937.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850868/orellana-web/10d180f51e9ce937.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850868/orellana-web/10d180f51e9ce937.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "¡Por un futuro limpio y seguro! Alcaldía refuerza el control ambiental en beneficio de todos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=16",
+        "cloudinaryPublicId": "orellana-web/10d180f51e9ce937"
       }
     ]
   }

@@ -9,10 +9,11 @@
       "id": "8a1f37d578c5837f",
       "hash": "8a1f37d578c5837ff13692cc1531ea90a20fa87d12ea93204ddf14a477233901",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_CORTE_Y_CONFECCION.png",
-      "rutaOriginal": "/media/originales/8a1f37d578c5837f.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852386/orellana-web/8a1f37d578c5837f.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/8a1f37d578c5837f-400.webp",
-        "800w": "/media/derivados/8a1f37d578c5837f-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+      "cloudinaryPublicId": "orellana-web/8a1f37d578c5837f"
     },
     "url": "/noticia/16/",
     "fuente_url": "https://orellana.gob.ec/noticia/16/",
@@ -30,10 +32,11 @@
         "id": "8a1f37d578c5837f",
         "hash": "8a1f37d578c5837ff13692cc1531ea90a20fa87d12ea93204ddf14a477233901",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_CORTE_Y_CONFECCION.png",
-        "rutaOriginal": "/media/originales/8a1f37d578c5837f.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852386/orellana-web/8a1f37d578c5837f.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/8a1f37d578c5837f-400.webp",
-          "800w": "/media/derivados/8a1f37d578c5837f-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/8a1f37d578c5837f"
       }
     ]
   }

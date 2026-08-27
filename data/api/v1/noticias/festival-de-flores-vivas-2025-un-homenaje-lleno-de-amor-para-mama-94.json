@@ -9,11 +9,11 @@
       "id": "faac000f95a67291",
       "hash": "faac000f95a672910c4a1483e5bf1fe7339fd41c5514bb72e505b6deed8068a0",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_1_IMG_7583.JPG",
-      "rutaOriginal": "/media/originales/faac000f95a67291.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851334/orellana-web/faac000f95a67291.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/faac000f95a67291-400.webp",
-        "800w": "/media/derivados/faac000f95a67291-800.webp",
-        "1600w": "/media/derivados/faac000f95a67291-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Festival de flores vivas 2025: un homenaje lleno de amor para Mamá",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+      "cloudinaryPublicId": "orellana-web/faac000f95a67291"
     },
     "url": "/noticia/94/",
     "fuente_url": "https://orellana.gob.ec/noticia/94/",
@@ -31,11 +32,11 @@
         "id": "faac000f95a67291",
         "hash": "faac000f95a672910c4a1483e5bf1fe7339fd41c5514bb72e505b6deed8068a0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_1_IMG_7583.JPG",
-        "rutaOriginal": "/media/originales/faac000f95a67291.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851334/orellana-web/faac000f95a67291.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/faac000f95a67291-400.webp",
-          "800w": "/media/derivados/faac000f95a67291-800.webp",
-          "1600w": "/media/derivados/faac000f95a67291-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851334/orellana-web/faac000f95a67291.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Festival de flores vivas 2025: un homenaje lleno de amor para Mamá",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/faac000f95a67291"
       }
     ]
   }

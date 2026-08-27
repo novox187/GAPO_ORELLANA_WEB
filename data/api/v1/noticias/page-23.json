@@ -10,11 +10,11 @@
         "id": "0265d14b9470d845",
         "hash": "0265d14b9470d845992cc3f6b3f6dab510398952793ea5109c0fba2068a0e4db",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_1_IMG_3661.JPG",
-        "rutaOriginal": "/media/originales/0265d14b9470d845.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851347/orellana-web/0265d14b9470d845.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/0265d14b9470d845-400.webp",
-          "800w": "/media/derivados/0265d14b9470d845-800.webp",
-          "1600w": "/media/derivados/0265d14b9470d845-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851347/orellana-web/0265d14b9470d845.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Alcaldía promueve el deporte en la niñez y juventud con escuelas de fútbol y básquet",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/0265d14b9470d845"
       },
       "url": "/noticia/89/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -37,11 +38,11 @@
         "id": "328629b26cbc5afa",
         "hash": "328629b26cbc5afae103284bcfd631f5ce94808482f3bb298d9842518802c6ae",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_IMGN_1063.JPG",
-        "rutaOriginal": "/media/originales/328629b26cbc5afa.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851351/orellana-web/328629b26cbc5afa.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/328629b26cbc5afa-400.webp",
-          "800w": "/media/derivados/328629b26cbc5afa-800.webp",
-          "1600w": "/media/derivados/328629b26cbc5afa-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851351/orellana-web/328629b26cbc5afa.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Alcaldía adquiere un moderno camión refrigerador de transporte de productos cárnicos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/328629b26cbc5afa"
       },
       "url": "/noticia/88/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -64,11 +66,11 @@
         "id": "e23abfa496fa47ab",
         "hash": "e23abfa496fa47abb0de683366621935a3b3e4425284e648a49f758c3a4b85c6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2290.JPG",
-        "rutaOriginal": "/media/originales/e23abfa496fa47ab.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e23abfa496fa47ab-400.webp",
-          "800w": "/media/derivados/e23abfa496fa47ab-800.webp",
-          "1600w": "/media/derivados/e23abfa496fa47ab-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851595/orellana-web/e23abfa496fa47ab.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "¡Gran avance! La cancha de fútbol y mini parque de El Moretal ya alcanza el 60% de construcción",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/e23abfa496fa47ab"
       },
       "url": "/noticia/87/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -91,11 +94,11 @@
         "id": "c4b102281d7783e9",
         "hash": "c4b102281d7783e9db70972f8eef6592d1b675f1e015f8ea55a2f7640b52366d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3200.JPG",
-        "rutaOriginal": "/media/originales/c4b102281d7783e9.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851598/orellana-web/c4b102281d7783e9.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c4b102281d7783e9-400.webp",
-          "800w": "/media/derivados/c4b102281d7783e9-800.webp",
-          "1600w": "/media/derivados/c4b102281d7783e9-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851598/orellana-web/c4b102281d7783e9.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Rehabilitación vial en la intersección de la avenida 9 de Octubre y Tetetes",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/c4b102281d7783e9"
       },
       "url": "/noticia/86/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -118,11 +122,11 @@
         "id": "15e570dff80d7151",
         "hash": "15e570dff80d71516e45257641b3ff33a47a495388d25324ca5349f3941153cd",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_4038.JPG",
-        "rutaOriginal": "/media/originales/15e570dff80d7151.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851721/orellana-web/15e570dff80d7151.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/15e570dff80d7151-400.webp",
-          "800w": "/media/derivados/15e570dff80d7151-800.webp",
-          "1600w": "/media/derivados/15e570dff80d7151-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851721/orellana-web/15e570dff80d7151.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -130,7 +134,8 @@
         "alt": "Alcaldía socializa levantamiento topográfico previo a obras de infraestructura en Ñukanchi Wasi y Los Sauces",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/15e570dff80d7151"
       },
       "url": "/noticia/85/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -145,11 +150,11 @@
         "id": "2d19b2d2d7d97483",
         "hash": "2d19b2d2d7d97483f2d4fd560450729adde6f641e45932a4e3cd382cc2a8c67d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_IMG_2659.JPG",
-        "rutaOriginal": "/media/originales/2d19b2d2d7d97483.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851724/orellana-web/2d19b2d2d7d97483.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2d19b2d2d7d97483-400.webp",
-          "800w": "/media/derivados/2d19b2d2d7d97483-800.webp",
-          "1600w": "/media/derivados/2d19b2d2d7d97483-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851724/orellana-web/2d19b2d2d7d97483.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851724/orellana-web/2d19b2d2d7d97483.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851724/orellana-web/2d19b2d2d7d97483.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -157,7 +162,8 @@
         "alt": "Capacitación en seguridad integral y social a personas con discapacidad de Taracoa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/2d19b2d2d7d97483"
       },
       "url": "/noticia/84/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -172,11 +178,11 @@
         "id": "2368760c1e7fec70",
         "hash": "2368760c1e7fec708b07f4b802db3ab57ed9fe5b62f8b54405c5bd8a8cec95c2",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_2140_sNX808t.JPG",
-        "rutaOriginal": "/media/originales/2368760c1e7fec70.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851727/orellana-web/2368760c1e7fec70.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/2368760c1e7fec70-400.webp",
-          "800w": "/media/derivados/2368760c1e7fec70-800.webp",
-          "1600w": "/media/derivados/2368760c1e7fec70-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851727/orellana-web/2368760c1e7fec70.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851727/orellana-web/2368760c1e7fec70.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851727/orellana-web/2368760c1e7fec70.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -184,7 +190,8 @@
         "alt": "Inician cursos gratuitos de contabilidad básica en el MACCO",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/2368760c1e7fec70"
       },
       "url": "/noticia/83/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -199,11 +206,11 @@
         "id": "eeb2645b41c0920d",
         "hash": "eeb2645b41c0920d046a12be67ea64775aa25f64ea21ebedd2315fb8ceadce54",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_DJI_0449.JPG",
-        "rutaOriginal": "/media/originales/eeb2645b41c0920d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/eeb2645b41c0920d-400.webp",
-          "800w": "/media/derivados/eeb2645b41c0920d-800.webp",
-          "1600w": "/media/derivados/eeb2645b41c0920d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851730/orellana-web/eeb2645b41c0920d.jpg"
         },
         "ancho": 4000,
         "alto": 2250,
@@ -211,7 +218,8 @@
         "alt": "¡Alegría y deporte en Mushuk Ayllu! Alcaldía inaugura moderna cancha deportiva",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/eeb2645b41c0920d"
       },
       "url": "/noticia/82/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"
@@ -226,11 +234,11 @@
         "id": "b219cb6392d8c920",
         "hash": "b219cb6392d8c92072631ad83d33b3aaea1ad5e1175d329d3e25d8b23e708672",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_IMG_8137.JPG",
-        "rutaOriginal": "/media/originales/b219cb6392d8c920.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851732/orellana-web/b219cb6392d8c920.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b219cb6392d8c920-400.webp",
-          "800w": "/media/derivados/b219cb6392d8c920-800.webp",
-          "1600w": "/media/derivados/b219cb6392d8c920-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851732/orellana-web/b219cb6392d8c920.jpg"
         },
         "ancho": 2400,
         "alto": 1344,
@@ -238,7 +246,8 @@
         "alt": "Reconocimiento al compromiso y la vocación de servicio a trabajadores y empleados",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=23",
+        "cloudinaryPublicId": "orellana-web/b219cb6392d8c920"
       },
       "url": "/noticia/81/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=23"

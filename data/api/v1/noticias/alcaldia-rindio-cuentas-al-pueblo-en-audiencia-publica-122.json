@@ -9,11 +9,11 @@
       "id": "3dbbfe223f17bce7",
       "hash": "3dbbfe223f17bce7f4d46a3def2c8d37b87dbc0592c34940bea19c059fb8e9e1",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG5735.jpg",
-      "rutaOriginal": "/media/originales/3dbbfe223f17bce7.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/3dbbfe223f17bce7-400.webp",
-        "800w": "/media/derivados/3dbbfe223f17bce7-800.webp",
-        "1600w": "/media/derivados/3dbbfe223f17bce7-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía rindió cuentas al pueblo en audiencia pública",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/3dbbfe223f17bce7"
     },
     "url": "/noticia/122/",
     "fuente_url": "https://orellana.gob.ec/noticia/122/",
@@ -31,11 +32,11 @@
         "id": "3dbbfe223f17bce7",
         "hash": "3dbbfe223f17bce7f4d46a3def2c8d37b87dbc0592c34940bea19c059fb8e9e1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG5735.jpg",
-        "rutaOriginal": "/media/originales/3dbbfe223f17bce7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3dbbfe223f17bce7-400.webp",
-          "800w": "/media/derivados/3dbbfe223f17bce7-800.webp",
-          "1600w": "/media/derivados/3dbbfe223f17bce7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850967/orellana-web/3dbbfe223f17bce7.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía rindió cuentas al pueblo en audiencia pública",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/3dbbfe223f17bce7"
       }
     ]
   }

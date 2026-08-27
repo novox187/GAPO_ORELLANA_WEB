@@ -9,11 +9,11 @@
       "id": "4dbae7915a482af8",
       "hash": "4dbae7915a482af82057e7445d4e780d6dfb2587fb59a277a4aa13337f5ac6bb",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_1_IMG_8706.JPG",
-      "rutaOriginal": "/media/originales/4dbae7915a482af8.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852687/orellana-web/4dbae7915a482af8.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/4dbae7915a482af8-400.webp",
-        "800w": "/media/derivados/4dbae7915a482af8-800.webp",
-        "1600w": "/media/derivados/4dbae7915a482af8-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía inicia importante obra deportiva en Estrella Yacu",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+      "cloudinaryPublicId": "orellana-web/4dbae7915a482af8"
     },
     "url": "/noticia/138/",
     "fuente_url": "https://orellana.gob.ec/noticia/138/",
@@ -31,11 +32,11 @@
         "id": "4dbae7915a482af8",
         "hash": "4dbae7915a482af82057e7445d4e780d6dfb2587fb59a277a4aa13337f5ac6bb",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_1_IMG_8706.JPG",
-        "rutaOriginal": "/media/originales/4dbae7915a482af8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852687/orellana-web/4dbae7915a482af8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/4dbae7915a482af8-400.webp",
-          "800w": "/media/derivados/4dbae7915a482af8-800.webp",
-          "1600w": "/media/derivados/4dbae7915a482af8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852687/orellana-web/4dbae7915a482af8.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía inicia importante obra deportiva en Estrella Yacu",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/4dbae7915a482af8"
       }
     ]
   }

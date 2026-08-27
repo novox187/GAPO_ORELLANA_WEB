@@ -9,11 +9,11 @@
       "id": "59040b012288fded",
       "hash": "59040b012288fdedd5929926b0e287db13101daf24892cbe7fa20463f15f77a9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_9760.JPG",
-      "rutaOriginal": "/media/originales/59040b012288fded.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851160/orellana-web/59040b012288fded.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/59040b012288fded-400.webp",
-        "800w": "/media/derivados/59040b012288fded-800.webp",
-        "1600w": "/media/derivados/59040b012288fded-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Adultos mayores celebran con alegría el Día del Padre",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+      "cloudinaryPublicId": "orellana-web/59040b012288fded"
     },
     "url": "/noticia/112/",
     "fuente_url": "https://orellana.gob.ec/noticia/112/",
@@ -31,11 +32,11 @@
         "id": "59040b012288fded",
         "hash": "59040b012288fdedd5929926b0e287db13101daf24892cbe7fa20463f15f77a9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/26_IMG_9760.JPG",
-        "rutaOriginal": "/media/originales/59040b012288fded.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851160/orellana-web/59040b012288fded.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/59040b012288fded-400.webp",
-          "800w": "/media/derivados/59040b012288fded-800.webp",
-          "1600w": "/media/derivados/59040b012288fded-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851160/orellana-web/59040b012288fded.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Adultos mayores celebran con alegría el Día del Padre",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/59040b012288fded"
       }
     ]
   }

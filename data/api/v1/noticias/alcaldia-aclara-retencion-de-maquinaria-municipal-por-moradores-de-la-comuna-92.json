@@ -9,9 +9,11 @@
       "id": "7746a0d3343e04a7",
       "hash": "7746a0d3343e04a73cf7a5080f4b3d1ad459da23b43a4cb32a9ae9c89a57aa55",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_HRktxkx.jpg",
-      "rutaOriginal": "/media/originales/7746a0d3343e04a7.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/7746a0d3343e04a7-400.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg"
       },
       "ancho": 679,
       "alto": 383,
@@ -19,7 +21,8 @@
       "alt": "Alcaldía aclara retención de maquinaria municipal por moradores de la comuna kichwa Huayusa",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+      "cloudinaryPublicId": "orellana-web/7746a0d3343e04a7"
     },
     "url": "/noticia/92/",
     "fuente_url": "https://orellana.gob.ec/noticia/92/",
@@ -29,9 +32,11 @@
         "id": "7746a0d3343e04a7",
         "hash": "7746a0d3343e04a73cf7a5080f4b3d1ad459da23b43a4cb32a9ae9c89a57aa55",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_HRktxkx.jpg",
-        "rutaOriginal": "/media/originales/7746a0d3343e04a7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7746a0d3343e04a7-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851345/orellana-web/7746a0d3343e04a7.jpg"
         },
         "ancho": 679,
         "alto": 383,
@@ -39,7 +44,8 @@
         "alt": "Alcaldía aclara retención de maquinaria municipal por moradores de la comuna kichwa Huayusa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=22",
+        "cloudinaryPublicId": "orellana-web/7746a0d3343e04a7"
       }
     ]
   }

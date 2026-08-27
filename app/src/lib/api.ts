@@ -22,6 +22,15 @@ export interface Media {
 	alto: number | null;
 	alt: string;
 	altPendiente: boolean;
+	/**
+	 * Identificador en Cloudinary (`orellana-web/<id>`), presente desde la
+	 * migración de media/originales fuera de git — ver
+	 * tools/cloudinary/. `rutaOriginal` y `rutaDerivados` ya son URLs
+	 * absolutas a Cloudinary; este campo no lo consume ningún componente
+	 * todavía, se guarda para poder administrar o volver a transformar el
+	 * activo sin tener que recuperar el id a mano.
+	 */
+	cloudinaryPublicId?: string;
 }
 
 export interface TramiteResumen {

@@ -9,11 +9,11 @@
       "id": "6b81efe48b36cb3b",
       "hash": "6b81efe48b36cb3b7180f0bd77deffc71bc5c6db3f0cda49c182ea7d05b1cd57",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/9_IMG3096.JPG",
-      "rutaOriginal": "/media/originales/6b81efe48b36cb3b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/6b81efe48b36cb3b-400.webp",
-        "800w": "/media/derivados/6b81efe48b36cb3b-800.webp",
-        "1600w": "/media/derivados/6b81efe48b36cb3b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/6b81efe48b36cb3b"
     },
     "url": "/noticia/160/",
     "fuente_url": "https://orellana.gob.ec/noticia/160/",
@@ -31,11 +32,11 @@
         "id": "6b81efe48b36cb3b",
         "hash": "6b81efe48b36cb3b7180f0bd77deffc71bc5c6db3f0cda49c182ea7d05b1cd57",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/9_IMG3096.JPG",
-        "rutaOriginal": "/media/originales/6b81efe48b36cb3b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6b81efe48b36cb3b-400.webp",
-          "800w": "/media/derivados/6b81efe48b36cb3b-800.webp",
-          "1600w": "/media/derivados/6b81efe48b36cb3b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/6b81efe48b36cb3b"
       }
     ]
   }

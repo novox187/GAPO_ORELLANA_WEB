@@ -9,11 +9,11 @@
       "id": "6c646bf783752a41",
       "hash": "6c646bf783752a41bd2167625a9174bb125f509161e9df0fb8bf96aa4eaff62b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9798_1nChh9s.JPG",
-      "rutaOriginal": "/media/originales/6c646bf783752a41.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852607/orellana-web/6c646bf783752a41.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/6c646bf783752a41-400.webp",
-        "800w": "/media/derivados/6c646bf783752a41-800.webp",
-        "1600w": "/media/derivados/6c646bf783752a41-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Procuraduría Síndica: La legalidad como pilar de una gestión responsable",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+      "cloudinaryPublicId": "orellana-web/6c646bf783752a41"
     },
     "url": "/noticia/229/",
     "fuente_url": "https://orellana.gob.ec/noticia/229/",
@@ -31,11 +32,11 @@
         "id": "6c646bf783752a41",
         "hash": "6c646bf783752a41bd2167625a9174bb125f509161e9df0fb8bf96aa4eaff62b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/05_IMG9798_1nChh9s.JPG",
-        "rutaOriginal": "/media/originales/6c646bf783752a41.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852607/orellana-web/6c646bf783752a41.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6c646bf783752a41-400.webp",
-          "800w": "/media/derivados/6c646bf783752a41-800.webp",
-          "1600w": "/media/derivados/6c646bf783752a41-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852607/orellana-web/6c646bf783752a41.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Procuraduría Síndica: La legalidad como pilar de una gestión responsable",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=5",
+        "cloudinaryPublicId": "orellana-web/6c646bf783752a41"
       }
     ]
   }

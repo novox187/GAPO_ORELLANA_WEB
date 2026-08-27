@@ -9,11 +9,11 @@
       "id": "e74e3520dca34b52",
       "hash": "e74e3520dca34b526342a0ed6ab8e51151e2820ac121f185c55d305f4c065c52",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG_9995.JPG",
-      "rutaOriginal": "/media/originales/e74e3520dca34b52.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852593/orellana-web/e74e3520dca34b52.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e74e3520dca34b52-400.webp",
-        "800w": "/media/derivados/e74e3520dca34b52-800.webp",
-        "1600w": "/media/derivados/e74e3520dca34b52-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852593/orellana-web/e74e3520dca34b52.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852593/orellana-web/e74e3520dca34b52.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852593/orellana-web/e74e3520dca34b52.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía asegura agua a las Familias Del barrio Julio Llori",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/e74e3520dca34b52"
     },
     "url": "/noticia/263/",
     "fuente_url": "https://orellana.gob.ec/noticia/263/",
@@ -31,11 +32,11 @@
         "id": "e74e3520dca34b52",
         "hash": "e74e3520dca34b526342a0ed6ab8e51151e2820ac121f185c55d305f4c065c52",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG_9995.JPG",
-        "rutaOriginal": "/media/originales/e74e3520dca34b52.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852593/orellana-web/e74e3520dca34b52.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e74e3520dca34b52-400.webp",
-          "800w": "/media/derivados/e74e3520dca34b52-800.webp",
-          "1600w": "/media/derivados/e74e3520dca34b52-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852593/orellana-web/e74e3520dca34b52.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852593/orellana-web/e74e3520dca34b52.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852593/orellana-web/e74e3520dca34b52.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía asegura agua a las Familias Del barrio Julio Llori",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/e74e3520dca34b52"
       }
     ]
   }

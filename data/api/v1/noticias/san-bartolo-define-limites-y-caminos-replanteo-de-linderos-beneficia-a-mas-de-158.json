@@ -9,11 +9,11 @@
       "id": "d45608990a53e259",
       "hash": "d45608990a53e25901c0e945e62530afe2a0118aef2797e0d1d40690574e3fd9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4_IMG0296.JPG",
-      "rutaOriginal": "/media/originales/d45608990a53e259.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850777/orellana-web/d45608990a53e259.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d45608990a53e259-400.webp",
-        "800w": "/media/derivados/d45608990a53e259-800.webp",
-        "1600w": "/media/derivados/d45608990a53e259-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/d45608990a53e259"
     },
     "url": "/noticia/158/",
     "fuente_url": "https://orellana.gob.ec/noticia/158/",
@@ -31,11 +32,11 @@
         "id": "d45608990a53e259",
         "hash": "d45608990a53e25901c0e945e62530afe2a0118aef2797e0d1d40690574e3fd9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4_IMG0296.JPG",
-        "rutaOriginal": "/media/originales/d45608990a53e259.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850777/orellana-web/d45608990a53e259.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d45608990a53e259-400.webp",
-          "800w": "/media/derivados/d45608990a53e259-800.webp",
-          "1600w": "/media/derivados/d45608990a53e259-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/d45608990a53e259"
       }
     ]
   }

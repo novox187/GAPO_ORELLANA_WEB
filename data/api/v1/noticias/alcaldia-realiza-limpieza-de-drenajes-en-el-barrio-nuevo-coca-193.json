@@ -9,11 +9,11 @@
       "id": "be62d6d4406191d8",
       "hash": "be62d6d4406191d8209b1ac7f470e18f15974dda1d34cbd6a2ed1d2373321b40",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.JPG",
-      "rutaOriginal": "/media/originales/be62d6d4406191d8.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852638/orellana-web/be62d6d4406191d8.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/be62d6d4406191d8-400.webp",
-        "800w": "/media/derivados/be62d6d4406191d8-800.webp",
-        "1600w": "/media/derivados/be62d6d4406191d8-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía realiza Limpieza de drenajes en el barrio Nuevo Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+      "cloudinaryPublicId": "orellana-web/be62d6d4406191d8"
     },
     "url": "/noticia/193/",
     "fuente_url": "https://orellana.gob.ec/noticia/193/",
@@ -31,11 +32,11 @@
         "id": "be62d6d4406191d8",
         "hash": "be62d6d4406191d8209b1ac7f470e18f15974dda1d34cbd6a2ed1d2373321b40",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11.JPG",
-        "rutaOriginal": "/media/originales/be62d6d4406191d8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852638/orellana-web/be62d6d4406191d8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/be62d6d4406191d8-400.webp",
-          "800w": "/media/derivados/be62d6d4406191d8-800.webp",
-          "1600w": "/media/derivados/be62d6d4406191d8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852638/orellana-web/be62d6d4406191d8.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía realiza Limpieza de drenajes en el barrio Nuevo Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/be62d6d4406191d8"
       }
     ]
   }

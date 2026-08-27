@@ -9,11 +9,11 @@
       "id": "6fdbe46e6b07d276",
       "hash": "6fdbe46e6b07d276ec433acf1b01366b8ba8da16cd0dc0ce6ab9517d9316df29",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2163.JPG",
-      "rutaOriginal": "/media/originales/6fdbe46e6b07d276.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/6fdbe46e6b07d276-400.webp",
-        "800w": "/media/derivados/6fdbe46e6b07d276-800.webp",
-        "1600w": "/media/derivados/6fdbe46e6b07d276-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg"
       },
       "ancho": 3472,
       "alto": 2320,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía coloca la primera piedra del sistema de agua potable La Delicia",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/6fdbe46e6b07d276"
     },
     "url": "/noticia/69/",
     "fuente_url": "https://orellana.gob.ec/noticia/69/",
@@ -31,11 +32,11 @@
         "id": "6fdbe46e6b07d276",
         "hash": "6fdbe46e6b07d276ec433acf1b01366b8ba8da16cd0dc0ce6ab9517d9316df29",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_2163.JPG",
-        "rutaOriginal": "/media/originales/6fdbe46e6b07d276.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6fdbe46e6b07d276-400.webp",
-          "800w": "/media/derivados/6fdbe46e6b07d276-800.webp",
-          "1600w": "/media/derivados/6fdbe46e6b07d276-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851898/orellana-web/6fdbe46e6b07d276.jpg"
         },
         "ancho": 3472,
         "alto": 2320,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía coloca la primera piedra del sistema de agua potable La Delicia",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/6fdbe46e6b07d276"
       }
     ]
   }

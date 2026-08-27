@@ -9,11 +9,11 @@
       "id": "9d1cf4c3b0ec1896",
       "hash": "9d1cf4c3b0ec18965dd1d0a1504bbcc6aa2416ca0845214a47c4c093ac08a456",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG_5773.JPG",
-      "rutaOriginal": "/media/originales/9d1cf4c3b0ec1896.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9d1cf4c3b0ec1896-400.webp",
-        "800w": "/media/derivados/9d1cf4c3b0ec1896-800.webp",
-        "1600w": "/media/derivados/9d1cf4c3b0ec1896-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía participa del programa comunidades seguras y protectoras",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/9d1cf4c3b0ec1896"
     },
     "url": "/noticia/70/",
     "fuente_url": "https://orellana.gob.ec/noticia/70/",
@@ -31,11 +32,11 @@
         "id": "9d1cf4c3b0ec1896",
         "hash": "9d1cf4c3b0ec18965dd1d0a1504bbcc6aa2416ca0845214a47c4c093ac08a456",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/22_1_IMG_5773.JPG",
-        "rutaOriginal": "/media/originales/9d1cf4c3b0ec1896.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9d1cf4c3b0ec1896-400.webp",
-          "800w": "/media/derivados/9d1cf4c3b0ec1896-800.webp",
-          "1600w": "/media/derivados/9d1cf4c3b0ec1896-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851895/orellana-web/9d1cf4c3b0ec1896.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía participa del programa comunidades seguras y protectoras",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/9d1cf4c3b0ec1896"
       }
     ]
   }

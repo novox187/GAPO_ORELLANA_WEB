@@ -9,11 +9,11 @@
       "id": "c75cad80e76d2d2a",
       "hash": "c75cad80e76d2d2af3f7f650153c365822821654ac8b69bb3dcfd902971105bb",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28.JPG",
-      "rutaOriginal": "/media/originales/c75cad80e76d2d2a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850493/orellana-web/c75cad80e76d2d2a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c75cad80e76d2d2a-400.webp",
-        "800w": "/media/derivados/c75cad80e76d2d2a-800.webp",
-        "1600w": "/media/derivados/c75cad80e76d2d2a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850493/orellana-web/c75cad80e76d2d2a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850493/orellana-web/c75cad80e76d2d2a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850493/orellana-web/c75cad80e76d2d2a.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Iluminamos la seguridad de El Coca: un operativo que marca el camino hacia una ciudad más ordenada y protegida",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+      "cloudinaryPublicId": "orellana-web/c75cad80e76d2d2a"
     },
     "url": "/noticia/206/",
     "fuente_url": "https://orellana.gob.ec/noticia/206/",
@@ -31,11 +32,11 @@
         "id": "c75cad80e76d2d2a",
         "hash": "c75cad80e76d2d2af3f7f650153c365822821654ac8b69bb3dcfd902971105bb",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28.JPG",
-        "rutaOriginal": "/media/originales/c75cad80e76d2d2a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850493/orellana-web/c75cad80e76d2d2a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c75cad80e76d2d2a-400.webp",
-          "800w": "/media/derivados/c75cad80e76d2d2a-800.webp",
-          "1600w": "/media/derivados/c75cad80e76d2d2a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850493/orellana-web/c75cad80e76d2d2a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850493/orellana-web/c75cad80e76d2d2a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850493/orellana-web/c75cad80e76d2d2a.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Iluminamos la seguridad de El Coca: un operativo que marca el camino hacia una ciudad más ordenada y protegida",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+        "cloudinaryPublicId": "orellana-web/c75cad80e76d2d2a"
       }
     ]
   }

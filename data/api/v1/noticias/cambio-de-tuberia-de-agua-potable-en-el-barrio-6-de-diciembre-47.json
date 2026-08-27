@@ -9,11 +9,11 @@
       "id": "10d448d2ff38ca95",
       "hash": "10d448d2ff38ca9584b1c1b9787bb1d549f072b7354301069ab4177f5b2c4811",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG_1408.JPG",
-      "rutaOriginal": "/media/originales/10d448d2ff38ca95.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/10d448d2ff38ca95-400.webp",
-        "800w": "/media/derivados/10d448d2ff38ca95-800.webp",
-        "1600w": "/media/derivados/10d448d2ff38ca95-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Cambio de tubería de agua potable en el barrio 6 de Diciembre",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+      "cloudinaryPublicId": "orellana-web/10d448d2ff38ca95"
     },
     "url": "/noticia/47/",
     "fuente_url": "https://orellana.gob.ec/noticia/47/",
@@ -31,11 +32,11 @@
         "id": "10d448d2ff38ca95",
         "hash": "10d448d2ff38ca9584b1c1b9787bb1d549f072b7354301069ab4177f5b2c4811",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG_1408.JPG",
-        "rutaOriginal": "/media/originales/10d448d2ff38ca95.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/10d448d2ff38ca95-400.webp",
-          "800w": "/media/derivados/10d448d2ff38ca95-800.webp",
-          "1600w": "/media/derivados/10d448d2ff38ca95-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Cambio de tubería de agua potable en el barrio 6 de Diciembre",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/10d448d2ff38ca95"
       }
     ]
   }

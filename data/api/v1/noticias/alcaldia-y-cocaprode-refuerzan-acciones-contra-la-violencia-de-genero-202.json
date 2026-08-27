@@ -9,11 +9,11 @@
       "id": "7ea4ce331368522a",
       "hash": "7ea4ce331368522aa409b12e8b8ebd5cc845d94c4daf721a2b16e9b69b2ac69f",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_lHv86OM.JPG",
-      "rutaOriginal": "/media/originales/7ea4ce331368522a.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850506/orellana-web/7ea4ce331368522a.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/7ea4ce331368522a-400.webp",
-        "800w": "/media/derivados/7ea4ce331368522a-800.webp",
-        "1600w": "/media/derivados/7ea4ce331368522a-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850506/orellana-web/7ea4ce331368522a.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850506/orellana-web/7ea4ce331368522a.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850506/orellana-web/7ea4ce331368522a.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía y COCAPRODE refuerzan acciones contra la violencia de género",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+      "cloudinaryPublicId": "orellana-web/7ea4ce331368522a"
     },
     "url": "/noticia/202/",
     "fuente_url": "https://orellana.gob.ec/noticia/202/",
@@ -31,11 +32,11 @@
         "id": "7ea4ce331368522a",
         "hash": "7ea4ce331368522aa409b12e8b8ebd5cc845d94c4daf721a2b16e9b69b2ac69f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_lHv86OM.JPG",
-        "rutaOriginal": "/media/originales/7ea4ce331368522a.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850506/orellana-web/7ea4ce331368522a.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7ea4ce331368522a-400.webp",
-          "800w": "/media/derivados/7ea4ce331368522a-800.webp",
-          "1600w": "/media/derivados/7ea4ce331368522a-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850506/orellana-web/7ea4ce331368522a.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850506/orellana-web/7ea4ce331368522a.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850506/orellana-web/7ea4ce331368522a.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía y COCAPRODE refuerzan acciones contra la violencia de género",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=10",
+        "cloudinaryPublicId": "orellana-web/7ea4ce331368522a"
       }
     ]
   }

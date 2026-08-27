@@ -9,11 +9,11 @@
       "id": "a1882a44a006a898",
       "hash": "a1882a44a006a898a87bd360cfcb8913cfaaa3a194ef48b0acad8ac341cf6a97",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG4033.JPG",
-      "rutaOriginal": "/media/originales/a1882a44a006a898.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850647/orellana-web/a1882a44a006a898.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a1882a44a006a898-400.webp",
-        "800w": "/media/derivados/a1882a44a006a898-800.webp",
-        "1600w": "/media/derivados/a1882a44a006a898-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+      "cloudinaryPublicId": "orellana-web/a1882a44a006a898"
     },
     "url": "/noticia/161/",
     "fuente_url": "https://orellana.gob.ec/noticia/161/",
@@ -31,11 +32,11 @@
         "id": "a1882a44a006a898",
         "hash": "a1882a44a006a898a87bd360cfcb8913cfaaa3a194ef48b0acad8ac341cf6a97",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG4033.JPG",
-        "rutaOriginal": "/media/originales/a1882a44a006a898.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850647/orellana-web/a1882a44a006a898.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a1882a44a006a898-400.webp",
-          "800w": "/media/derivados/a1882a44a006a898-800.webp",
-          "1600w": "/media/derivados/a1882a44a006a898-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/a1882a44a006a898"
       }
     ]
   }

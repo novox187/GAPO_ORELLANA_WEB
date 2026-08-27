@@ -9,9 +9,11 @@
       "id": "9124673354350036",
       "hash": "9124673354350036aa0167a4dcbe0b58d579d4f23f197720dc5227e896851e02",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14.jpg",
-      "rutaOriginal": "/media/originales/9124673354350036.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850050/orellana-web/9124673354350036.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9124673354350036-400.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg"
       },
       "ancho": 561,
       "alto": 1034,
@@ -19,7 +21,8 @@
       "alt": "El respeto a la institucionalidad no admite abusos del concejal Miguel Murillo",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/9124673354350036"
     },
     "url": "/noticia/235/",
     "fuente_url": "https://orellana.gob.ec/noticia/235/",
@@ -29,9 +32,11 @@
         "id": "9124673354350036",
         "hash": "9124673354350036aa0167a4dcbe0b58d579d4f23f197720dc5227e896851e02",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14.jpg",
-        "rutaOriginal": "/media/originales/9124673354350036.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850050/orellana-web/9124673354350036.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9124673354350036-400.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850050/orellana-web/9124673354350036.jpg"
         },
         "ancho": 561,
         "alto": 1034,
@@ -39,7 +44,8 @@
         "alt": "El respeto a la institucionalidad no admite abusos del concejal Miguel Murillo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/9124673354350036"
       }
     ]
   }

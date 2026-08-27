@@ -9,11 +9,11 @@
       "id": "fb9507471fcbfd94",
       "hash": "fb9507471fcbfd947e59aae787a25a2e27a49c5892c8be7ced1602774cdcb814",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_1412.JPG",
-      "rutaOriginal": "/media/originales/fb9507471fcbfd94.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/fb9507471fcbfd94-400.webp",
-        "800w": "/media/derivados/fb9507471fcbfd94-800.webp",
-        "1600w": "/media/derivados/fb9507471fcbfd94-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Diversión y emprendimientos: gran festival en La Bocana del Payamino",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/fb9507471fcbfd94"
     },
     "url": "/noticia/42/",
     "fuente_url": "https://orellana.gob.ec/noticia/42/",
@@ -31,11 +32,11 @@
         "id": "fb9507471fcbfd94",
         "hash": "fb9507471fcbfd947e59aae787a25a2e27a49c5892c8be7ced1602774cdcb814",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG_1412.JPG",
-        "rutaOriginal": "/media/originales/fb9507471fcbfd94.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/fb9507471fcbfd94-400.webp",
-          "800w": "/media/derivados/fb9507471fcbfd94-800.webp",
-          "1600w": "/media/derivados/fb9507471fcbfd94-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851972/orellana-web/fb9507471fcbfd94.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Diversión y emprendimientos: gran festival en La Bocana del Payamino",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/fb9507471fcbfd94"
       }
     ]
   }

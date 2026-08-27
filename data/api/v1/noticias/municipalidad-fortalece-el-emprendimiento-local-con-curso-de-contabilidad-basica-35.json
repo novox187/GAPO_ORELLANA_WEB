@@ -9,10 +9,11 @@
       "id": "d81ec9c168b58b9b",
       "hash": "d81ec9c168b58b9b7677ac28c270273e945aee618d731619d23baebaca3c14d7",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_CURSO_CONTABILIDAD.png",
-      "rutaOriginal": "/media/originales/d81ec9c168b58b9b.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852108/orellana-web/d81ec9c168b58b9b.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/d81ec9c168b58b9b-400.webp",
-        "800w": "/media/derivados/d81ec9c168b58b9b-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852108/orellana-web/d81ec9c168b58b9b.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852108/orellana-web/d81ec9c168b58b9b.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852108/orellana-web/d81ec9c168b58b9b.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Municipalidad fortalece el emprendimiento local con curso de Contabilidad Básica",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+      "cloudinaryPublicId": "orellana-web/d81ec9c168b58b9b"
     },
     "url": "/noticia/35/",
     "fuente_url": "https://orellana.gob.ec/noticia/35/",
@@ -30,10 +32,11 @@
         "id": "d81ec9c168b58b9b",
         "hash": "d81ec9c168b58b9b7677ac28c270273e945aee618d731619d23baebaca3c14d7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_CURSO_CONTABILIDAD.png",
-        "rutaOriginal": "/media/originales/d81ec9c168b58b9b.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852108/orellana-web/d81ec9c168b58b9b.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/d81ec9c168b58b9b-400.webp",
-          "800w": "/media/derivados/d81ec9c168b58b9b-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852108/orellana-web/d81ec9c168b58b9b.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852108/orellana-web/d81ec9c168b58b9b.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852108/orellana-web/d81ec9c168b58b9b.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Municipalidad fortalece el emprendimiento local con curso de Contabilidad Básica",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=29",
+        "cloudinaryPublicId": "orellana-web/d81ec9c168b58b9b"
       }
     ]
   }

@@ -10,11 +10,11 @@
         "id": "845be8cae67a2ade",
         "hash": "845be8cae67a2ade6324b9888f622d965a7c94f4843f0b4962049841768ab39b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_GWqx6RZ.JPG",
-        "rutaOriginal": "/media/originales/845be8cae67a2ade.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852561/orellana-web/845be8cae67a2ade.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/845be8cae67a2ade-400.webp",
-          "800w": "/media/derivados/845be8cae67a2ade-800.webp",
-          "1600w": "/media/derivados/845be8cae67a2ade-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -22,7 +22,8 @@
         "alt": "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/845be8cae67a2ade"
       },
       "url": "/noticia/296/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -37,11 +38,11 @@
         "id": "9010029ac29451ca",
         "hash": "9010029ac29451ca18152092cc363fec00dadcc98019ee3a74c2e1f923d63152",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_5706.JPG",
-        "rutaOriginal": "/media/originales/9010029ac29451ca.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849616/orellana-web/9010029ac29451ca.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9010029ac29451ca-400.webp",
-          "800w": "/media/derivados/9010029ac29451ca-800.webp",
-          "1600w": "/media/derivados/9010029ac29451ca-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849616/orellana-web/9010029ac29451ca.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -49,7 +50,8 @@
         "alt": "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/9010029ac29451ca"
       },
       "url": "/noticia/295/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -64,11 +66,11 @@
         "id": "a645e6960112d85b",
         "hash": "a645e6960112d85b8d3bd41b4f913d090e14f7a604b575cda1787620fa2acb35",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_5176.JPG",
-        "rutaOriginal": "/media/originales/a645e6960112d85b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852565/orellana-web/a645e6960112d85b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a645e6960112d85b-400.webp",
-          "800w": "/media/derivados/a645e6960112d85b-800.webp",
-          "1600w": "/media/derivados/a645e6960112d85b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -76,7 +78,8 @@
         "alt": "Acción Municipal para prevenir inundaciones en Guadalupe Larriva",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/a645e6960112d85b"
       },
       "url": "/noticia/294/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -91,11 +94,11 @@
         "id": "452c78b8c27d521d",
         "hash": "452c78b8c27d521d89b2d83d73482329323516dbfcc5c14e7a3356e92b156e1c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_1_IMG9714_lL8ralN.JPG",
-        "rutaOriginal": "/media/originales/452c78b8c27d521d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849622/orellana-web/452c78b8c27d521d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/452c78b8c27d521d-400.webp",
-          "800w": "/media/derivados/452c78b8c27d521d-800.webp",
-          "1600w": "/media/derivados/452c78b8c27d521d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -103,7 +106,8 @@
         "alt": "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/452c78b8c27d521d"
       },
       "url": "/noticia/293/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -118,11 +122,11 @@
         "id": "e3d5fe7b9cc349b6",
         "hash": "e3d5fe7b9cc349b69d322b07d420e781569147bcaadc6b8eb9105ce56f88f9dd",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_1_IMG.JPG",
-        "rutaOriginal": "/media/originales/e3d5fe7b9cc349b6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e3d5fe7b9cc349b6-400.webp",
-          "800w": "/media/derivados/e3d5fe7b9cc349b6-800.webp",
-          "1600w": "/media/derivados/e3d5fe7b9cc349b6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852568/orellana-web/e3d5fe7b9cc349b6.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -130,7 +134,8 @@
         "alt": "Parque Central renace con obras que impulsan empleo y futuro para el cantón",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/e3d5fe7b9cc349b6"
       },
       "url": "/noticia/285/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -145,11 +150,11 @@
         "id": "8df73a0998651729",
         "hash": "8df73a0998651729c6944974f66f1e9ca1f387b708366659d8850b6f8ffc5814",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1.JPG",
-        "rutaOriginal": "/media/originales/8df73a0998651729.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849629/orellana-web/8df73a0998651729.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8df73a0998651729-400.webp",
-          "800w": "/media/derivados/8df73a0998651729-800.webp",
-          "1600w": "/media/derivados/8df73a0998651729-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg"
         },
         "ancho": 4096,
         "alto": 2304,
@@ -157,7 +162,8 @@
         "alt": "Néstor Jiménez ya cuenta con una Casa Taller que abre puertas al futuro",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/8df73a0998651729"
       },
       "url": "/noticia/284/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -172,11 +178,11 @@
         "id": "01d296f711460040",
         "hash": "01d296f71146004062d764442875ec1aa271fce1716e377c18f16d0969f7ce48",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG4303.JPG",
-        "rutaOriginal": "/media/originales/01d296f711460040.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849632/orellana-web/01d296f711460040.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/01d296f711460040-400.webp",
-          "800w": "/media/derivados/01d296f711460040-800.webp",
-          "1600w": "/media/derivados/01d296f711460040-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849632/orellana-web/01d296f711460040.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849632/orellana-web/01d296f711460040.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849632/orellana-web/01d296f711460040.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -184,7 +190,8 @@
         "alt": "Inspección de contaminantes en zanjas de Guadalupe Larriva",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/01d296f711460040"
       },
       "url": "/noticia/283/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -199,11 +206,11 @@
         "id": "656624fdf4c72307",
         "hash": "656624fdf4c723075534547d88cc2bdf7d4af1c47af9c210a842ecd8436311d7",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_1_IMG3939.JPG",
-        "rutaOriginal": "/media/originales/656624fdf4c72307.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849634/orellana-web/656624fdf4c72307.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/656624fdf4c72307-400.webp",
-          "800w": "/media/derivados/656624fdf4c72307-800.webp",
-          "1600w": "/media/derivados/656624fdf4c72307-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849634/orellana-web/656624fdf4c72307.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -211,7 +218,8 @@
         "alt": "Dignidad y sonrisas para nuestros adultos mayores de García Moreno",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/656624fdf4c72307"
       },
       "url": "/noticia/282/",
       "fuente_url": "https://orellana.gob.ec/noticias/"
@@ -226,11 +234,11 @@
         "id": "547cdbfef03e86c8",
         "hash": "547cdbfef03e86c8a20d0293e6469cbb5af53bdad41ecb0814eb7b6a42a9b746",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_1_IMG_2531.JPG",
-        "rutaOriginal": "/media/originales/547cdbfef03e86c8.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/547cdbfef03e86c8-400.webp",
-          "800w": "/media/derivados/547cdbfef03e86c8-800.webp",
-          "1600w": "/media/derivados/547cdbfef03e86c8-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849637/orellana-web/547cdbfef03e86c8.jpg"
         },
         "ancho": 6160,
         "alto": 4640,
@@ -238,7 +246,8 @@
         "alt": "Curso de contabilidad gratuita impulsa oportunidades y desarrollo ciudadano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/547cdbfef03e86c8"
       },
       "url": "/noticia/281/",
       "fuente_url": "https://orellana.gob.ec/noticias/"

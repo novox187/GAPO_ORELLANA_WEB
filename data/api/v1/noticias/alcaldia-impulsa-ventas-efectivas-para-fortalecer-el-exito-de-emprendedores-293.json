@@ -9,11 +9,11 @@
       "id": "452c78b8c27d521d",
       "hash": "452c78b8c27d521d89b2d83d73482329323516dbfcc5c14e7a3356e92b156e1c",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_1_IMG9714_lL8ralN.JPG",
-      "rutaOriginal": "/media/originales/452c78b8c27d521d.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849622/orellana-web/452c78b8c27d521d.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/452c78b8c27d521d-400.webp",
-        "800w": "/media/derivados/452c78b8c27d521d-800.webp",
-        "1600w": "/media/derivados/452c78b8c27d521d-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/452c78b8c27d521d"
     },
     "url": "/noticia/293/",
     "fuente_url": "https://orellana.gob.ec/noticia/293/",
@@ -31,11 +32,11 @@
         "id": "452c78b8c27d521d",
         "hash": "452c78b8c27d521d89b2d83d73482329323516dbfcc5c14e7a3356e92b156e1c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_1_IMG9714_lL8ralN.JPG",
-        "rutaOriginal": "/media/originales/452c78b8c27d521d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849622/orellana-web/452c78b8c27d521d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/452c78b8c27d521d-400.webp",
-          "800w": "/media/derivados/452c78b8c27d521d-800.webp",
-          "1600w": "/media/derivados/452c78b8c27d521d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849622/orellana-web/452c78b8c27d521d.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/452c78b8c27d521d"
       }
     ]
   }

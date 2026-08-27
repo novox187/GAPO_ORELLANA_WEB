@@ -9,11 +9,11 @@
       "id": "1bd57de3fafe266c",
       "hash": "1bd57de3fafe266c311a81b3ee83e59e811e3b8b7f66405a26e20d1a5c6cec0c",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_1750.JPG",
-      "rutaOriginal": "/media/originales/1bd57de3fafe266c.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/1bd57de3fafe266c-400.webp",
-        "800w": "/media/derivados/1bd57de3fafe266c-800.webp",
-        "1600w": "/media/derivados/1bd57de3fafe266c-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Campaña gratuita de esterilización animal en el cantón Francisco de Orellana",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+      "cloudinaryPublicId": "orellana-web/1bd57de3fafe266c"
     },
     "url": "/noticia/121/",
     "fuente_url": "https://orellana.gob.ec/noticia/121/",
@@ -31,11 +32,11 @@
         "id": "1bd57de3fafe266c",
         "hash": "1bd57de3fafe266c311a81b3ee83e59e811e3b8b7f66405a26e20d1a5c6cec0c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_IMG_1750.JPG",
-        "rutaOriginal": "/media/originales/1bd57de3fafe266c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1bd57de3fafe266c-400.webp",
-          "800w": "/media/derivados/1bd57de3fafe266c-800.webp",
-          "1600w": "/media/derivados/1bd57de3fafe266c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850986/orellana-web/1bd57de3fafe266c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Campaña gratuita de esterilización animal en el cantón Francisco de Orellana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=19",
+        "cloudinaryPublicId": "orellana-web/1bd57de3fafe266c"
       }
     ]
   }

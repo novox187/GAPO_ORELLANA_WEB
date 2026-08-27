@@ -9,11 +9,11 @@
       "id": "561406fed6b9ea26",
       "hash": "561406fed6b9ea261a2fdc23699a62510f45d44a9ec5aacaa3c319bf80c9e493",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.JPG",
-      "rutaOriginal": "/media/originales/561406fed6b9ea26.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850357/orellana-web/561406fed6b9ea26.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/561406fed6b9ea26-400.webp",
-        "800w": "/media/derivados/561406fed6b9ea26-800.webp",
-        "1600w": "/media/derivados/561406fed6b9ea26-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Lugares emblemáticos para preservar su historia y sus raíces como patrimonio cultural",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+      "cloudinaryPublicId": "orellana-web/561406fed6b9ea26"
     },
     "url": "/noticia/210/",
     "fuente_url": "https://orellana.gob.ec/noticia/210/",
@@ -31,11 +32,11 @@
         "id": "561406fed6b9ea26",
         "hash": "561406fed6b9ea261a2fdc23699a62510f45d44a9ec5aacaa3c319bf80c9e493",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04.JPG",
-        "rutaOriginal": "/media/originales/561406fed6b9ea26.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850357/orellana-web/561406fed6b9ea26.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/561406fed6b9ea26-400.webp",
-          "800w": "/media/derivados/561406fed6b9ea26-800.webp",
-          "1600w": "/media/derivados/561406fed6b9ea26-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850357/orellana-web/561406fed6b9ea26.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Lugares emblemáticos para preservar su historia y sus raíces como patrimonio cultural",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=9",
+        "cloudinaryPublicId": "orellana-web/561406fed6b9ea26"
       }
     ]
   }

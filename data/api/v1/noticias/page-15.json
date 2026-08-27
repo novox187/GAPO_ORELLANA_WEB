@@ -10,11 +10,11 @@
         "id": "3574af6b16f77409",
         "hash": "3574af6b16f7740975e62bfb258a54066f45cc9efbac86331550ac0cb5c2a1b0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_1_IMG5728.JPG",
-        "rutaOriginal": "/media/originales/3574af6b16f77409.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850644/orellana-web/3574af6b16f77409.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3574af6b16f77409-400.webp",
-          "800w": "/media/derivados/3574af6b16f77409-800.webp",
-          "1600w": "/media/derivados/3574af6b16f77409-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850644/orellana-web/3574af6b16f77409.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -22,7 +22,8 @@
         "alt": "Alcaldía impulsa capacitación para fortalecer a emprendedores locales en normativa sanitaria",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/3574af6b16f77409"
       },
       "url": "/noticia/162/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -37,11 +38,11 @@
         "id": "a1882a44a006a898",
         "hash": "a1882a44a006a898a87bd360cfcb8913cfaaa3a194ef48b0acad8ac341cf6a97",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG4033.JPG",
-        "rutaOriginal": "/media/originales/a1882a44a006a898.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850647/orellana-web/a1882a44a006a898.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a1882a44a006a898-400.webp",
-          "800w": "/media/derivados/a1882a44a006a898-800.webp",
-          "1600w": "/media/derivados/a1882a44a006a898-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850647/orellana-web/a1882a44a006a898.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Con esperanza y compromiso, arranca la construcción de la casa taller en Néstor Jiménez",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/a1882a44a006a898"
       },
       "url": "/noticia/161/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -64,11 +66,11 @@
         "id": "6b81efe48b36cb3b",
         "hash": "6b81efe48b36cb3b7180f0bd77deffc71bc5c6db3f0cda49c182ea7d05b1cd57",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/9_IMG3096.JPG",
-        "rutaOriginal": "/media/originales/6b81efe48b36cb3b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6b81efe48b36cb3b-400.webp",
-          "800w": "/media/derivados/6b81efe48b36cb3b-800.webp",
-          "1600w": "/media/derivados/6b81efe48b36cb3b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850650/orellana-web/6b81efe48b36cb3b.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -76,7 +78,8 @@
         "alt": "Shirma Cortés cumple: alcantarillado pluvial para el barrio El Moretal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/6b81efe48b36cb3b"
       },
       "url": "/noticia/160/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -91,11 +94,11 @@
         "id": "dfa839368b5adaa9",
         "hash": "dfa839368b5adaa91b1df60fe6a7d4f47a871b82afaf6694ae6c0dbb68cf7f85",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/8_1_IMG2201.JPG",
-        "rutaOriginal": "/media/originales/dfa839368b5adaa9.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/dfa839368b5adaa9-400.webp",
-          "800w": "/media/derivados/dfa839368b5adaa9-800.webp",
-          "1600w": "/media/derivados/dfa839368b5adaa9-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850654/orellana-web/dfa839368b5adaa9.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "La visión de la alcaldesa Shirma Cortés impulsa progreso en Ñukanchi Wasi",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/dfa839368b5adaa9"
       },
       "url": "/noticia/159/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -118,11 +122,11 @@
         "id": "d45608990a53e259",
         "hash": "d45608990a53e25901c0e945e62530afe2a0118aef2797e0d1d40690574e3fd9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/4_IMG0296.JPG",
-        "rutaOriginal": "/media/originales/d45608990a53e259.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850777/orellana-web/d45608990a53e259.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d45608990a53e259-400.webp",
-          "800w": "/media/derivados/d45608990a53e259-800.webp",
-          "1600w": "/media/derivados/d45608990a53e259-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850777/orellana-web/d45608990a53e259.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -130,7 +134,8 @@
         "alt": "San Bartolo define límites y caminos: replanteo de linderos beneficia a más de 20 familias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/d45608990a53e259"
       },
       "url": "/noticia/158/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -145,11 +150,11 @@
         "id": "368585ad1f575361",
         "hash": "368585ad1f575361c11d8e86f5c98c742e4a9cc912cbe5b31313fc2f16ed021d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/3_IMG1685.JPG",
-        "rutaOriginal": "/media/originales/368585ad1f575361.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850784/orellana-web/368585ad1f575361.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/368585ad1f575361-400.webp",
-          "800w": "/media/derivados/368585ad1f575361-800.webp",
-          "1600w": "/media/derivados/368585ad1f575361-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850784/orellana-web/368585ad1f575361.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -157,7 +162,8 @@
         "alt": "80 niños y niñas del proyecto ETI recibieron kits escolares",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/368585ad1f575361"
       },
       "url": "/noticia/157/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -172,11 +178,11 @@
         "id": "9297213f365de947",
         "hash": "9297213f365de947c2f6dfb181ace6b4e49d1b88d58ef569d42f14158b98cfb4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/2_IMG0532.JPG",
-        "rutaOriginal": "/media/originales/9297213f365de947.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850789/orellana-web/9297213f365de947.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9297213f365de947-400.webp",
-          "800w": "/media/derivados/9297213f365de947-800.webp",
-          "1600w": "/media/derivados/9297213f365de947-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850789/orellana-web/9297213f365de947.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850789/orellana-web/9297213f365de947.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850789/orellana-web/9297213f365de947.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -184,7 +190,8 @@
         "alt": "Agentes fortalecen el control en unidades educativas",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/9297213f365de947"
       },
       "url": "/noticia/156/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -199,11 +206,11 @@
         "id": "a26e91de37158551",
         "hash": "a26e91de37158551ad568d30d141ce804b5eeccdee3c9d0d227c962c520fcec5",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG9345.JPG",
-        "rutaOriginal": "/media/originales/a26e91de37158551.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850795/orellana-web/a26e91de37158551.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a26e91de37158551-400.webp",
-          "800w": "/media/derivados/a26e91de37158551-800.webp",
-          "1600w": "/media/derivados/a26e91de37158551-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850795/orellana-web/a26e91de37158551.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "Planificación 2026: una agenda construída junto a barrios y parroquias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/a26e91de37158551"
       },
       "url": "/noticia/155/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"
@@ -226,11 +234,11 @@
         "id": "c9a3b709717416c7",
         "hash": "c9a3b709717416c7ef35f40dde35f8e50451651b9ff36e7da41fe517f11dd9f0",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_1_IMG9382.JPG",
-        "rutaOriginal": "/media/originales/c9a3b709717416c7.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850798/orellana-web/c9a3b709717416c7.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c9a3b709717416c7-400.webp",
-          "800w": "/media/derivados/c9a3b709717416c7-800.webp",
-          "1600w": "/media/derivados/c9a3b709717416c7-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850798/orellana-web/c9a3b709717416c7.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -238,7 +246,8 @@
         "alt": "Alcaldía siembra esperanza en los adultos mayores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=15",
+        "cloudinaryPublicId": "orellana-web/c9a3b709717416c7"
       },
       "url": "/noticia/154/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=15"

@@ -9,11 +9,11 @@
       "id": "7fecebaba2fbc703",
       "hash": "7fecebaba2fbc703bcb11e31094d1890bb42211825d5bb33a3eca1565f2405ac",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG0301.JPG",
-      "rutaOriginal": "/media/originales/7fecebaba2fbc703.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/7fecebaba2fbc703-400.webp",
-        "800w": "/media/derivados/7fecebaba2fbc703-800.webp",
-        "1600w": "/media/derivados/7fecebaba2fbc703-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+      "cloudinaryPublicId": "orellana-web/7fecebaba2fbc703"
     },
     "url": "/noticia/137/",
     "fuente_url": "https://orellana.gob.ec/noticia/137/",
@@ -31,11 +32,11 @@
         "id": "7fecebaba2fbc703",
         "hash": "7fecebaba2fbc703bcb11e31094d1890bb42211825d5bb33a3eca1565f2405ac",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/04_IMG0301.JPG",
-        "rutaOriginal": "/media/originales/7fecebaba2fbc703.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/7fecebaba2fbc703-400.webp",
-          "800w": "/media/derivados/7fecebaba2fbc703-800.webp",
-          "1600w": "/media/derivados/7fecebaba2fbc703-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850921/orellana-web/7fecebaba2fbc703.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Alcaldesa socializa importante obra de alcantarillados con moradores del barrio Perla Amazónica",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=17",
+        "cloudinaryPublicId": "orellana-web/7fecebaba2fbc703"
       }
     ]
   }

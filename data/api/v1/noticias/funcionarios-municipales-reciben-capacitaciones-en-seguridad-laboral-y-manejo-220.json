@@ -9,11 +9,11 @@
       "id": "3a8554c5726d513c",
       "hash": "3a8554c5726d513c9d0e94c450143ad9f7c1259cee97f59cd5aa38f435af4119",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_2svBt1l.JPG",
-      "rutaOriginal": "/media/originales/3a8554c5726d513c.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852624/orellana-web/3a8554c5726d513c.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/3a8554c5726d513c-400.webp",
-        "800w": "/media/derivados/3a8554c5726d513c-800.webp",
-        "1600w": "/media/derivados/3a8554c5726d513c-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Funcionarios municipales reciben capacitaciones en seguridad laboral y manejo defensivo",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+      "cloudinaryPublicId": "orellana-web/3a8554c5726d513c"
     },
     "url": "/noticia/220/",
     "fuente_url": "https://orellana.gob.ec/noticia/220/",
@@ -31,11 +32,11 @@
         "id": "3a8554c5726d513c",
         "hash": "3a8554c5726d513c9d0e94c450143ad9f7c1259cee97f59cd5aa38f435af4119",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_2svBt1l.JPG",
-        "rutaOriginal": "/media/originales/3a8554c5726d513c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852624/orellana-web/3a8554c5726d513c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/3a8554c5726d513c-400.webp",
-          "800w": "/media/derivados/3a8554c5726d513c-800.webp",
-          "1600w": "/media/derivados/3a8554c5726d513c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852624/orellana-web/3a8554c5726d513c.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Funcionarios municipales reciben capacitaciones en seguridad laboral y manejo defensivo",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=8",
+        "cloudinaryPublicId": "orellana-web/3a8554c5726d513c"
       }
     ]
   }

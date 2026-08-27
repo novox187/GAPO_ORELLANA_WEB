@@ -9,10 +9,11 @@
       "id": "46dc5685bb84d628",
       "hash": "46dc5685bb84d62856c01e4323f84bd76ec81db30d11af9faf2e07f82b97c78a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.jpg",
-      "rutaOriginal": "/media/originales/46dc5685bb84d628.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851155/orellana-web/46dc5685bb84d628.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/46dc5685bb84d628-400.webp",
-        "800w": "/media/derivados/46dc5685bb84d628-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg"
       },
       "ancho": 1280,
       "alto": 729,
@@ -20,7 +21,8 @@
       "alt": "Transporte digno para nuestros adultos mayores",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+      "cloudinaryPublicId": "orellana-web/46dc5685bb84d628"
     },
     "url": "/noticia/115/",
     "fuente_url": "https://orellana.gob.ec/noticia/115/",
@@ -30,10 +32,11 @@
         "id": "46dc5685bb84d628",
         "hash": "46dc5685bb84d62856c01e4323f84bd76ec81db30d11af9faf2e07f82b97c78a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01.jpg",
-        "rutaOriginal": "/media/originales/46dc5685bb84d628.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851155/orellana-web/46dc5685bb84d628.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/46dc5685bb84d628-400.webp",
-          "800w": "/media/derivados/46dc5685bb84d628-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851155/orellana-web/46dc5685bb84d628.jpg"
         },
         "ancho": 1280,
         "alto": 729,
@@ -41,7 +44,8 @@
         "alt": "Transporte digno para nuestros adultos mayores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/46dc5685bb84d628"
       }
     ]
   }

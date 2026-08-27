@@ -134,11 +134,11 @@
         "id": "67ed11036f213cc1",
         "hash": "67ed11036f213cc1f3ec10323da1d2c2cb3e7862e4d2d15025f284e073f7244c",
         "urlOriginal": "https://orellana.gob.ec/static/img/presupuestos-participativos.png",
-        "rutaOriginal": "/media/originales/67ed11036f213cc1.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849609/orellana-web/67ed11036f213cc1.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/67ed11036f213cc1-400.webp",
-          "800w": "/media/derivados/67ed11036f213cc1-800.webp",
-          "1600w": "/media/derivados/67ed11036f213cc1-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849609/orellana-web/67ed11036f213cc1.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849609/orellana-web/67ed11036f213cc1.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849609/orellana-web/67ed11036f213cc1.png"
         },
         "ancho": 2033,
         "alto": 1474,
@@ -146,7 +146,8 @@
         "alt": "",
         "altPendiente": true,
         "seccion": "transparencia",
-        "fuenteUrl": "https://orellana.gob.ec/mecanismos_participacion/"
+        "fuenteUrl": "https://orellana.gob.ec/mecanismos_participacion/",
+        "cloudinaryPublicId": "orellana-web/67ed11036f213cc1"
       }
     ],
     "documentos": [],

@@ -9,11 +9,11 @@
       "id": "845be8cae67a2ade",
       "hash": "845be8cae67a2ade6324b9888f622d965a7c94f4843f0b4962049841768ab39b",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_GWqx6RZ.JPG",
-      "rutaOriginal": "/media/originales/845be8cae67a2ade.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852561/orellana-web/845be8cae67a2ade.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/845be8cae67a2ade-400.webp",
-        "800w": "/media/derivados/845be8cae67a2ade-800.webp",
-        "1600w": "/media/derivados/845be8cae67a2ade-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/845be8cae67a2ade"
     },
     "url": "/noticia/296/",
     "fuente_url": "https://orellana.gob.ec/noticia/296/",
@@ -31,11 +32,11 @@
         "id": "845be8cae67a2ade",
         "hash": "845be8cae67a2ade6324b9888f622d965a7c94f4843f0b4962049841768ab39b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_GWqx6RZ.JPG",
-        "rutaOriginal": "/media/originales/845be8cae67a2ade.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852561/orellana-web/845be8cae67a2ade.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/845be8cae67a2ade-400.webp",
-          "800w": "/media/derivados/845be8cae67a2ade-800.webp",
-          "1600w": "/media/derivados/845be8cae67a2ade-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852561/orellana-web/845be8cae67a2ade.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/845be8cae67a2ade"
       }
     ]
   }

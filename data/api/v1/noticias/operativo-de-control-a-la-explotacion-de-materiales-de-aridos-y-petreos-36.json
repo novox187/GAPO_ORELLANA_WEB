@@ -9,11 +9,11 @@
       "id": "e9993436a9d79768",
       "hash": "e9993436a9d797686316ecb51606367dac32877c92bd16cbe0d9dee05eded0c1",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_MINERIA.jpg",
-      "rutaOriginal": "/media/originales/e9993436a9d79768.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851986/orellana-web/e9993436a9d79768.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/e9993436a9d79768-400.webp",
-        "800w": "/media/derivados/e9993436a9d79768-800.webp",
-        "1600w": "/media/derivados/e9993436a9d79768-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg"
       },
       "ancho": 2560,
       "alto": 1437,
@@ -21,7 +21,8 @@
       "alt": "Operativo de control a la explotación de materiales de áridos y pétreos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+      "cloudinaryPublicId": "orellana-web/e9993436a9d79768"
     },
     "url": "/noticia/36/",
     "fuente_url": "https://orellana.gob.ec/noticia/36/",
@@ -31,11 +32,11 @@
         "id": "e9993436a9d79768",
         "hash": "e9993436a9d797686316ecb51606367dac32877c92bd16cbe0d9dee05eded0c1",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_MINERIA.jpg",
-        "rutaOriginal": "/media/originales/e9993436a9d79768.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851986/orellana-web/e9993436a9d79768.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e9993436a9d79768-400.webp",
-          "800w": "/media/derivados/e9993436a9d79768-800.webp",
-          "1600w": "/media/derivados/e9993436a9d79768-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851986/orellana-web/e9993436a9d79768.jpg"
         },
         "ancho": 2560,
         "alto": 1437,
@@ -43,7 +44,8 @@
         "alt": "Operativo de control a la explotación de materiales de áridos y pétreos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=28",
+        "cloudinaryPublicId": "orellana-web/e9993436a9d79768"
       }
     ]
   }

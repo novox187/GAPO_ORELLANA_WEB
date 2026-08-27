@@ -9,11 +9,11 @@
       "id": "ac1bec5df27f97fd",
       "hash": "ac1bec5df27f97fdc1b2e2ad8514470a8c3790e9fadcc8531d0ba1356c084b10",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_1_IM9265.JPG",
-      "rutaOriginal": "/media/originales/ac1bec5df27f97fd.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849710/orellana-web/ac1bec5df27f97fd.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/ac1bec5df27f97fd-400.webp",
-        "800w": "/media/derivados/ac1bec5df27f97fd-800.webp",
-        "1600w": "/media/derivados/ac1bec5df27f97fd-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849710/orellana-web/ac1bec5df27f97fd.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849710/orellana-web/ac1bec5df27f97fd.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849710/orellana-web/ac1bec5df27f97fd.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía socializa el Plan de Seguridad Cantonal",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/ac1bec5df27f97fd"
     },
     "url": "/noticia/262/",
     "fuente_url": "https://orellana.gob.ec/noticia/262/",
@@ -31,11 +32,11 @@
         "id": "ac1bec5df27f97fd",
         "hash": "ac1bec5df27f97fdc1b2e2ad8514470a8c3790e9fadcc8531d0ba1356c084b10",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/06_1_IM9265.JPG",
-        "rutaOriginal": "/media/originales/ac1bec5df27f97fd.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849710/orellana-web/ac1bec5df27f97fd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/ac1bec5df27f97fd-400.webp",
-          "800w": "/media/derivados/ac1bec5df27f97fd-800.webp",
-          "1600w": "/media/derivados/ac1bec5df27f97fd-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849710/orellana-web/ac1bec5df27f97fd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849710/orellana-web/ac1bec5df27f97fd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849710/orellana-web/ac1bec5df27f97fd.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía socializa el Plan de Seguridad Cantonal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/ac1bec5df27f97fd"
       }
     ]
   }

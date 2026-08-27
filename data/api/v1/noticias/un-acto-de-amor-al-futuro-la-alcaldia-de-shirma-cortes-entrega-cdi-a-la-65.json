@@ -9,11 +9,11 @@
       "id": "c7c9dd0edaf4681c",
       "hash": "c7c9dd0edaf4681c35e9c6bd5798f06e887c1349a4cfe1b6df1d394196c2cf2d",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_DJI_0021.JPG",
-      "rutaOriginal": "/media/originales/c7c9dd0edaf4681c.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c7c9dd0edaf4681c-400.webp",
-        "800w": "/media/derivados/c7c9dd0edaf4681c-800.webp",
-        "1600w": "/media/derivados/c7c9dd0edaf4681c-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg"
       },
       "ancho": 5472,
       "alto": 3648,
@@ -21,7 +21,8 @@
       "alt": "Un acto de amor al futuro: la Alcaldía de Shirma Cortés entrega CDI a la comunidad Palma Roja",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+      "cloudinaryPublicId": "orellana-web/c7c9dd0edaf4681c"
     },
     "url": "/noticia/65/",
     "fuente_url": "https://orellana.gob.ec/noticia/65/",
@@ -31,11 +32,11 @@
         "id": "c7c9dd0edaf4681c",
         "hash": "c7c9dd0edaf4681c35e9c6bd5798f06e887c1349a4cfe1b6df1d394196c2cf2d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_DJI_0021.JPG",
-        "rutaOriginal": "/media/originales/c7c9dd0edaf4681c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c7c9dd0edaf4681c-400.webp",
-          "800w": "/media/derivados/c7c9dd0edaf4681c-800.webp",
-          "1600w": "/media/derivados/c7c9dd0edaf4681c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852832/orellana-web/c7c9dd0edaf4681c.jpg"
         },
         "ancho": 5472,
         "alto": 3648,
@@ -43,7 +44,8 @@
         "alt": "Un acto de amor al futuro: la Alcaldía de Shirma Cortés entrega CDI a la comunidad Palma Roja",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=25",
+        "cloudinaryPublicId": "orellana-web/c7c9dd0edaf4681c"
       }
     ]
   }

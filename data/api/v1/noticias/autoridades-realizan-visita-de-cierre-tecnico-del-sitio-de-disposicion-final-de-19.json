@@ -9,10 +9,11 @@
       "id": "a053a40d7c9c7bf2",
       "hash": "a053a40d7c9c7bf27d516b5f1366d79aeccb84d659865ce9ada2bdb32aaf74f3",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_RELLENO_SANITARIO.png",
-      "rutaOriginal": "/media/originales/a053a40d7c9c7bf2.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/a053a40d7c9c7bf2-400.webp",
-        "800w": "/media/derivados/a053a40d7c9c7bf2-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+      "cloudinaryPublicId": "orellana-web/a053a40d7c9c7bf2"
     },
     "url": "/noticia/19/",
     "fuente_url": "https://orellana.gob.ec/noticia/19/",
@@ -30,10 +32,11 @@
         "id": "a053a40d7c9c7bf2",
         "hash": "a053a40d7c9c7bf27d516b5f1366d79aeccb84d659865ce9ada2bdb32aaf74f3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_RELLENO_SANITARIO.png",
-        "rutaOriginal": "/media/originales/a053a40d7c9c7bf2.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/a053a40d7c9c7bf2-400.webp",
-          "800w": "/media/derivados/a053a40d7c9c7bf2-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852381/orellana-web/a053a40d7c9c7bf2.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/a053a40d7c9c7bf2"
       }
     ]
   }

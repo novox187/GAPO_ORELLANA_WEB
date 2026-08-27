@@ -9,11 +9,11 @@
       "id": "56738b8b70c40c11",
       "hash": "56738b8b70c40c1196089f82f51c0e12927fa2b45bd5a5de6ce03e621741ffae",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_MG9453.JPG",
-      "rutaOriginal": "/media/originales/56738b8b70c40c11.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849718/orellana-web/56738b8b70c40c11.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/56738b8b70c40c11-400.webp",
-        "800w": "/media/derivados/56738b8b70c40c11-800.webp",
-        "1600w": "/media/derivados/56738b8b70c40c11-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849718/orellana-web/56738b8b70c40c11.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849718/orellana-web/56738b8b70c40c11.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849718/orellana-web/56738b8b70c40c11.jpg"
       },
       "ancho": 6160,
       "alto": 4640,
@@ -21,7 +21,8 @@
       "alt": "El Coca celebró su identidad coqueña y rindió homenaje a sus raíces",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/56738b8b70c40c11"
     },
     "url": "/noticia/259/",
     "fuente_url": "https://orellana.gob.ec/noticia/259/",
@@ -31,11 +32,11 @@
         "id": "56738b8b70c40c11",
         "hash": "56738b8b70c40c1196089f82f51c0e12927fa2b45bd5a5de6ce03e621741ffae",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/03_1_MG9453.JPG",
-        "rutaOriginal": "/media/originales/56738b8b70c40c11.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849718/orellana-web/56738b8b70c40c11.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/56738b8b70c40c11-400.webp",
-          "800w": "/media/derivados/56738b8b70c40c11-800.webp",
-          "1600w": "/media/derivados/56738b8b70c40c11-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849718/orellana-web/56738b8b70c40c11.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849718/orellana-web/56738b8b70c40c11.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849718/orellana-web/56738b8b70c40c11.jpg"
         },
         "ancho": 6160,
         "alto": 4640,
@@ -43,7 +44,8 @@
         "alt": "El Coca celebró su identidad coqueña y rindió homenaje a sus raíces",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/56738b8b70c40c11"
       }
     ]
   }

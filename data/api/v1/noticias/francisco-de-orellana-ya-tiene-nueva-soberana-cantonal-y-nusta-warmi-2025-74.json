@@ -9,11 +9,11 @@
       "id": "6ad28dd0a9512e91",
       "hash": "6ad28dd0a9512e916e8d04def6b92db74763c51bd6bc188865633db3522eb709",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_IMG_0756.JPG",
-      "rutaOriginal": "/media/originales/6ad28dd0a9512e91.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851885/orellana-web/6ad28dd0a9512e91.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/6ad28dd0a9512e91-400.webp",
-        "800w": "/media/derivados/6ad28dd0a9512e91-800.webp",
-        "1600w": "/media/derivados/6ad28dd0a9512e91-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851885/orellana-web/6ad28dd0a9512e91.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851885/orellana-web/6ad28dd0a9512e91.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851885/orellana-web/6ad28dd0a9512e91.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "Francisco de Orellana ya tiene nueva soberana cantonal y Ñusta Warmi 2025",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/6ad28dd0a9512e91"
     },
     "url": "/noticia/74/",
     "fuente_url": "https://orellana.gob.ec/noticia/74/",
@@ -31,11 +32,11 @@
         "id": "6ad28dd0a9512e91",
         "hash": "6ad28dd0a9512e916e8d04def6b92db74763c51bd6bc188865633db3522eb709",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/29_IMG_0756.JPG",
-        "rutaOriginal": "/media/originales/6ad28dd0a9512e91.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851885/orellana-web/6ad28dd0a9512e91.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/6ad28dd0a9512e91-400.webp",
-          "800w": "/media/derivados/6ad28dd0a9512e91-800.webp",
-          "1600w": "/media/derivados/6ad28dd0a9512e91-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851885/orellana-web/6ad28dd0a9512e91.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851885/orellana-web/6ad28dd0a9512e91.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851885/orellana-web/6ad28dd0a9512e91.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "Francisco de Orellana ya tiene nueva soberana cantonal y Ñusta Warmi 2025",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/6ad28dd0a9512e91"
       }
     ]
   }

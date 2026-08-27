@@ -9,11 +9,11 @@
       "id": "eef2b2dc782313dd",
       "hash": "eef2b2dc782313dd37bd3ccccf618dd60f70ea22bc77444b10e072665c2b3bac",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_1_IMG_7842.JPG",
-      "rutaOriginal": "/media/originales/eef2b2dc782313dd.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852605/orellana-web/eef2b2dc782313dd.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/eef2b2dc782313dd-400.webp",
-        "800w": "/media/derivados/eef2b2dc782313dd-800.webp",
-        "1600w": "/media/derivados/eef2b2dc782313dd-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852605/orellana-web/eef2b2dc782313dd.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852605/orellana-web/eef2b2dc782313dd.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852605/orellana-web/eef2b2dc782313dd.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía refuerza la vialidad en Taracoa con acciones inmediatas en territorio",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+      "cloudinaryPublicId": "orellana-web/eef2b2dc782313dd"
     },
     "url": "/noticia/256/",
     "fuente_url": "https://orellana.gob.ec/noticia/256/",
@@ -31,11 +32,11 @@
         "id": "eef2b2dc782313dd",
         "hash": "eef2b2dc782313dd37bd3ccccf618dd60f70ea22bc77444b10e072665c2b3bac",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_1_IMG_7842.JPG",
-        "rutaOriginal": "/media/originales/eef2b2dc782313dd.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852605/orellana-web/eef2b2dc782313dd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/eef2b2dc782313dd-400.webp",
-          "800w": "/media/derivados/eef2b2dc782313dd-800.webp",
-          "1600w": "/media/derivados/eef2b2dc782313dd-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852605/orellana-web/eef2b2dc782313dd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852605/orellana-web/eef2b2dc782313dd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852605/orellana-web/eef2b2dc782313dd.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía refuerza la vialidad en Taracoa con acciones inmediatas en territorio",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=4",
+        "cloudinaryPublicId": "orellana-web/eef2b2dc782313dd"
       }
     ]
   }

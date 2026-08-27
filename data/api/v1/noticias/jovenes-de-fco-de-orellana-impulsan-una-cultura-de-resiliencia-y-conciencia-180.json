@@ -9,15 +9,20 @@
       "id": "ede622266fa3d7dc",
       "hash": "ede622266fa3d7dc853f8d82847a1630d188f8967c8a9de7bd762b6a7174da15",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20.JPG",
-      "rutaOriginal": "/media/originales/ede622266fa3d7dc.jpg",
-      "rutaDerivados": {},
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+      "rutaDerivados": {
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg"
+      },
       "ancho": 320,
       "alto": 179,
       "bytes": 16094,
       "alt": "Jóvenes de Fco. de Orellana impulsan una cultura de resiliencia y conciencia ambiental",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+      "cloudinaryPublicId": "orellana-web/ede622266fa3d7dc"
     },
     "url": "/noticia/180/",
     "fuente_url": "https://orellana.gob.ec/noticia/180/",
@@ -27,15 +32,20 @@
         "id": "ede622266fa3d7dc",
         "hash": "ede622266fa3d7dc853f8d82847a1630d188f8967c8a9de7bd762b6a7174da15",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20.JPG",
-        "rutaOriginal": "/media/originales/ede622266fa3d7dc.jpg",
-        "rutaDerivados": {},
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+        "rutaDerivados": {
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850572/orellana-web/ede622266fa3d7dc.jpg"
+        },
         "ancho": 320,
         "alto": 179,
         "bytes": 16094,
         "alt": "Jóvenes de Fco. de Orellana impulsan una cultura de resiliencia y conciencia ambiental",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=13",
+        "cloudinaryPublicId": "orellana-web/ede622266fa3d7dc"
       }
     ]
   }

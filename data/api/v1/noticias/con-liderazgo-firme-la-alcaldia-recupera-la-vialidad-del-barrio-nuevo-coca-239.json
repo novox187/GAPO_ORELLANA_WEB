@@ -9,11 +9,11 @@
       "id": "88f2093b2f950d41",
       "hash": "88f2093b2f950d418443c24e9f4d3813802638670b1d054374e80901e3901e00",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG1137.JPG",
-      "rutaOriginal": "/media/originales/88f2093b2f950d41.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852617/orellana-web/88f2093b2f950d41.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/88f2093b2f950d41-400.webp",
-        "800w": "/media/derivados/88f2093b2f950d41-800.webp",
-        "1600w": "/media/derivados/88f2093b2f950d41-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Con liderazgo firme, la Alcaldía recupera la vialidad del barrio Nuevo Coca",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+      "cloudinaryPublicId": "orellana-web/88f2093b2f950d41"
     },
     "url": "/noticia/239/",
     "fuente_url": "https://orellana.gob.ec/noticia/239/",
@@ -31,11 +32,11 @@
         "id": "88f2093b2f950d41",
         "hash": "88f2093b2f950d418443c24e9f4d3813802638670b1d054374e80901e3901e00",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG1137.JPG",
-        "rutaOriginal": "/media/originales/88f2093b2f950d41.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852617/orellana-web/88f2093b2f950d41.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/88f2093b2f950d41-400.webp",
-          "800w": "/media/derivados/88f2093b2f950d41-800.webp",
-          "1600w": "/media/derivados/88f2093b2f950d41-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852617/orellana-web/88f2093b2f950d41.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Con liderazgo firme, la Alcaldía recupera la vialidad del barrio Nuevo Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=6",
+        "cloudinaryPublicId": "orellana-web/88f2093b2f950d41"
       }
     ]
   }

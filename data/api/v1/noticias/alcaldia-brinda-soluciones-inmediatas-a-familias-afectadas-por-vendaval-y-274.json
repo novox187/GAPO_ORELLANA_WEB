@@ -9,11 +9,11 @@
       "id": "9078afabd13e831d",
       "hash": "9078afabd13e831df52810cdd7c56bc525e03d36cc4c2184a04bdc51c20e3cd8",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG2223.JPG",
-      "rutaOriginal": "/media/originales/9078afabd13e831d.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852579/orellana-web/9078afabd13e831d.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9078afabd13e831d-400.webp",
-        "800w": "/media/derivados/9078afabd13e831d-800.webp",
-        "1600w": "/media/derivados/9078afabd13e831d-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía brinda soluciones inmediatas a familias afectadas por vendaval y fuertes lluvias",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+      "cloudinaryPublicId": "orellana-web/9078afabd13e831d"
     },
     "url": "/noticia/274/",
     "fuente_url": "https://orellana.gob.ec/noticia/274/",
@@ -31,11 +32,11 @@
         "id": "9078afabd13e831d",
         "hash": "9078afabd13e831df52810cdd7c56bc525e03d36cc4c2184a04bdc51c20e3cd8",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG2223.JPG",
-        "rutaOriginal": "/media/originales/9078afabd13e831d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852579/orellana-web/9078afabd13e831d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9078afabd13e831d-400.webp",
-          "800w": "/media/derivados/9078afabd13e831d-800.webp",
-          "1600w": "/media/derivados/9078afabd13e831d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852579/orellana-web/9078afabd13e831d.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía brinda soluciones inmediatas a familias afectadas por vendaval y fuertes lluvias",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=2",
+        "cloudinaryPublicId": "orellana-web/9078afabd13e831d"
       }
     ]
   }

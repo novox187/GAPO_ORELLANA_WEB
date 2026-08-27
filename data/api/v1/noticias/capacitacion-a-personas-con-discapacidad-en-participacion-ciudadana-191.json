@@ -9,11 +9,11 @@
       "id": "d862857412302923",
       "hash": "d862857412302923bb60e933ffb576c52ae1dd5ef51fadd9480b2203b6439e13",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07.JPG",
-      "rutaOriginal": "/media/originales/d862857412302923.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850539/orellana-web/d862857412302923.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d862857412302923-400.webp",
-        "800w": "/media/derivados/d862857412302923-800.webp",
-        "1600w": "/media/derivados/d862857412302923-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Capacitación a personas con discapacidad en participación ciudadana",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+      "cloudinaryPublicId": "orellana-web/d862857412302923"
     },
     "url": "/noticia/191/",
     "fuente_url": "https://orellana.gob.ec/noticia/191/",
@@ -31,11 +32,11 @@
         "id": "d862857412302923",
         "hash": "d862857412302923bb60e933ffb576c52ae1dd5ef51fadd9480b2203b6439e13",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07.JPG",
-        "rutaOriginal": "/media/originales/d862857412302923.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850539/orellana-web/d862857412302923.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d862857412302923-400.webp",
-          "800w": "/media/derivados/d862857412302923-800.webp",
-          "1600w": "/media/derivados/d862857412302923-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850539/orellana-web/d862857412302923.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Capacitación a personas con discapacidad en participación ciudadana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=11",
+        "cloudinaryPublicId": "orellana-web/d862857412302923"
       }
     ]
   }

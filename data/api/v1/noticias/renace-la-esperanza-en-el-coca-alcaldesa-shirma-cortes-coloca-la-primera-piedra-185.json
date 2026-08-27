@@ -9,11 +9,11 @@
       "id": "40e940cd6fffcbd2",
       "hash": "40e940cd6fffcbd2cc7ecb09620f29d9554100a41b940d72a30ed0e0bbc9a97a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_aT7amj8.jpg",
-      "rutaOriginal": "/media/originales/40e940cd6fffcbd2.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850560/orellana-web/40e940cd6fffcbd2.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/40e940cd6fffcbd2-400.webp",
-        "800w": "/media/derivados/40e940cd6fffcbd2-800.webp",
-        "1600w": "/media/derivados/40e940cd6fffcbd2-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850560/orellana-web/40e940cd6fffcbd2.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850560/orellana-web/40e940cd6fffcbd2.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850560/orellana-web/40e940cd6fffcbd2.jpg"
       },
       "ancho": 6960,
       "alto": 3904,
@@ -21,7 +21,8 @@
       "alt": "¡Renace la esperanza en El Coca! Alcaldesa Shirma Cortés coloca la primera piedra del nuevo sistema de alcantarillado pluvial",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+      "cloudinaryPublicId": "orellana-web/40e940cd6fffcbd2"
     },
     "url": "/noticia/185/",
     "fuente_url": "https://orellana.gob.ec/noticia/185/",
@@ -31,11 +32,11 @@
         "id": "40e940cd6fffcbd2",
         "hash": "40e940cd6fffcbd2cc7ecb09620f29d9554100a41b940d72a30ed0e0bbc9a97a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/28_aT7amj8.jpg",
-        "rutaOriginal": "/media/originales/40e940cd6fffcbd2.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850560/orellana-web/40e940cd6fffcbd2.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/40e940cd6fffcbd2-400.webp",
-          "800w": "/media/derivados/40e940cd6fffcbd2-800.webp",
-          "1600w": "/media/derivados/40e940cd6fffcbd2-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850560/orellana-web/40e940cd6fffcbd2.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850560/orellana-web/40e940cd6fffcbd2.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850560/orellana-web/40e940cd6fffcbd2.jpg"
         },
         "ancho": 6960,
         "alto": 3904,
@@ -43,7 +44,8 @@
         "alt": "¡Renace la esperanza en El Coca! Alcaldesa Shirma Cortés coloca la primera piedra del nuevo sistema de alcantarillado pluvial",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+        "cloudinaryPublicId": "orellana-web/40e940cd6fffcbd2"
       }
     ]
   }

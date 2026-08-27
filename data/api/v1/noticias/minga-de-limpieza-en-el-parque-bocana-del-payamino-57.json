@@ -9,11 +9,11 @@
       "id": "722bd81c48df2e3f",
       "hash": "722bd81c48df2e3fd4509de59c77bfa5960880370e953d827c3a3a1d53e5bdb9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_4557.JPG",
-      "rutaOriginal": "/media/originales/722bd81c48df2e3f.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852842/orellana-web/722bd81c48df2e3f.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/722bd81c48df2e3f-400.webp",
-        "800w": "/media/derivados/722bd81c48df2e3f-800.webp",
-        "1600w": "/media/derivados/722bd81c48df2e3f-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852842/orellana-web/722bd81c48df2e3f.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852842/orellana-web/722bd81c48df2e3f.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852842/orellana-web/722bd81c48df2e3f.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Minga de limpieza en el parque Bocana del Payamino",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+      "cloudinaryPublicId": "orellana-web/722bd81c48df2e3f"
     },
     "url": "/noticia/57/",
     "fuente_url": "https://orellana.gob.ec/noticia/57/",
@@ -31,11 +32,11 @@
         "id": "722bd81c48df2e3f",
         "hash": "722bd81c48df2e3fd4509de59c77bfa5960880370e953d827c3a3a1d53e5bdb9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_IMG_4557.JPG",
-        "rutaOriginal": "/media/originales/722bd81c48df2e3f.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852842/orellana-web/722bd81c48df2e3f.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/722bd81c48df2e3f-400.webp",
-          "800w": "/media/derivados/722bd81c48df2e3f-800.webp",
-          "1600w": "/media/derivados/722bd81c48df2e3f-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852842/orellana-web/722bd81c48df2e3f.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852842/orellana-web/722bd81c48df2e3f.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852842/orellana-web/722bd81c48df2e3f.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Minga de limpieza en el parque Bocana del Payamino",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=26",
+        "cloudinaryPublicId": "orellana-web/722bd81c48df2e3f"
       }
     ]
   }

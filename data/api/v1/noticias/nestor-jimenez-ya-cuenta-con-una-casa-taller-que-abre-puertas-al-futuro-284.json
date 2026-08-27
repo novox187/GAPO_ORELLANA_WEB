@@ -9,11 +9,11 @@
       "id": "8df73a0998651729",
       "hash": "8df73a0998651729c6944974f66f1e9ca1f387b708366659d8850b6f8ffc5814",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1.JPG",
-      "rutaOriginal": "/media/originales/8df73a0998651729.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849629/orellana-web/8df73a0998651729.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/8df73a0998651729-400.webp",
-        "800w": "/media/derivados/8df73a0998651729-800.webp",
-        "1600w": "/media/derivados/8df73a0998651729-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg"
       },
       "ancho": 4096,
       "alto": 2304,
@@ -21,7 +21,8 @@
       "alt": "Néstor Jiménez ya cuenta con una Casa Taller que abre puertas al futuro",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/8df73a0998651729"
     },
     "url": "/noticia/284/",
     "fuente_url": "https://orellana.gob.ec/noticia/284/",
@@ -31,11 +32,11 @@
         "id": "8df73a0998651729",
         "hash": "8df73a0998651729c6944974f66f1e9ca1f387b708366659d8850b6f8ffc5814",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1.JPG",
-        "rutaOriginal": "/media/originales/8df73a0998651729.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849629/orellana-web/8df73a0998651729.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8df73a0998651729-400.webp",
-          "800w": "/media/derivados/8df73a0998651729-800.webp",
-          "1600w": "/media/derivados/8df73a0998651729-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849629/orellana-web/8df73a0998651729.jpg"
         },
         "ancho": 4096,
         "alto": 2304,
@@ -43,7 +44,8 @@
         "alt": "Néstor Jiménez ya cuenta con una Casa Taller que abre puertas al futuro",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/8df73a0998651729"
       }
     ]
   }

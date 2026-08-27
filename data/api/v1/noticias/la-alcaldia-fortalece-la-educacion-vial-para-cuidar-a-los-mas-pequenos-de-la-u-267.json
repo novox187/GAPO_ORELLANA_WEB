@@ -9,11 +9,11 @@
       "id": "afb03982bb74d4dd",
       "hash": "afb03982bb74d4dddc016871e90d2456b6daa288610cea1f5009cdaf2039ddf6",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG0103.JPG",
-      "rutaOriginal": "/media/originales/afb03982bb74d4dd.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849695/orellana-web/afb03982bb74d4dd.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/afb03982bb74d4dd-400.webp",
-        "800w": "/media/derivados/afb03982bb74d4dd-800.webp",
-        "1600w": "/media/derivados/afb03982bb74d4dd-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849695/orellana-web/afb03982bb74d4dd.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849695/orellana-web/afb03982bb74d4dd.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849695/orellana-web/afb03982bb74d4dd.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "La Alcaldía fortalece la educación vial para cuidar a los más pequeños de la U. E. Santiago de Quito",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/afb03982bb74d4dd"
     },
     "url": "/noticia/267/",
     "fuente_url": "https://orellana.gob.ec/noticia/267/",
@@ -31,11 +32,11 @@
         "id": "afb03982bb74d4dd",
         "hash": "afb03982bb74d4dddc016871e90d2456b6daa288610cea1f5009cdaf2039ddf6",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_1_IMG0103.JPG",
-        "rutaOriginal": "/media/originales/afb03982bb74d4dd.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849695/orellana-web/afb03982bb74d4dd.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/afb03982bb74d4dd-400.webp",
-          "800w": "/media/derivados/afb03982bb74d4dd-800.webp",
-          "1600w": "/media/derivados/afb03982bb74d4dd-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849695/orellana-web/afb03982bb74d4dd.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849695/orellana-web/afb03982bb74d4dd.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849695/orellana-web/afb03982bb74d4dd.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "La Alcaldía fortalece la educación vial para cuidar a los más pequeños de la U. E. Santiago de Quito",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/afb03982bb74d4dd"
       }
     ]
   }

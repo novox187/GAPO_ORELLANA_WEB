@@ -10,11 +10,11 @@
         "id": "8dc42ad52c18b946",
         "hash": "8dc42ad52c18b9465b933a65f2f2acf6004b1bc662e989c94e05be436f3fc30e",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/21_IMG_4068.JPG",
-        "rutaOriginal": "/media/originales/8dc42ad52c18b946.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/8dc42ad52c18b946-400.webp",
-          "800w": "/media/derivados/8dc42ad52c18b946-800.webp",
-          "1600w": "/media/derivados/8dc42ad52c18b946-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852845/orellana-web/8dc42ad52c18b946.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -22,7 +22,8 @@
         "alt": "Reapertura del centro de equidad y justicia para víctimas de violencia de género",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/8dc42ad52c18b946"
       },
       "url": "/noticia/53/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -37,11 +38,11 @@
         "id": "47e3ff2537c93bd6",
         "hash": "47e3ff2537c93bd6c13acf1be45dc364f3b5cfe07b51588a5739ac6959166a4b",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/20_IMG_3534.JPG",
-        "rutaOriginal": "/media/originales/47e3ff2537c93bd6.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/47e3ff2537c93bd6-400.webp",
-          "800w": "/media/derivados/47e3ff2537c93bd6-800.webp",
-          "1600w": "/media/derivados/47e3ff2537c93bd6-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851945/orellana-web/47e3ff2537c93bd6.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -49,7 +50,8 @@
         "alt": "Alcaldesa inaugura capacitación empresarial y marketing para emprendedores",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/47e3ff2537c93bd6"
       },
       "url": "/noticia/52/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -64,11 +66,11 @@
         "id": "c4706d76dbd5a15d",
         "hash": "c4706d76dbd5a15dfa07ccf6841fcfb13539b6ceacf70e68f35a8522c8dc31be",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_IMG_9866.JPG",
-        "rutaOriginal": "/media/originales/c4706d76dbd5a15d.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c4706d76dbd5a15d-400.webp",
-          "800w": "/media/derivados/c4706d76dbd5a15d-800.webp",
-          "1600w": "/media/derivados/c4706d76dbd5a15d-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852847/orellana-web/c4706d76dbd5a15d.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -76,7 +78,8 @@
         "alt": "Evite la adquisición ilegal de predios municipales",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/c4706d76dbd5a15d"
       },
       "url": "/noticia/51/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -91,11 +94,11 @@
         "id": "407b838c8edc9aa1",
         "hash": "407b838c8edc9aa18a445606c0e6e317c30e1f653fa0c753798650d91eb86728",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG_4292.JPG",
-        "rutaOriginal": "/media/originales/407b838c8edc9aa1.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/407b838c8edc9aa1-400.webp",
-          "800w": "/media/derivados/407b838c8edc9aa1-800.webp",
-          "1600w": "/media/derivados/407b838c8edc9aa1-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851951/orellana-web/407b838c8edc9aa1.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -103,7 +106,8 @@
         "alt": "Moradores aledaños al sitio de disposición final recorren avance de obras del cierre técnico",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/407b838c8edc9aa1"
       },
       "url": "/noticia/50/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -118,11 +122,11 @@
         "id": "29c5cc72636c3547",
         "hash": "29c5cc72636c3547b51bd00971b573d6d0af6b172568ee13f5d390f804715259",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_IMG_1800.JPG",
-        "rutaOriginal": "/media/originales/29c5cc72636c3547.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851954/orellana-web/29c5cc72636c3547.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/29c5cc72636c3547-400.webp",
-          "800w": "/media/derivados/29c5cc72636c3547-800.webp",
-          "1600w": "/media/derivados/29c5cc72636c3547-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851954/orellana-web/29c5cc72636c3547.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851954/orellana-web/29c5cc72636c3547.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851954/orellana-web/29c5cc72636c3547.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -130,7 +134,8 @@
         "alt": "Operativos de control en espacios públicos de El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/29c5cc72636c3547"
       },
       "url": "/noticia/49/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -145,11 +150,11 @@
         "id": "b661e7e899cd6560",
         "hash": "b661e7e899cd65607d38c62a3fe701254470b134122ef0a734092cdaf843fa39",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/12_IMG_1134.JPG",
-        "rutaOriginal": "/media/originales/b661e7e899cd6560.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852850/orellana-web/b661e7e899cd6560.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/b661e7e899cd6560-400.webp",
-          "800w": "/media/derivados/b661e7e899cd6560-800.webp",
-          "1600w": "/media/derivados/b661e7e899cd6560-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852850/orellana-web/b661e7e899cd6560.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -157,7 +162,8 @@
         "alt": "El Coca se pone limpia con la minga de limpieza",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/b661e7e899cd6560"
       },
       "url": "/noticia/48/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -172,11 +178,11 @@
         "id": "10d448d2ff38ca95",
         "hash": "10d448d2ff38ca9584b1c1b9787bb1d549f072b7354301069ab4177f5b2c4811",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/11_IMG_1408.JPG",
-        "rutaOriginal": "/media/originales/10d448d2ff38ca95.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/10d448d2ff38ca95-400.webp",
-          "800w": "/media/derivados/10d448d2ff38ca95-800.webp",
-          "1600w": "/media/derivados/10d448d2ff38ca95-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851960/orellana-web/10d448d2ff38ca95.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -184,7 +190,8 @@
         "alt": "Cambio de tubería de agua potable en el barrio 6 de Diciembre",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/10d448d2ff38ca95"
       },
       "url": "/noticia/47/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -199,11 +206,11 @@
         "id": "d54362cf3f005009",
         "hash": "d54362cf3f005009550147d8311ef52bd4dbeaab0318180315a50bce81c3676f",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_IMG_5566.JPG",
-        "rutaOriginal": "/media/originales/d54362cf3f005009.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851962/orellana-web/d54362cf3f005009.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d54362cf3f005009-400.webp",
-          "800w": "/media/derivados/d54362cf3f005009-800.webp",
-          "1600w": "/media/derivados/d54362cf3f005009-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851962/orellana-web/d54362cf3f005009.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851962/orellana-web/d54362cf3f005009.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851962/orellana-web/d54362cf3f005009.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -211,7 +218,8 @@
         "alt": "80% de avance tiene la construcción de la cancha cubierta de Mushuk Ayllu",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/d54362cf3f005009"
       },
       "url": "/noticia/46/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"
@@ -226,11 +234,11 @@
         "id": "e2a43f12a48b97e4",
         "hash": "e2a43f12a48b97e4771d2c80d401abae17d6a267feb2a3162cf1e886458fd214",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/07_IMG_2089.JPG",
-        "rutaOriginal": "/media/originales/e2a43f12a48b97e4.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/e2a43f12a48b97e4-400.webp",
-          "800w": "/media/derivados/e2a43f12a48b97e4-800.webp",
-          "1600w": "/media/derivados/e2a43f12a48b97e4-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852852/orellana-web/e2a43f12a48b97e4.jpg"
         },
         "ancho": 6960,
         "alto": 4640,
@@ -238,7 +246,8 @@
         "alt": "Alcaldía impulsa el desarrollo vial en Flor de Pantano",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=27",
+        "cloudinaryPublicId": "orellana-web/e2a43f12a48b97e4"
       },
       "url": "/noticia/45/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=27"

@@ -9,11 +9,11 @@
       "id": "1770b471be3de7a3",
       "hash": "1770b471be3de7a37809041f8606459ccde602aa362331c45e5705f548160649",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_DJI_0015.JPG",
-      "rutaOriginal": "/media/originales/1770b471be3de7a3.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851294/orellana-web/1770b471be3de7a3.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/1770b471be3de7a3-400.webp",
-        "800w": "/media/derivados/1770b471be3de7a3-800.webp",
-        "1600w": "/media/derivados/1770b471be3de7a3-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg"
       },
       "ancho": 4000,
       "alto": 2250,
@@ -21,7 +21,8 @@
       "alt": "Impulsando el futuro desde la primera infancia, en el CDI Gotitas de Amor",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+      "cloudinaryPublicId": "orellana-web/1770b471be3de7a3"
     },
     "url": "/noticia/107/",
     "fuente_url": "https://orellana.gob.ec/noticia/107/",
@@ -31,11 +32,11 @@
         "id": "1770b471be3de7a3",
         "hash": "1770b471be3de7a37809041f8606459ccde602aa362331c45e5705f548160649",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/19_DJI_0015.JPG",
-        "rutaOriginal": "/media/originales/1770b471be3de7a3.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851294/orellana-web/1770b471be3de7a3.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1770b471be3de7a3-400.webp",
-          "800w": "/media/derivados/1770b471be3de7a3-800.webp",
-          "1600w": "/media/derivados/1770b471be3de7a3-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851294/orellana-web/1770b471be3de7a3.jpg"
         },
         "ancho": 4000,
         "alto": 2250,
@@ -43,7 +44,8 @@
         "alt": "Impulsando el futuro desde la primera infancia, en el CDI Gotitas de Amor",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=21",
+        "cloudinaryPublicId": "orellana-web/1770b471be3de7a3"
       }
     ]
   }

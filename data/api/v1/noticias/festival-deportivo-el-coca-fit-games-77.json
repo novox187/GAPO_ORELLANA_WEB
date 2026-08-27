@@ -9,11 +9,11 @@
       "id": "d75c25d17c5a02ce",
       "hash": "d75c25d17c5a02cef1fdebc4774b87a4773314eda7daab5a0c7f99360ca45e4a",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_7818.JPG",
-      "rutaOriginal": "/media/originales/d75c25d17c5a02ce.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851743/orellana-web/d75c25d17c5a02ce.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/d75c25d17c5a02ce-400.webp",
-        "800w": "/media/derivados/d75c25d17c5a02ce-800.webp",
-        "1600w": "/media/derivados/d75c25d17c5a02ce-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851743/orellana-web/d75c25d17c5a02ce.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851743/orellana-web/d75c25d17c5a02ce.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851743/orellana-web/d75c25d17c5a02ce.jpg"
       },
       "ancho": 6000,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Festival deportivo \"El Coca Fit Games\"",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/d75c25d17c5a02ce"
     },
     "url": "/noticia/77/",
     "fuente_url": "https://orellana.gob.ec/noticia/77/",
@@ -31,11 +32,11 @@
         "id": "d75c25d17c5a02ce",
         "hash": "d75c25d17c5a02cef1fdebc4774b87a4773314eda7daab5a0c7f99360ca45e4a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/01_IMG_7818.JPG",
-        "rutaOriginal": "/media/originales/d75c25d17c5a02ce.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851743/orellana-web/d75c25d17c5a02ce.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/d75c25d17c5a02ce-400.webp",
-          "800w": "/media/derivados/d75c25d17c5a02ce-800.webp",
-          "1600w": "/media/derivados/d75c25d17c5a02ce-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851743/orellana-web/d75c25d17c5a02ce.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851743/orellana-web/d75c25d17c5a02ce.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851743/orellana-web/d75c25d17c5a02ce.jpg"
         },
         "ancho": 6000,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Festival deportivo \"El Coca Fit Games\"",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/d75c25d17c5a02ce"
       }
     ]
   }

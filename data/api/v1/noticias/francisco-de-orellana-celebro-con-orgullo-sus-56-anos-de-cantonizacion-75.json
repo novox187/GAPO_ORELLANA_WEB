@@ -9,11 +9,11 @@
       "id": "353dfcd6ed738d12",
       "hash": "353dfcd6ed738d1288d3f792736af7af0eba2285b0b8c62844645d35e9911d82",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_DJI_0914.JPG",
-      "rutaOriginal": "/media/originales/353dfcd6ed738d12.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851762/orellana-web/353dfcd6ed738d12.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/353dfcd6ed738d12-400.webp",
-        "800w": "/media/derivados/353dfcd6ed738d12-800.webp",
-        "1600w": "/media/derivados/353dfcd6ed738d12-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851762/orellana-web/353dfcd6ed738d12.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851762/orellana-web/353dfcd6ed738d12.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851762/orellana-web/353dfcd6ed738d12.jpg"
       },
       "ancho": 4032,
       "alto": 2268,
@@ -21,7 +21,8 @@
       "alt": "Francisco de Orellana celebró con orgullo sus 56 años de cantonización",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+      "cloudinaryPublicId": "orellana-web/353dfcd6ed738d12"
     },
     "url": "/noticia/75/",
     "fuente_url": "https://orellana.gob.ec/noticia/75/",
@@ -31,11 +32,11 @@
         "id": "353dfcd6ed738d12",
         "hash": "353dfcd6ed738d1288d3f792736af7af0eba2285b0b8c62844645d35e9911d82",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/30_DJI_0914.JPG",
-        "rutaOriginal": "/media/originales/353dfcd6ed738d12.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851762/orellana-web/353dfcd6ed738d12.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/353dfcd6ed738d12-400.webp",
-          "800w": "/media/derivados/353dfcd6ed738d12-800.webp",
-          "1600w": "/media/derivados/353dfcd6ed738d12-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851762/orellana-web/353dfcd6ed738d12.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851762/orellana-web/353dfcd6ed738d12.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851762/orellana-web/353dfcd6ed738d12.jpg"
         },
         "ancho": 4032,
         "alto": 2268,
@@ -43,7 +44,8 @@
         "alt": "Francisco de Orellana celebró con orgullo sus 56 años de cantonización",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=24",
+        "cloudinaryPublicId": "orellana-web/353dfcd6ed738d12"
       }
     ]
   }

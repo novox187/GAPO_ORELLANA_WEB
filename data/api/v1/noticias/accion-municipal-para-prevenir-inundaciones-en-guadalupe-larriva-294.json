@@ -9,11 +9,11 @@
       "id": "a645e6960112d85b",
       "hash": "a645e6960112d85b8d3bd41b4f913d090e14f7a604b575cda1787620fa2acb35",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_5176.JPG",
-      "rutaOriginal": "/media/originales/a645e6960112d85b.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852565/orellana-web/a645e6960112d85b.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/a645e6960112d85b-400.webp",
-        "800w": "/media/derivados/a645e6960112d85b-800.webp",
-        "1600w": "/media/derivados/a645e6960112d85b-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Acción Municipal para prevenir inundaciones en Guadalupe Larriva",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/",
+      "cloudinaryPublicId": "orellana-web/a645e6960112d85b"
     },
     "url": "/noticia/294/",
     "fuente_url": "https://orellana.gob.ec/noticia/294/",
@@ -31,11 +32,11 @@
         "id": "a645e6960112d85b",
         "hash": "a645e6960112d85b8d3bd41b4f913d090e14f7a604b575cda1787620fa2acb35",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_IMG_5176.JPG",
-        "rutaOriginal": "/media/originales/a645e6960112d85b.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852565/orellana-web/a645e6960112d85b.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/a645e6960112d85b-400.webp",
-          "800w": "/media/derivados/a645e6960112d85b-800.webp",
-          "1600w": "/media/derivados/a645e6960112d85b-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852565/orellana-web/a645e6960112d85b.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Acción Municipal para prevenir inundaciones en Guadalupe Larriva",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/",
+        "cloudinaryPublicId": "orellana-web/a645e6960112d85b"
       }
     ]
   }

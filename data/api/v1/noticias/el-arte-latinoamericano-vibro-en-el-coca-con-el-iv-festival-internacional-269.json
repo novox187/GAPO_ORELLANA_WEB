@@ -9,11 +9,11 @@
       "id": "664c9c502ad9b91c",
       "hash": "664c9c502ad9b91c275d2fc32511dc6fc619fe7e85ee3c3b76fbb31de2c4f673",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG0978.jpg",
-      "rutaOriginal": "/media/originales/664c9c502ad9b91c.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849689/orellana-web/664c9c502ad9b91c.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/664c9c502ad9b91c-400.webp",
-        "800w": "/media/derivados/664c9c502ad9b91c-800.webp",
-        "1600w": "/media/derivados/664c9c502ad9b91c-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849689/orellana-web/664c9c502ad9b91c.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849689/orellana-web/664c9c502ad9b91c.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849689/orellana-web/664c9c502ad9b91c.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "El arte latinoamericano vibró en El Coca con el IV Festival Internacional Antisuyuk",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/664c9c502ad9b91c"
     },
     "url": "/noticia/269/",
     "fuente_url": "https://orellana.gob.ec/noticia/269/",
@@ -31,11 +32,11 @@
         "id": "664c9c502ad9b91c",
         "hash": "664c9c502ad9b91c275d2fc32511dc6fc619fe7e85ee3c3b76fbb31de2c4f673",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/17_IMG0978.jpg",
-        "rutaOriginal": "/media/originales/664c9c502ad9b91c.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849689/orellana-web/664c9c502ad9b91c.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/664c9c502ad9b91c-400.webp",
-          "800w": "/media/derivados/664c9c502ad9b91c-800.webp",
-          "1600w": "/media/derivados/664c9c502ad9b91c-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849689/orellana-web/664c9c502ad9b91c.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849689/orellana-web/664c9c502ad9b91c.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849689/orellana-web/664c9c502ad9b91c.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "El arte latinoamericano vibró en El Coca con el IV Festival Internacional Antisuyuk",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/664c9c502ad9b91c"
       }
     ]
   }

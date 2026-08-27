@@ -9,11 +9,11 @@
       "id": "1cf42debcede1273",
       "hash": "1cf42debcede12736c4e0a4d9469e924dbd830398851a25e4b02d764421db9c4",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_2404.JPG",
-      "rutaOriginal": "/media/originales/1cf42debcede1273.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851285/orellana-web/1cf42debcede1273.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/1cf42debcede1273-400.webp",
-        "800w": "/media/derivados/1cf42debcede1273-800.webp",
-        "1600w": "/media/derivados/1cf42debcede1273-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía impulsa talleres de protección, seguridad y política para personas con discapacidad en Dayuma y Taracoa",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+      "cloudinaryPublicId": "orellana-web/1cf42debcede1273"
     },
     "url": "/noticia/110/",
     "fuente_url": "https://orellana.gob.ec/noticia/110/",
@@ -31,11 +32,11 @@
         "id": "1cf42debcede1273",
         "hash": "1cf42debcede12736c4e0a4d9469e924dbd830398851a25e4b02d764421db9c4",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/24_IMG_2404.JPG",
-        "rutaOriginal": "/media/originales/1cf42debcede1273.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787851285/orellana-web/1cf42debcede1273.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/1cf42debcede1273-400.webp",
-          "800w": "/media/derivados/1cf42debcede1273-800.webp",
-          "1600w": "/media/derivados/1cf42debcede1273-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787851285/orellana-web/1cf42debcede1273.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía impulsa talleres de protección, seguridad y política para personas con discapacidad en Dayuma y Taracoa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=20",
+        "cloudinaryPublicId": "orellana-web/1cf42debcede1273"
       }
     ]
   }

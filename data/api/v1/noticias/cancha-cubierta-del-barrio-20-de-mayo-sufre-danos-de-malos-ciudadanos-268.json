@@ -9,11 +9,11 @@
       "id": "9399b26e74881e10",
       "hash": "9399b26e74881e10cabd459fbf2af38b6e796c22eb5bdafed2e6b735e23594b9",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_1_IM445.JPG",
-      "rutaOriginal": "/media/originales/9399b26e74881e10.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849692/orellana-web/9399b26e74881e10.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/9399b26e74881e10-400.webp",
-        "800w": "/media/derivados/9399b26e74881e10-800.webp",
-        "1600w": "/media/derivados/9399b26e74881e10-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849692/orellana-web/9399b26e74881e10.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849692/orellana-web/9399b26e74881e10.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849692/orellana-web/9399b26e74881e10.jpg"
       },
       "ancho": 5328,
       "alto": 4000,
@@ -21,7 +21,8 @@
       "alt": "Cancha cubierta del barrio 20 de Mayo sufre daños de malos ciudadanos",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+      "cloudinaryPublicId": "orellana-web/9399b26e74881e10"
     },
     "url": "/noticia/268/",
     "fuente_url": "https://orellana.gob.ec/noticia/268/",
@@ -31,11 +32,11 @@
         "id": "9399b26e74881e10",
         "hash": "9399b26e74881e10cabd459fbf2af38b6e796c22eb5bdafed2e6b735e23594b9",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_1_IM445.JPG",
-        "rutaOriginal": "/media/originales/9399b26e74881e10.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787849692/orellana-web/9399b26e74881e10.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/9399b26e74881e10-400.webp",
-          "800w": "/media/derivados/9399b26e74881e10-800.webp",
-          "1600w": "/media/derivados/9399b26e74881e10-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787849692/orellana-web/9399b26e74881e10.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787849692/orellana-web/9399b26e74881e10.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787849692/orellana-web/9399b26e74881e10.jpg"
         },
         "ancho": 5328,
         "alto": 4000,
@@ -43,7 +44,8 @@
         "alt": "Cancha cubierta del barrio 20 de Mayo sufre daños de malos ciudadanos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=3",
+        "cloudinaryPublicId": "orellana-web/9399b26e74881e10"
       }
     ]
   }

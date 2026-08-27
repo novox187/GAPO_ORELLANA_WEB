@@ -10,10 +10,11 @@
         "id": "bbed663307e02477",
         "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
-        "rutaOriginal": "/media/originales/bbed663307e02477.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852384/orellana-web/bbed663307e02477.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/bbed663307e02477-400.webp",
-          "800w": "/media/derivados/bbed663307e02477-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -21,7 +22,8 @@
         "alt": "Operativo de control del taxímetro en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/bbed663307e02477"
       },
       "url": "/noticia/17/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -36,10 +38,11 @@
         "id": "8a1f37d578c5837f",
         "hash": "8a1f37d578c5837ff13692cc1531ea90a20fa87d12ea93204ddf14a477233901",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/15_CORTE_Y_CONFECCION.png",
-        "rutaOriginal": "/media/originales/8a1f37d578c5837f.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852386/orellana-web/8a1f37d578c5837f.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/8a1f37d578c5837f-400.webp",
-          "800w": "/media/derivados/8a1f37d578c5837f-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852386/orellana-web/8a1f37d578c5837f.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -47,7 +50,8 @@
         "alt": "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/8a1f37d578c5837f"
       },
       "url": "/noticia/16/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -62,10 +66,11 @@
         "id": "7e2b48491a95696a",
         "hash": "7e2b48491a95696a78fb22727d76ba9a52f33e1e10c7d2bbdfa43795fe9e227a",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/14_FIRMA_CONVENIO_MIES.png",
-        "rutaOriginal": "/media/originales/7e2b48491a95696a.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852388/orellana-web/7e2b48491a95696a.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/7e2b48491a95696a-400.webp",
-          "800w": "/media/derivados/7e2b48491a95696a-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852388/orellana-web/7e2b48491a95696a.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -73,7 +78,8 @@
         "alt": "Alcaldía y MIES firman convenios para la inclusión social",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/7e2b48491a95696a"
       },
       "url": "/noticia/14/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -88,10 +94,11 @@
         "id": "0d4508b5eec67d78",
         "hash": "0d4508b5eec67d786d67c6610b48d378d8b26a2730167c3cb4e31e57a498e97c",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/13_SENALIZACION_HORIZONTAL.png",
-        "rutaOriginal": "/media/originales/0d4508b5eec67d78.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852390/orellana-web/0d4508b5eec67d78.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/0d4508b5eec67d78-400.webp",
-          "800w": "/media/derivados/0d4508b5eec67d78-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852390/orellana-web/0d4508b5eec67d78.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -99,7 +106,8 @@
         "alt": "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/0d4508b5eec67d78"
       },
       "url": "/noticia/13/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -114,10 +122,11 @@
         "id": "bbed663307e02477",
         "hash": "bbed663307e0247797fee508e52fbb5be9eebad47470f3ebb367d9df35f9afed",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/16_OPERATIVO_TAXIMETRO.png",
-        "rutaOriginal": "/media/originales/bbed663307e02477.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852384/orellana-web/bbed663307e02477.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/bbed663307e02477-400.webp",
-          "800w": "/media/derivados/bbed663307e02477-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852384/orellana-web/bbed663307e02477.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -125,7 +134,8 @@
         "alt": "Operativo de control del taxímetro en El Coca",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/bbed663307e02477"
       },
       "url": "/noticia/15/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -140,10 +150,11 @@
         "id": "68a8b27cbcce2525",
         "hash": "68a8b27cbcce25250dc332d36487252858b078fdabd14d257960b08a4f940304",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/09_NO_USO_CELULAR.png",
-        "rutaOriginal": "/media/originales/68a8b27cbcce2525.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852392/orellana-web/68a8b27cbcce2525.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/68a8b27cbcce2525-400.webp",
-          "800w": "/media/derivados/68a8b27cbcce2525-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852392/orellana-web/68a8b27cbcce2525.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -151,7 +162,8 @@
         "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/68a8b27cbcce2525"
       },
       "url": "/noticia/11/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -166,10 +178,11 @@
         "id": "57a2ae47a12b0318",
         "hash": "57a2ae47a12b031831d35f970c0c8d7f867b37ae25b77c0a3055385722226f83",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/10_ROBO_SENALETICA.png",
-        "rutaOriginal": "/media/originales/57a2ae47a12b0318.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852394/orellana-web/57a2ae47a12b0318.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/57a2ae47a12b0318-400.webp",
-          "800w": "/media/derivados/57a2ae47a12b0318-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852394/orellana-web/57a2ae47a12b0318.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852394/orellana-web/57a2ae47a12b0318.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852394/orellana-web/57a2ae47a12b0318.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -177,7 +190,8 @@
         "alt": "Señalización horizontal para prevención del uso del celular y reductores de velocidad",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/57a2ae47a12b0318"
       },
       "url": "/noticia/12/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -192,10 +206,11 @@
         "id": "29f9e8f8a214e6ea",
         "hash": "29f9e8f8a214e6ea343611336416151d92cd7701171ea18bd2b85b9fd877ed88",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/08_ATENCION_CIUDADANA.png",
-        "rutaOriginal": "/media/originales/29f9e8f8a214e6ea.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/29f9e8f8a214e6ea-400.webp",
-          "800w": "/media/derivados/29f9e8f8a214e6ea-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852412/orellana-web/29f9e8f8a214e6ea.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -203,7 +218,8 @@
         "alt": "Alcaldía prioriza la atención ciudadana personal y grupal",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/29f9e8f8a214e6ea"
       },
       "url": "/noticia/10/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"
@@ -218,10 +234,11 @@
         "id": "575e98bad477f356",
         "hash": "575e98bad477f3561e4eb22b8a80d749e7f1308b2453253cc431b9000521da2d",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/REGULACION_PROPAGANDA.jpg",
-        "rutaOriginal": "/media/originales/575e98bad477f356.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852414/orellana-web/575e98bad477f356.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/575e98bad477f356-400.webp",
-          "800w": "/media/derivados/575e98bad477f356-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852414/orellana-web/575e98bad477f356.jpg"
         },
         "ancho": 900,
         "alto": 600,
@@ -229,7 +246,8 @@
         "alt": "Alcaldía regula propaganda electoral en espacios públicos",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=31",
+        "cloudinaryPublicId": "orellana-web/575e98bad477f356"
       },
       "url": "/noticia/9/",
       "fuente_url": "https://orellana.gob.ec/noticias/?page=31"

@@ -9,10 +9,11 @@
       "id": "4a705e3282de2273",
       "hash": "4a705e3282de2273d0ad29ecf91555e8aca02de824a275df907a13c6c01f6af3",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_VISITA_ESTUDIANTES.png",
-      "rutaOriginal": "/media/originales/4a705e3282de2273.png",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852253/orellana-web/4a705e3282de2273.png",
       "rutaDerivados": {
-        "400w": "/media/derivados/4a705e3282de2273-400.webp",
-        "800w": "/media/derivados/4a705e3282de2273-800.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png"
       },
       "ancho": 900,
       "alto": 600,
@@ -20,7 +21,8 @@
       "alt": "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+      "cloudinaryPublicId": "orellana-web/4a705e3282de2273"
     },
     "url": "/noticia/23/",
     "fuente_url": "https://orellana.gob.ec/noticia/23/",
@@ -30,10 +32,11 @@
         "id": "4a705e3282de2273",
         "hash": "4a705e3282de2273d0ad29ecf91555e8aca02de824a275df907a13c6c01f6af3",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/27_VISITA_ESTUDIANTES.png",
-        "rutaOriginal": "/media/originales/4a705e3282de2273.png",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787852253/orellana-web/4a705e3282de2273.png",
         "rutaDerivados": {
-          "400w": "/media/derivados/4a705e3282de2273-400.webp",
-          "800w": "/media/derivados/4a705e3282de2273-800.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787852253/orellana-web/4a705e3282de2273.png"
         },
         "ancho": 900,
         "alto": 600,
@@ -41,7 +44,8 @@
         "alt": "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=30",
+        "cloudinaryPublicId": "orellana-web/4a705e3282de2273"
       }
     ]
   }

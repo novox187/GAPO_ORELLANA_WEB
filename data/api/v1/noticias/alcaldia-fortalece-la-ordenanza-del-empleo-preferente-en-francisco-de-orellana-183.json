@@ -9,11 +9,11 @@
       "id": "c00ffbe14d544aec",
       "hash": "c00ffbe14d544aec54258df7c7fccb74e27e36ae1091a1dd28fa1d3e9a1eba15",
       "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23.JPG",
-      "rutaOriginal": "/media/originales/c00ffbe14d544aec.jpg",
+      "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850565/orellana-web/c00ffbe14d544aec.jpg",
       "rutaDerivados": {
-        "400w": "/media/derivados/c00ffbe14d544aec-400.webp",
-        "800w": "/media/derivados/c00ffbe14d544aec-800.webp",
-        "1600w": "/media/derivados/c00ffbe14d544aec-1600.webp"
+        "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850565/orellana-web/c00ffbe14d544aec.jpg",
+        "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850565/orellana-web/c00ffbe14d544aec.jpg",
+        "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850565/orellana-web/c00ffbe14d544aec.jpg"
       },
       "ancho": 6000,
       "alto": 3368,
@@ -21,7 +21,8 @@
       "alt": "Alcaldía fortalece la Ordenanza del Empleo Preferente en Francisco de Orellana",
       "altPendiente": false,
       "seccion": "noticias",
-      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+      "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+      "cloudinaryPublicId": "orellana-web/c00ffbe14d544aec"
     },
     "url": "/noticia/183/",
     "fuente_url": "https://orellana.gob.ec/noticia/183/",
@@ -31,11 +32,11 @@
         "id": "c00ffbe14d544aec",
         "hash": "c00ffbe14d544aec54258df7c7fccb74e27e36ae1091a1dd28fa1d3e9a1eba15",
         "urlOriginal": "https://orellana.gob.ec/media/img/images-noticias/23.JPG",
-        "rutaOriginal": "/media/originales/c00ffbe14d544aec.jpg",
+        "rutaOriginal": "https://res.cloudinary.com/ddajcyupy/image/upload/v1787850565/orellana-web/c00ffbe14d544aec.jpg",
         "rutaDerivados": {
-          "400w": "/media/derivados/c00ffbe14d544aec-400.webp",
-          "800w": "/media/derivados/c00ffbe14d544aec-800.webp",
-          "1600w": "/media/derivados/c00ffbe14d544aec-1600.webp"
+          "400w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_400,f_auto,q_auto/v1787850565/orellana-web/c00ffbe14d544aec.jpg",
+          "800w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_800,f_auto,q_auto/v1787850565/orellana-web/c00ffbe14d544aec.jpg",
+          "1600w": "https://res.cloudinary.com/ddajcyupy/image/upload/w_1600,f_auto,q_auto/v1787850565/orellana-web/c00ffbe14d544aec.jpg"
         },
         "ancho": 6000,
         "alto": 3368,
@@ -43,7 +44,8 @@
         "alt": "Alcaldía fortalece la Ordenanza del Empleo Preferente en Francisco de Orellana",
         "altPendiente": false,
         "seccion": "noticias",
-        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12"
+        "fuenteUrl": "https://orellana.gob.ec/noticias/?page=12",
+        "cloudinaryPublicId": "orellana-web/c00ffbe14d544aec"
       }
     ]
   }

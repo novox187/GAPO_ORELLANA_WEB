@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { ETIQUETA_CATEGORIA } from '$lib/api';
+	import Migas from '$lib/components/Migas.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -40,8 +41,11 @@
 	});
 
 	const totalMarcables = $derived(grupos.reduce((n, g) => n + g.items.length, 0));
+	const progreso = $derived(totalMarcables ? Math.round((marcados.size / totalMarcables) * 100) : 0);
+	const completo = $derived(totalMarcables > 0 && marcados.size === totalMarcables);
 
 	const categoriaPrincipal = $derived(t.categorias[0]);
+
 	const secciones = $derived(
 		[
 			t.que_es && { id: 'que-es', titulo: '¿Qué es?', texto: t.que_es },
@@ -53,6 +57,21 @@
 			}
 		].filter((s) => s !== undefined && s !== '')
 	);
+
+	/**
+	 * Texto corto del costo para la franja de datos. `tiene_costo: null`
+	 * significa que la fuente no lo dice — no es lo mismo que gratis, y
+	 * afirmarlo sería inventar información municipal.
+	 */
+	const costoBreve = $derived(
+		t.costo.tiene_costo === false
+			? 'Sin costo'
+			: t.costo.valor_referencial != null
+				? `$${t.costo.valor_referencial}`
+				: t.costo.detalle
+					? t.costo.detalle
+					: 'No especificado'
+	);
 </script>
 
 <svelte:head>
@@ -60,136 +79,206 @@
 	<meta name="description" content={t.resumen || t.que_es} />
 </svelte:head>
 
-<article>
-	<!-- Encabezado de ficha -->
+<article class="pb-28 lg:pb-0">
+	<!-- ══ Encabezado ═══════════════════════════════════════════════════ -->
 	<header class="border-b border-[var(--borde)] bg-[var(--superficie-alt)]">
-		<div class="contenedor py-10 md:py-14">
-			<nav aria-label="Ruta" class="mb-6 text-sm text-[var(--texto-suave)]">
-				<a href="/" class="no-underline hover:underline">Inicio</a>
-				<span class="mx-2 opacity-40">/</span>
-				<a href="/tramites" class="no-underline hover:underline">Trámites</a>
-				{#if categoriaPrincipal}
-					<span class="mx-2 opacity-40">/</span>
-					<a href="/tramites?categoria={categoriaPrincipal}" class="no-underline hover:underline">
-						{ETIQUETA_CATEGORIA[categoriaPrincipal] ?? categoriaPrincipal}
-					</a>
-				{/if}
-			</nav>
+		<div class="contenedor pt-6 pb-8 md:pt-10 md:pb-12">
+			<Migas
+				tramos={[
+					{ texto: 'Inicio', href: '/' },
+					{ texto: 'Trámites', href: '/tramites' },
+					...(categoriaPrincipal
+						? [
+								{
+									texto: ETIQUETA_CATEGORIA[categoriaPrincipal] ?? categoriaPrincipal,
+									href: `/tramites?categoria=${categoriaPrincipal}`
+								}
+							]
+						: [])
+				]}
+			/>
 
-			<p class="text-[0.75rem] font-semibold tracking-[0.16em] text-[var(--texto-suave)] uppercase">
-				{t.direccion.nombre}
-			</p>
-			<h1 class="display mt-3 max-w-4xl text-[clamp(1.9rem,4.2vw,3.1rem)]">{t.nombre}</h1>
+			<h1 class="display max-w-4xl text-[clamp(1.55rem,4.2vw,3rem)]">{t.nombre}</h1>
+
 			{#if t.resumen}
-				<p class="mt-5 max-w-2xl text-[1.05rem] leading-relaxed text-[var(--texto-suave)]">
+				<p class="mt-4 max-w-2xl leading-relaxed text-[var(--texto-suave)] md:text-[1.05rem]">
 					{t.resumen}
 				</p>
 			{/if}
+
+			<!--
+				Franja de datos clave, arriba y no en una barra lateral que en
+				móvil caía al final de 5.600 px de scroll. Costo y dirección son
+				lo primero que alguien quiere saber antes de leer nada más.
+			-->
+			<dl class="mt-6 grid grid-cols-2 gap-px overflow-hidden border border-[var(--borde)] bg-[var(--borde)] sm:grid-cols-3">
+				<div class="bg-[var(--superficie-elevada)] px-4 py-3">
+					<dt class="text-[0.68rem] font-bold tracking-wide text-[var(--texto-suave)] uppercase">
+						Costo
+					</dt>
+					<dd class="mt-1 text-[0.92rem] leading-snug font-bold">{costoBreve}</dd>
+				</div>
+				<div class="bg-[var(--superficie-elevada)] px-4 py-3">
+					<dt class="text-[0.68rem] font-bold tracking-wide text-[var(--texto-suave)] uppercase">
+						Requisitos
+					</dt>
+					<dd class="mt-1 text-[0.92rem] leading-snug font-bold">
+						{totalMarcables || '—'}
+						{totalMarcables ? 'documentos' : ''}
+					</dd>
+				</div>
+				<div class="col-span-2 bg-[var(--superficie-elevada)] px-4 py-3 sm:col-span-1">
+					<dt class="text-[0.68rem] font-bold tracking-wide text-[var(--texto-suave)] uppercase">
+						Lo atiende
+					</dt>
+					<dd class="mt-1 text-[0.92rem] leading-snug font-bold">{t.direccion.nombre}</dd>
+				</div>
+			</dl>
 		</div>
 	</header>
 
-	<div class="contenedor grid gap-12 py-12 md:py-16 lg:grid-cols-[1fr_19rem] lg:gap-16">
+	<div class="contenedor grid gap-10 py-8 md:py-12 lg:grid-cols-[1fr_18rem] lg:gap-14">
 		<div class="min-w-0">
 			{#if t.requiere_revision_editorial}
 				<div
-					class="mb-10 flex gap-3.5 rounded-lg border-l-4 border-[var(--color-ambar-600)] bg-[var(--color-ambar-100)] p-5"
+					class="mb-8 flex gap-3 border-l-4 border-[var(--aviso-borde)] bg-[var(--aviso-fondo)] p-4"
 					role="note"
 				>
 					<svg
-						width="20"
-						height="20"
+						width="19"
+						height="19"
 						viewBox="0 0 24 24"
 						fill="none"
 						aria-hidden="true"
-						class="mt-0.5 shrink-0 text-[var(--color-ambar-700)]"
+						class="mt-0.5 shrink-0 text-[var(--aviso-tinta)]"
 					>
 						<path d="M12 8v5m0 3.5v.5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" />
 						<circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" />
 					</svg>
-					<p class="text-[0.92rem] leading-relaxed text-[var(--color-ambar-700)]">
-						<strong class="font-semibold">Procedimiento pendiente de validación.</strong>
-						La fuente municipal no detalla un paso a paso completo para este trámite. Lo que ves es lo
-						publicado hoy; confírmalo con la dirección responsable antes de tratarlo como definitivo.
+					<p class="text-[0.88rem] leading-relaxed text-[var(--aviso-tinta)]">
+						<strong class="font-bold">Procedimiento pendiente de validación.</strong>
+						La fuente municipal no detalla un paso a paso completo. Confírmalo con
+						{t.direccion.nombre} antes de tratarlo como definitivo.
 					</p>
 				</div>
 			{/if}
 
-			{#each secciones as s (s.id)}
-				<section class="mb-10">
-					<h2 class="display mb-3 text-[1.45rem]">{s.titulo}</h2>
-					<p class="max-w-2xl leading-relaxed text-[var(--texto-suave)]">{s.texto}</p>
-				</section>
-			{/each}
+			<!-- ══ Requisitos: lo accionable va primero ══════════════════ -->
+			<section class="mb-10" aria-labelledby="titulo-requisitos">
+				<h2 id="titulo-requisitos" class="display text-[1.35rem] md:text-[1.5rem]">
+					¿Qué necesitas?
+				</h2>
 
-			<!-- Requisitos como checklist marcable -->
-			<section class="mb-10">
-				<h2 class="display mb-1 text-[1.45rem]">¿Qué necesitas?</h2>
 				{#if t.requisitos.length}
-					<p class="mb-6 text-sm text-[var(--texto-suave)]">
-						Marca lo que ya tengas listo. {marcados.size} de {totalMarcables} completados.
-					</p>
-
-					{#each grupos as g, gi (gi)}
-						{#if g.etapa}
-							<h3
-								class="mt-8 mb-3 flex items-start gap-3 text-[0.95rem] leading-snug font-semibold first:mt-0"
-							>
-								<span
-									class="mt-px flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-[var(--color-noche-900)] text-[0.75rem] text-white"
-									aria-hidden="true">{gi + 1}</span
+					<!--
+						Progreso pegajoso: en una lista de trece documentos, saber
+						cuántos llevas es justo el dato que desaparece al hacer
+						scroll. Se ancla bajo la cabecera, que también es pegajosa.
+					-->
+					<div class="progreso sticky z-10 -mx-5 mt-3 bg-[var(--superficie)] px-5 py-2.5 md:-mx-8 md:px-8">
+						<div class="flex items-center justify-between gap-4">
+							<p class="text-[0.85rem] font-semibold" role="status" aria-live="polite">
+								{#if completo}
+									<span class="text-[var(--enlace)]">Ya tienes todo listo</span>
+								{:else}
+									{marcados.size} de {totalMarcables} listos
+								{/if}
+							</p>
+							{#if marcados.size > 0}
+								<button
+									type="button"
+									onclick={() => (marcados = new Set())}
+									class="min-h-9 cursor-pointer text-[0.8rem] font-semibold text-[var(--texto-suave)] underline underline-offset-2"
 								>
-								{g.etapa}
-							</h3>
-						{/if}
-						<ul class="space-y-2.5 {g.etapa ? 'ml-9' : ''}">
-							{#each g.items as it (it.i)}
-								<li>
-									<label
-										class="flex cursor-pointer gap-3.5 rounded-lg border border-[var(--borde)] bg-[var(--superficie-elevada)] p-4 transition-colors hover:border-[var(--acento)] has-[:checked]:border-[var(--acento)] has-[:checked]:bg-[var(--color-ambar-100)]"
+									Reiniciar
+								</button>
+							{/if}
+						</div>
+						<div
+							class="mt-2 h-1.5 w-full bg-[var(--borde)]"
+							role="progressbar"
+							aria-valuenow={marcados.size}
+							aria-valuemin="0"
+							aria-valuemax={totalMarcables}
+							aria-label="Requisitos que ya tienes"
+						>
+							<div
+								class="barra-progreso h-full bg-[var(--color-selva-600)]"
+								style="width: {progreso}%"
+							></div>
+						</div>
+					</div>
+
+					<div class="mt-4 flex flex-col gap-6">
+						{#each grupos as g, gi (gi)}
+							<div>
+								{#if g.etapa}
+									<!--
+										La etapa se marca con un canto de color, no con
+										`ml-9` en la lista: en un teléfono de 375 px esa
+										sangría se comía 36 px de cada tarjeta.
+									-->
+									<h3
+										class="mb-2.5 flex items-start gap-3 border-l-4 border-[var(--color-achiote-500)] py-1 pl-3 text-[0.9rem] leading-snug font-bold"
 									>
-										<input
-											type="checkbox"
-											checked={marcados.has(it.i)}
-											onchange={() => alternar(it.i)}
-											class="mt-0.5 h-5 w-5 shrink-0 accent-[var(--acento)]"
-										/>
-										<span class="text-[0.95rem] leading-relaxed">
-											{it.texto}
-											{#if it.url}
-												<a
-													href={it.url}
-													target="_blank"
-													rel="noopener"
-													class="ml-1 font-semibold text-[var(--enlace)] underline underline-offset-2"
-													>Descargar formulario</a
-												>
-											{/if}
-										</span>
-									</label>
-								</li>
-							{/each}
-						</ul>
-					{/each}
+										<span
+											class="mt-px inline-flex h-5 w-5 shrink-0 items-center justify-center bg-[var(--color-carbon-900)] text-[0.7rem] text-white"
+											aria-hidden="true">{gi + 1}</span
+										>
+										{g.etapa}
+									</h3>
+								{/if}
+
+								<ul class="flex flex-col gap-1.5">
+									{#each g.items as it (it.i)}
+										<li>
+											<label class="requisito flex cursor-pointer gap-3 border border-[var(--borde)] bg-[var(--superficie-elevada)] p-3.5">
+												<input
+													type="checkbox"
+													checked={marcados.has(it.i)}
+													onchange={() => alternar(it.i)}
+													class="mt-0.5 h-6 w-6 shrink-0 accent-[var(--color-selva-600)]"
+												/>
+												<span class="min-w-0 text-[0.92rem] leading-relaxed">
+													{it.texto}
+													{#if it.url}
+														<a
+															href={it.url}
+															target="_blank"
+															rel="noopener"
+															class="ml-1 inline-flex min-h-9 items-center font-bold text-[var(--enlace)] underline underline-offset-2"
+														>
+															Descargar formulario
+														</a>
+													{/if}
+												</span>
+											</label>
+										</li>
+									{/each}
+								</ul>
+							</div>
+						{/each}
+					</div>
 				{:else}
-					<p class="max-w-2xl leading-relaxed text-[var(--texto-suave)]">
-						Este trámite no lista requisitos formales en la fuente municipal. Consulta directamente
-						con {t.direccion.nombre}.
+					<p class="mt-3 max-w-2xl leading-relaxed text-[var(--texto-suave)]">
+						Este trámite no lista requisitos formales en la fuente municipal. Consúltalo
+						directamente con {t.direccion.nombre}.
 					</p>
 				{/if}
 			</section>
 
 			{#if t.pasos.length}
 				<section class="mb-10">
-					<h2 class="display mb-5 text-[1.45rem]">Paso a paso</h2>
-					<ol class="space-y-5">
+					<h2 class="display mb-4 text-[1.35rem] md:text-[1.5rem]">Paso a paso</h2>
+					<ol class="flex flex-col gap-4">
 						{#each t.pasos as p (p.orden)}
-							<li class="flex gap-4">
+							<li class="flex gap-3.5">
 								<span
-									class="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[var(--color-noche-900)] text-sm font-semibold text-white"
+									class="flex h-8 w-8 shrink-0 items-center justify-center bg-[var(--color-carbon-900)] text-sm font-bold text-white"
 									aria-hidden="true">{p.orden}</span
 								>
-								<div>
-									<h3 class="font-semibold">{p.titulo}</h3>
+								<div class="min-w-0">
+									<h3 class="font-bold">{p.titulo}</h3>
 									<p class="mt-1 leading-relaxed text-[var(--texto-suave)]">{p.descripcion}</p>
 								</div>
 							</li>
@@ -200,21 +289,21 @@
 
 			{#if t.formularios.length}
 				<section class="mb-10">
-					<h2 class="display mb-5 text-[1.45rem]">Formularios y descargas</h2>
-					<ul class="space-y-2.5">
+					<h2 class="display mb-4 text-[1.35rem] md:text-[1.5rem]">Formularios y descargas</h2>
+					<ul class="flex flex-col gap-1.5">
 						{#each t.formularios as f (f.url)}
 							<li>
 								<a
 									href={f.url}
 									target="_blank"
 									rel="noopener"
-									class="flex items-center gap-3 rounded-lg border border-[var(--borde)] p-4 no-underline transition-colors hover:border-[var(--acento)]"
+									class="descarga flex min-h-14 items-center gap-3 border border-[var(--borde)] p-3.5 no-underline"
 								>
 									<span
-										class="rounded bg-[var(--superficie-alt)] px-2 py-1 text-[0.68rem] font-bold tracking-wide uppercase"
+										class="shrink-0 bg-[var(--superficie-alt)] px-2 py-1 text-[0.66rem] font-bold tracking-wide uppercase"
 										>{f.tipo}</span
 									>
-									<span class="font-medium">{f.nombre}</span>
+									<span class="min-w-0 font-semibold">{f.nombre}</span>
 								</a>
 							</li>
 						{/each}
@@ -222,41 +311,109 @@
 				</section>
 			{/if}
 
+			<!--
+				La prosa va después de lo accionable y plegada en móvil. Quien
+				entra a un trámite viene a por los requisitos, no a leer una
+				definición de veinte líneas antes de encontrarlos. En escritorio
+				hay sitio de sobra y va abierta.
+			-->
+			{#if secciones.length}
+				<section class="mb-10" aria-labelledby="titulo-detalle">
+					<h2 id="titulo-detalle" class="display mb-3 text-[1.35rem] md:text-[1.5rem]">
+						Más detalle
+					</h2>
+					<div class="flex flex-col gap-1.5">
+						{#each secciones as s (s.id)}
+							<details class="plegable border border-[var(--borde)]" open={secciones.length === 1}>
+								<summary
+									class="flex min-h-14 cursor-pointer list-none items-center justify-between gap-3 p-3.5 font-bold"
+								>
+									{s.titulo}
+									<svg
+										width="18"
+										height="18"
+										viewBox="0 0 24 24"
+										fill="none"
+										aria-hidden="true"
+										class="chevron shrink-0 text-[var(--texto-suave)]"
+									>
+										<path
+											d="m6 9 6 6 6-6"
+											stroke="currentColor"
+											stroke-width="2.4"
+											stroke-linecap="round"
+											stroke-linejoin="round"
+										/>
+									</svg>
+								</summary>
+								<p class="border-t border-[var(--borde)] p-3.5 leading-relaxed text-[var(--texto-suave)]">
+									{s.texto}
+								</p>
+							</details>
+						{/each}
+					</div>
+				</section>
+			{/if}
+
 			{#if t.contenido_adicional.length}
 				<section class="mb-10">
-					<h2 class="display mb-5 text-[1.45rem]">Información adicional</h2>
-					{#each t.contenido_adicional as c (c.titulo)}
-						<h3 class="mt-6 mb-2 font-semibold">{c.titulo}</h3>
-						<!-- HTML preservado del sitio municipal de origen -->
-						<div class="prose-municipal leading-relaxed text-[var(--texto-suave)]">
-							{@html c.html}
-						</div>
-					{/each}
+					<h2 class="display mb-3 text-[1.35rem] md:text-[1.5rem]">Información adicional</h2>
+					<div class="flex flex-col gap-1.5">
+						{#each t.contenido_adicional as c (c.titulo)}
+							<details class="plegable border border-[var(--borde)]">
+								<summary
+									class="flex min-h-14 cursor-pointer list-none items-center justify-between gap-3 p-3.5 font-bold"
+								>
+									{c.titulo}
+									<svg
+										width="18"
+										height="18"
+										viewBox="0 0 24 24"
+										fill="none"
+										aria-hidden="true"
+										class="chevron shrink-0 text-[var(--texto-suave)]"
+									>
+										<path
+											d="m6 9 6 6 6-6"
+											stroke="currentColor"
+											stroke-width="2.4"
+											stroke-linecap="round"
+											stroke-linejoin="round"
+										/>
+									</svg>
+								</summary>
+								<!-- HTML preservado del sitio municipal de origen -->
+								<div
+									class="prose-municipal border-t border-[var(--borde)] p-3.5 leading-relaxed text-[var(--texto-suave)]"
+								>
+									{@html c.html}
+								</div>
+							</details>
+						{/each}
+					</div>
 				</section>
 			{/if}
 		</div>
 
-		<!-- Panel de datos clave -->
-		<aside class="lg:sticky lg:top-6 lg:self-start">
-			<div class="rounded-xl border border-[var(--borde)] bg-[var(--superficie-elevada)] p-6">
-				<h2 class="mb-4 text-sm font-semibold">Datos del trámite</h2>
-				<dl class="space-y-4 text-sm">
+		<!-- ══ Panel lateral, sólo escritorio ═══════════════════════════ -->
+		<aside class="hidden lg:sticky lg:top-28 lg:block lg:self-start">
+			<div class="border border-[var(--borde)] bg-[var(--superficie-elevada)] p-5">
+				<h2 class="mb-4 text-[0.82rem] font-bold tracking-wide uppercase text-[var(--texto-suave)]">
+					Datos del trámite
+				</h2>
+				<dl class="flex flex-col gap-3.5 text-sm">
 					<div>
 						<dt class="text-[var(--texto-suave)]">Costo</dt>
-						<dd class="mt-0.5 font-semibold">
+						<dd class="mt-0.5 font-bold">
 							{t.costo.tiene_costo === false
 								? 'Sin costo'
 								: t.costo.detalle || 'No especificado en la fuente'}
 						</dd>
 					</div>
-					<div>
-						<dt class="text-[var(--texto-suave)]">Dirección responsable</dt>
-						<dd class="mt-0.5 font-semibold">{t.direccion.nombre}</dd>
-					</div>
 					{#if t.base_legal.length}
 						<div>
 							<dt class="text-[var(--texto-suave)]">Base legal</dt>
-							<dd class="mt-0.5 font-semibold">{t.base_legal.join(', ')}</dd>
+							<dd class="mt-0.5 font-bold">{t.base_legal.join(', ')}</dd>
 						</div>
 					{/if}
 					<div>
@@ -266,7 +423,7 @@
 								href={t.fuente_url}
 								target="_blank"
 								rel="noopener"
-								class="font-semibold text-[var(--enlace)] underline underline-offset-2"
+								class="font-bold text-[var(--enlace)] underline underline-offset-2"
 								>Ver en el sitio actual</a
 							>
 						</dd>
@@ -275,18 +432,120 @@
 
 				<a
 					href="/contacto"
-					class="mt-6 flex min-h-11 w-full items-center justify-center rounded-full bg-[var(--color-noche-900)] px-5 text-sm font-semibold text-white no-underline transition-transform hover:-translate-y-px"
+					class="mt-5 flex min-h-12 w-full items-center justify-center bg-[var(--color-achiote-500)] px-5 text-sm font-bold text-[var(--color-carbon-900)] no-underline"
 				>
 					¿Necesitas ayuda?
 				</a>
 			</div>
 		</aside>
 	</div>
+
+	<!--
+		Barra de acción fija en móvil. En la versión anterior el botón de
+		ayuda estaba al final del documento, detrás de todos los requisitos y
+		de la información adicional; en la ficha de patente había que bajar
+		más de 5.000 px para verlo. Y era invisible: usaba un token de color
+		que ya no existe en el sistema, así que salía texto blanco sobre
+		fondo transparente.
+	-->
+	<div class="accion fixed inset-x-0 bottom-0 z-20 flex gap-2 border-t border-[var(--borde)] bg-[var(--superficie)] px-5 pt-2.5 lg:hidden">
+		<a
+			href="/contacto"
+			class="flex min-h-12 flex-1 items-center justify-center gap-2 bg-[var(--color-achiote-500)] px-4 text-[0.9rem] font-bold text-[var(--color-carbon-900)] no-underline"
+		>
+			<svg width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+				<path
+					d="M4.5 5.5h5l1.5 4-2.5 1.5a11 11 0 0 0 4.5 4.5l1.5-2.5 4 1.5v5a1 1 0 0 1-1.1 1A15.5 15.5 0 0 1 3.5 6.6a1 1 0 0 1 1-1.1"
+					stroke="currentColor"
+					stroke-width="2"
+					stroke-linejoin="round"
+				/>
+			</svg>
+			¿Necesitas ayuda?
+		</a>
+		<a
+			href={t.fuente_url}
+			target="_blank"
+			rel="noopener"
+			class="flex min-h-12 shrink-0 items-center justify-center border-2 border-[var(--borde)] px-4 text-[0.85rem] font-bold no-underline"
+		>
+			<span class="sr-only">Ver este trámite en el sitio municipal actual</span>
+			<span aria-hidden="true">Fuente</span>
+		</a>
+	</div>
 </article>
 
 <style>
+	.progreso {
+		top: var(--alto-barra);
+		border-bottom: 1px solid var(--borde);
+	}
+
+	.barra-progreso {
+		transition: width 0.3s var(--ease-cine);
+	}
+
+	.accion {
+		/* Sobre la barra de gestos del teléfono, no debajo. */
+		padding-bottom: max(0.625rem, env(safe-area-inset-bottom));
+	}
+
+	/* ── Requisitos ──────────────────────────────────────────────────── */
+	.requisito {
+		transition:
+			border-color 0.18s ease-out,
+			background-color 0.18s ease-out;
+	}
+
+	.requisito:hover,
+	.requisito:focus-within {
+		border-color: var(--marca);
+	}
+
+	.requisito:has(:checked) {
+		border-color: var(--color-selva-600);
+		background: var(--superficie-alt);
+	}
+
+	.requisito:has(:checked) span {
+		color: var(--texto-suave);
+	}
+
+	.descarga {
+		transition: border-color 0.18s ease-out;
+	}
+
+	.descarga:hover,
+	.descarga:focus-visible {
+		border-color: var(--marca);
+	}
+
+	/* ── Plegables ───────────────────────────────────────────────────── */
+	.plegable summary::-webkit-details-marker {
+		display: none;
+	}
+
+	.chevron {
+		transition: transform 0.2s var(--ease-cine);
+	}
+
+	.plegable[open] .chevron {
+		transform: rotate(180deg);
+	}
+
+	/* En escritorio hay sitio: la prosa no se esconde. */
+	@media (width >= 64rem) {
+		.plegable > summary {
+			cursor: default;
+		}
+	}
+
+	/* ── HTML heredado del sitio municipal ───────────────────────────── */
 	.prose-municipal :global(p) {
 		margin-bottom: 0.85rem;
+		/* La fuente trae `text-align: justify`, que en un móvil de 375 px
+		   abre ríos de espacio entre palabras. */
+		text-align: left !important;
 	}
 	.prose-municipal :global(ul) {
 		list-style: disc;
@@ -301,11 +560,25 @@
 		width: 100%;
 		border-collapse: collapse;
 		margin-bottom: 1rem;
+		font-size: 0.88rem;
 	}
 	.prose-municipal :global(td),
 	.prose-municipal :global(th) {
 		border: 1px solid var(--borde);
-		padding: 0.5rem 0.65rem;
+		padding: 0.45rem 0.6rem;
 		text-align: left;
+	}
+	/* Una tabla ancha se desplaza dentro de su caja, no rompe la página. */
+	.prose-municipal {
+		overflow-x: auto;
+	}
+
+	@media (prefers-reduced-motion: reduce) {
+		.barra-progreso,
+		.requisito,
+		.descarga,
+		.chevron {
+			transition: none;
+		}
 	}
 </style>

@@ -61,7 +61,6 @@
 
 	let menuAbierto = $state(false);
 	let desplazamiento = $state(0);
-	let botonMenu = $state<HTMLButtonElement | null>(null);
 
 	const rutaActual = $derived(page.url.pathname);
 
@@ -152,7 +151,6 @@
 			<CambioTema />
 
 			<button
-				bind:this={botonMenu}
 				type="button"
 				class="inline-flex h-11 w-11 cursor-pointer items-center justify-center lg:hidden"
 				aria-expanded={menuAbierto}
@@ -174,13 +172,7 @@
 
 </header>
 
-<MenuMovil
-	abierto={menuAbierto}
-	{enlaces}
-	{rutaActual}
-	alCerrar={() => (menuAbierto = false)}
-	devolverFocoA={botonMenu}
-/>
+<MenuMovil abierto={menuAbierto} {enlaces} {rutaActual} alCerrar={() => (menuAbierto = false)} />
 
 <style>
 	.cabecera {

@@ -51,6 +51,36 @@ tokens semánticos y no colores literales:
 | `--acento-texto` | `#5C4F00` (7.8:1) | `--color-achiote-400` (13.4:1) | Antetítulos en amarillo de marca. El derivado oscuro es ilegible sobre fondo oscuro, y el amarillo claro lo es sobre papel. |
 | `--indice` | `#8E8F8A` (3.3:1) | `#6A6B62` (3.1:1) | Números de índice del riel de trámites. Son texto grande (41 px, peso 700), así que el mínimo aplicable es 3:1, no 4.5:1 — pero hay que cumplirlo. |
 
+### Tokens muertos en el módulo de trámites
+
+Hasta el rediseño de agosto de 2026, `/tramites` y `/tramites/[slug]`
+referenciaban cinco variables que no existen en `app.css` — restos de un
+sistema de diseño anterior al del logotipo:
+
+| Token fantasma | Dónde | Qué se veía |
+|---|---|---|
+| `--acento` | chip de filtro elegido, bordes al pasar | el chip elegido quedaba sin fondo, indistinguible |
+| `--color-ambar-100` / `-600` / `-700` | aviso "pendiente de validación" | texto suelto sin fondo ni borde |
+| `--color-noche-900` | número de etapa, botón "¿Necesitas ayuda?" | **texto blanco sobre fondo transparente**: invisible en tema claro |
+
+Un `var()` que apunta a nada no falla ruidosamente: cae al valor inicial de
+la propiedad y la interfaz sigue "funcionando" con un botón que no se ve.
+Ahora esos usos van contra `--marca`, `--aviso-*` y el achiote de marca.
+Conviene repetir la comprobación al tocar cualquier módulo antiguo:
+
+```bash
+cd app
+grep -rho "var(--[a-z0-9-]*)" src/routes/ src/lib/ | sort -u | while read -r v; do
+  tok=$(echo "$v" | sed 's/var(//;s/)//')
+  grep -q -- "$tok:" src/app.css || echo "FALTA $tok"
+done
+```
+
+Hoy devuelve `--color-cat` y `--tinte`, y las dos son correctas: no son
+tokens globales sino variables que el componente declara en línea
+(`style="--tinte: …"`) para pasarle un color a su propio CSS. Lo que hay
+que mirar es que no aparezca nada más.
+
 ### Tinta del panel del menú móvil
 
 El panel es siempre carbón `#16170F`, en tema claro y en oscuro. Un menú
@@ -124,6 +154,21 @@ Valores calculados con la fórmula de luminancia relativa de WCAG 2.1
       canto amarillo va acompañado de la etiqueta visible "Aquí" y de
       `aria-current="page"`. El amarillo `achiote-400` está reservado para
       ese estado y no se usa como tinte decorativo de ningún otro enlace. El fondo fotográfico de la
+- [x] La hoja de filtros de trámites es un diálogo modal con el mismo
+      contrato que el menú: foco, Escape, trampa de tabulación y bloqueo de
+      scroll salen de una sola acción reutilizable
+      (`src/lib/acciones/modal.ts`), no de dos copias que se desincronizan.
+- [x] Los contadores de cada filtro ("Negocios 6") son información, no
+      adorno: van a 4.5:1 con color propio en vez de una opacidad del 60 %,
+      que los dejaba en 2.7:1. Las opciones que llevarían a cero resultados
+      se deshabilitan con `disabled`, no sólo atenuadas.
+- [x] El progreso del checklist de requisitos se anuncia con
+      `role="status"` + `aria-live="polite"` y lleva un `role="progressbar"`
+      con `aria-valuenow`/`aria-valuemax` reales.
+- [x] Los elementos pegajosos se anclan con `--alto-barra` (la cabecera sin
+      el filete de marca), no con `--alto-cabecera`. El filete no es
+      pegajoso: usar el valor grande dejaba seis píxeles por los que se veía
+      pasar el contenido bajo la barra.
       portada lleva botón de pausa y un punto por fotograma, todos de
       44×44 px, y con `prefers-reduced-motion` no rota: se queda en el
       primer fotograma y los controles no llegan a aparecer.

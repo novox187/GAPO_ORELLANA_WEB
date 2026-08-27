@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { fly, fade } from 'svelte/transition';
-	import { cubicOut, cubicIn } from 'svelte/easing';
+	import { cubicOut } from 'svelte/easing';
+	import { modal } from '$lib/acciones/modal';
 	import Marca from './Marca.svelte';
 	import Pictograma, { type NombrePictograma } from './Pictograma.svelte';
 
@@ -28,15 +29,12 @@
 		abierto,
 		enlaces,
 		rutaActual,
-		alCerrar,
-		/** Se devuelve el foco aquí al cerrar: el botón que abrió el panel. */
-		devolverFocoA
+		alCerrar
 	}: {
 		abierto: boolean;
 		enlaces: EnlaceMenu[];
 		rutaActual: string;
 		alCerrar: () => void;
-		devolverFocoA?: HTMLElement | null;
 	} = $props();
 
 	const redes = [
@@ -45,7 +43,6 @@
 		{ red: 'YouTube', url: 'https://www.youtube.com/@GADFranciscodeOrellana' }
 	];
 
-	let panel = $state<HTMLElement | null>(null);
 	let botonCerrar = $state<HTMLButtonElement | null>(null);
 	let reducido = $state(false);
 
@@ -57,82 +54,6 @@
 		reducido = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 	});
 
-	/**
-	 * Bloqueo del scroll de fondo. Se compensa el ancho de la barra de
-	 * desplazamiento para que la página no dé un salto lateral al abrir —
-	 * en móvil no suele haber barra visible, pero el panel también se ve si
-	 * alguien estrecha la ventana en un escritorio.
-	 */
-	$effect(() => {
-		if (!abierto) return;
-
-		const anchoBarra = window.innerWidth - document.documentElement.clientWidth;
-		const overflowPrevio = document.body.style.overflow;
-		const paddingPrevio = document.body.style.paddingRight;
-
-		document.body.style.overflow = 'hidden';
-		if (anchoBarra > 0) document.body.style.paddingRight = `${anchoBarra}px`;
-
-		return () => {
-			document.body.style.overflow = overflowPrevio;
-			document.body.style.paddingRight = paddingPrevio;
-		};
-	});
-
-	/**
-	 * Al abrir, el foco entra en el panel; al cerrar, vuelve al botón que lo
-	 * abrió, para que quien navega con teclado no acabe de vuelta al
-	 * principio del documento.
-	 *
-	 * `estuvoAbierto` es un `let` normal a propósito, no `$state`: sirve
-	 * para distinguir un cierre de verdad del estado inicial. Sin él, el
-	 * efecto se ejecuta una vez al montar con `abierto = false` y le roba el
-	 * foco al documento en cada carga de página — el visitante aterriza con
-	 * el botón de menú enfocado sin haber tocado nada. Y como no es estado
-	 * reactivo, escribirlo aquí dentro no vuelve a disparar el efecto.
-	 */
-	let estuvoAbierto = false;
-
-	$effect(() => {
-		if (abierto) {
-			estuvoAbierto = true;
-			botonCerrar?.focus();
-		} else if (estuvoAbierto) {
-			estuvoAbierto = false;
-			devolverFocoA?.focus();
-		}
-	});
-
-	/**
-	 * Trampa de foco. Un diálogo modal no puede dejar que el tabulador se
-	 * escape a la página de detrás: quien navega con teclado o con lector de
-	 * pantalla se perdería en contenido que visualmente no existe.
-	 */
-	function alPulsarTecla(evento: KeyboardEvent) {
-		if (evento.key === 'Escape') {
-			evento.preventDefault();
-			alCerrar();
-			return;
-		}
-
-		if (evento.key !== 'Tab' || !panel) return;
-
-		const focalizables = panel.querySelectorAll<HTMLElement>(
-			'a[href], button:not([disabled]), input, [tabindex]:not([tabindex="-1"])'
-		);
-		if (!focalizables.length) return;
-
-		const primero = focalizables[0];
-		const ultimo = focalizables[focalizables.length - 1];
-
-		if (evento.shiftKey && document.activeElement === primero) {
-			evento.preventDefault();
-			ultimo.focus();
-		} else if (!evento.shiftKey && document.activeElement === ultimo) {
-			evento.preventDefault();
-			primero.focus();
-		}
-	}
 </script>
 
 {#if abierto}
@@ -149,14 +70,13 @@
 	></div>
 
 	<div
-		bind:this={panel}
+		use:modal={{ alCerrar, focoInicial: () => botonCerrar }}
 		id="menu-movil"
 		class="panel lg:hidden"
 		role="dialog"
 		aria-modal="true"
 		aria-label="Menú principal"
 		tabindex="-1"
-		onkeydown={alPulsarTecla}
 		transition:fly={{ x: 340, duration: msEntrada, opacity: 1, easing: cubicOut }}
 	>
 		<!-- Filete de marca: el mismo canto de color que corona el sitio. -->

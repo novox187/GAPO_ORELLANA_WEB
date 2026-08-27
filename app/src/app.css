@@ -88,6 +88,15 @@
 	  que había antes se quedaba en 1.7:1.
 	*/
 	--indice: #8e8f8a;
+	/*
+	  Estado de aviso ("pendiente de validación"). El achiote de marca no
+	  sirve como tinta sobre claro, así que sobre papel el fondo es el
+	  amarillo pálido y la tinta su derivado oscuro (7.4:1); sobre oscuro
+	  se invierten los papeles (10.8:1).
+	*/
+	--aviso-fondo: var(--color-achiote-100);
+	--aviso-tinta: var(--color-achiote-texto);
+	--aviso-borde: var(--color-achiote-600);
 }
 
 /*
@@ -113,6 +122,9 @@
 		--acento-texto: var(--color-achiote-400);
 		/* 3.1:1 sobre la superficie elevada oscura (#202119). */
 		--indice: #6a6b62;
+		--aviso-fondo: #2e2a08;
+		--aviso-tinta: var(--color-achiote-400);
+		--aviso-borde: var(--color-achiote-600);
 	}
 }
 
@@ -129,6 +141,9 @@
 	--acento-texto: var(--color-achiote-400);
 	/* 3.1:1 sobre la superficie elevada oscura (#202119). */
 	--indice: #6a6b62;
+	--aviso-fondo: #2e2a08;
+	--aviso-tinta: var(--color-achiote-400);
+	--aviso-borde: var(--color-achiote-600);
 }
 
 /* Alinea los controles nativos (barras de scroll, selects) con el tema. */
@@ -257,11 +272,23 @@
   valor tiene que existir como variable y no como número suelto.
 */
 :root {
+	/*
+	  `--alto-cabecera` incluye el filete de marca: es lo que la portada
+	  tiene que descontar con margen negativo para que la fotografía llegue
+	  al borde superior de la pantalla.
+
+	  `--alto-barra` es sólo la barra, sin el filete. El filete no es
+	  pegajoso —se va con el scroll—, así que cualquier elemento que se
+	  ancle *debajo* de la cabecera tiene que usar este valor. Con el otro
+	  quedan seis píxeles de hueco por los que se ve pasar el contenido.
+	*/
 	--alto-cabecera: 74px;
+	--alto-barra: 68px;
 }
 @media (width >= 640px) {
 	:root {
 		--alto-cabecera: 92px;
+		--alto-barra: 86px;
 	}
 }
 

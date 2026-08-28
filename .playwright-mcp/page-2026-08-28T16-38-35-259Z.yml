@@ -1,0 +1,72 @@
+- generic [ref=f44e2]:
+  - generic [ref=f44e3]:
+    - banner [ref=f44e4]:
+      - link "Volver al sitio" [ref=f44e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f44e9]: Asistente
+      - button "Nueva consulta" [ref=f44e203]
+    - list [ref=f44e419]:
+      - listitem [ref=f44e420]:
+        - paragraph [ref=f44e422]: necesito el titulo de mi terreno
+      - listitem [ref=f44e423]:
+        - generic [ref=f44e617]:
+          - paragraph [ref=f44e618]: Para obtener el título de su terreno, necesita presentar los requisitos establecidos en el trámite de escritura. Los requisitos incluyen la solicitud a la primera autoridad del GADMFO, los formularios adquiridos en recaudación, y copias de la cédula de ciudadanía, papeleta de votación, y certificados de no poseer bienes tanto en el Registro de la Propiedad como en Avalúos y Catastros GADMFO.
+          - generic [ref=f44e619]:
+            - generic [ref=f44e620]:
+              - paragraph [ref=f44e621]: Trámite
+              - link "Requisitos para trámite de escritura" [ref=f44e622] [cursor=pointer]:
+                - /url: /tramites/requisitos-para-tramite-de-escritura-27
+              - generic [ref=f44e623]:
+                - generic [ref=f44e624]:
+                  - term [ref=f44e625]: "Dónde:"
+                  - definition [ref=f44e626]: Dirección Ordenamiento Territorial
+                - generic [ref=f44e627]:
+                  - term [ref=f44e628]: "Costo:"
+                  - definition [ref=f44e629]: El valor de la escritura dependerá de la ubicación del terreno, del costo valor por metro cuadrado de la tenencia de la tierra en el sector donde se le adjudica el bien inmueble.
+            - group [ref=f44e630]:
+              - generic "8 requisitos" [active] [ref=f44e631] [cursor=pointer]: ▾
+              - list [ref=f44e634]:
+                - listitem [ref=f44e635]:
+                  - generic [ref=f44e636]: "1"
+                  - generic [ref=f44e637]: Solicitud a la primera autoridad del GADMFO para el trámite de la escritura (original y copia).
+                - listitem [ref=f44e638]:
+                  - generic [ref=f44e639]: "2"
+                  - generic [ref=f44e640]: Formulario de línea de fábrica (adquirir en recaudación).
+                - listitem [ref=f44e641]:
+                  - generic [ref=f44e642]: "3"
+                  - generic [ref=f44e643]: Formulario de solicitud de lote (adquirir en recaudación).
+                - listitem [ref=f44e644]:
+                  - generic [ref=f44e645]: "4"
+                  - generic [ref=f44e646]: 2 copias de la cédula de ciudadanía y papeleta de votación.
+                - listitem [ref=f44e647]:
+                  - generic [ref=f44e648]: "5"
+                  - generic [ref=f44e649]: Original y copia del Certificado de no poseer bienes (Registro de la Propiedad)
+                - listitem [ref=f44e650]:
+                  - generic [ref=f44e651]: "6"
+                  - generic [ref=f44e652]: Original y copia del Certificado de no poseer bienes (Avalúos y Catastros GADMFO)
+                - listitem [ref=f44e653]:
+                  - generic [ref=f44e654]: "7"
+                  - generic [ref=f44e655]: Original y copia del Certificado de no adeudar al Municipio adquirido en Recaudación del GADMFO.
+                - listitem [ref=f44e656]:
+                  - generic [ref=f44e657]: "8"
+                  - generic [ref=f44e658]: Original y copia de la partida de matrimonio o declaración juramentada que acredite la unión de hecho de ser el caso
+            - group [ref=f44e659]:
+              - generic "A quién llamar" [ref=f44e660] [cursor=pointer]: ▾
+            - link "Ver la ficha completa →" [ref=f44e664] [cursor=pointer]:
+              - /url: /tramites/requisitos-para-tramite-de-escritura-27
+          - group [ref=f44e665]:
+            - generic "Otros 8 resultados relacionados" [ref=f44e666] [cursor=pointer]:
+              - generic [ref=f44e667]: ▸
+              - text: Otros 8 resultados relacionados
+          - generic [ref=f44e668]:
+            - generic [ref=f44e669]: ¿Le sirvió?
+            - button "Sí" [ref=f44e670]
+            - button "No" [ref=f44e671]
+    - generic [ref=f44e411]:
+      - generic [ref=f44e412]:
+        - generic [ref=f44e413]: Escriba su consulta
+        - textbox "Escriba su consulta" [ref=f44e414]:
+          - /placeholder: Escriba su consulta…
+        - button "Enviar consulta" [disabled] [ref=f44e415]
+      - paragraph [ref=f44e418]: Lo que vale es la ficha oficial. Ante cualquier duda, acuda a la dirección responsable.
+  - generic [ref=f44e674]: Asistente · GAD Municipal Francisco de Orellana

@@ -5,7 +5,7 @@
 	import { API_BASE } from '$lib/api';
 	import Jaguar from '$lib/components/Jaguar.svelte';
 	import Pictograma from '$lib/components/Pictograma.svelte';
-	import FichaRespuesta from '$lib/components/FichaRespuesta.svelte';
+	import FichaEnChat from '$lib/components/FichaEnChat.svelte';
 	import type { Respuesta, Turno } from '$lib/asistente';
 
 	/**
@@ -16,12 +16,16 @@
 	 * a este sitio lo hace desde datos móviles limitados y no tiene por qué
 	 * pagar el peso de un chat para leer una noticia.
 	 *
-	 * **Por qué la ficha aparece antes que el texto.** La recuperación tarda
-	 * 20 ms; redactar, entre 6 y 22 s en CPU. Si se esperara a tenerlo todo,
-	 * serían veinte segundos de pantalla vacía para acabar entregando lo mismo.
-	 * Así el ciudadano tiene la respuesta OFICIAL de inmediato y la explicación
-	 * se va escribiendo encima. Cuando el municipio ponga GPU esto no cambia:
-	 * sólo va más rápido.
+	 * **El orden: primero habla, luego la ficha.** La recuperación tarda 20 ms
+	 * y redactar entre 6 y 22 s en CPU, así que la ficha está lista mucho antes
+	 * que el texto. Aun así se guarda hasta que el asistente termina de hablar:
+	 * enseñarla mientras el modelo escribe convertía la conversación en un
+	 * volcado de ocho requisitos con un párrafo pegado encima, y lo que el
+	 * ciudadano preguntó quedaba sepultado debajo.
+	 *
+	 * Lo que evita la espera en blanco no es la ficha, es el flujo: el texto
+	 * empieza a aparecer al segundo y medio. La ficha llega después y en
+	 * versión plegada, para quien quiera el detalle.
 	 */
 
 	const EJEMPLOS = [
@@ -332,11 +336,16 @@
 												<p class="text-[var(--texto-suave)]" aria-live="polite">Redactando la respuesta…</p>
 											{/if}
 
-											<!-- La ficha oficial: llega antes que el texto y es lo que vale. -->
-											{#if turno.respuesta}
-												<div class="mt-3">
-													<FichaRespuesta respuesta={turno.respuesta} />
-												</div>
+											<!--
+												La ficha se muestra cuando el asistente TERMINA de hablar,
+												no cuando llega. Llega en 20 ms, pero enseñarla mientras el
+												modelo todavía escribe convertía el chat en un volcado de
+												datos con un párrafo pegado encima. Si no hay modelo
+												generativo, `estado` pasa a "listo" de inmediato y la ficha
+												sale al momento, como debe ser.
+											-->
+											{#if turno.respuesta && turno.estado === 'listo'}
+												<FichaEnChat respuesta={turno.respuesta} conParrafo={!!turno.escrito} />
 
 												{#if turno.mensajeId}
 													<div class="mt-3 flex items-center gap-2 text-sm">

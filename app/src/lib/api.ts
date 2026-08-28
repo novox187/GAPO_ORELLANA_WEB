@@ -171,12 +171,16 @@ export const api = {
  * exista el backend; la fase de búsqueda semántica sustituirá esta función
  * sin cambiar la forma del resultado.
  */
+/** Minúsculas y sin acentos, para comparar texto ignorando tildes. */
+export function normalizarTexto(s: string): string {
+	return (s ?? '')
+		.toLowerCase()
+		.normalize('NFD')
+		.replace(/[̀-ͯ]/g, '');
+}
+
 export function buscar(documentos: DocumentoIndice[], consulta: string): DocumentoIndice[] {
-	const normaliza = (s: string) =>
-		(s ?? '')
-			.toLowerCase()
-			.normalize('NFD')
-			.replace(/[̀-ͯ]/g, '');
+	const normaliza = normalizarTexto;
 
 	const terminos = normaliza(consulta)
 		.split(/\s+/)

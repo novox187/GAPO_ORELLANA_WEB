@@ -4,10 +4,11 @@
 	import type { EntradaSeccion } from '$lib/secciones';
 
 	/**
-	 * Índice de una sección como mosaico de teselas, el mismo lenguaje del
-	 * logotipo municipal. Lo comparten Transparencia y El cantón porque su
-	 * estructura es idéntica: una rejilla de entradas hacia páginas de
-	 * contenido.
+	 * Índice de "El cantón" como mosaico de teselas, el mismo lenguaje del
+	 * logotipo municipal: una rejilla de entradas fotográficas hacia páginas
+	 * de contenido. Transparencia usa su propio índice (IndiceTransparencia)
+	 * — su contenido es documental, no fotográfico, y el mosaico de teselas
+	 * a pantalla completa no encajaba.
 	 */
 	let {
 		titulo,

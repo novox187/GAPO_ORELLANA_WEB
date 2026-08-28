@@ -5,9 +5,11 @@
 	import type { EntradaSeccion } from '$lib/secciones';
 
 	/**
-	 * Página de contenido de una sección. Compartida por Transparencia y El
-	 * cantón: ambas muestran los bloques extraídos del sitio municipal, más
-	 * los documentos e imágenes asociados.
+	 * Página de contenido de una entrada de "El cantón": los bloques
+	 * extraídos del sitio municipal, más los documentos e imágenes
+	 * asociados. Transparencia usa su propio componente (PaginaTransparencia)
+	 * — necesita agrupar por año/categoría y buscar entre cientos de
+	 * documentos, cosa que esta plantilla genérica no resuelve.
 	 */
 	let {
 		entrada,

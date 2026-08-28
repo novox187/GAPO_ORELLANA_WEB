@@ -1,12 +1,22 @@
 <script lang="ts">
 	import type { Bloque } from '$lib/api';
+	import { resolverEnlaceItem } from '$lib/bloques';
 
 	/**
 	 * Renderiza la secuencia de bloques extraída de una página municipal,
 	 * preservando el orden del original. Las tablas van en un contenedor con
 	 * scroll propio para que nunca desborden la página en móvil.
+	 *
+	 * `indice` es opcional: Transparencia lo pasa para resolver los items de
+	 * lista que llegan sin URL propia (la extracción solo dejó el nombre del
+	 * archivo) y para mostrar el tipo de documento como badge. Sin `indice`
+	 * el comportamiento es el de siempre — enlace simple si `item.url`
+	 * existe, texto plano si no — así "El cantón" no cambia en nada.
 	 */
-	let { bloques }: { bloques: Bloque[] } = $props();
+	let {
+		bloques,
+		indice
+	}: { bloques: Bloque[]; indice?: Map<string, { url: string; tipo: string }> } = $props();
 </script>
 
 <div class="contenido">
@@ -24,13 +34,15 @@
 		{:else if b.tipo === 'lista'}
 			<ul>
 				{#each b.items ?? [] as it, j (j)}
+					{@const enlace = resolverEnlaceItem(it, indice)}
 					<li>
-						{#if it.url}
+						{#if enlace}
 							<a
-								href={it.url}
-								target={it.url.startsWith('http') ? '_blank' : undefined}
-								rel={it.url.startsWith('http') ? 'noopener' : undefined}
+								href={enlace.url}
+								target={enlace.url.startsWith('http') ? '_blank' : undefined}
+								rel={enlace.url.startsWith('http') ? 'noopener' : undefined}
 							>
+								{#if enlace.tipo}<span class="badge-tipo">{enlace.tipo}</span>{/if}
 								{it.texto}
 							</a>
 						{:else}
@@ -97,6 +109,10 @@
 		margin-bottom: 0.4rem;
 		line-height: 1.65;
 		color: var(--texto-suave);
+		/* Nombres de archivo largos sin espacios (guiones bajos, no
+		   separadores) desbordan el contenedor en móvil si no se
+		   pueden partir dentro de la "palabra". */
+		overflow-wrap: anywhere;
 	}
 	.contenido :global(li a) {
 		color: var(--enlace);
@@ -105,6 +121,17 @@
 	}
 	.contenido :global(li a:hover) {
 		text-decoration-thickness: 2px;
+	}
+	.contenido :global(.badge-tipo) {
+		display: inline-block;
+		margin-right: 0.4em;
+		padding: 0.05em 0.4em;
+		font-size: 0.68em;
+		font-weight: 700;
+		letter-spacing: 0.02em;
+		background: var(--superficie-alt);
+		color: var(--texto-suave);
+		text-decoration: none;
 	}
 	.tabla-scroll {
 		overflow-x: auto;

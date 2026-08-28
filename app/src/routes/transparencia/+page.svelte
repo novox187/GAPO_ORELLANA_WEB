@@ -1,5 +1,5 @@
 <script lang="ts">
-	import IndiceSeccion from '$lib/components/IndiceSeccion.svelte';
+	import IndiceTransparencia from '$lib/components/IndiceTransparencia.svelte';
 	import type { PageData } from './$types';
 	let { data }: { data: PageData } = $props();
 </script>
@@ -12,9 +12,4 @@
 	/>
 </svelte:head>
 
-<IndiceSeccion
-	titulo="Transparencia"
-	descripcion="Información pública del municipio: lo que la ley obliga a publicar y lo que la ciudadanía tiene derecho a revisar."
-	base="/transparencia"
-	entradas={data.entradas}
-/>
+<IndiceTransparencia entradas={data.entradas} cifras={data.cifras} />

@@ -1,0 +1,202 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Saltar al contenido" [ref=e4] [cursor=pointer]:
+      - /url: "#contenido"
+    - banner [ref=e12]:
+      - generic [ref=e13]:
+        - link "Inicio, Alcaldía de Francisco de Orellana" [ref=e14] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e50]: Alcaldía de Francisco de Orellana
+        - navigation "Principal" [ref=e410]:
+          - list [ref=e411]:
+            - listitem [ref=e412]:
+              - link "Trámites" [ref=e413] [cursor=pointer]:
+                - /url: /tramites
+            - listitem [ref=e414]:
+              - link "Noticias" [ref=e415] [cursor=pointer]:
+                - /url: /noticias
+            - listitem [ref=e416]:
+              - link "Transparencia" [ref=e417] [cursor=pointer]:
+                - /url: /transparencia
+            - listitem [ref=e419]:
+              - link "El cantón" [ref=e420] [cursor=pointer]:
+                - /url: /canton
+            - listitem [ref=e421]:
+              - link "Contacto" [ref=e422] [cursor=pointer]:
+                - /url: /contacto
+        - generic [ref=e51]:
+          - link "Buscar" [ref=e52] [cursor=pointer]:
+            - /url: /buscar
+          - button "Cambiar a modo claro" [ref=e423]
+    - main [ref=e65]:
+      - generic [ref=e424]:
+        - navigation "Ruta de navegación" [ref=e425]:
+          - list [ref=e426]:
+            - listitem [ref=e427]:
+              - link "Inicio" [ref=e428] [cursor=pointer]:
+                - /url: /
+              - generic [ref=e429]: /
+            - listitem [ref=e430]:
+              - generic [ref=e431]: Transparencia
+        - generic [ref=e432]:
+          - heading "Transparencia" [level=1] [ref=e433]
+          - paragraph [ref=e434]: "El registro público de lo que hace el municipio con el dinero y el poder que se le confía: lo que la ley obliga a publicar y lo que cualquier persona tiene derecho a revisar."
+      - region [ref=e435]:
+        - generic [ref=e436]:
+          - heading "Transparencia en cifras" [level=2] [ref=e437]
+          - generic [ref=e438]:
+            - generic [ref=e439]:
+              - term [ref=e440]: categorías publicadas
+              - definition [ref=e441]: "9"
+            - generic [ref=e442]:
+              - term [ref=e443]: documentos publicados
+              - definition [ref=e444]: "590"
+            - generic [ref=e445]:
+              - term [ref=e446]: años de registro
+              - definition [ref=e447]: 2010–2026
+      - list [ref=e449]:
+        - listitem [ref=e450]:
+          - link "01 LOTAIP Información pública obligatoria por ley. 1 apartado" [ref=e451] [cursor=pointer]:
+            - /url: /transparencia/lotaip
+            - generic [ref=e452]: "01"
+            - generic [ref=e458]:
+              - generic [ref=e459]: LOTAIP
+              - generic [ref=e460]: Información pública obligatoria por ley.
+            - generic [ref=e461]: 1 apartado
+        - listitem [ref=e462]:
+          - link "02 Ordenanzas y resoluciones Normativa vigente del cantón. 8 documentos" [ref=e463] [cursor=pointer]:
+            - /url: /transparencia/ordenanzas
+            - generic [ref=e464]: "02"
+            - generic [ref=e470]:
+              - generic [ref=e471]: Ordenanzas y resoluciones
+              - generic [ref=e472]: Normativa vigente del cantón.
+            - generic [ref=e473]: 8 documentos
+        - listitem [ref=e474]:
+          - link "03 Rendición de cuentas Informes anuales de gestión municipal. 464 documentos" [ref=e475] [cursor=pointer]:
+            - /url: /transparencia/rendicion-cuentas
+            - generic [ref=e476]: "03"
+            - generic [ref=e481]:
+              - generic [ref=e482]: Rendición de cuentas
+              - generic [ref=e483]: Informes anuales de gestión municipal.
+            - generic [ref=e484]: 464 documentos
+        - listitem [ref=e485]:
+          - link "04 Plan Anual de Contratación Compras públicas previstas para el año. 18 documentos" [ref=e486] [cursor=pointer]:
+            - /url: /transparencia/pac
+            - generic [ref=e487]: "04"
+            - generic [ref=e493]:
+              - generic [ref=e494]: Plan Anual de Contratación
+              - generic [ref=e495]: Compras públicas previstas para el año.
+            - generic [ref=e496]: 18 documentos
+        - listitem [ref=e497]:
+          - link "05 Mecanismos de participación Cómo incidir en las decisiones del municipio. 1 apartado" [ref=e498] [cursor=pointer]:
+            - /url: /transparencia/mecanismos-participacion
+            - generic [ref=e499]: "05"
+            - generic [ref=e505]:
+              - generic [ref=e506]: Mecanismos de participación
+              - generic [ref=e507]: Cómo incidir en las decisiones del municipio.
+            - generic [ref=e508]: 1 apartado
+        - listitem [ref=e509]:
+          - link "06 Calidad de agua Estudios del servicio de agua potable. 80 documentos" [ref=e510] [cursor=pointer]:
+            - /url: /transparencia/calidad-agua
+            - generic [ref=e511]: "06"
+            - generic [ref=e517]:
+              - generic [ref=e518]: Calidad de agua
+              - generic [ref=e519]: Estudios del servicio de agua potable.
+            - generic [ref=e520]: 80 documentos
+        - listitem [ref=e521]:
+          - link "07 Inversión en publicidad Informe de gasto en difusión institucional. 2 documentos" [ref=e522] [cursor=pointer]:
+            - /url: /transparencia/publicidad
+            - generic [ref=e523]: "07"
+            - generic [ref=e544]:
+              - generic [ref=e545]: Inversión en publicidad
+              - generic [ref=e546]: Informe de gasto en difusión institucional.
+            - generic [ref=e547]: 2 documentos
+        - listitem [ref=e548]:
+          - link "08 Convocatorias a sesión Sesiones del Concejo Municipal. sin publicaciones" [ref=e549] [cursor=pointer]:
+            - /url: /transparencia/convocatorias
+            - generic [ref=e550]: "08"
+            - generic [ref=e556]:
+              - generic [ref=e557]: Convocatorias a sesión
+              - generic [ref=e558]: Sesiones del Concejo Municipal.
+            - generic [ref=e559]: sin publicaciones
+        - listitem [ref=e560]:
+          - link "09 Documentos Otros documentos publicados por el municipio. 20 documentos" [ref=e561] [cursor=pointer]:
+            - /url: /transparencia/documentos
+            - generic [ref=e562]: "09"
+            - generic [ref=e568]:
+              - generic [ref=e569]: Documentos
+              - generic [ref=e570]: Otros documentos publicados por el municipio.
+            - generic [ref=e571]: 20 documentos
+    - contentinfo [ref=e321]:
+      - generic [ref=e322]:
+        - generic [ref=e323]:
+          - link "Inicio, Alcaldía de Francisco de Orellana" [ref=e324] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e360]: Alcaldía de Francisco de Orellana
+          - paragraph [ref=e361]: Gobierno Autónomo Descentralizado Municipal de Francisco de Orellana, en el corazón de la Amazonía ecuatoriana.
+          - link "Atención ciudadana" [ref=e362] [cursor=pointer]:
+            - /url: /contacto
+        - generic [ref=e363]:
+          - heading "Trámites" [level=2] [ref=e364]
+          - list [ref=e365]:
+            - listitem [ref=e366]:
+              - link "Negocios y patentes" [ref=e367] [cursor=pointer]:
+                - /url: /tramites?categoria=negocios
+            - listitem [ref=e368]:
+              - link "Construcción" [ref=e369] [cursor=pointer]:
+                - /url: /tramites?categoria=vivienda-y-construccion
+            - listitem [ref=e370]:
+              - link "Agua y ambiente" [ref=e371] [cursor=pointer]:
+                - /url: /tramites?categoria=agua-y-ambiente
+            - listitem [ref=e372]:
+              - link "Ver todos" [ref=e373] [cursor=pointer]:
+                - /url: /tramites
+        - generic [ref=e374]:
+          - heading "Transparencia" [level=2] [ref=e375]
+          - list [ref=e376]:
+            - listitem [ref=e377]:
+              - link "LOTAIP" [ref=e378] [cursor=pointer]:
+                - /url: /transparencia/lotaip
+            - listitem [ref=e379]:
+              - link "Ordenanzas" [ref=e380] [cursor=pointer]:
+                - /url: /transparencia/ordenanzas
+            - listitem [ref=e381]:
+              - link "Rendición de cuentas" [ref=e382] [cursor=pointer]:
+                - /url: /transparencia/rendicion-cuentas
+            - listitem [ref=e383]:
+              - link "Contratación (PAC)" [ref=e384] [cursor=pointer]:
+                - /url: /transparencia/pac
+        - generic [ref=e385]:
+          - heading "El cantón" [level=2] [ref=e386]
+          - list [ref=e387]:
+            - listitem [ref=e388]:
+              - link "Datos del cantón" [ref=e389] [cursor=pointer]:
+                - /url: /canton/datos-canton
+            - listitem [ref=e390]:
+              - link "Historia y símbolos" [ref=e391] [cursor=pointer]:
+                - /url: /canton/historia-simbolos
+            - listitem [ref=e392]:
+              - link "Alcaldía" [ref=e393] [cursor=pointer]:
+                - /url: /canton/alcaldia
+            - listitem [ref=e394]:
+              - link "Concejo Municipal" [ref=e395] [cursor=pointer]:
+                - /url: /canton/concejo
+      - generic [ref=e397]:
+        - paragraph [ref=e398]: © 2026 GAD Municipal Francisco de Orellana
+        - list [ref=e399]:
+          - listitem [ref=e400]:
+            - link "Facebook" [ref=e401] [cursor=pointer]:
+              - /url: https://www.facebook.com/MunicipiodeFranciscodeOrellana
+          - listitem [ref=e402]:
+            - link "Instagram" [ref=e403] [cursor=pointer]:
+              - /url: https://www.instagram.com/gadmforellana
+          - listitem [ref=e404]:
+            - link "YouTube" [ref=e405] [cursor=pointer]:
+              - /url: https://www.youtube.com/@GADFranciscodeOrellana
+          - listitem [ref=e406]:
+            - link "X" [ref=e407] [cursor=pointer]:
+              - /url: https://x.com/GADMFOrellana
+          - listitem [ref=e408]:
+            - link "TikTok" [ref=e409] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@munifranciscodeorellana
+  - generic [ref=e572]: Transparencia — Alcaldía de Francisco de Orellana

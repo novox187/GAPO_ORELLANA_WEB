@@ -1,11 +1,11 @@
 <script lang="ts">
-	import PaginaSeccion from '$lib/components/PaginaSeccion.svelte';
+	import PaginaTransparencia from '$lib/components/PaginaTransparencia.svelte';
 	import { TRANSPARENCIA } from '$lib/secciones';
 	import type { PageData } from './$types';
 	let { data }: { data: PageData } = $props();
 </script>
 
-<PaginaSeccion
+<PaginaTransparencia
 	entrada={data.entrada}
 	pagina={data.pagina}
 	seccionTitulo="Transparencia"

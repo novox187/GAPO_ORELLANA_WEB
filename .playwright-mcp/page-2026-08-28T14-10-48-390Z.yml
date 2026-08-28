@@ -1,0 +1,75 @@
+- generic [ref=f1e2]:
+  - complementary [ref=f1e3]:
+    - generic [ref=f1e9]:
+      - paragraph [ref=f1e10]: GADMFO
+      - paragraph [ref=f1e11]: Gestión de contenidos
+    - navigation "Secciones del panel" [ref=f1e12]:
+      - link "Inicio" [ref=f1e13] [cursor=pointer]:
+        - /url: http://localhost:8000/panel
+  - generic [ref=f1e32]:
+    - banner [ref=f1e33]:
+      - generic [ref=f1e34]:
+        - heading "Inicio" [level=1] [ref=f1e35]
+        - paragraph [ref=f1e36]: Estado del contenido del sitio municipal
+      - generic [ref=f1e37]:
+        - generic [ref=f1e38]:
+          - paragraph [ref=f1e39]: Comunicación Social
+          - paragraph [ref=f1e40]: Administrador
+        - button "Salir" [ref=f1e42]
+    - main [ref=f1e43]:
+      - generic [ref=f1e44]:
+        - link [ref=f1e45] [cursor=pointer]:
+          - /url: "#"
+          - paragraph [ref=f1e46]: "280"
+          - paragraph [ref=f1e47]: Noticias publicadas
+        - link [ref=f1e48] [cursor=pointer]:
+          - /url: "#"
+          - paragraph [ref=f1e49]: "0"
+          - paragraph [ref=f1e50]: Borradores
+        - link [ref=f1e51] [cursor=pointer]:
+          - /url: "#"
+          - paragraph [ref=f1e52]: "60"
+          - paragraph [ref=f1e53]: Trámites
+        - link [ref=f1e54] [cursor=pointer]:
+          - /url: "#"
+          - paragraph [ref=f1e55]: "18"
+          - paragraph [ref=f1e56]: Páginas
+      - generic [ref=f1e57]:
+        - generic [ref=f1e58]:
+          - heading "Últimas noticias" [level=2] [ref=f1e59]
+          - list [ref=f1e60]:
+            - listitem [ref=f1e61]:
+              - generic [ref=f1e62]:
+                - paragraph [ref=f1e63]: Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre
+                - paragraph [ref=f1e64]: 21 de abril de 2026
+              - generic [ref=f1e65]: Publicado
+            - listitem [ref=f1e66]:
+              - generic [ref=f1e67]:
+                - paragraph [ref=f1e68]: Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”
+                - paragraph [ref=f1e69]: 20 de abril de 2026
+              - generic [ref=f1e70]: Publicado
+            - listitem [ref=f1e71]:
+              - generic [ref=f1e72]:
+                - paragraph [ref=f1e73]: Acción Municipal para prevenir inundaciones en Guadalupe Larriva
+                - paragraph [ref=f1e74]: 16 de abril de 2026
+              - generic [ref=f1e75]: Publicado
+            - listitem [ref=f1e76]:
+              - generic [ref=f1e77]:
+                - paragraph [ref=f1e78]: Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales
+                - paragraph [ref=f1e79]: 15 de abril de 2026
+              - generic [ref=f1e80]: Publicado
+            - listitem [ref=f1e81]:
+              - generic [ref=f1e82]:
+                - paragraph [ref=f1e83]: Parque Central renace con obras que impulsan empleo y futuro para el cantón
+                - paragraph [ref=f1e84]: 14 de abril de 2026
+              - generic [ref=f1e85]: Publicado
+        - generic [ref=f1e86]:
+          - heading "Pendiente de revisar" [level=2] [ref=f1e87]
+          - list [ref=f1e88]:
+            - listitem [ref=f1e89]:
+              - paragraph [ref=f1e90]: "20"
+              - paragraph [ref=f1e91]: trámites que la propia fuente marca como incompletos
+            - listitem [ref=f1e92]:
+              - paragraph [ref=f1e93]: "54"
+              - paragraph [ref=f1e94]: imágenes sin texto alternativo redactado
+          - paragraph [ref=f1e95]: Son cuentas reales sobre el contenido migrado, no estimaciones.

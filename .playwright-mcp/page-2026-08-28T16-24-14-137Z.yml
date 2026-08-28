@@ -1,0 +1,318 @@
+- generic [ref=f31e3]:
+  - link "Saltar al contenido" [ref=f31e4] [cursor=pointer]:
+    - /url: "#contenido"
+  - banner [ref=f31e12]:
+    - generic [ref=f31e13]:
+      - link "Inicio, Alcaldía de Francisco de Orellana" [ref=f31e14] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f31e50]: Alcaldía de Francisco de Orellana
+      - generic [ref=f31e51]:
+        - link "Asistente" [ref=f31e52] [cursor=pointer]:
+          - /url: /asistente
+        - link "Buscar" [ref=f31e58] [cursor=pointer]:
+          - /url: /buscar
+        - button "Cambiar entre modo claro y oscuro" [ref=f31e63]
+        - button "Abrir menú" [ref=f31e66] [cursor=pointer]
+  - main [ref=f31e70]:
+    - region "El cantón Francisco de Orellana" [ref=f31e71]:
+      - generic [ref=f31e73]:
+        - generic [ref=f31e76]:
+          - paragraph [ref=f31e77]: Rincón Mágico del Ecuador
+          - heading "El Coca entrada al Yasuní" [level=1] [ref=f31e79]:
+            - generic [ref=f31e80]: El Coca
+            - generic [ref=f31e81]: entrada al Yasuní
+          - paragraph [ref=f31e82]: A las puertas de uno de los parques más megadiversos del planeta. Aquí están los trámites, las obras y las noticias del cantón.
+          - search [ref=f31e83]:
+            - generic [ref=f31e84]: Buscar trámites, noticias y documentos del municipio
+            - searchbox "Buscar trámites, noticias y documentos del municipio" [ref=f31e85]
+            - button "Buscar" [ref=f31e86] [cursor=pointer]
+          - list [ref=f31e90]:
+            - listitem [ref=f31e91]: "Lo más buscado:"
+            - listitem [ref=f31e92]:
+              - link "Patente municipal" [ref=f31e93] [cursor=pointer]:
+                - /url: /buscar?q=patente
+            - listitem [ref=f31e94]:
+              - link "Agua potable" [ref=f31e95] [cursor=pointer]:
+                - /url: /buscar?q=agua%20potable
+            - listitem [ref=f31e96]:
+              - link "Permiso de construcción" [ref=f31e97] [cursor=pointer]:
+                - /url: /buscar?q=permiso%20construcci%C3%B3n
+        - generic [ref=f31e98]:
+          - generic [ref=f31e99]:
+            - generic [ref=f31e100]:
+              - term [ref=f31e101]: trámites en línea
+              - definition [ref=f31e102]: "60"
+              - generic [ref=f31e103]: trámites en línea
+            - generic [ref=f31e104]:
+              - term [ref=f31e105]: noticias publicadas
+              - definition [ref=f31e106]: "280"
+              - generic [ref=f31e107]: noticias publicadas
+            - generic [ref=f31e108]:
+              - term [ref=f31e109]: extensiones de contacto
+              - definition [ref=f31e110]: "104"
+              - generic [ref=f31e111]: extensiones de contacto
+          - paragraph [ref=f31e113]:
+            - generic [ref=f31e114]: Puente sobre el río Napo
+            - text: Anochecer desde el malecón de El Coca
+    - region [ref=f31e115]:
+      - generic [ref=f31e116]:
+        - heading "¿Qué necesitas hacer?" [level=2] [ref=f31e117]
+        - paragraph [ref=f31e118]: Cuatro puertas de entrada. Si sabes exactamente qué buscas, el buscador te lleva directo a la ficha.
+      - generic [ref=f31e119]:
+        - link "Hacer un trámite Patentes, permisos de construcción, agua potable y certificados. Organizados por lo que necesitas hacer, no por la dirección que lo atiende. 60 trámites con requisitos y costos" [ref=f31e120] [cursor=pointer]:
+          - /url: /tramites
+          - generic [ref=f31e121]: "01"
+          - generic [ref=f31e122]:
+            - heading "Hacer un trámite" [level=3] [ref=f31e123]
+            - paragraph [ref=f31e124]: Patentes, permisos de construcción, agua potable y certificados. Organizados por lo que necesitas hacer, no por la dirección que lo atiende.
+            - generic [ref=f31e125]: 60 trámites con requisitos y costos
+        - link "Transparencia LOTAIP, ordenanzas, rendición de cuentas y plan de contratación. Información pública obligatoria" [ref=f31e130] [cursor=pointer]:
+          - /url: /transparencia
+          - generic [ref=f31e131]: "02"
+          - generic [ref=f31e132]:
+            - heading "Transparencia" [level=3] [ref=f31e133]
+            - paragraph [ref=f31e134]: LOTAIP, ordenanzas, rendición de cuentas y plan de contratación.
+            - generic [ref=f31e135]: Información pública obligatoria
+        - link "Obras y noticias La gestión municipal, semana a semana. 280 publicaciones" [ref=f31e140] [cursor=pointer]:
+          - /url: /noticias
+          - generic [ref=f31e141]: "03"
+          - generic [ref=f31e142]:
+            - heading "Obras y noticias" [level=3] [ref=f31e143]
+            - paragraph [ref=f31e144]: La gestión municipal, semana a semana.
+            - generic [ref=f31e145]: 280 publicaciones
+        - link "Conoce el cantón Historia y símbolos, el Concejo, la alcaldía, los lugares por visitar y las rutas turísticas de los tres ríos. Territorio, cultura y turismo" [ref=f31e150] [cursor=pointer]:
+          - /url: /canton
+          - generic [ref=f31e151]: "04"
+          - generic [ref=f31e152]:
+            - heading "Conoce el cantón" [level=3] [ref=f31e153]
+            - paragraph [ref=f31e154]: Historia y símbolos, el Concejo, la alcaldía, los lugares por visitar y las rutas turísticas de los tres ríos.
+            - generic [ref=f31e155]: Territorio, cultura y turismo
+    - region [ref=f31e160]:
+      - generic [ref=f31e356]:
+        - paragraph [ref=f31e357]: Asistente del municipio
+        - heading "¿No sabe cómo se llama el trámite que necesita?" [level=2] [ref=f31e358]
+        - paragraph [ref=f31e359]: Descríbalo con sus palabras. Le muestro la ficha oficial, con sus requisitos y a qué dirección acudir.
+        - generic [ref=f31e360]:
+          - generic [ref=f31e361]: Escriba lo que necesita hacer
+          - textbox "Escriba lo que necesita hacer" [ref=f31e362]:
+            - /placeholder: Quiero poner un local…
+          - button "Preguntar" [ref=f31e363]
+        - paragraph [ref=f31e366]: Funciona en servidores del municipio. Sus consultas no salen de aquí.
+    - region [ref=f31e367]:
+      - generic [ref=f31e368]:
+        - generic [ref=f31e369]:
+          - heading "Francisco de Orellana en cifras" [level=2] [ref=f31e370]
+          - link "Datos completos del cantón" [ref=f31e371] [cursor=pointer]:
+            - /url: /canton/datos-canton
+        - generic [ref=f31e372]:
+          - generic [ref=f31e373]:
+            - term [ref=f31e374]: habitantes
+            - definition [ref=f31e375]: "72.795"
+            - definition [ref=f31e376]: VII Censo de Población
+          - generic [ref=f31e377]:
+            - term [ref=f31e378]: km² de territorio
+            - definition [ref=f31e379]: "7.047"
+            - definition [ref=f31e380]: Entre los ríos Napo, Coca y Payamino
+          - generic [ref=f31e381]:
+            - term [ref=f31e382]: temperatura media
+            - definition [ref=f31e383]: 26°C
+            - definition [ref=f31e384]: Clima tropical húmedo todo el año
+          - generic [ref=f31e385]:
+            - term [ref=f31e386]: año de cantonización
+            - definition [ref=f31e387]: "1969"
+            - definition [ref=f31e388]: 30 de abril, fiesta cantonal
+    - region [ref=f31e389]:
+      - generic [ref=f31e390]:
+        - generic [ref=f31e391]:
+          - paragraph [ref=f31e392]: Atajo directo
+          - heading "Lo que más se consulta" [level=2] [ref=f31e393]
+        - link "Ver los 60 trámites" [ref=f31e394] [cursor=pointer]:
+          - /url: /tramites
+      - list [ref=f31e397]:
+        - listitem [ref=f31e398]:
+          - link "Dirección Financiera Patente por primera vez persona natural Es el Permiso de funcionamiento obligatorio (Patente Municipal) para ejercer una actividad dentro del cantón sea estas personas naturales o jurídicas, sociedad nacionales o extranjeras, domiciliadas o con establecimiento Ver requisitos" [ref=f31e399] [cursor=pointer]:
+            - /url: /tramites/patente-por-primera-vez-persona-natural-19
+            - generic [ref=f31e400]: "01"
+            - generic [ref=f31e403]: Dirección Financiera
+            - heading "Patente por primera vez persona natural" [level=3] [ref=f31e404]
+            - paragraph [ref=f31e405]: Es el Permiso de funcionamiento obligatorio (Patente Municipal) para ejercer una actividad dentro del cantón sea estas personas naturales o jurídicas, sociedad nacionales o extranjeras, domiciliadas o con establecimiento
+            - generic [ref=f31e406]: Ver requisitos
+        - listitem [ref=f31e409]:
+          - link "Dirección de Agua Potable y Alcantarillado Servicio de Agua Potable Servicio de entrega de agua potabilizada en los hogares del cantón. Ver requisitos" [ref=f31e410] [cursor=pointer]:
+            - /url: /tramites/servicio-de-agua-potable-6
+            - generic [ref=f31e411]: "02"
+            - generic [ref=f31e414]: Dirección de Agua Potable y Alcantarillado
+            - heading "Servicio de Agua Potable" [level=3] [ref=f31e415]
+            - paragraph [ref=f31e416]: Servicio de entrega de agua potabilizada en los hogares del cantón.
+            - generic [ref=f31e417]: Ver requisitos
+        - listitem [ref=f31e420]:
+          - link "Dirección de Agua Potable y Alcantarillado Solicitud de conexión de acometida de agua potable Es la instalación de agua potable desde la red hasta el domicilio del solicitante, incluye el medidor de agua que sirve para la toma de lectura del consumo mensual. Sus valores cambian de acuerdo al lugar donde se encuen Ver requisitos" [ref=f31e421] [cursor=pointer]:
+            - /url: /tramites/solicitud-de-conexion-de-acometida-de-agua-potable-4
+            - generic [ref=f31e422]: "03"
+            - generic [ref=f31e425]: Dirección de Agua Potable y Alcantarillado
+            - heading "Solicitud de conexión de acometida de agua potable" [level=3] [ref=f31e426]
+            - paragraph [ref=f31e427]: Es la instalación de agua potable desde la red hasta el domicilio del solicitante, incluye el medidor de agua que sirve para la toma de lectura del consumo mensual. Sus valores cambian de acuerdo al lugar donde se encuen
+            - generic [ref=f31e428]: Ver requisitos
+        - listitem [ref=f31e431]:
+          - link "Dirección Ordenamiento Territorial Requisitos para permiso de construcción y aprobación de planos Es el documento que avala al propietario del terreno realizar su construcción. Ver requisitos" [ref=f31e432] [cursor=pointer]:
+            - /url: /tramites/requisitos-para-permiso-de-construccion-y-aprobacion-de-planos-34
+            - generic [ref=f31e433]: "04"
+            - generic [ref=f31e436]: Dirección Ordenamiento Territorial
+            - heading "Requisitos para permiso de construcción y aprobación de planos" [level=3] [ref=f31e437]
+            - paragraph [ref=f31e438]: Es el documento que avala al propietario del terreno realizar su construcción.
+            - generic [ref=f31e439]: Ver requisitos
+        - listitem [ref=f31e442]:
+          - link "Dirección Ordenamiento Territorial Certificado de no poseer bienes Es el certificado que otorga la Jefatura de Avalúos y Catastro en el cual se ratifica si el solicitante tiene o no terrenos dentro de la jurisdicción del cantón Francisco de Orellana. Ver requisitos" [ref=f31e443] [cursor=pointer]:
+            - /url: /tramites/certificado-de-no-poseer-bienes-32
+            - generic [ref=f31e444]: "05"
+            - generic [ref=f31e447]: Dirección Ordenamiento Territorial
+            - heading "Certificado de no poseer bienes" [level=3] [ref=f31e448]
+            - paragraph [ref=f31e449]: Es el certificado que otorga la Jefatura de Avalúos y Catastro en el cual se ratifica si el solicitante tiene o no terrenos dentro de la jurisdicción del cantón Francisco de Orellana.
+            - generic [ref=f31e450]: Ver requisitos
+        - listitem [ref=f31e453]:
+          - link "Dirección de Tránsito, TTSV Requisito para la revisión y/ renovación de matrícula particulares Ver requisitos" [ref=f31e454] [cursor=pointer]:
+            - /url: /tramites/requisito-para-la-revision-y-renovacion-de-matricula-particulares-48
+            - generic [ref=f31e455]: "06"
+            - generic [ref=f31e458]: Dirección de Tránsito, TTSV
+            - heading "Requisito para la revisión y/ renovación de matrícula particulares" [level=3] [ref=f31e459]
+            - paragraph
+            - generic [ref=f31e460]: Ver requisitos
+    - region [ref=f31e463]:
+      - generic [ref=f31e464]:
+        - generic [ref=f31e465]:
+          - paragraph [ref=f31e466]: Al día
+          - heading "Actualidad del cantón" [level=2] [ref=f31e468]
+        - link "Todas las noticias" [ref=f31e469] [cursor=pointer]:
+          - /url: /noticias
+      - generic [ref=f31e472]:
+        - article [ref=f31e473]:
+          - link [ref=f31e474] [cursor=pointer]:
+            - /url: /noticias/alcaldia-fortalece-la-infraestructura-vial-del-barrio-6-de-diciembre-296
+            - img "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre" [ref=f31e476]
+            - paragraph [ref=f31e477]: 21 de abril de 2026
+            - heading "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre" [level=3] [ref=f31e479]
+            - paragraph [ref=f31e480]: La alcaldesa Shirma Cortés Sanmiguel, avanza en su agenda de obra pública a través de técnicos municipales con la intervención vial en la intersección de las calles 1 de Mayo y Ambato, del barrio 6 de Diciembre. Los trabajos de readecuación y bacheo
+        - list [ref=f31e481]:
+          - listitem [ref=f31e482]:
+            - link [ref=f31e483] [cursor=pointer]:
+              - /url: /noticias/alcaldia-fortalece-el-bienestar-de-adultos-mayores-con-picnic-vital-295
+              - generic [ref=f31e486]:
+                - paragraph [ref=f31e487]: 20 de abril de 2026
+                - heading "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”" [level=3] [ref=f31e488]
+          - listitem [ref=f31e489]:
+            - link [ref=f31e490] [cursor=pointer]:
+              - /url: /noticias/accion-municipal-para-prevenir-inundaciones-en-guadalupe-larriva-294
+              - generic [ref=f31e493]:
+                - paragraph [ref=f31e494]: 16 de abril de 2026
+                - heading "Acción Municipal para prevenir inundaciones en Guadalupe Larriva" [level=3] [ref=f31e495]
+          - listitem [ref=f31e496]:
+            - link [ref=f31e497] [cursor=pointer]:
+              - /url: /noticias/alcaldia-impulsa-ventas-efectivas-para-fortalecer-el-exito-de-emprendedores-293
+              - generic [ref=f31e500]:
+                - paragraph [ref=f31e501]: 15 de abril de 2026
+                - heading "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales" [level=3] [ref=f31e502]
+          - listitem [ref=f31e503]:
+            - link [ref=f31e504] [cursor=pointer]:
+              - /url: /noticias/parque-central-renace-con-obras-que-impulsan-empleo-y-futuro-para-el-canton-285
+              - generic [ref=f31e507]:
+                - paragraph [ref=f31e508]: 14 de abril de 2026
+                - heading "Parque Central renace con obras que impulsan empleo y futuro para el cantón" [level=3] [ref=f31e509]
+    - region [ref=f31e510]:
+      - generic [ref=f31e511]:
+        - generic [ref=f31e512]:
+          - paragraph [ref=f31e513]: Conoce el cantón
+          - heading "Tres ríos, siete mil kilómetros de selva" [level=2] [ref=f31e514]
+          - paragraph [ref=f31e515]: El Napo, el Coca y el Payamino se juntan aquí. Alrededor, las comunidades kichwa de Añangu, Yana Rumi y Pompeya, el centro de rescate Coca Zoo y la puerta al Parque Nacional Yasuní.
+        - list [ref=f31e516]:
+          - listitem [ref=f31e517]:
+            - link "Lugares por visitar Supay Kucha, Amaru Yaya, Yasuní Land" [ref=f31e518] [cursor=pointer]:
+              - /url: /canton/lugares
+              - generic [ref=f31e519]: Lugares por visitar
+              - generic [ref=f31e520]: Supay Kucha, Amaru Yaya, Yasuní Land
+          - listitem [ref=f31e521]:
+            - link "Rutas turísticas Recorridos por el cantón" [ref=f31e522] [cursor=pointer]:
+              - /url: /canton/rutas
+              - generic [ref=f31e523]: Rutas turísticas
+              - generic [ref=f31e524]: Recorridos por el cantón
+          - listitem [ref=f31e525]:
+            - link "Historia y símbolos Escudo, bandera e himno" [ref=f31e526] [cursor=pointer]:
+              - /url: /canton/historia-simbolos
+              - generic [ref=f31e527]: Historia y símbolos
+              - generic [ref=f31e528]: Escudo, bandera e himno
+          - listitem [ref=f31e529]:
+            - link "El Coca antiguo Sesenta años en fotografías" [ref=f31e530] [cursor=pointer]:
+              - /url: /canton/coca-antiguo
+              - generic [ref=f31e531]: El Coca antiguo
+              - generic [ref=f31e532]: Sesenta años en fotografías
+  - contentinfo [ref=f31e533]:
+    - generic [ref=f31e534]:
+      - generic [ref=f31e535]:
+        - link "Inicio, Alcaldía de Francisco de Orellana" [ref=f31e536] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f31e572]: Alcaldía de Francisco de Orellana
+        - paragraph [ref=f31e573]: Gobierno Autónomo Descentralizado Municipal de Francisco de Orellana, en el corazón de la Amazonía ecuatoriana.
+        - link "Atención ciudadana" [ref=f31e574] [cursor=pointer]:
+          - /url: /contacto
+      - generic [ref=f31e575]:
+        - heading "Trámites" [level=2] [ref=f31e576]
+        - list [ref=f31e577]:
+          - listitem [ref=f31e578]:
+            - link "Negocios y patentes" [ref=f31e579] [cursor=pointer]:
+              - /url: /tramites?categoria=negocios
+          - listitem [ref=f31e580]:
+            - link "Construcción" [ref=f31e581] [cursor=pointer]:
+              - /url: /tramites?categoria=vivienda-y-construccion
+          - listitem [ref=f31e582]:
+            - link "Agua y ambiente" [ref=f31e583] [cursor=pointer]:
+              - /url: /tramites?categoria=agua-y-ambiente
+          - listitem [ref=f31e584]:
+            - link "Ver todos" [ref=f31e585] [cursor=pointer]:
+              - /url: /tramites
+      - generic [ref=f31e586]:
+        - heading "Transparencia" [level=2] [ref=f31e587]
+        - list [ref=f31e588]:
+          - listitem [ref=f31e589]:
+            - link "LOTAIP" [ref=f31e590] [cursor=pointer]:
+              - /url: /transparencia/lotaip
+          - listitem [ref=f31e591]:
+            - link "Ordenanzas" [ref=f31e592] [cursor=pointer]:
+              - /url: /transparencia/ordenanzas
+          - listitem [ref=f31e593]:
+            - link "Rendición de cuentas" [ref=f31e594] [cursor=pointer]:
+              - /url: /transparencia/rendicion-cuentas
+          - listitem [ref=f31e595]:
+            - link "Contratación (PAC)" [ref=f31e596] [cursor=pointer]:
+              - /url: /transparencia/pac
+      - generic [ref=f31e597]:
+        - heading "El cantón" [level=2] [ref=f31e598]
+        - list [ref=f31e599]:
+          - listitem [ref=f31e600]:
+            - link "Datos del cantón" [ref=f31e601] [cursor=pointer]:
+              - /url: /canton/datos-canton
+          - listitem [ref=f31e602]:
+            - link "Historia y símbolos" [ref=f31e603] [cursor=pointer]:
+              - /url: /canton/historia-simbolos
+          - listitem [ref=f31e604]:
+            - link "Alcaldía" [ref=f31e605] [cursor=pointer]:
+              - /url: /canton/alcaldia
+          - listitem [ref=f31e606]:
+            - link "Concejo Municipal" [ref=f31e607] [cursor=pointer]:
+              - /url: /canton/concejo
+    - generic [ref=f31e609]:
+      - paragraph [ref=f31e610]: © 2026 GAD Municipal Francisco de Orellana
+      - list [ref=f31e611]:
+        - listitem [ref=f31e612]:
+          - link "Facebook" [ref=f31e613] [cursor=pointer]:
+            - /url: https://www.facebook.com/MunicipiodeFranciscodeOrellana
+        - listitem [ref=f31e614]:
+          - link "Instagram" [ref=f31e615] [cursor=pointer]:
+            - /url: https://www.instagram.com/gadmforellana
+        - listitem [ref=f31e616]:
+          - link "YouTube" [ref=f31e617] [cursor=pointer]:
+            - /url: https://www.youtube.com/@GADFranciscodeOrellana
+        - listitem [ref=f31e618]:
+          - link "X" [ref=f31e619] [cursor=pointer]:
+            - /url: https://x.com/GADMFOrellana
+        - listitem [ref=f31e620]:
+          - link "TikTok" [ref=f31e621] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@munifranciscodeorellana

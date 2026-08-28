@@ -11,3 +11,9 @@ media/derivados
 .DS_Store
 .env
 .env.*
+
+# Pesos del modelo y corpus vectorizado: el build los genera dentro de la
+# imagen (descargar-modelo.ts y prebuild). Mandarlos en el contexto sería
+# subir 135 MB al daemon para acto seguido sobrescribirlos.
+app/modelos
+app/src/lib/server/corpus.generado.json

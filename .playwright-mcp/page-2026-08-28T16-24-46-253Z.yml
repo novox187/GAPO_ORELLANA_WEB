@@ -1,0 +1,20 @@
+- generic [ref=f31e2]:
+  - generic [ref=f31e622]:
+    - banner [ref=f31e623]:
+      - link "Volver al sitio" [ref=f31e624] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f31e627]: Asistente
+      - button "Nueva consulta" [ref=f31e821]
+    - list [ref=f31e824]:
+      - listitem [ref=f31e825]:
+        - paragraph [ref=f31e827]: quiero poner un local
+      - listitem [ref=f31e828]:
+        - paragraph [ref=f31e1023]: Buscando en el sitio municipal…
+    - generic [ref=f31e1024]:
+      - generic [ref=f31e1025]:
+        - generic [ref=f31e1026]: Escriba su consulta
+        - textbox "Escriba su consulta" [disabled] [ref=f31e1027]:
+          - /placeholder: Escriba su consulta…
+        - button "Enviar consulta" [disabled] [ref=f31e1028]
+      - paragraph [ref=f31e1030]: Lo que vale es la ficha oficial. Ante cualquier duda, acuda a la dirección responsable.
+  - generic [ref=f31e1031]: Asistente · GAD Municipal Francisco de Orellana

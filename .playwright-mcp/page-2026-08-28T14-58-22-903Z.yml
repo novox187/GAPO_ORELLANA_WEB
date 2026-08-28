@@ -1,0 +1,215 @@
+- generic [ref=f15e2]:
+  - complementary [ref=f15e3]:
+    - generic [ref=f15e9]:
+      - paragraph [ref=f15e10]: GADMFO
+      - paragraph [ref=f15e11]: Gestión de contenidos
+    - navigation "Secciones del panel" [ref=f15e12]:
+      - link "Inicio" [ref=f15e13] [cursor=pointer]:
+        - /url: http://localhost:8000/panel
+      - link "Noticias" [ref=f15e32] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/noticias
+      - link "Trámites" [ref=f15e51] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/tramites
+      - link "Páginas" [ref=f15e55] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/paginas
+      - link "Imágenes" [ref=f15e59] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/medios
+  - generic [ref=f15e250]:
+    - banner [ref=f15e251]:
+      - generic [ref=f15e252]:
+        - heading "Página" [level=1] [ref=f15e253]
+        - paragraph [ref=f15e254]: Contenido y documentos
+      - generic [ref=f15e255]:
+        - generic [ref=f15e256]:
+          - paragraph [ref=f15e257]: Comunicación Social
+          - paragraph [ref=f15e258]: Administrador
+        - button "Salir" [ref=f15e260]
+    - main [ref=f15e261]:
+      - generic [ref=f15e263]:
+        - generic [ref=f15e264]:
+          - generic [ref=f15e265]: Título
+          - textbox "Título" [ref=f15e266]: Mecanismos de Participación
+          - paragraph [ref=f15e267]:
+            - text: Sección
+            - strong [ref=f15e268]: transparencia
+            - text: · dirección pública
+            - code [ref=f15e269]: /transparencia/mecanismos-participacion
+        - generic [ref=f15e270]:
+          - generic [ref=f15e271]:
+            - heading "Contenido (10 bloques)" [level=2] [ref=f15e272]
+            - generic [ref=f15e273]:
+              - button "+ Título" [ref=f15e274]
+              - button "+ Párrafo" [ref=f15e275]
+              - button "+ Lista" [ref=f15e276]
+          - generic [ref=f15e277]:
+            - generic [ref=f15e278]:
+              - generic [ref=f15e279]:
+                - button "Subir bloque" [disabled] [ref=f15e280]: ↑
+                - button "Bajar bloque" [ref=f15e281]: ↓
+              - textbox "Párrafo" [ref=f15e283]: Audiencias Públicas.- Son una instancia de participación habilitada por la autoridad responsable, ya sea por iniciativa propia o un pedido de la ciudadanía. Sirven para atender pronunciamientos o peticiones ciudadanas y para fundamentar decisiones o acciones de gobierno. Asambleas ciudadanas.- La Asamblea es una organización social, conformada por la ciudadanía como un espacio de deliberación pública entre los ciudadanos y ciudadanas.
+              - button "Quitar bloque" [ref=f15e284]: ✕
+            - generic [ref=f15e285]:
+              - generic [ref=f15e286]:
+                - button "Subir bloque" [ref=f15e287]: ↑
+                - button "Bajar bloque" [ref=f15e288]: ↓
+              - textbox "Párrafo" [ref=f15e290]: "Funciones determinadas por la Ley Orgánica de Participación Ciudadana:"
+              - button "Quitar bloque" [ref=f15e291]: ✕
+            - generic [ref=f15e292]:
+              - generic [ref=f15e293]:
+                - button "Subir bloque" [ref=f15e294]: ↑
+                - button "Bajar bloque" [ref=f15e295]: ↓
+              - generic [ref=f15e296]:
+                - paragraph [ref=f15e297]: Lista
+                - generic [ref=f15e298]:
+                  - generic [ref=f15e299]:
+                    - textbox "Texto del elemento" [ref=f15e300]:
+                      - /placeholder: Texto
+                      - text: Respetar los derechos y exigir su cumplimiento.
+                    - textbox "Enlace del elemento" [ref=f15e301]:
+                      - /placeholder: Enlace (opcional)
+                    - button "Quitar elemento" [ref=f15e302]: ✕
+                  - generic [ref=f15e303]:
+                    - textbox "Texto del elemento" [ref=f15e304]:
+                      - /placeholder: Texto
+                      - text: Proponer agendas de desarrollo, planes, programas y políticas públicas locales.
+                    - textbox "Enlace del elemento" [ref=f15e305]:
+                      - /placeholder: Enlace (opcional)
+                    - button "Quitar elemento" [ref=f15e306]: ✕
+                  - generic [ref=f15e307]:
+                    - textbox "Texto del elemento" [ref=f15e308]:
+                      - /placeholder: Texto
+                      - text: Promover la organización social y la formación ciudadana.
+                    - textbox "Enlace del elemento" [ref=f15e309]:
+                      - /placeholder: Enlace (opcional)
+                    - button "Quitar elemento" [ref=f15e310]: ✕
+                  - generic [ref=f15e311]:
+                    - textbox "Texto del elemento" [ref=f15e312]:
+                      - /placeholder: Texto
+                      - text: Organizar de manera independiente el ejercicio de rendición de cuentas de las autoridades.
+                    - textbox "Enlace del elemento" [ref=f15e313]:
+                      - /placeholder: Enlace (opcional)
+                    - button "Quitar elemento" [ref=f15e314]: ✕
+                  - generic [ref=f15e315]:
+                    - textbox "Texto del elemento" [ref=f15e316]:
+                      - /placeholder: Texto
+                      - text: Propiciar el debate, la deliberación y la concertación.
+                    - textbox "Enlace del elemento" [ref=f15e317]:
+                      - /placeholder: Enlace (opcional)
+                    - button "Quitar elemento" [ref=f15e318]: ✕
+                  - generic [ref=f15e319]:
+                    - textbox "Texto del elemento" [ref=f15e320]:
+                      - /placeholder: Texto
+                      - text: Ejecutar el control social.
+                    - textbox "Enlace del elemento" [ref=f15e321]:
+                      - /placeholder: Enlace (opcional)
+                    - button "Quitar elemento" [ref=f15e322]: ✕
+                - button "Añadir elemento" [ref=f15e323]
+                - paragraph [ref=f15e324]: "Muchos elementos heredados no traen enlace propio: la dirección real del archivo vive abajo, en Documentos, y el sitio los empareja por nombre."
+              - button "Quitar bloque" [ref=f15e325]: ✕
+            - generic [ref=f15e326]:
+              - generic [ref=f15e327]:
+                - button "Subir bloque" [ref=f15e328]: ↑
+                - button "Bajar bloque" [ref=f15e329]: ↓
+              - generic [ref=f15e331]:
+                - combobox "Nivel del título" [ref=f15e332]:
+                  - option "Nivel 2"
+                  - option "Nivel 3"
+                  - option "Nivel 4" [selected]
+                - textbox "Texto del título" [ref=f15e333]: "Integrantes de la Asamblea ciudadana Local:"
+              - button "Quitar bloque" [ref=f15e334]: ✕
+            - generic [ref=f15e335]:
+              - generic [ref=f15e336]:
+                - button "Subir bloque" [ref=f15e337]: ↑
+                - button "Bajar bloque" [ref=f15e338]: ↓
+              - generic [ref=f15e339]:
+                - paragraph [ref=f15e340]: Tabla — solo lectura
+                - table [ref=f15e342]:
+                  - rowgroup [ref=f15e343]:
+                    - row [ref=f15e344]:
+                      - cell "DIGNIDAD" [ref=f15e345]
+                      - cell "NOMBRE Y APELLIDO" [ref=f15e346]
+                      - cell "CARGA" [ref=f15e347]
+                    - row [ref=f15e348]:
+                      - cell "Señor" [ref=f15e349]
+                      - cell "Marco Tandazo" [ref=f15e350]
+                      - cell "PRESIDENTE DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e351]
+                    - row [ref=f15e352]:
+                      - cell "Señorita" [ref=f15e353]
+                      - cell "Cynthia Mariela Jiménez Sánchez" [ref=f15e354]
+                      - cell "VICEPRESIDENTA DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e355]
+                    - row [ref=f15e356]:
+                      - cell "Señor" [ref=f15e357]
+                      - cell "William Espín Hugo" [ref=f15e358]
+                      - cell "SECRETARIO DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e359]
+                    - row [ref=f15e360]:
+                      - cell "Señorita" [ref=f15e361]
+                      - cell "Karina Rocío Verdezoto López" [ref=f15e362]
+                      - cell "TESORERA DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e363]
+                    - row [ref=f15e364]:
+                      - cell "Señor" [ref=f15e365]
+                      - cell "Rodolfo Edmundo Rodríguez Salazar" [ref=f15e366]
+                      - cell "PRIMER VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e367]
+                    - row [ref=f15e368]:
+                      - cell "Señor" [ref=f15e369]
+                      - cell "Andrés Alejandro Santi Hidalgo" [ref=f15e370]
+                      - cell "SEGUNDO VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e371]
+                    - row [ref=f15e372]:
+                      - cell "Señora" [ref=f15e373]
+                      - cell "Paola Guerrero" [ref=f15e374]
+                      - cell "TERCER VOCAL PRINCIPAL DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e375]
+                    - row [ref=f15e376]:
+                      - cell "Señora" [ref=f15e377]
+                      - cell "Eliza Flora Andi Alvarado" [ref=f15e378]
+                      - cell "PRIMER VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e379]
+                    - row [ref=f15e380]:
+                      - cell "Señora" [ref=f15e381]
+                      - cell "Irma Inés Altamirano Miranda" [ref=f15e382]
+                      - cell "SEGUNDO VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e383]
+                    - row [ref=f15e384]:
+                      - cell "Señora" [ref=f15e385]
+                      - cell "Alicia Illanes" [ref=f15e386]
+                      - cell "TERCER VOCAL SUPLENTE DE LA ASAMBLEA LOCAL CIUDADANA" [ref=f15e387]
+                - paragraph [ref=f15e388]: Hay una sola tabla en todo el sitio. Construir un editor de rejilla decente para un único caso no compensaba, así que se conserva intacta; si hace falta cambiarla, díselo a quien mantiene el backend.
+              - button "Quitar bloque" [ref=f15e389]: ✕
+            - generic [ref=f15e390]:
+              - generic [ref=f15e391]:
+                - button "Subir bloque" [ref=f15e392]: ↑
+                - button "Bajar bloque" [ref=f15e393]: ↓
+              - textbox "Párrafo" [ref=f15e395]: Silla vacía.- La Constitución establece que las sesiones de los Gobiernos Autónomos descentralizados son públicas y en ellas habrá una silla vacía que será ocupada por una o un representante, varios o varios representantes de la ciudadanía, en función de los temas que se van a tratar. Él o el representante participará en el debate y en la toma de decisiones, dentro de las sesiones del Consejo Municipal y se sujetará a la ley, ordenanzas y reglamentos del GADMFO.
+              - button "Quitar bloque" [ref=f15e396]: ✕
+            - generic [ref=f15e397]:
+              - generic [ref=f15e398]:
+                - button "Subir bloque" [ref=f15e399]: ↑
+                - button "Bajar bloque" [ref=f15e400]: ↓
+              - textbox "Párrafo" [ref=f15e402]: Presupuestos Participativos.- espacio común y compartido de toma de decisiones entre la Autoridad, ciudadanía y organizaciones sociales en torno a la distribución equitativa de los presupuestos públicos. La asignación de los recursos se hará conforme a las prioridades de los planes de desarrollo para propiciar la equidad territorial sobre la base de la disponibilidad financiera del GADMFO.
+              - button "Quitar bloque" [ref=f15e403]: ✕
+            - generic [ref=f15e404]:
+              - generic [ref=f15e405]:
+                - button "Subir bloque" [ref=f15e406]: ↑
+                - button "Bajar bloque" [ref=f15e407]: ↓
+              - generic [ref=f15e409]:
+                - combobox "Nivel del título" [ref=f15e410]:
+                  - option "Nivel 2" [selected]
+                  - option "Nivel 3"
+                  - option "Nivel 4"
+                - textbox "Texto del título" [ref=f15e411]: Las fases del ciclo del PP
+              - button "Quitar bloque" [ref=f15e412]: ✕
+            - generic [ref=f15e413]:
+              - generic [ref=f15e414]:
+                - button "Subir bloque" [ref=f15e415]: ↑
+                - button "Bajar bloque" [ref=f15e416]: ↓
+              - textbox "Párrafo" [ref=f15e418]: AUDIENCIA PÚBLICA
+              - button "Quitar bloque" [ref=f15e419]: ✕
+            - generic [ref=f15e420]:
+              - generic [ref=f15e421]:
+                - button "Subir bloque" [ref=f15e422]: ↑
+                - button "Bajar bloque" [disabled] [ref=f15e423]: ↓
+              - textbox "Párrafo" [ref=f15e425]: CABILDO POPULAR
+              - button "Quitar bloque" [ref=f15e426]: ✕
+        - generic [ref=f15e428]:
+          - heading "Documentos (0)" [level=2] [ref=f15e429]
+          - button "Añadir documento" [ref=f15e430]
+        - generic [ref=f15e431]:
+          - button "Guardar cambios" [ref=f15e432]
+          - link "Cancelar" [ref=f15e433] [cursor=pointer]:
+            - /url: http://localhost:8000/panel/paginas

@@ -1,0 +1,134 @@
+- generic [ref=f14e435]:
+  - complementary [ref=f14e436]:
+    - generic [ref=f14e442]:
+      - paragraph [ref=f14e443]: GADMFO
+      - paragraph [ref=f14e444]: Gestión de contenidos
+    - navigation "Secciones del panel" [ref=f14e445]:
+      - link "Inicio" [ref=f14e446] [cursor=pointer]:
+        - /url: http://localhost:8000/panel
+      - link "Noticias" [ref=f14e465] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/noticias
+      - link "Trámites" [ref=f14e484] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/tramites
+      - link "Páginas" [ref=f14e488] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/paginas
+      - link "Imágenes" [ref=f14e492] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/medios
+  - generic [ref=f14e683]:
+    - banner [ref=f14e684]:
+      - generic [ref=f14e685]:
+        - heading "Páginas" [level=1] [ref=f14e686]
+        - paragraph [ref=f14e687]: El cantón, turismo y transparencia
+      - generic [ref=f14e688]:
+        - generic [ref=f14e689]:
+          - paragraph [ref=f14e690]: Comunicación Social
+          - paragraph [ref=f14e691]: Administrador
+        - button "Salir" [ref=f14e693]
+    - main [ref=f14e694]:
+      - status [ref=f14e695]: Página actualizada.
+      - generic [ref=f14e696]:
+        - generic [ref=f14e697]:
+          - heading "El cantón e institucional (5)" [level=2] [ref=f14e698]:
+            - text: El cantón e institucional
+            - generic [ref=f14e700]: (5)
+          - list [ref=f14e701]:
+            - listitem [ref=f14e702]:
+              - paragraph [ref=f14e703]: Alcaldía
+              - paragraph [ref=f14e704]: 9 bloques
+              - link "Editar" [ref=f14e705] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/1/editar
+            - listitem [ref=f14e706]:
+              - paragraph [ref=f14e707]: Concejo Municipal
+              - paragraph [ref=f14e708]: 7 bloques
+              - link "Editar" [ref=f14e709] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/2/editar
+            - listitem [ref=f14e710]:
+              - paragraph [ref=f14e711]: Datos del cantón
+              - paragraph [ref=f14e712]: 29 bloques
+              - link "Editar" [ref=f14e713] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/3/editar
+            - listitem [ref=f14e714]:
+              - paragraph [ref=f14e715]: Empresas adscritas
+              - paragraph [ref=f14e716]: 10 bloques
+              - link "Editar" [ref=f14e717] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/4/editar
+            - listitem [ref=f14e718]:
+              - paragraph [ref=f14e719]: Historia y símbolos
+              - paragraph [ref=f14e720]: 25 bloques
+              - link "Editar" [ref=f14e721] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/5/editar
+        - generic [ref=f14e722]:
+          - heading "Turismo (4)" [level=2] [ref=f14e723]:
+            - text: Turismo
+            - generic [ref=f14e725]: (4)
+          - list [ref=f14e726]:
+            - listitem [ref=f14e727]:
+              - paragraph [ref=f14e728]: Coca Zoo
+              - paragraph [ref=f14e729]: 2 bloques
+              - link "Editar" [ref=f14e730] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/7/editar
+            - listitem [ref=f14e731]:
+              - paragraph [ref=f14e732]: El Coca antiguo
+              - paragraph [ref=f14e733]: 1 bloques
+              - link "Editar" [ref=f14e734] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/6/editar
+            - listitem [ref=f14e735]:
+              - paragraph [ref=f14e736]: Lugares por visitar
+              - paragraph [ref=f14e737]: 50 bloques
+              - link "Editar" [ref=f14e738] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/8/editar
+            - listitem [ref=f14e739]:
+              - paragraph [ref=f14e740]: Rutas turísticas
+              - paragraph [ref=f14e741]: 0 bloques
+              - link "Editar" [ref=f14e742] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/9/editar
+        - generic [ref=f14e743]:
+          - heading "Transparencia (9)" [level=2] [ref=f14e744]:
+            - text: Transparencia
+            - generic [ref=f14e746]: (9)
+          - list [ref=f14e747]:
+            - listitem [ref=f14e748]:
+              - paragraph [ref=f14e749]: Calidad de Agua
+              - paragraph [ref=f14e750]: 22 bloques · 80 documentos
+              - link "Editar" [ref=f14e751] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/10/editar
+            - listitem [ref=f14e752]:
+              - paragraph [ref=f14e753]: Convocatorias a Sesión de Concejo
+              - paragraph [ref=f14e754]: 1 bloques
+              - link "Editar" [ref=f14e755] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/11/editar
+            - listitem [ref=f14e756]:
+              - paragraph [ref=f14e757]: Documentos
+              - paragraph [ref=f14e758]: 1 bloques · 20 documentos
+              - link "Editar" [ref=f14e759] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/12/editar
+            - listitem [ref=f14e760]:
+              - paragraph [ref=f14e761]: Informe de Inversión en Publicidad
+              - paragraph [ref=f14e762]: 1 bloques · 2 documentos
+              - link "Editar" [ref=f14e763] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/17/editar
+            - listitem [ref=f14e764]:
+              - paragraph [ref=f14e765]: LOTAIP
+              - paragraph [ref=f14e766]: 81 bloques
+              - link "Editar" [ref=f14e767] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/13/editar
+            - listitem [ref=f14e768]:
+              - paragraph [ref=f14e769]: Mecanismos de Participación
+              - paragraph [ref=f14e770]: 10 bloques
+              - link "Editar" [ref=f14e771] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/14/editar
+            - listitem [ref=f14e772]:
+              - paragraph [ref=f14e773]: Ordenanzas y Resoluciones
+              - paragraph [ref=f14e774]: 15 bloques · 8 documentos
+              - link "Editar" [ref=f14e775] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/15/editar
+            - listitem [ref=f14e776]:
+              - paragraph [ref=f14e777]: Plan Anual de Contratación (PAC)
+              - paragraph [ref=f14e778]: 35 bloques · 18 documentos
+              - link "Editar" [ref=f14e779] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/16/editar
+            - listitem [ref=f14e780]:
+              - paragraph [ref=f14e781]: Rendición de Cuentas
+              - paragraph [ref=f14e782]: 76 bloques · 464 documentos
+              - link "Editar" [ref=f14e783] [cursor=pointer]:
+                - /url: http://localhost:8000/panel/paginas/18/editar

@@ -1,0 +1,191 @@
+- generic [ref=f3e88]:
+  - generic [ref=f3e89]:
+    - complementary [ref=f3e90]:
+      - generic [ref=f3e96]:
+        - paragraph [ref=f3e97]: GADMFO
+        - paragraph [ref=f3e98]: Gestión de contenidos
+      - navigation "Secciones del panel" [ref=f3e99]:
+        - link "Inicio" [ref=f3e100] [cursor=pointer]:
+          - /url: http://localhost:8000/panel
+        - link "Noticias" [ref=f3e119] [cursor=pointer]:
+          - /url: http://localhost:8000/panel/noticias
+    - generic [ref=f3e138]:
+      - banner [ref=f3e139]:
+        - generic [ref=f3e140]:
+          - heading "Noticias" [level=1] [ref=f3e141]
+          - paragraph [ref=f3e142]: Lo que publica Comunicación Social en el sitio
+        - generic [ref=f3e143]:
+          - generic [ref=f3e144]:
+            - paragraph [ref=f3e145]: Comunicación Social
+            - paragraph [ref=f3e146]: Administrador
+          - button "Salir" [ref=f3e148]
+      - main [ref=f3e149]:
+        - status [ref=f3e150]: Borrador guardado. No se ve en el sitio todavía.
+        - generic [ref=f3e151]:
+          - generic [ref=f3e152]:
+            - generic [ref=f3e153]:
+              - generic [ref=f3e154]: Buscar
+              - searchbox "Buscar" [ref=f3e155]
+            - generic [ref=f3e156]:
+              - generic [ref=f3e157]: Estado
+              - combobox "Estado" [ref=f3e158]:
+                - option "Todos" [selected]
+                - option "Publicadas"
+                - option "Borradores"
+            - generic [ref=f3e159]:
+              - generic [ref=f3e160]: Año
+              - combobox "Año" [ref=f3e161]:
+                - option "Todos" [selected]
+                - option "2026"
+                - option "2025"
+            - link "Nueva noticia" [ref=f3e162] [cursor=pointer]:
+              - /url: http://localhost:8000/panel/noticias/nueva
+          - table [ref=f3e164]:
+            - caption [ref=f3e165]: Noticias del sitio municipal
+            - rowgroup [ref=f3e166]:
+              - row [ref=f3e167]:
+                - columnheader "Noticia" [ref=f3e168]
+                - columnheader "Fecha" [ref=f3e169]
+                - columnheader "Estado" [ref=f3e170]
+                - columnheader "Acciones" [ref=f3e171]
+            - rowgroup [ref=f3e172]:
+              - row [ref=f3e353]:
+                - cell "Prueba de publicación desde el panel municipal" [ref=f3e174]
+                - cell "28/08/2026" [ref=f3e178]
+                - cell "Publicada" [ref=f3e354]
+                - cell [ref=f3e355]:
+                  - button "Despublicar" [active] [ref=f3e356]
+                  - link "Editar" [ref=f3e182] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/297/editar
+              - row [ref=f3e183]:
+                - cell "Alcaldía fortalece la infraestructura vial del barrio 6 de Diciembre" [ref=f3e184]
+                - cell "21/04/2026" [ref=f3e187]
+                - cell "Publicada" [ref=f3e188]
+                - cell [ref=f3e189]:
+                  - button "Despublicar" [ref=f3e190]
+                  - link "Editar" [ref=f3e191] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/296/editar
+              - row [ref=f3e192]:
+                - cell "Alcaldía fortalece el bienestar de adultos mayores con “Picnic Vital”" [ref=f3e193]
+                - cell "20/04/2026" [ref=f3e196]
+                - cell "Publicada" [ref=f3e197]
+                - cell [ref=f3e198]:
+                  - button "Despublicar" [ref=f3e199]
+                  - link "Editar" [ref=f3e200] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/295/editar
+              - row [ref=f3e201]:
+                - cell "Acción Municipal para prevenir inundaciones en Guadalupe Larriva" [ref=f3e202]
+                - cell "16/04/2026" [ref=f3e205]
+                - cell "Publicada" [ref=f3e206]
+                - cell [ref=f3e207]:
+                  - button "Despublicar" [ref=f3e208]
+                  - link "Editar" [ref=f3e209] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/294/editar
+              - row [ref=f3e210]:
+                - cell "Alcaldía impulsa “Ventas Efectivas” para fortalecer el éxito de emprendedores locales" [ref=f3e211]
+                - cell "15/04/2026" [ref=f3e214]
+                - cell "Publicada" [ref=f3e215]
+                - cell [ref=f3e216]:
+                  - button "Despublicar" [ref=f3e217]
+                  - link "Editar" [ref=f3e218] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/293/editar
+              - row [ref=f3e219]:
+                - cell "Parque Central renace con obras que impulsan empleo y futuro para el cantón" [ref=f3e220]
+                - cell "14/04/2026" [ref=f3e223]
+                - cell "Publicada" [ref=f3e224]
+                - cell [ref=f3e225]:
+                  - button "Despublicar" [ref=f3e226]
+                  - link "Editar" [ref=f3e227] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/285/editar
+              - row [ref=f3e228]:
+                - cell "Néstor Jiménez ya cuenta con una Casa Taller que abre puertas al futuro" [ref=f3e229]
+                - cell "13/04/2026" [ref=f3e232]
+                - cell "Publicada" [ref=f3e233]
+                - cell [ref=f3e234]:
+                  - button "Despublicar" [ref=f3e235]
+                  - link "Editar" [ref=f3e236] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/284/editar
+              - row [ref=f3e237]:
+                - cell "Inspección de contaminantes en zanjas de Guadalupe Larriva" [ref=f3e238]
+                - cell "10/04/2026" [ref=f3e241]
+                - cell "Publicada" [ref=f3e242]
+                - cell [ref=f3e243]:
+                  - button "Despublicar" [ref=f3e244]
+                  - link "Editar" [ref=f3e245] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/283/editar
+              - row [ref=f3e246]:
+                - cell "Dignidad y sonrisas para nuestros adultos mayores de García Moreno" [ref=f3e247]
+                - cell "09/04/2026" [ref=f3e250]
+                - cell "Publicada" [ref=f3e251]
+                - cell [ref=f3e252]:
+                  - button "Despublicar" [ref=f3e253]
+                  - link "Editar" [ref=f3e254] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/282/editar
+              - row [ref=f3e255]:
+                - cell "Curso de contabilidad gratuita impulsa oportunidades y desarrollo ciudadano" [ref=f3e256]
+                - cell "08/04/2026" [ref=f3e259]
+                - cell "Publicada" [ref=f3e260]
+                - cell [ref=f3e261]:
+                  - button "Despublicar" [ref=f3e262]
+                  - link "Editar" [ref=f3e263] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/281/editar
+              - row [ref=f3e264]:
+                - cell "Alcaldía refuerza limpieza de sumideros para prevenir inundaciones" [ref=f3e265]
+                - cell "06/04/2026" [ref=f3e268]
+                - cell "Publicada" [ref=f3e269]
+                - cell [ref=f3e270]:
+                  - button "Despublicar" [ref=f3e271]
+                  - link "Editar" [ref=f3e272] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/280/editar
+              - row [ref=f3e273]:
+                - cell "Alcaldía mejora la vialidad en Elías Gavilanes" [ref=f3e274]
+                - cell "03/04/2026" [ref=f3e277]
+                - cell "Publicada" [ref=f3e278]
+                - cell [ref=f3e279]:
+                  - button "Despublicar" [ref=f3e280]
+                  - link "Editar" [ref=f3e281] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/279/editar
+              - row [ref=f3e282]:
+                - cell "San Carlos se fortalece comunidad preparada y segura gracias a la gestión de riesgos municipal" [ref=f3e283]
+                - cell "01/04/2026" [ref=f3e286]
+                - cell "Publicada" [ref=f3e287]
+                - cell [ref=f3e288]:
+                  - button "Despublicar" [ref=f3e289]
+                  - link "Editar" [ref=f3e290] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/278/editar
+              - row [ref=f3e291]:
+                - cell "Municipalidad impulsa recuperación de espacios en El Coca ante terrenos montosos" [ref=f3e292]
+                - cell "27/03/2026" [ref=f3e295]
+                - cell "Publicada" [ref=f3e296]
+                - cell [ref=f3e297]:
+                  - button "Despublicar" [ref=f3e298]
+                  - link "Editar" [ref=f3e299] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/276/editar
+              - row [ref=f3e300]:
+                - cell "Inicia la primera etapa de asfaltado en Flor de Pantano" [ref=f3e301]
+                - cell "25/03/2026" [ref=f3e304]
+                - cell "Publicada" [ref=f3e305]
+                - cell [ref=f3e306]:
+                  - button "Despublicar" [ref=f3e307]
+                  - link "Editar" [ref=f3e308] [cursor=pointer]:
+                    - /url: http://localhost:8000/panel/noticias/275/editar
+          - navigation "Pagination Navigation" [ref=f3e311]:
+            - generic [ref=f3e312]:
+              - paragraph [ref=f3e314]: Showing 1 to 15 of 281 results
+              - generic [ref=f3e316]:
+                - generic "&laquo; Previous" [ref=f3e318]
+                - generic [ref=f3e322]: "1"
+                - button "Go to page 2" [ref=f3e326]: "2"
+                - button "Go to page 3" [ref=f3e328]: "3"
+                - button "Go to page 4" [ref=f3e330]: "4"
+                - button "Go to page 5" [ref=f3e332]: "5"
+                - button "Go to page 6" [ref=f3e334]: "6"
+                - button "Go to page 7" [ref=f3e336]: "7"
+                - button "Go to page 8" [ref=f3e338]: "8"
+                - button "Go to page 9" [ref=f3e340]: "9"
+                - button "Go to page 10" [ref=f3e342]: "10"
+                - generic [ref=f3e343]: ...
+                - button "Go to page 18" [ref=f3e346]: "18"
+                - button "Go to page 19" [ref=f3e348]: "19"
+                - button "Next &raquo;" [ref=f3e350]
+  - status [ref=f3e357]: La noticia ya está publicada.

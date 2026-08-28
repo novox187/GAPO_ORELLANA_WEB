@@ -131,6 +131,41 @@
 		</nav>
 
 		<div class="flex items-center gap-2">
+			<!--
+				El asistente va aquí y no en la navegación principal porque es
+				una acción, no una sección del sitio: hace lo mismo que el
+				buscador —encontrar algo— pero admitiendo que se lo pidas con
+				tus palabras. Un sexto enlace en la barra tampoco cabía.
+
+				`hidden sm:inline-flex`: por debajo de 640 px este cuarto
+				control desbordaba la cabecera —medido a 360 px, el botón de
+				menú acababa en 374 px— y el menú quedaba fuera de la pantalla.
+				En móvil el acceso vive dentro del menú, junto al buscador, que
+				es donde va a buscarlo quien abre un menú municipal desde el
+				teléfono.
+			-->
+			<a
+				href="/asistente"
+				class="control hidden h-10 items-center gap-2 border px-3.5 text-[0.85rem] font-semibold no-underline transition-colors sm:inline-flex"
+			>
+				<svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+					<path
+						d="M20 12a8 8 0 0 1-8 8H4l2-3.2A8 8 0 1 1 20 12Z"
+						stroke="currentColor"
+						stroke-width="2.2"
+						stroke-linejoin="round"
+					/>
+					<path
+						d="M9.4 9.6a2.6 2.6 0 1 1 3.3 2.5c-.5.2-.7.6-.7 1.1v.3"
+						stroke="currentColor"
+						stroke-width="2.2"
+						stroke-linecap="round"
+					/>
+					<circle cx="12" cy="16.3" r="1" fill="currentColor" />
+				</svg>
+				<span>Asistente</span>
+			</a>
+
 			<a
 				href="/buscar"
 				class="control inline-flex h-10 items-center gap-2 border px-3.5 text-[0.85rem] font-semibold no-underline transition-colors"

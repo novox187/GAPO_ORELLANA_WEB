@@ -1,18 +1,49 @@
 /**
- * Cliente de datos. Hoy lee los JSON estáticos extraídos del sitio actual;
- * cuando exista la API en Laravel basta apuntar PUBLIC_API_BASE a ella,
- * porque el envelope ({ data, meta, links }) es idéntico en ambos casos.
+ * Cliente de datos.
+ *
+ * Lee de la API en Laravel cuando `PUBLIC_API_BASE` está configurada, y de los
+ * JSON estáticos empaquetados en la imagen cuando no. El envelope
+ * (`{ data, meta, links }`) es idéntico en ambos casos, así que ningún
+ * componente se entera de cuál está sirviendo.
+ *
+ * **El respaldo no es una comodidad de desarrollo.** Hasta ahora este sitio no
+ * podía caerse: eran archivos. Al ponerle un backend delante, sí puede. Si
+ * Laravel no responde, se vuelve a los estáticos: el ciudadano ve contenido
+ * quizá desactualizado en vez de un error, que en un sitio municipal es
+ * bastante mejor. Lo único que no tiene respaldo es el asistente, porque
+ * necesita el modelo.
  */
 
-const BASE = '/api/v1';
+import { env } from '$env/dynamic/public';
+
+/** Los estáticos siguen en la imagen y son el respaldo. */
+const ESTATICOS = '/api/v1';
+
+const REMOTA = (env.PUBLIC_API_BASE ?? '').replace(/\/+$/, '');
 
 type Fetch = typeof globalThis.fetch;
 
 async function obtener<T>(f: Fetch, ruta: string): Promise<T> {
-	const res = await f(`${BASE}/${ruta}`);
+	if (REMOTA) {
+		try {
+			const res = await f(`${REMOTA}/v1/${ruta}`);
+			if (res.ok) return (await res.json()) as T;
+			// Un 404 es una respuesta legítima —ese recurso no existe— y no
+			// tiene sentido buscarlo en los estáticos, que son más viejos.
+			if (res.status === 404) throw new Error(`No se pudo cargar ${ruta} (404)`);
+		} catch (e) {
+			if (e instanceof Error && e.message.includes('(404)')) throw e;
+			// Cualquier otro fallo —red, 500, timeout— cae al respaldo.
+		}
+	}
+
+	const res = await f(`${ESTATICOS}/${ruta}`);
 	if (!res.ok) throw new Error(`No se pudo cargar ${ruta} (${res.status})`);
 	return res.json() as Promise<T>;
 }
+
+/** Base de la API para lo que no pasa por `obtener()`, como el asistente. */
+export const API_BASE = REMOTA;
 
 export interface Media {
 	id: string;

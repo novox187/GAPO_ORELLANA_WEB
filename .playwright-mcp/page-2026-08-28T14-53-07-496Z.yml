@@ -1,0 +1,243 @@
+- generic [ref=f10e470]:
+  - complementary [ref=f10e471]:
+    - generic [ref=f10e477]:
+      - paragraph [ref=f10e478]: GADMFO
+      - paragraph [ref=f10e479]: Gestión de contenidos
+    - navigation "Secciones del panel" [ref=f10e480]:
+      - link "Inicio" [ref=f10e481] [cursor=pointer]:
+        - /url: http://localhost:8000/panel
+      - link "Noticias" [ref=f10e500] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/noticias
+      - link "Trámites" [ref=f10e519] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/tramites
+  - generic [ref=f10e523]:
+    - banner [ref=f10e524]:
+      - generic [ref=f10e525]:
+        - heading "Trámites" [level=1] [ref=f10e526]
+        - paragraph [ref=f10e527]: Lo que el ciudadano viene a hacer al municipio
+      - generic [ref=f10e528]:
+        - generic [ref=f10e529]:
+          - paragraph [ref=f10e530]: Comunicación Social
+          - paragraph [ref=f10e531]: Administrador
+        - button "Salir" [ref=f10e533]
+    - main [ref=f10e534]:
+      - status [ref=f10e535]: Trámite actualizado. Los cambios ya se ven en el sitio.
+      - generic [ref=f10e536]:
+        - generic [ref=f10e537]:
+          - button [ref=f10e538]:
+            - paragraph [ref=f10e539]: "20"
+            - paragraph [ref=f10e540]: fichas que la fuente municipal marca como incompletas — ver solo estas
+          - generic [ref=f10e541]:
+            - paragraph [ref=f10e542]: "59"
+            - paragraph [ref=f10e543]: sin procedimiento paso a paso. La fuente casi nunca lo describía; escribirlo es justo lo que este panel viene a permitir.
+        - generic [ref=f10e544]:
+          - generic [ref=f10e545]:
+            - generic [ref=f10e546]: Buscar
+            - searchbox "Buscar" [ref=f10e547]
+          - generic [ref=f10e548]:
+            - generic [ref=f10e549]: Dirección
+            - combobox "Dirección" [ref=f10e550]:
+              - option "Todas" [selected]
+              - option "Dirección de Agua Potable y Alcantarillado"
+              - option "Dirección de Ambiente"
+              - option "Dirección de Desarrollo Social"
+              - option "Dirección de Seguridad y Gobernabilidad"
+              - option "Dirección de Servicios Municipales"
+              - option "Dirección de Tránsito, TTSV"
+              - option "Dirección de Turismo"
+              - option "Dirección Financiera"
+              - option "Dirección Ordenamiento Territorial"
+              - option "Procuraduría Síndica"
+              - option "Secretario General"
+        - table [ref=f10e552]:
+          - caption [ref=f10e553]: Trámites municipales
+          - rowgroup [ref=f10e554]:
+            - row [ref=f10e555]:
+              - columnheader "Trámite" [ref=f10e556]
+              - columnheader "Dirección responsable" [ref=f10e557]
+              - columnheader "Contenido" [ref=f10e558]
+              - columnheader "Acción" [ref=f10e559]
+          - rowgroup [ref=f10e560]:
+            - row [ref=f10e561]:
+              - cell [ref=f10e562]:
+                - paragraph [ref=f10e563]: Adecuación de bóveda
+              - cell "Dirección de Servicios Municipales" [ref=f10e564]
+              - cell "5 req. · 1 pasos" [ref=f10e565]
+              - cell [ref=f10e566]:
+                - link "Editar" [ref=f10e567] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/9/editar
+            - row [ref=f10e568]:
+              - cell "Autorización para trámites de revisión anual y renovación de matricula Pendiente de revisar" [ref=f10e569]:
+                - paragraph [ref=f10e570]: Autorización para trámites de revisión anual y renovación de matricula
+                - generic [ref=f10e571]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e572]
+              - cell "0 req. · 0 pasos" [ref=f10e573]
+              - cell [ref=f10e574]:
+                - link "Editar" [ref=f10e575] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/53/editar
+            - row [ref=f10e576]:
+              - cell [ref=f10e577]:
+                - paragraph [ref=f10e578]: Certificado contable (paz y salvo ex funcionarios)
+              - cell "Dirección Financiera" [ref=f10e579]
+              - cell "4 req. · 0 pasos" [ref=f10e580]
+              - cell [ref=f10e581]:
+                - link "Editar" [ref=f10e582] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/22/editar
+            - row [ref=f10e583]:
+              - cell "Certificado de no poseer bienes Pendiente de revisar" [ref=f10e584]:
+                - paragraph [ref=f10e585]: Certificado de no poseer bienes
+                - generic [ref=f10e586]: Pendiente de revisar
+              - cell "Dirección Ordenamiento Territorial" [ref=f10e587]
+              - cell "0 req. · 0 pasos" [ref=f10e588]
+              - cell [ref=f10e589]:
+                - link "Editar" [ref=f10e590] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/32/editar
+            - row [ref=f10e591]:
+              - cell [ref=f10e592]:
+                - paragraph [ref=f10e593]: Cierre y suspensión de la patente municipal
+              - cell "Dirección Financiera" [ref=f10e594]
+              - cell "5 req. · 0 pasos" [ref=f10e595]
+              - cell [ref=f10e596]:
+                - link "Editar" [ref=f10e597] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/20/editar
+            - row [ref=f10e598]:
+              - cell "CONTRAVENCIONES Y SANCIONES Pendiente de revisar" [ref=f10e599]:
+                - paragraph [ref=f10e600]: CONTRAVENCIONES Y SANCIONES
+                - generic [ref=f10e601]: Pendiente de revisar
+              - cell "Dirección de Ambiente" [ref=f10e602]
+              - cell "0 req. · 0 pasos" [ref=f10e603]
+              - cell [ref=f10e604]:
+                - link "Editar" [ref=f10e605] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/61/editar
+            - row [ref=f10e606]:
+              - cell [ref=f10e607]:
+                - paragraph [ref=f10e608]: Devolución de garantía por construcción
+              - cell "Dirección Financiera" [ref=f10e609]
+              - cell "8 req. · 0 pasos" [ref=f10e610]
+              - cell [ref=f10e611]:
+                - link "Editar" [ref=f10e612] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/21/editar
+            - row [ref=f10e613]:
+              - cell [ref=f10e614]:
+                - paragraph [ref=f10e615]: Exhumación de restos
+              - cell "Dirección de Servicios Municipales" [ref=f10e616]
+              - cell "4 req. · 0 pasos" [ref=f10e617]
+              - cell [ref=f10e618]:
+                - link "Editar" [ref=f10e619] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/8/editar
+            - row [ref=f10e620]:
+              - cell "Ficha catastral Pendiente de revisar" [ref=f10e621]:
+                - paragraph [ref=f10e622]: Ficha catastral
+                - generic [ref=f10e623]: Pendiente de revisar
+              - cell "Dirección Ordenamiento Territorial" [ref=f10e624]
+              - cell "0 req. · 0 pasos" [ref=f10e625]
+              - cell [ref=f10e626]:
+                - link "Editar" [ref=f10e627] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/33/editar
+            - row [ref=f10e628]:
+              - cell "Formulario cambio de socio dtttsv Pendiente de revisar" [ref=f10e629]:
+                - paragraph [ref=f10e630]: Formulario cambio de socio dtttsv
+                - generic [ref=f10e631]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e632]
+              - cell "0 req. · 0 pasos" [ref=f10e633]
+              - cell [ref=f10e634]:
+                - link "Editar" [ref=f10e635] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/38/editar
+            - row [ref=f10e636]:
+              - cell "Formulario cambio de Vehículo dtttsv Pendiente de revisar" [ref=f10e637]:
+                - paragraph [ref=f10e638]: Formulario cambio de Vehículo dtttsv
+                - generic [ref=f10e639]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e640]
+              - cell "0 req. · 0 pasos" [ref=f10e641]
+              - cell [ref=f10e642]:
+                - link "Editar" [ref=f10e643] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/45/editar
+            - row [ref=f10e644]:
+              - cell "Formulario de cambio de socio y vehiculo dtttsv Pendiente de revisar" [ref=f10e645]:
+                - paragraph [ref=f10e646]: Formulario de cambio de socio y vehiculo dtttsv
+                - generic [ref=f10e647]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e648]
+              - cell "0 req. · 0 pasos" [ref=f10e649]
+              - cell [ref=f10e650]:
+                - link "Editar" [ref=f10e651] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/44/editar
+            - row [ref=f10e652]:
+              - cell "Formulario de deshabilitacón de vehículo dtttsv Pendiente de revisar" [ref=f10e653]:
+                - paragraph [ref=f10e654]: Formulario de deshabilitacón de vehículo dtttsv
+                - generic [ref=f10e655]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e656]
+              - cell "0 req. · 0 pasos" [ref=f10e657]
+              - cell [ref=f10e658]:
+                - link "Editar" [ref=f10e659] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/43/editar
+            - row [ref=f10e660]:
+              - cell "Formulario de exoneración por calendarización Pendiente de revisar" [ref=f10e661]:
+                - paragraph [ref=f10e662]: Formulario de exoneración por calendarización
+                - generic [ref=f10e663]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e664]
+              - cell "0 req. · 0 pasos" [ref=f10e665]
+              - cell [ref=f10e666]:
+                - link "Editar" [ref=f10e667] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/55/editar
+            - row [ref=f10e668]:
+              - cell "Formulario de exoneración por calendarización Pendiente de revisar" [ref=f10e669]:
+                - paragraph [ref=f10e670]: Formulario de exoneración por calendarización
+                - generic [ref=f10e671]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e672]
+              - cell "0 req. · 0 pasos" [ref=f10e673]
+              - cell [ref=f10e674]:
+                - link "Editar" [ref=f10e675] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/54/editar
+            - row [ref=f10e676]:
+              - cell "Formulario de habilitación de vehículo dtttsv Pendiente de revisar" [ref=f10e677]:
+                - paragraph [ref=f10e678]: Formulario de habilitación de vehículo dtttsv
+                - generic [ref=f10e679]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e680]
+              - cell "0 req. · 0 pasos" [ref=f10e681]
+              - cell [ref=f10e682]:
+                - link "Editar" [ref=f10e683] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/46/editar
+            - row [ref=f10e684]:
+              - cell "Formulario denuncia de servicio de transporte público o comercial Pendiente de revisar" [ref=f10e685]:
+                - paragraph [ref=f10e686]: Formulario denuncia de servicio de transporte público o comercial
+                - generic [ref=f10e687]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e688]
+              - cell "0 req. · 0 pasos" [ref=f10e689]
+              - cell [ref=f10e690]:
+                - link "Editar" [ref=f10e691] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/58/editar
+            - row [ref=f10e692]:
+              - cell "Formulario denuncias Pendiente de revisar" [ref=f10e693]:
+                - paragraph [ref=f10e694]: Formulario denuncias
+                - generic [ref=f10e695]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e696]
+              - cell "0 req. · 0 pasos" [ref=f10e697]
+              - cell [ref=f10e698]:
+                - link "Editar" [ref=f10e699] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/57/editar
+            - row [ref=f10e700]:
+              - cell "Formulario de solicitud de actualización de datos Pendiente de revisar" [ref=f10e701]:
+                - paragraph [ref=f10e702]: Formulario de solicitud de actualización de datos
+                - generic [ref=f10e703]: Pendiente de revisar
+              - cell "Dirección de Tránsito, TTSV" [ref=f10e704]
+              - cell "0 req. · 0 pasos" [ref=f10e705]
+              - cell [ref=f10e706]:
+                - link "Editar" [ref=f10e707] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/56/editar
+            - row [ref=f10e708]:
+              - cell [ref=f10e709]:
+                - paragraph [ref=f10e710]: Información de Servicios y Requisitos
+              - cell "Procuraduría Síndica" [ref=f10e711]
+              - cell "17 req. · 0 pasos" [ref=f10e712]
+              - cell [ref=f10e713]:
+                - link "Editar" [ref=f10e714] [cursor=pointer]:
+                  - /url: http://localhost:8000/panel/tramites/64/editar
+        - navigation "Pagination Navigation" [ref=f10e717]:
+          - generic [ref=f10e718]:
+            - paragraph [ref=f10e720]: Showing 1 to 20 of 60 results
+            - generic [ref=f10e722]:
+              - generic "&laquo; Previous" [ref=f10e724]
+              - generic [ref=f10e728]: "1"
+              - button "Go to page 2" [ref=f10e732]: "2"
+              - button "Go to page 3" [ref=f10e734]: "3"
+              - button "Next &raquo;" [ref=f10e736]

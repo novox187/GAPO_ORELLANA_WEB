@@ -1,0 +1,95 @@
+- generic [ref=f3e2]:
+  - complementary [ref=f3e3]:
+    - generic [ref=f3e9]:
+      - paragraph [ref=f3e10]: GADMFO
+      - paragraph [ref=f3e11]: Gestión de contenidos
+    - navigation "Secciones del panel" [ref=f3e12]:
+      - link "Inicio" [ref=f3e13] [cursor=pointer]:
+        - /url: http://localhost:8000/panel
+      - link "Noticias" [ref=f3e32] [cursor=pointer]:
+        - /url: http://localhost:8000/panel/noticias
+  - generic [ref=f3e51]:
+    - banner [ref=f3e52]:
+      - generic [ref=f3e53]:
+        - heading "Noticia" [level=1] [ref=f3e54]
+        - paragraph [ref=f3e55]: Redactar y publicar
+      - generic [ref=f3e56]:
+        - generic [ref=f3e57]:
+          - paragraph [ref=f3e58]: Comunicación Social
+          - paragraph [ref=f3e59]: Administrador
+        - button "Salir" [ref=f3e61]
+    - main [ref=f3e62]:
+      - generic [ref=f3e64]:
+        - generic [ref=f3e65]:
+          - generic [ref=f3e66]:
+            - generic [ref=f3e67]: Título
+            - textbox "Título" [ref=f3e68]
+          - generic [ref=f3e69]:
+            - generic [ref=f3e70]: Entradilla — es lo que se lee en el listado y en buscadores
+            - textbox "Entradilla — es lo que se lee en el listado y en buscadores" [ref=f3e71]
+            - paragraph [ref=f3e72]: 0 de 600 caracteres
+          - generic [ref=f3e73]:
+            - generic [ref=f3e74]: Cuerpo
+            - textbox "Cuerpo" [ref=f3e75]
+        - complementary [ref=f3e76]:
+          - generic [ref=f3e77]:
+            - generic [ref=f3e78]: Fecha
+            - textbox "Fecha" [ref=f3e79]: 2026-08-28
+          - generic [ref=f3e80]:
+            - paragraph [ref=f3e81]: Imagen de portada
+            - searchbox "Buscar por texto alternativo" [ref=f3e82]
+            - generic:
+              - button "Pago de impuestos 2025 con descuentos y beneficios para los contribuyentes":
+                - img "Pago de impuestos 2025 con descuentos y beneficios para los contribuyentes"
+              - button "Alcaldía regula propaganda electoral en espacios públicos":
+                - img "Alcaldía regula propaganda electoral en espacios públicos"
+              - button "Alcaldía prioriza la atención ciudadana personal y grupal":
+                - img "Alcaldía prioriza la atención ciudadana personal y grupal"
+              - button "Señalización horizontal para prevención del uso del celular y reductores de velocidad":
+                - img "Señalización horizontal para prevención del uso del celular y reductores de velocidad"
+              - button "Señalización horizontal para prevención del uso del celular y reductores de velocidad":
+                - img "Señalización horizontal para prevención del uso del celular y reductores de velocidad"
+              - button "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares":
+                - img "Alcaldía instala bandas transversales BTA y marcos viales en zonas escolares"
+              - button "Alcaldía y MIES firman convenios para la inclusión social":
+                - img "Alcaldía y MIES firman convenios para la inclusión social"
+              - button "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa":
+                - img "Alcaldía clausura taller de corte y confección de trajes típicos de la Nacionalidad Kichwa"
+              - button "Operativo de control del taxímetro en El Coca":
+                - img "Operativo de control del taxímetro en El Coca"
+              - button "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces":
+                - img "Alcaldía socializa proyecto de regeneración urbana para Ñucanchi Wasi y Los Sauces"
+              - button "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos":
+                - img "Autoridades realizan visita de cierre técnico del sitio de disposición final de residuos sólidos"
+              - button "Comerciantes reciben capacitación sobre ordenanza de Francisco de Orellana":
+                - img "Comerciantes reciben capacitación sobre ordenanza de Francisco de Orellana"
+              - button "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal":
+                - img "Alcaldía construye cancha de fútbol y mini parque en el barrio El Moretal"
+              - button "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable":
+                - img "Alcaldía adquiere bombas para mejorar los sistemas de alcantarillado y agua potable"
+              - button "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología":
+                - img "Estudiantes visitan el Cocazoo y Bocana del Payamino como premio del concurso Aviecología"
+              - button "Alcaldía realiza trabajos integrales de señalización vial en El Coca":
+                - img "Alcaldía realiza trabajos integrales de señalización vial en El Coca"
+              - button "Alcaldía realiza capacitación ambiental a comerciantes":
+                - img "Alcaldía realiza capacitación ambiental a comerciantes"
+              - button "Operativos de control vehículos mal estacionados en El Coca":
+                - img "Operativos de control vehículos mal estacionados en El Coca"
+              - button "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos":
+                - img "Estudiantes de la ESPOCH visitan la planta de agua potable Los Álamos"
+              - button "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi":
+                - img "Alcaldesa participa en reforestación de zonas de alto riesgo del barrio Ñucanchi Wasi"
+              - button "CDI \"Cuyrana Wasi\" en Palma Roja listo para su reapertura":
+                - img "CDI \"Cuyrana Wasi\" en Palma Roja listo para su reapertura"
+              - button "Alcaldía invierte en el mantenimiento integral de canchas deportivas en El Coca":
+                - img "Alcaldía invierte en el mantenimiento integral de canchas deportivas en El Coca"
+              - button "Alcaldía mejora infraestructura de CDI Gotitas de Amor":
+                - img "Alcaldía mejora infraestructura de CDI Gotitas de Amor"
+              - button "Alcaldía moderniza El Coca con semáforos inteligentes e inclusivos":
+                - img "Alcaldía moderniza El Coca con semáforos inteligentes e inclusivos"
+            - paragraph [ref=f3e83]: Del catálogo ya subido. Subir imágenes nuevas llegará con la conexión a Cloudinary.
+          - generic [ref=f3e84]:
+            - button "Publicar" [ref=f3e85]
+            - button "Guardar como borrador" [ref=f3e86]
+            - link "Cancelar" [ref=f3e87] [cursor=pointer]:
+              - /url: http://localhost:8000/panel/noticias

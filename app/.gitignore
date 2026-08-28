@@ -21,3 +21,9 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Corpus del asistente: derivado de data/api/v1/, se regenera con `npm run corpus`
+src/lib/server/corpus.generado.json
+
+# Pesos del modelo de embeddings: se descargan en el build
+modelos/

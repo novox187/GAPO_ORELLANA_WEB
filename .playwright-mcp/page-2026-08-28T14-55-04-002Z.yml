@@ -1,0 +1,14 @@
+- generic [ref=f11e4]:
+  - heading "Gestión de contenidos" [level=1] [ref=f11e5]
+  - paragraph [ref=f11e6]: GAD Municipal Francisco de Orellana
+  - generic [ref=f11e7]:
+    - generic [ref=f11e8]:
+      - generic [ref=f11e9]: Correo
+      - textbox "Correo" [active] [ref=f11e10]
+    - generic [ref=f11e11]:
+      - generic [ref=f11e12]: Contraseña
+      - textbox "Contraseña" [ref=f11e13]
+    - generic [ref=f11e14]:
+      - checkbox "Mantener la sesión abierta" [ref=f11e15]
+      - text: Mantener la sesión abierta
+    - button "Entrar" [ref=f11e16]

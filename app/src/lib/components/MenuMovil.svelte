@@ -136,6 +136,45 @@
 				</button>
 			</form>
 
+			<!--
+				El asistente, justo debajo del buscador y no entre las secciones:
+				es la otra forma de hacer lo mismo —encontrar algo— para quien no
+				sabe cómo se llama lo que busca. En la cabecera no cabe por debajo
+				de 640 px, así que este es su sitio en el teléfono.
+			-->
+			<a
+				href="/asistente"
+				class="fila mt-2 flex min-h-[52px] items-center gap-3 border-2 border-white/20 px-4 text-white no-underline"
+				style="--retraso: 20ms"
+			>
+				<svg
+					width="19"
+					height="19"
+					viewBox="0 0 24 24"
+					fill="none"
+					aria-hidden="true"
+					class="shrink-0 text-[var(--color-achiote-400)]"
+				>
+					<path
+						d="M20 12a8 8 0 0 1-8 8H4l2-3.2A8 8 0 1 1 20 12Z"
+						stroke="currentColor"
+						stroke-width="2.4"
+						stroke-linejoin="round"
+					/>
+					<path
+						d="M9.4 9.6a2.6 2.6 0 1 1 3.3 2.5c-.5.2-.7.6-.7 1.1v.3"
+						stroke="currentColor"
+						stroke-width="2.4"
+						stroke-linecap="round"
+					/>
+					<circle cx="12" cy="16.3" r="1" fill="currentColor" />
+				</svg>
+				<span class="text-[0.95rem] leading-snug">
+					<strong class="font-semibold">Pregunta con tus palabras</strong>
+					<span class="block text-[0.8rem] text-white/60">Si no sabes cómo se llama el trámite</span>
+				</span>
+			</a>
+
 			<nav aria-label="Principal">
 				<ul class="mt-5 flex flex-col gap-1.5">
 					{#each enlaces as e, i (e.href)}

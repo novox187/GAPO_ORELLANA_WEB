@@ -45,7 +45,64 @@ Laravel:
 | `turismo/{slug}.json` | recurso único | Lugares, rutas, Coca Zoo, Coca antiguo |
 | `transparencia/{slug}.json` | recurso único | LOTAIP, PAC, rendición de cuentas, ordenanzas, etc. |
 | `search/index.json` | colección | Documentos completos para búsqueda léxica (MiniSearch) |
-| `search/chunks.json` | colección | Contenido troceado, listo para generar embeddings (fase 3) |
+| `search/chunks.json` | colección | Contenido troceado; de aquí sale el corpus del asistente |
+
+## Endpoints de servidor
+
+Estas dos rutas **no** son archivos JSON estáticos: las sirve SvelteKit. Por
+eso viven bajo `/api/` a secas y no bajo `/api/v1/`, que es donde se sirven
+los archivos del contrato de arriba. Mezclarlas sería una trampa para quien
+lea el árbol de rutas.
+
+| Ruta | Método | Descripción |
+|---|---|---|
+| `/api/health` | GET | Healthcheck de Coolify. `{ "estado": "ok" }` |
+| `/api/asistente` | POST | Asistente ciudadano |
+
+### `POST /api/asistente`
+
+Petición:
+
+```jsonc
+{ "mensaje": "quiero poner un local" }   // 2-500 caracteres
+```
+
+Respuesta:
+
+```jsonc
+{
+  "consulta": "quiero poner un local",
+  // "alta" | "media" | "baja" — calibrado, no estimado a ojo:
+  // ver docs/arquitectura.md y scripts/evaluar-recuperacion.ts
+  "confianza": "media",
+  // null cuando no hay nada suficientemente relevante
+  "ficha": {
+    "clase": "tramite",          // tramite | pagina | noticia | direccion
+    "titulo": "Patente por primera vez persona jurídica",
+    "url": "/tramites/patente-por-primera-vez-persona-juridica-17",
+    "entradilla": "Es el Permiso de funcionamiento obligatorio…",
+    "datos": [{ "etiqueta": "Dónde se hace", "valor": "DIRECCIÓN FINANCIERA" }],
+    "requisitos": ["1. Certificado de no adeudar al municipio…"],
+    "pasos": [{ "titulo": "…", "descripcion": "…" }],
+    "documentos": [{ "titulo": "…", "url": "…", "tipo": "pdf" }],
+    "telefonos": [{ "cargo": "JEFE DE RENTAS", "extension": "1440" }],
+    // la fuente municipal reconoce que esta ficha está incompleta
+    "requiereRevision": true
+  },
+  "alternativas": [{ "titulo": "…", "url": "…", "tipo": "tramite" }],
+  "noticias": [{ "titulo": "…", "url": "…", "tipo": "noticia" }],
+  // frase redactada por el modelo local; null si la fase 2 está apagada
+  "parrafo": null,
+  "contacto": { "correo": "…", "nota": "…", "redes": [] }
+}
+```
+
+Todos los campos de `ficha` salen literalmente de `data/api/v1/`. El único
+texto que no está copiado de la fuente municipal es `parrafo`, y por eso va
+marcado aparte en la interfaz.
+
+Errores: `400` (mensaje vacío o demasiado largo), `429` (más de 30
+consultas en 10 minutos desde la misma IP), `503` (`ASISTENTE_ACTIVO=false`).
 
 `media/manifest.json` (fuera de `api/v1/`, es el catálogo de medios) lista
 cada imagen/logo descargado: hash, ruta original, derivados WebP, alt y si
@@ -77,5 +134,13 @@ Campos clave:
 |---|---|
 | `GET /api/v1/busqueda?q=` | Búsqueda léxica — ya funciona en `/buscar` contra `search/index.json` |
 | `GET /api/v1/recomendaciones?perfil=` | Trámites sugeridos por perfil — ya funciona con reglas simples sobre `perfiles[]` |
-| `POST /api/v1/busqueda/semantica` | Búsqueda semántica sobre `search/chunks.json` (requiere embeddings) |
-| `POST /api/v1/asistente/consulta` | Chatbot RAG — responde solo citando trámites/noticias reales |
+
+
+Los dos endpoints de IA que esta tabla reservaba —búsqueda semántica y
+asistente— **ya están implementados**, pero no aquí: viven en
+`POST /api/asistente`, documentado más arriba. Cambiaron de sitio porque
+`/api/v1/*` se sirve como archivos estáticos desde el symlink
+`app/static/api`, y una ruta de servidor ahí dentro conviviría con archivos
+JSON reales. Cambiaron también de forma: la respuesta no es un chat, es una
+ficha copiada literalmente de la fuente municipal, y el modelo corre en el
+propio contenedor en vez de en un servicio externo.

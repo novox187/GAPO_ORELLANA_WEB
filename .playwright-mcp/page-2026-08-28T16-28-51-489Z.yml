@@ -1,0 +1,26 @@
+- generic [ref=f35e3]:
+  - banner [ref=f35e4]:
+    - link "Volver al sitio" [ref=f35e5] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f35e8]: Asistente
+    - button "Nueva consulta" [disabled] [ref=f35e202]
+  - generic [ref=f35e205]:
+    - heading "¿Qué necesita hacer en el municipio?" [level=1] [ref=f35e398]
+    - paragraph [ref=f35e399]: Escríbalo con sus palabras. Le muestro la ficha oficial del trámite, con sus requisitos y a dónde acudir.
+    - list [ref=f35e400]:
+      - listitem [ref=f35e401]:
+        - button "Quiero poner un local" [ref=f35e402]
+      - listitem [ref=f35e403]:
+        - button "¿Qué necesito para el permiso de construcción?" [ref=f35e404]
+      - listitem [ref=f35e405]:
+        - button "No me llega el agua" [ref=f35e406]
+      - listitem [ref=f35e407]:
+        - button "¿Dónde veo las ordenanzas?" [ref=f35e408]
+    - paragraph [ref=f35e409]: Las respuestas se arman copiando la ficha oficial del municipio. El texto que la acompaña lo redacta un modelo que corre en servidores municipales; si algo no coincide, lo que vale es la ficha.
+  - generic [ref=f35e410]:
+    - generic [ref=f35e411]:
+      - generic [ref=f35e412]: Escriba su consulta
+      - textbox "Escriba su consulta" [ref=f35e413]:
+        - /placeholder: Escriba su consulta…
+      - button "Enviar consulta" [disabled] [ref=f35e414]
+    - paragraph [ref=f35e417]: Lo que vale es la ficha oficial. Ante cualquier duda, acuda a la dirección responsable.

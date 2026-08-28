@@ -2,6 +2,7 @@
 	import HeroPortada from '$lib/components/HeroPortada.svelte';
 	import PuertasIntencion from '$lib/components/PuertasIntencion.svelte';
 	import CifrasCanton from '$lib/components/CifrasCanton.svelte';
+	import LlamadaAsistente from '$lib/components/LlamadaAsistente.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img, fechaLegible } from '$lib/api';
 	import type { PageData } from './$types';
@@ -46,6 +47,8 @@
 <HeroPortada totalTramites={data.totalTramites} totalNoticias={data.totalNoticias} />
 
 <PuertasIntencion totalTramites={data.totalTramites} totalNoticias={data.totalNoticias} />
+
+<LlamadaAsistente />
 
 <CifrasCanton />
 

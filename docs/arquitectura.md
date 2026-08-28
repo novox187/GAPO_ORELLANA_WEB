@@ -111,32 +111,115 @@ al archivo que se sube; `media/originales/` (el máster) no se toca.
   incluida desde el inicio para no migrar de motor cuando llegue la
   búsqueda semántica.
 
-## Capa de IA (fase 3)
+## Capa de IA — el asistente ciudadano
 
-No se implementa en esta entrega; queda diseñada para no romper nada al
-añadirla después.
+Implementada. Vive en `/asistente` y responde en `POST /api/asistente`.
 
-- **Embeddings:** `multilingual-e5-small` (384 dimensiones, multilingüe,
-  ~120 MB) — corre en el navegador vía `transformers.js` o como sidecar
-  Python liviano. Suficientemente pequeño para el presupuesto de
-  infraestructura de un municipio.
-- **Almacenamiento vectorial:** Postgres + `pgvector`, en el mismo Coolify
-  — sin depender de un servicio externo de pago.
-- **Búsqueda semántica** (`POST /api/v1/busqueda/semantica`): sobre
-  `search/chunks.json`, que ya viene troceado y con `perfiles[]` asociado
-  por chunk.
-- **Chatbot de atención ciudadana** (`POST /api/v1/asistente/consulta`):
-  **RAG estricto**. El modelo solo responde con base en los chunks
-  recuperados y **siempre cita la ficha oficial** de la que salió la
-  respuesta. Si no hay un chunk suficientemente relevante, deriva a
-  contacto humano en vez de inventar una respuesta. Un chatbot municipal
-  que inventa un requisito de trámite es un problema legal, no un bug de
-  UX — por eso esto no es negociable en el diseño.
-- **Recomendación de trámites por perfil:** ya funciona hoy sin ningún
-  modelo, con reglas simples sobre `perfiles[]` (`GET
-  /api/v1/recomendaciones?perfil=emprendedor`). La fase 3 puede
-  sofisticarla con historial de navegación, pero el mínimo útil no
-  necesita IA.
+**Todo corre en infraestructura propia.** No se llama a ninguna API de IA de
+terceros, ni en tiempo de ejecución ni en el build más allá de descargar los
+pesos del modelo una vez. Ninguna pregunta de un ciudadano, ni ningún dato
+del municipio, sale del contenedor. No es una preferencia técnica: en un
+proyecto de gobierno, mandar consultas ciudadanas a un servicio externo es
+una decisión sobre datos públicos que no corresponde tomar por omisión.
+
+### Fase 1 — funciona sin GPU (implementada)
+
+- **Modelo de embeddings dentro del contenedor**: `multilingual-e5-small`
+  en ONNX cuantizado a 8 bits, servido por `@huggingface/transformers`.
+  118 M parámetros, 135 MB en la imagen. Se descarga en el build
+  (`scripts/descargar-modelo.ts`); en ejecución las descargas remotas van
+  deshabilitadas.
+- **Corpus vectorizado en el build** (`scripts/construir-corpus.ts`): los
+  524 fragmentos de `search/chunks.json` con sus vectores, más el catálogo
+  de rutas públicas y el directorio telefónico, a
+  `src/lib/server/corpus.generado.json` (1,8 MB).
+- **Recuperación híbrida** (`src/lib/server/recuperacion.ts`): coseno sobre
+  los vectores y BM25 sobre el texto, fusionados con Reciprocal Rank
+  Fusion. Las dos hacen falta: el vector entiende "quiero poner un local"
+  → patente municipal; BM25 encuentra "OM-020-2021", que el vector diluye.
+- **La ficha** (`src/lib/server/ficha.ts`): se arma copiando campo a campo
+  de `data/api/v1/`. No hay generación de texto en ningún punto, así que es
+  estructuralmente imposible que invente un requisito.
+
+**Por qué vectores en memoria y no Postgres + pgvector**, como decía el
+plan original: son 524 fragmentos. Comparar la consulta contra todos son
+200 000 multiplicaciones, medio milisegundo. Montar un Postgres para eso es
+infraestructura que hay que operar, respaldar y actualizar a cambio de
+nada. Si el corpus creciera un orden de magnitud, el cambio es sustituir un
+módulo — el resto no se entera.
+
+### Dos decisiones que salieron de medir, no de suponer
+
+Las dos están en `scripts/evaluar-recuperacion.ts`, que se puede volver a
+ejecutar cuando cambie el contenido.
+
+1. **Las noticias se recuperan aparte de lo oficial.** Son 280 de los 524
+   fragmentos y están escritas en español narrativo, así que se parecen a
+   una pregunta conversacional mucho más que el texto burocrático de un
+   trámite. Mezcladas, "quiero poner un local" devolvía un operativo de
+   control de patentes en vez del trámite, y "no me llega el agua" una
+   noticia sobre entrega de agua gratuita. Separadas, las 17 consultas del
+   banco de pruebas aciertan la ficha correcta.
+
+2. **La confianza tiene tres tramos, y el intermedio dice que no está
+   seguro.** El coseno de E5 vive comprimido entre 0,80 y 0,92: no tiene
+   rango para distinguir "el municipio no hace esto" de "lo hace con otro
+   nombre". Medido, las preguntas con respuesta y las que no se solapan.
+   En vez de fingir un umbral que separe, se calibraron dos: por encima de
+   `alta` no entró ninguna pregunta sin respuesta, por debajo de `baja` no
+   cayó ninguna con respuesta, y en medio la interfaz dice "esto es lo más
+   parecido que encontré" y deja el contacto humano a la vista.
+
+### Fase 2 — el párrafo redactado (especificada, apagada)
+
+`src/lib/server/redactor.ts` añade una frase que conecta la pregunta con la
+ficha. Se enciende con `REDACTOR_URL` apuntando a un Ollama en la red
+interna del mismo Coolify; vacío, el asistente funciona en fase 1 pura.
+
+Necesita GPU para ser usable: un modelo de 3-4 B cuantizado en CPU tarda
+entre 30 y 60 s por respuesta contando el procesado del contexto. Con una
+GPU de 12 GB, un Qwen3 4B responde en 3-6 s.
+
+Tres reglas la mantienen acotada:
+
+1. **La tarea es diminuta**: recibe la ficha ya recuperada y escribe una
+   frase, con tope de 80 tokens. No se le pide enumerar requisitos ni citar
+   importes — para eso está la ficha. Un modelo al que no se le pide un
+   dato no puede equivocarse en ese dato.
+2. **Control numérico**: si el párrafo contiene una cifra que no aparece en
+   la ficha, se descarta entero. Las alucinaciones peligrosas aquí son casi
+   siempre números — un costo, un plazo, el número de una ordenanza.
+3. **Timeout de 4 s y caída silenciosa**: servicio apagado, lento o roto
+   producen exactamente lo mismo que la fase 1. El ciudadano ve su ficha y
+   no se entera de que había un modelo.
+
+### Lo que cambió en el despliegue
+
+- **La imagen base pasó de `node:22-alpine` a `node:22-slim`.**
+  `onnxruntime-node` no publica binarios para musl y
+  `@huggingface/transformers` lo importa al cargarse: en Alpine el proceso
+  revienta en el primer `import`, no en la primera consulta. Como slim
+  tampoco trae `curl`, el `Dockerfile` lo instala — el healthcheck de
+  Coolify lo ejecuta *dentro* del contenedor y su ausencia ya provocó un
+  rollback una vez.
+- **La imagen pesa 718 MB.** `onnxruntime-node` se instala con 513 MB de
+  binarios para todas las plataformas y aceleradores, incluidos 316 MB de
+  proveedor CUDA que en CPU no se usan. La poda va en el mismo `RUN` que
+  el `npm ci`: en una capa posterior no habría reducido nada.
+- **Lo único que hay que tocar en Coolify es opcional**
+  (`ASISTENTE_ACTIVO`, y `REDACTOR_URL` cuando llegue la fase 2). Sin
+  configurar nada, el asistente funciona.
+
+### Medido en el contenedor de producción
+
+| | |
+|---|---|
+| Consulta (embebido + recuperación + ficha) | 12-25 ms |
+| Primera consulta tras arrancar | 25 ms — el modelo se precarga en `hooks.server.ts` |
+| Carga del modelo al arrancar | ~700 ms, fuera del camino del ciudadano |
+| Vectorización del corpus (sólo en el build) | ~35 s |
+| Acierto en el banco de pruebas | 17/17 |
+| Preguntas sin respuesta declaradas "alta" | 0 de 9 |
 
 ## Por qué esta combinación
 

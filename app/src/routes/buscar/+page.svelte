@@ -3,7 +3,7 @@
 	import { replaceState } from '$app/navigation';
 	import Migas from '$lib/components/Migas.svelte';
 	import { buscar, type DocumentoIndice } from '$lib/api';
-	import { CANTON, TRANSPARENCIA } from '$lib/secciones';
+	import { rutaPublica } from '$lib/rutas';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -16,21 +16,6 @@
 		noticia: 'Noticia',
 		pagina: 'Página'
 	};
-
-	/**
-	 * El índice guarda rutas del modelo de datos (/tramites/x, /noticias/x,
-	 * /institucional/x). Aquí se traducen a las rutas públicas reales: las
-	 * páginas institucionales y de turismo viven bajo /canton, y las de
-	 * transparencia bajo /transparencia.
-	 */
-	function rutaPublica(d: DocumentoIndice): string {
-		if (d.url.startsWith('/tramites/') || d.url.startsWith('/noticias/')) return d.url;
-
-		const slug = d.url.split('/').pop() ?? '';
-		if (TRANSPARENCIA.some((e) => e.slug === slug)) return `/transparencia/${slug}`;
-		if (CANTON.some((e) => e.slug === slug)) return `/canton/${slug}`;
-		return '/canton';
-	}
 
 	const resultados = $derived.by(() => {
 		const base = buscar(data.documentos, consulta);
@@ -86,7 +71,11 @@
 
 	<h1 class="display text-[clamp(1.9rem,4.4vw,3rem)]">Buscar</h1>
 	<p class="mt-3 max-w-2xl leading-relaxed text-[var(--texto-suave)]">
-		Busca entre {data.documentos.length} trámites, noticias y páginas del municipio.
+		Busca entre {data.documentos.length} trámites, noticias y páginas del municipio. Este buscador
+		compara palabras: si no sabes cómo se llama lo que necesitas,
+		<a href="/asistente" class="font-semibold text-[var(--enlace)] underline underline-offset-2"
+			>descríbelo con tus palabras en el asistente</a
+		>.
 	</p>
 
 	<form class="mt-8 flex max-w-2xl gap-1.5" onsubmit={(e) => e.preventDefault()} role="search">
@@ -129,15 +118,28 @@
 			<div class="mt-6 border border-dashed border-[var(--borde)] p-12 text-center">
 				<p class="font-semibold">No encontramos nada para «{consulta}».</p>
 				<p class="mt-2 text-sm text-[var(--texto-suave)]">
-					Prueba con una palabra más general, o revisa
-					<a href="/tramites" class="font-semibold text-[var(--enlace)] underline">todos los trámites</a>.
+					Este buscador necesita que aciertes la palabra exacta. El asistente no.
+				</p>
+				<p class="mt-5">
+					<a
+						href="/asistente?q={encodeURIComponent(consulta)}"
+						class="inline-flex min-h-11 items-center border border-[var(--color-selva-800)] bg-[var(--color-selva-800)] px-5 text-[0.85rem] font-semibold text-white no-underline"
+					>
+						Preguntárselo al asistente
+					</a>
+				</p>
+				<p class="mt-4 text-sm text-[var(--texto-suave)]">
+					O revisa
+					<a href="/tramites" class="font-semibold text-[var(--enlace)] underline"
+						>todos los trámites</a
+					>.
 				</p>
 			</div>
 		{:else}
 			<ul class="mt-4 divide-y divide-[var(--borde)] border-t border-[var(--borde)]">
 				{#each resultados as r (r.id)}
 					<li>
-						<a href={rutaPublica(r)} class="group block py-5 no-underline">
+						<a href={rutaPublica(r.url)} class="group block py-5 no-underline">
 							<span
 								class="text-[0.68rem] font-bold tracking-[0.14em] text-[var(--texto-suave)] uppercase"
 							>

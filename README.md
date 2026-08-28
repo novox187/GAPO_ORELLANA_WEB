@@ -9,6 +9,7 @@ SvelteKit que lo consume.
 
 ```
 app/             Aplicación SvelteKit 2 + Svelte 5 + Tailwind v4
+app/scripts/     Constructor del corpus del asistente y banco de pruebas
 tools/scraper/   Extractor de contenido (Node + TypeScript)
 data/api/v1/     La API REST simulada: un JSON por recurso
 data/raw/        Caché del HTML original descargado (no se versiona)
@@ -71,6 +72,61 @@ no se retoca la fotografía.
 | `/canton`, `/canton/*` | El cantón: datos, historia, alcaldía, concejo, empresas adscritas, lugares, rutas, El Coca antiguo y Coca Zoo |
 | `/contacto` | Directorio de 20 direcciones y 104 extensiones |
 | `/buscar` | Búsqueda léxica sobre 358 documentos |
+| `/asistente` | Asistente ciudadano: pregunta en lenguaje natural, devuelve la ficha oficial |
+
+## El asistente ciudadano
+
+`/asistente` responde a preguntas escritas como las diría cualquiera —
+*"quiero poner un local"*— con la ficha oficial del trámite y su enlace.
+
+**Corre entero dentro del contenedor. No llama a ninguna API de IA de
+terceros.** Ninguna pregunta de un ciudadano sale del servidor municipal.
+
+Cómo funciona, en tres pasos:
+
+1. La pregunta se convierte en un vector con `multilingual-e5-small`, un
+   modelo de embeddings de 118 MB que viaja dentro de la imagen Docker.
+2. Se compara contra los 524 fragmentos del sitio, ya vectorizados en el
+   build, y en paralelo contra un índice BM25 — el vector entiende el
+   lenguaje coloquial, BM25 encuentra los códigos legales exactos.
+3. La ficha se arma copiando campo a campo de `data/api/v1/`. **No hay
+   generación de texto**, así que no puede inventarse un requisito.
+
+Cuando el buscador no está seguro, la interfaz lo dice ("esto es lo más
+parecido que encontré") en vez de presentarlo como una certeza, y deja el
+contacto humano a la vista. El porqué está en
+[`docs/arquitectura.md`](docs/arquitectura.md).
+
+```bash
+cd app
+npm run corpus     # regenera el corpus vectorizado (~35 s)
+npm run evaluar    # banco de pruebas de la recuperación, sin levantar la web
+npm run evaluar "quiero poner un local"   # una consulta suelta, con detalle
+```
+
+`npm run corpus` hay que ejecutarlo **cada vez que cambie
+`data/api/v1/`**; si no, el asistente sigue respondiendo con el contenido
+viejo. La compilación lo hace sola (`prebuild`), así que en producción no
+hay que acordarse.
+
+`npm run evaluar` es la herramienta que decide si el asistente sirve.
+Comprueba dos cosas distintas: que las preguntas con respuesta devuelvan la
+ficha correcta, y —más importante— que las preguntas *sin* respuesta no se
+declaren con confianza alta. Un asistente municipal que afirma lo que no
+sabe es peor que no tenerlo.
+
+### Configuración
+
+Ninguna variable es obligatoria: sin configurar nada, el asistente funciona.
+Ver [`app/.env.example`](app/.env.example) para la lista completa. Las dos
+que importan:
+
+- `ASISTENTE_ACTIVO=false` — interruptor de apagado. El endpoint responde
+  503 y la página remite al buscador léxico.
+- `REDACTOR_URL` — enciende la fase 2 (un párrafo redactado por un modelo
+  local encima de la ficha). Vacío por defecto. **Necesita GPU** para ser
+  usable: en CPU un modelo de 3-4 B tarda entre 30 y 60 s por respuesta.
+  Apuntar siempre a un servicio en la red interna del propio Coolify.
 
 ## Re-generar los datos
 

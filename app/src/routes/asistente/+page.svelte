@@ -37,6 +37,45 @@
 
 	const CLAVE_SESION = 'asistente:conversacion';
 
+	/**
+	 * Lo que se enseña mientras el modelo escribe.
+	 *
+	 * Cada frase tiene que ser cierta EN EL MOMENTO en que se enseña. Medido en
+	 * el navegador, este texto vive unos 11 s y las tres frases se ven, así que
+	 * no vale describir el proceso entero en orden: la comprobación de cifras
+	 * ocurre cuando el modelo YA terminó, y anunciarla a los siete segundos era
+	 * narrar algo que todavía no pasaba. Pequeño, pero es una mentira, y este
+	 * asistente es de un municipio.
+	 *
+	 * La tercera dice por qué se espera. Es verdad —el modelo corre en CPU
+	 * municipal, no en una API ajena— y convierte la demora en la razón para
+	 * fiarse en vez de en un fallo aparente.
+	 */
+	const FASES = [
+		'Leyendo la ficha oficial…',
+		'Redactando la respuesta…',
+		'Tarda un poco: el modelo corre en el municipio…'
+	];
+
+	let fase = $state(0);
+
+	// Avanza sólo mientras hay algún turno redactando; sin intervalos vivos
+	// cuando la pantalla está quieta.
+	$effect(() => {
+		if (!turnos.some((t) => t.estado === 'redactando')) {
+			fase = 0;
+			return;
+		}
+
+		const reloj = setInterval(() => {
+			// Se queda en la última: al llegar a "contrastando" ya no tiene
+			// sentido volver a "leyendo".
+			fase = Math.min(fase + 1, FASES.length - 1);
+		}, 3400);
+
+		return () => clearInterval(reloj);
+	});
+
 	let turnos = $state<Turno[]>([]);
 	let borrador = $state('');
 	let ocupado = $state(false);
@@ -316,7 +355,10 @@
 								</div>
 							{:else}
 								<div class="flex gap-3">
-									<Jaguar tamano="md" pensando={turno.estado === 'pensando'} />
+									<Jaguar
+										tamano="md"
+										pensando={turno.estado === 'pensando' || turno.estado === 'redactando'}
+									/>
 
 									<div class="min-w-0 flex-1">
 										{#if turno.estado === 'error'}
@@ -331,9 +373,22 @@
 													-->{#if turno.estado === 'redactando'}<span class="cursor" aria-hidden="true"></span>{/if}
 												</p>
 											{:else if turno.estado === 'pensando'}
-												<p class="text-[var(--texto-suave)]" aria-live="polite">Buscando en el sitio municipal…</p>
+												<p class="text-[var(--texto-suave)]" aria-live="polite">
+													Buscando en el sitio municipal…
+												</p>
 											{:else if turno.estado === 'redactando'}
-												<p class="text-[var(--texto-suave)]" aria-live="polite">Redactando la respuesta…</p>
+												<!--
+													El texto visible va cambiando, pero al lector de pantalla
+													se le anuncia UNA sola frase estable: si el aria-live
+													siguiera al carrusel, interrumpiría cada tres segundos
+													para decir lo mismo con otras palabras.
+												-->
+												{#key fase}
+													<p class="fase text-[var(--texto-suave)]" aria-hidden="true">
+														{FASES[fase]}
+													</p>
+												{/key}
+												<p class="sr-only" aria-live="polite">Redactando la respuesta.</p>
 											{/if}
 
 											<!--
@@ -430,6 +485,21 @@
 </div>
 
 <style>
+	/* Cada frase entra con un desvanecido corto: cambiar de golpe da un
+	   respingo, y aquí lo que se quiere transmitir es calma. La `key` en el
+	   marcado hace que Svelte reemplace el nodo y la animación vuelva a
+	   correr. */
+	.fase {
+		animation: entrar-fase 400ms ease-out;
+	}
+
+	@keyframes entrar-fase {
+		from {
+			opacity: 0;
+			transform: translateY(3px);
+		}
+	}
+
 	/* Cursor de escritura mientras el modelo redacta. */
 	.cursor {
 		display: inline-block;
@@ -459,7 +529,8 @@
 
 	@media (prefers-reduced-motion: reduce) {
 		.cursor,
-		.girando {
+		.girando,
+		.fase {
 			animation: none;
 		}
 	}

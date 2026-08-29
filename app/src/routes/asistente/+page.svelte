@@ -28,6 +28,26 @@
 	 * versión plegada, para quien quiera el detalle.
 	 */
 
+	/**
+	 * `crypto.randomUUID` sólo existe en contexto seguro (HTTPS o localhost).
+	 * El sitio se sirve hoy en HTTP plano en el subdominio de despliegue, así
+	 * que en producción es `undefined` y el chat entero quedaba roto al
+	 * primer clic. Estos ids son sólo para `key`-ar turnos en pantalla, no
+	 * necesitan ser criptográficos: `crypto.getRandomValues` sí funciona sin
+	 * contexto seguro, y sirve de respaldo.
+	 */
+	function idTurno(): string {
+		if (typeof crypto !== 'undefined' && crypto.randomUUID) return crypto.randomUUID();
+		if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+			const bytes = crypto.getRandomValues(new Uint8Array(16));
+			bytes[6] = (bytes[6] & 0x0f) | 0x40;
+			bytes[8] = (bytes[8] & 0x3f) | 0x80;
+			const hex = [...bytes].map((b) => b.toString(16).padStart(2, '0')).join('');
+			return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20)}`;
+		}
+		return `${Date.now().toString(16)}-${Math.random().toString(16).slice(2)}`;
+	}
+
 	const EJEMPLOS = [
 		'Quiero poner un local',
 		'¿Qué necesito para el permiso de construcción?',
@@ -123,8 +143,8 @@
 		ajustarAlto();
 		ocupado = true;
 
-		turnos.push({ id: crypto.randomUUID(), rol: 'ciudadano', texto: limpio, estado: 'listo' });
-		turnos.push({ id: crypto.randomUUID(), rol: 'asistente', texto: '', estado: 'pensando' });
+		turnos.push({ id: idTurno(), rol: 'ciudadano', texto: limpio, estado: 'listo' });
+		turnos.push({ id: idTurno(), rol: 'asistente', texto: '', estado: 'pensando' });
 
 		// OJO: hay que recuperar la referencia YA dentro del array. `$state`
 		// envuelve en un proxy lo que se le mete, y el objeto que acabamos de

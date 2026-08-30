@@ -3,18 +3,17 @@
 	import Pictograma from '$lib/components/Pictograma.svelte';
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 </script>
 
-<svelte:head>
-	<title>Alcaldía — {data.nombre} — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="{data.nombre}, {data.cargo}. Principios, misión y visión del Gobierno Autónomo Descentralizado Municipal de Francisco de Orellana."
-	/>
-</svelte:head>
+<Seo
+	titulo={`Alcaldía — ${data.nombre}`}
+	descripcion="{data.nombre}, {data.cargo}. Principios, misión y visión del Gobierno Autónomo Descentralizado Municipal de Francisco de Orellana."
+	imagen="/img/og/canton.jpg"
+/>
 
 <div class="contenedor py-8 md:py-12">
 	<Migas

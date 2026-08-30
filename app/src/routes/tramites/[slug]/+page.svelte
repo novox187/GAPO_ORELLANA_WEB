@@ -1,10 +1,17 @@
 <script lang="ts">
+	import { page } from '$app/state';
 	import { ETIQUETA_CATEGORIA } from '$lib/api';
 	import Migas from '$lib/components/Migas.svelte';
+	import Seo from '$lib/components/Seo.svelte';
+	import { tramite as fichaTramite } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 	const t = $derived(data.tramite);
+
+	// Para los datos estructurados: `agua-y-ambiente` es una clave del modelo
+	// de datos, no algo que un buscador deba mostrar como tipo de servicio.
+	const categoriasLegibles = $derived(t.categorias.map((c) => ETIQUETA_CATEGORIA[c] ?? c));
 
 	// El checklist es una ayuda personal del visitante: vive solo en memoria,
 	// no se guarda ni se envía a ninguna parte.
@@ -78,10 +85,12 @@
 	);
 </script>
 
-<svelte:head>
-	<title>{t.nombre} — Francisco de Orellana</title>
-	<meta name="description" content={t.resumen || t.que_es} />
-</svelte:head>
+<Seo
+	titulo={t.nombre}
+	descripcion={t.resumen || t.que_es}
+	imagen="/img/og/tramites.jpg"
+	datos={fichaTramite(page.url, { ...t, categorias: categoriasLegibles })}
+/>
 
 <article class="pb-28 lg:pb-0">
 	<!-- ══ Encabezado ═══════════════════════════════════════════════════ -->
@@ -100,6 +109,7 @@
 							]
 						: [])
 				]}
+				actual={t.nombre}
 			/>
 
 			<h1 class="display max-w-4xl text-[clamp(1.55rem,4.2vw,3rem)]">{t.nombre}</h1>

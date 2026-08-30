@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<title>Tarjeta de previsualización</title>
+		<!--
+			Plantilla de las tarjetas Open Graph (1200×630).
+
+			Se renderiza con Chromium sin interfaz desde `generar.sh`; no forma
+			parte de la aplicación. Está escrita a mano y no generada por la app
+			a petición porque rasterizar imágenes en el servidor obligaría a
+			meter un rasterizador en el contenedor: cinco tarjetas que sólo
+			cambian cuando cambia la marca no justifican esa dependencia.
+
+			El sistema visual es el mismo del sitio: fotografía del archivo
+			municipal con velo diagonal, o tesela de color plano; la banda de
+			seis colores del logotipo al pie; tipografía Archivo con el ancho
+			del titular a 110 %, igual que la utilidad `display` de app.css.
+		-->
+		<style>
+			@font-face {
+				font-family: 'Archivo';
+				font-style: normal;
+				font-weight: 400 700;
+				font-stretch: 62% 125%;
+				src: url('../../static/fonts/archivo-var.woff2') format('woff2');
+			}
+
+			:root {
+				--selva-800: #0c843a;
+				--selva-600: #1ea758;
+				--selva-400: #53b25f;
+				--achiote-500: #f6d907;
+				--achiote-400: #ffde0d;
+				--achiote-600: #e4cd00;
+				--carbon-600: #434342;
+				--carbon-900: #1e1f1d;
+			}
+
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				width: 1200px;
+				height: 630px;
+				overflow: hidden;
+				font-family: 'Archivo', system-ui, sans-serif;
+				background: var(--carbon-900);
+			}
+
+			.tarjeta {
+				position: relative;
+				width: 1200px;
+				height: 630px;
+				isolation: isolate;
+				overflow: hidden;
+			}
+
+			.foto {
+				position: absolute;
+				inset: 0;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				z-index: -2;
+			}
+
+			/* El mismo velo diagonal que la banda de cierre de la portada. */
+			.velo {
+				position: absolute;
+				inset: 0;
+				z-index: -1;
+				background:
+					linear-gradient(
+						100deg,
+						rgb(6 14 10 / 0.94) 0%,
+						rgb(6 14 10 / 0.84) 34%,
+						rgb(6 14 10 / 0.46) 68%,
+						rgb(6 14 10 / 0.28) 100%
+					),
+					linear-gradient(to top, rgb(6 14 10 / 0.6) 0%, transparent 42%);
+			}
+
+			/* Variante gráfica: sin fotografía, tesela de color plano. */
+			.tarjeta[data-plano] .velo {
+				background: linear-gradient(
+					118deg,
+					rgb(0 0 0 / 0.28) 0%,
+					rgb(0 0 0 / 0.05) 52%,
+					rgb(255 255 255 / 0.06) 100%
+				);
+			}
+
+			.cuerpo {
+				position: relative;
+				height: 100%;
+				padding: 62px 72px 76px;
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+			}
+
+			/* ── Logotipo oficial, en blanco ── */
+			.marca svg {
+				height: 62px;
+				width: auto;
+				display: block;
+			}
+			.marca .st1,
+			.marca .st5,
+			.marca .st10,
+			.marca .st-alcaldia {
+				fill: #ffffff;
+			}
+
+			/* ── Pictograma del cantón, marca de agua a la derecha ── */
+			.picto {
+				position: absolute;
+				right: 54px;
+				bottom: 128px;
+				width: 260px;
+				height: 260px;
+				opacity: 0.16;
+			}
+			.picto svg {
+				width: 100%;
+				height: 100%;
+			}
+			.picto svg * {
+				stroke: #ffffff !important;
+				fill: none !important;
+				stroke-width: 4;
+			}
+
+			/* ── Texto ── */
+			.texto {
+				max-width: 830px;
+			}
+
+			.antetitulo {
+				display: flex;
+				align-items: center;
+				gap: 14px;
+				font-size: 19px;
+				font-weight: 700;
+				letter-spacing: 0.22em;
+				text-transform: uppercase;
+				color: var(--achiote-400);
+			}
+			.antetitulo::before {
+				content: '';
+				width: 40px;
+				height: 3px;
+				background: var(--achiote-400);
+			}
+
+			.titular {
+				margin-top: 22px;
+				font-size: 76px;
+				font-weight: 700;
+				font-stretch: 110%;
+				line-height: 1.06;
+				letter-spacing: -0.012em;
+				color: #ffffff;
+				text-wrap: balance;
+			}
+			.tarjeta[data-largo] .titular {
+				font-size: 62px;
+			}
+
+			.bajada {
+				margin-top: 22px;
+				max-width: 700px;
+				font-size: 27px;
+				line-height: 1.42;
+				color: rgb(255 255 255 / 0.82);
+			}
+
+			/* ── Banda de seis teselas del logotipo, al pie ── */
+			.banda {
+				position: absolute;
+				inset: auto 0 0 0;
+				display: grid;
+				grid-template-columns: repeat(6, 1fr);
+				height: 14px;
+			}
+			.banda span:nth-child(1) { background: var(--selva-800); }
+			.banda span:nth-child(2) { background: var(--achiote-500); }
+			.banda span:nth-child(3) { background: var(--carbon-600); }
+			.banda span:nth-child(4) { background: var(--selva-600); }
+			.banda span:nth-child(5) { background: var(--selva-400); }
+			.banda span:nth-child(6) { background: var(--achiote-600); }
+		</style>
+	</head>
+	<body>
+		<div class="tarjeta" id="tarjeta">
+			<img class="foto" id="foto" alt="" />
+			<div class="velo"></div>
+			<div class="picto" id="picto"></div>
+
+			<div class="cuerpo">
+				<div class="marca" id="marca"></div>
+				<div class="texto">
+					<p class="antetitulo" id="antetitulo"></p>
+					<h1 class="titular" id="titular"></h1>
+					<p class="bajada" id="bajada"></p>
+				</div>
+			</div>
+
+			<div class="banda">
+				<span></span><span></span><span></span><span></span><span></span><span></span>
+			</div>
+		</div>
+
+		<script type="module">
+			const p = new URLSearchParams(location.search);
+			const tarjeta = document.getElementById('tarjeta');
+
+			document.getElementById('antetitulo').textContent = p.get('antetitulo') ?? '';
+			document.getElementById('titular').textContent = p.get('titular') ?? '';
+			document.getElementById('bajada').textContent = p.get('bajada') ?? '';
+
+			// Titulares largos bajan un escalón de cuerpo en vez de desbordar.
+			if ((p.get('titular') ?? '').length > 30) tarjeta.setAttribute('data-largo', '');
+
+			const foto = document.getElementById('foto');
+			if (p.get('foto')) {
+				foto.src = `../../static/img/portada/${p.get('foto')}.webp`;
+			} else {
+				foto.remove();
+				tarjeta.setAttribute('data-plano', '');
+				tarjeta.style.background = p.get('fondo') ?? 'var(--selva-800)';
+			}
+
+			const cargar = async (ruta, destino) => {
+				const res = await fetch(ruta);
+				document.getElementById(destino).innerHTML = await res.text();
+			};
+
+			await cargar('../../src/lib/marca/lockup-color.svg', 'marca');
+			if (p.get('picto')) {
+				await cargar(`../../src/lib/pictogramas/${p.get('picto')}.svg`, 'picto');
+			} else {
+				document.getElementById('picto').remove();
+			}
+
+			await document.fonts.ready;
+			document.documentElement.dataset.listo = '1';
+		</script>
+	</body>
+</html>

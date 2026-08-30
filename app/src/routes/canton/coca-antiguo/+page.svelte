@@ -3,18 +3,17 @@
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 </script>
 
-<svelte:head>
-	<title>El Coca antiguo — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Archivo fotográfico recuperado de los inicios de El Coca: sesenta años de la ciudad en imágenes."
-	/>
-</svelte:head>
+<Seo
+	titulo="El Coca antiguo"
+	descripcion="Archivo fotográfico recuperado de los inicios de El Coca: sesenta años de la ciudad en imágenes."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="El Coca antiguo"

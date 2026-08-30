@@ -4,6 +4,8 @@
 	import { ETIQUETA_CATEGORIA, ETIQUETA_PERFIL } from '$lib/api';
 	import HojaFiltros from '$lib/components/HojaFiltros.svelte';
 	import Migas from '$lib/components/Migas.svelte';
+	import Seo from '$lib/components/Seo.svelte';
+	import { indiceSeccion } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -101,15 +103,31 @@
 		'documentos-y-certificados': 'var(--color-achiote-600)',
 		'otros-tramites': 'var(--color-carbon-300)'
 	};
+
+	/**
+	 * Los 60 trámites, listados de una vez para el rastreador.
+	 *
+	 * Filtrar es cosa del cliente: el servidor sirve siempre la lista
+	 * entera, así que un buscador ve el catálogo completo aunque el
+	 * visitante llegue con `?categoria=negocios` puesto. Esto se lo dice
+	 * explícito, sin que tenga que deducirlo del HTML.
+	 */
+	const catalogo = $derived(
+		indiceSeccion(
+			page.url,
+			'Trámites municipales',
+			'/tramites',
+			data.tramites.map((t) => ({ nombre: t.nombre, ruta: `/tramites/${t.slug}` }))
+		)
+	);
 </script>
 
-<svelte:head>
-	<title>Trámites municipales — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Los {data.tramites.length} trámites del Municipio de Francisco de Orellana, con requisitos, costos y formularios."
-	/>
-</svelte:head>
+<Seo
+	titulo="Trámites municipales"
+	descripcion="Los {data.tramites.length} trámites del GAD Municipal de Francisco de Orellana: requisitos, costo, canales de atención y a qué dirección acudir."
+	imagen="/img/og/tramites.jpg"
+	datos={[catalogo]}
+/>
 
 	{#snippet controles()}
 		{#snippet grupo(

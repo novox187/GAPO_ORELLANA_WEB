@@ -2,18 +2,17 @@
 	import CabeceraCanton from '$lib/components/CabeceraCanton.svelte';
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 </script>
 
-<svelte:head>
-	<title>Rutas turísticas — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Recorridos turísticos por el cantón Francisco de Orellana y sus comunidades."
-	/>
-</svelte:head>
+<Seo
+	titulo="Rutas turísticas"
+	descripcion="Recorridos turísticos por el cantón Francisco de Orellana y sus comunidades, pensados para hacer en un día."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="Rutas turísticas"

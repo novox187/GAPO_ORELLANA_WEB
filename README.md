@@ -9,12 +9,12 @@ SvelteKit que lo consume.
 
 ```
 app/             Aplicación SvelteKit 2 + Svelte 5 + Tailwind v4
-app/scripts/     Constructor del corpus del asistente y banco de pruebas
+app/scripts/og/  Generador de las tarjetas de previsualización (Open Graph)
 tools/scraper/   Extractor de contenido (Node + TypeScript)
 data/api/v1/     La API REST simulada: un JSON por recurso
 data/raw/        Caché del HTML original descargado (no se versiona)
 media/           Imágenes y logos descargados (no se versionan; sí el catálogo)
-docs/            Arquitectura, contrato de API, accesibilidad, deuda heredada
+docs/            Arquitectura, contrato de API, accesibilidad, SEO, deuda heredada
 ```
 
 ## Levantar la aplicación
@@ -56,6 +56,35 @@ El Coca" y el reportaje de lugares turísticos), no de banco de imágenes.
 El recorte sólo elimina los rótulos que la campaña llevaba incrustados;
 no se retoca la fotografía.
 
+### Iconos y tarjetas de previsualización
+
+Los iconos de la aplicación instalada (`static/icono-*.png`,
+`apple-touch-icon.png`) salen del propio `static/favicon.svg` — la "O" con la
+hoja del logotipo. Se rasteriza grande y se le recorta el canto porque el
+rectángulo verde termina justo en el `viewBox` y el antialiasing deja una
+línea clara en el borde:
+
+```bash
+cd app
+magick -background none -density 2400 static/favicon.svg -resize 2048x2048! -shave 26x26 /tmp/marca.png
+magick /tmp/marca.png -resize 404x404! -gravity center -background '#0c843a' -extent 512x512 static/icono-512.png
+magick /tmp/marca.png -resize 316x316! -gravity center -background '#0c843a' -extent 512x512 static/icono-maskable-512.png
+magick static/icono-512.png -resize 192x192 static/icono-192.png
+magick static/icono-512.png -resize 180x180 static/apple-touch-icon.png
+cp static/icono-512.png static/img/og/logotipo.png
+```
+
+Las seis tarjetas de 1200×630 que se ven al compartir un enlace en WhatsApp o
+Facebook (`static/img/og/`) se rehacen con:
+
+```bash
+cd app && ./scripts/og/generar.sh
+```
+
+Rasteriza `scripts/og/tarjeta.html` con el Chromium del sistema; no añade
+ninguna dependencia al proyecto. El porqué de cada decisión está en
+[`docs/seo.md`](docs/seo.md).
+
 > Al crear rutas o componentes nuevos hay que **reiniciar `npm run dev`**:
 > Tailwind v4 no re-escanea archivos que no existían cuando arrancó el
 > servidor, y sus clases no llegan a generarse. La compilación de
@@ -73,6 +102,8 @@ no se retoca la fotografía.
 | `/contacto` | Directorio de 20 direcciones y 104 extensiones |
 | `/buscar` | Búsqueda léxica sobre 358 documentos |
 | `/asistente` | Asistente ciudadano: pregunta en lenguaje natural, devuelve la ficha oficial |
+| `/sitemap.xml`, `/robots.txt` | Generados en cada petición desde los mismos datos que las páginas |
+| `/noticias/feed.xml` | RSS de las 50 noticias más recientes |
 
 ## El asistente ciudadano
 
@@ -156,6 +187,7 @@ con un user-agent identificable y ~1 solicitud/segundo.
 - [`docs/contrato-api.md`](docs/contrato-api.md) — forma de cada recurso JSON.
 - [`docs/arquitectura-informacion.md`](docs/arquitectura-informacion.md) — la regla de 3 clics y la taxonomía de trámites.
 - [`docs/accesibilidad.md`](docs/accesibilidad.md) — checklist WCAG 2.1 AA aplicado.
+- [`docs/seo.md`](docs/seo.md) — metadatos, datos estructurados, mapa del sitio y tarjetas de previsualización.
 - [`docs/arquitectura.md`](docs/arquitectura.md) — rumbo técnico: despliegue en Coolify, backend Laravel, capa de IA.
 - [`docs/deuda-heredada.md`](docs/deuda-heredada.md) — hallazgos del sitio actual para reportar al municipio.
 

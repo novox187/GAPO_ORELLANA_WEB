@@ -1,21 +1,35 @@
 <script lang="ts">
 	import Migas from '$lib/components/Migas.svelte';
 	import Pictograma from '$lib/components/Pictograma.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 	import { revelar } from '$lib/acciones/revelar';
+	import { indiceSeccion } from '$lib/seo';
+	import { page } from '$app/state';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 
 	const territorio = $derived(data.entradas.filter((e) => e.grupo === 'territorio'));
 	const visitar = $derived(data.entradas.filter((e) => e.grupo === 'visitar'));
+
+	const indice = $derived(
+		indiceSeccion(
+			page.url,
+			'El cantón Francisco de Orellana',
+			'/canton',
+			data.entradas.map((e) => ({ nombre: e.titulo, ruta: `/canton/${e.slug}` }))
+		)
+	);
 </script>
 
+<Seo
+	titulo="El cantón"
+	descripcion="Historia, símbolos, territorio y lugares por visitar del cantón Francisco de Orellana (El Coca), en la Amazonía ecuatoriana."
+	imagen="/img/og/canton.jpg"
+	datos={[indice]}
+/>
+
 <svelte:head>
-	<title>El cantón — Alcaldía de Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Historia, símbolos, territorio y lugares por visitar del cantón Francisco de Orellana (El Coca)."
-	/>
 	<link rel="preload" as="image" href="/img/portada/mirador-anangu-960.webp" fetchpriority="high" />
 </svelte:head>
 

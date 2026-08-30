@@ -3,18 +3,17 @@
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 </script>
 
-<svelte:head>
-	<title>Historia y símbolos — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="La bandera, el escudo y el himno del cantón Francisco de Orellana, y el significado de cada uno de sus elementos."
-	/>
-</svelte:head>
+<Seo
+	titulo="Historia y símbolos"
+	descripcion="La bandera, el escudo y el himno del cantón Francisco de Orellana, y el significado de cada uno de sus elementos."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="Historia y símbolos"

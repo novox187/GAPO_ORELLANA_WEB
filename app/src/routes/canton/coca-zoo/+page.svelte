@@ -3,18 +3,17 @@
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 </script>
 
-<svelte:head>
-	<title>Coca Zoo — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Centro de rescate y tenencia de vida silvestre Coca Zoo: 200 animales de 50 especies amazónicas en más de 50 hectáreas."
-	/>
-</svelte:head>
+<Seo
+	titulo="Coca Zoo"
+	descripcion="Centro de rescate y tenencia de vida silvestre Coca Zoo: 200 animales de 50 especies amazónicas en más de 50 hectáreas."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="Coca Zoo"

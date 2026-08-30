@@ -2,6 +2,7 @@
 	import { page } from '$app/state';
 	import { replaceState } from '$app/navigation';
 	import Migas from '$lib/components/Migas.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 	import { buscar, type DocumentoIndice } from '$lib/api';
 	import { rutaPublica } from '$lib/rutas';
 	import type { PageData } from './$types';
@@ -61,10 +62,11 @@
 	}
 </script>
 
-<svelte:head>
-	<title>Buscar — Alcaldía de Francisco de Orellana</title>
-	<meta name="robots" content="noindex" />
-</svelte:head>
+<Seo
+	titulo="Buscar en el sitio"
+	descripcion="Busque trámites, noticias y páginas del sitio del GAD Municipal de Francisco de Orellana."
+	indexar={false}
+/>
 
 <div class="contenedor py-10 md:py-14">
 	<Migas tramos={[{ texto: 'Inicio', href: '/' }, { texto: 'Buscar' }]} />

@@ -1,5 +1,8 @@
 <script lang="ts">
+	import { page } from '$app/state';
 	import Migas from '$lib/components/Migas.svelte';
+	import Seo from '$lib/components/Seo.svelte';
+	import { paginaContacto } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -37,13 +40,11 @@
 	);
 </script>
 
-<svelte:head>
-	<title>Contacto y atención ciudadana — Alcaldía de Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Directorio telefónico de las direcciones del GAD Municipal de Francisco de Orellana, canales oficiales y ubicación."
-	/>
-</svelte:head>
+<Seo
+	titulo="Contacto y atención ciudadana"
+	descripcion="Directorio telefónico de las direcciones del GAD Municipal de Francisco de Orellana, canales oficiales de atención y ubicación."
+	datos={[paginaContacto(page.url)]}
+/>
 
 <div class="contenedor py-10 md:py-14">
 	<Migas tramos={[{ texto: 'Inicio', href: '/' }, { texto: 'Contacto' }]} />

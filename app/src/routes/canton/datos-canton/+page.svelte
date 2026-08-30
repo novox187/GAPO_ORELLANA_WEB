@@ -3,6 +3,7 @@
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import Pictograma from '$lib/components/Pictograma.svelte';
 	import { revelar, contar } from '$lib/acciones/revelar';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -24,13 +25,11 @@
 	const simples = $derived(data.campos.filter((c) => !c.listas.length));
 </script>
 
-<svelte:head>
-	<title>Datos del cantón — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Territorio, población, clima, límites, parroquias y economía del cantón Francisco de Orellana."
-	/>
-</svelte:head>
+<Seo
+	titulo="Datos del cantón"
+	descripcion="Territorio, población, clima, límites, parroquias y economía del cantón Francisco de Orellana."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="Datos del cantón"

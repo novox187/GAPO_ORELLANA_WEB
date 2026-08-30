@@ -2,6 +2,7 @@
 	import Migas from './Migas.svelte';
 	import Bloques from './Bloques.svelte';
 	import GrupoRegistro from './GrupoRegistro.svelte';
+	import Seo from './Seo.svelte';
 	import { normalizarTexto, type Pagina } from '$lib/api';
 	import type { EntradaSeccion } from '$lib/secciones';
 	import {
@@ -112,10 +113,17 @@
 	const paginaVacia = $derived(resumen.cantidad === 0 && introVisible.length === 0);
 </script>
 
-<svelte:head>
-	<title>{entrada.titulo} — Alcaldía de Francisco de Orellana</title>
-	<meta name="description" content={entrada.descripcion} />
-</svelte:head>
+<!--
+	La descripción lleva el recuento: `resumen` es cuántos documentos o
+	apartados tiene el apartado, y en un buscador "Ordenanzas municipales.
+	148 documentos publicados." dice mucho más de lo que hay detrás del
+	enlace que la descripción fija de la sección.
+-->
+<Seo
+	titulo={entrada.titulo}
+	descripcion={`${entrada.descripcion} ${resumen.cantidad} ${resumen.etiqueta} publicados.`}
+	imagen="/img/og/transparencia.jpg"
+/>
 
 <div class="contenedor py-10 md:py-14">
 	<Migas

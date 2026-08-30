@@ -1,14 +1,16 @@
 <script lang="ts">
 	import { page } from '$app/state';
 	import Pictograma from '$lib/components/Pictograma.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 
 	const esNoEncontrado = $derived(page.status === 404);
 </script>
 
-<svelte:head>
-	<title>{page.status} — Alcaldía de Francisco de Orellana</title>
-	<meta name="robots" content="noindex" />
-</svelte:head>
+<Seo
+	titulo={esNoEncontrado ? 'Página no encontrada' : `Error ${page.status}`}
+	descripcion="La página solicitada no está disponible en el sitio del GAD Municipal de Francisco de Orellana."
+	indexar={false}
+/>
 
 <div class="contenedor flex min-h-[60vh] items-center py-16">
 	<div class="grid w-full items-center gap-10 md:grid-cols-[1fr_auto]">

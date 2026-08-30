@@ -3,6 +3,8 @@
 	import { replaceState } from '$app/navigation';
 	import Migas from '$lib/components/Migas.svelte';
 	import TarjetaFeed from '$lib/components/TarjetaFeed.svelte';
+	import Seo from '$lib/components/Seo.svelte';
+	import { indiceSeccion } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -23,6 +25,25 @@
 		anio ? data.noticias.filter((n) => n.fecha?.startsWith(anio!)) : data.noticias
 	);
 	const mostradas = $derived(filtradas.slice(0, visibles));
+
+	/**
+	 * El feed carga por tandas de nueve con scroll infinito, así que el
+	 * rastreador sólo ve las nueve primeras en el HTML. La lista completa va
+	 * en datos estructurados; sin ella, 271 de las 280 noticias dependían de
+	 * que alguien las enlazara desde fuera.
+	 *
+	 * La canónica de `<Seo>` descarta la query, que aquí importa: el filtro
+	 * por año vive en la URL pero no cambia lo que sirve el servidor, así que
+	 * sin eso habría una página duplicada por cada año publicado.
+	 */
+	const indice = $derived(
+		indiceSeccion(
+			page.url,
+			'Noticias del GAD Municipal de Francisco de Orellana',
+			'/noticias',
+			data.noticias.map((n) => ({ nombre: n.titulo, ruta: `/noticias/${n.slug}` }))
+		)
+	);
 	const quedanMas = $derived(visibles < filtradas.length);
 
 	function elegirAnio(nuevo: string | null) {
@@ -60,15 +81,12 @@
 	});
 </script>
 
-<svelte:head>
-	<title
-		>{anio ? `Noticias de ${anio}` : 'Noticias'} — Alcaldía de Francisco de Orellana</title
-	>
-	<meta
-		name="description"
-		content="Obras, gestión y actividades del Gobierno Municipal de Francisco de Orellana."
-	/>
-</svelte:head>
+<Seo
+	titulo={anio ? `Noticias de ${anio}` : 'Noticias del cantón'}
+	descripcion="Obras, servicios y decisiones del GAD Municipal de Francisco de Orellana. {data.total} publicaciones desde {data.anios.at(-1)?.anio}."
+	imagen="/img/og/noticias.jpg"
+	datos={[indice]}
+/>
 
 <div class="contenedor py-8 md:py-12">
 	<Migas tramos={[{ texto: 'Inicio', href: '/' }, { texto: 'Noticias' }]} />

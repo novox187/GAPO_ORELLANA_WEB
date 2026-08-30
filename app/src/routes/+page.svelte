@@ -3,6 +3,7 @@
 	import PuertasIntencion from '$lib/components/PuertasIntencion.svelte';
 	import CifrasCanton from '$lib/components/CifrasCanton.svelte';
 	import LlamadaAsistente from '$lib/components/LlamadaAsistente.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img, fechaLegible } from '$lib/api';
 	import type { PageData } from './$types';
@@ -23,26 +24,10 @@
 	];
 </script>
 
-<svelte:head>
-	<title>El Coca, entrada al Yasuní — Alcaldía de Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="El Coca, entrada al Yasuní: Rincón Mágico del Ecuador. Trámites, obras, noticias y transparencia del cantón Francisco de Orellana."
-	/>
-	<!--
-		El sitio actual publica og:title, og:description y og:image vacíos en
-		la portada: compartir el enlace de inicio no muestra vista previa
-		(ver docs/deuda-heredada.md, punto 6).
-	-->
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="El Coca, entrada al Yasuní" />
-	<meta
-		property="og:description"
-		content="Trámites, obras, noticias y transparencia del cantón Francisco de Orellana."
-	/>
-	<meta property="og:image" content="/img/portada/puente-napo.webp" />
-	<meta name="twitter:card" content="summary_large_image" />
-</svelte:head>
+<Seo
+	titulo="El Coca, entrada al Yasuní"
+	descripcion="Trámites, obras, noticias y transparencia del cantón Francisco de Orellana (El Coca), en la Amazonía ecuatoriana. Atención ciudadana en línea."
+/>
 
 <HeroPortada />
 

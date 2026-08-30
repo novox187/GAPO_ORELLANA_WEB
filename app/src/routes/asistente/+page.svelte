@@ -6,6 +6,7 @@
 	import { afterNavigate, replaceState } from '$app/navigation';
 	import { API_BASE } from '$lib/api';
 	import Jaguar from '$lib/components/Jaguar.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 	import Pictograma from '$lib/components/Pictograma.svelte';
 	import FichaEnChat from '$lib/components/FichaEnChat.svelte';
 	import type { Respuesta, Turno } from '$lib/asistente';
@@ -287,14 +288,20 @@
 	}
 </script>
 
-<svelte:head>
-	<title>Asistente · GAD Municipal Francisco de Orellana</title>
-	<meta name="robots" content="noindex" />
-	<meta
-		name="description"
-		content="Pregunte con sus palabras y el asistente le muestra la ficha oficial del trámite o servicio municipal."
-	/>
-</svelte:head>
+<!--
+	Se indexa, al contrario que antes.
+	El asistente pasó a ser la acción primaria de la portada y de la
+	cabecera: es la puerta de entrada al sitio, no un experimento escondido.
+	Marcarlo `noindex` significaba que quien busca "asistente municipio El
+	Coca" no lo encontraba nunca. Lo que sigue fuera del rastreo es
+	`/api/asistente`, el endpoint que gasta CPU en cada petición — eso lo
+	bloquea robots.txt.
+-->
+<Seo
+	titulo="Asistente ciudadano"
+	descripcion="Pregunte con sus palabras y el asistente municipal le muestra la ficha oficial del trámite: requisitos, costo y a dónde acudir."
+	imagen="/img/og/asistente.jpg"
+/>
 
 <div
 	class="flex h-[100dvh] flex-col bg-[var(--superficie)]"

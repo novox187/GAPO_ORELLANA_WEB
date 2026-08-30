@@ -1,6 +1,9 @@
 <script lang="ts">
+	import { page } from '$app/state';
 	import Migas from '$lib/components/Migas.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 	import { img, fechaLegible } from '$lib/api';
+	import { noticia, tarjeta as recorteTarjeta } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -12,16 +15,27 @@
 	const galeria = $derived(
 		[...new Map(n.imagenes.slice(1).map((g) => [g.id, g])).values()]
 	);
+
+	/**
+	 * La fotografía de la nota, recortada a 1200×630 para servir de tarjeta
+	 * al compartirla: con la proporción de cámara original, WhatsApp y
+	 * Facebook la degradan a miniatura junto al título en vez de pintar la
+	 * tarjeta grande. Sin foto propia, la genérica de la sección.
+	 */
+	const tarjeta = $derived(
+		recorteTarjeta(n.imagen ? img(n.imagen, 1600) : null) ?? '/img/og/noticias.jpg'
+	);
 </script>
 
-<svelte:head>
-	<title>{n.titulo} — Alcaldía de Francisco de Orellana</title>
-	<meta name="description" content={n.resumen} />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content={n.titulo} />
-	<meta property="og:description" content={n.resumen} />
-	{#if n.imagen}<meta property="og:image" content={img(n.imagen, 1600)} />{/if}
-</svelte:head>
+<Seo
+	titulo={n.titulo}
+	descripcion={n.resumen}
+	imagen={tarjeta}
+	imagenAlt={n.imagen && !n.imagen.altPendiente ? n.imagen.alt : undefined}
+	tipo="article"
+	articulo={{ publicada: n.fecha, modificada: n.fecha, seccion: 'Noticias municipales' }}
+	datos={[noticia(page.url, { ...n, imagen: tarjeta })]}
+/>
 
 <article class="contenedor py-10 md:py-14">
 	<Migas

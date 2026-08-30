@@ -3,18 +3,17 @@
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 </script>
 
-<svelte:head>
-	<title>Lugares por visitar — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Los {data.lugares.length} lugares por visitar del cantón Francisco de Orellana: Supay Kucha, Amaru Yaya, Yasuní Land, la laguna de Añangu y más."
-	/>
-</svelte:head>
+<Seo
+	titulo="Lugares por visitar"
+	descripcion="Los {data.lugares.length} lugares por visitar del cantón Francisco de Orellana: Supay Kucha, Amaru Yaya, Yasuní Land, la laguna de Añangu y más."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="Lugares por visitar"

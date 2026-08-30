@@ -1,7 +1,9 @@
 <script lang="ts">
 	import Migas from './Migas.svelte';
 	import Bloques from './Bloques.svelte';
+	import Seo from './Seo.svelte';
 	import { img, type Pagina } from '$lib/api';
+	import { tarjeta } from '$lib/seo';
 	import type { EntradaSeccion } from '$lib/secciones';
 
 	/**
@@ -36,10 +38,11 @@
 	const galeria = $derived([...new Map(pagina.imagenes.map((im) => [im.id, im])).values()]);
 </script>
 
-<svelte:head>
-	<title>{entrada.titulo} — Alcaldía de Francisco de Orellana</title>
-	<meta name="description" content={entrada.descripcion} />
-</svelte:head>
+<Seo
+	titulo={entrada.titulo}
+	descripcion={entrada.descripcion}
+	imagen={tarjeta(entrada.imagen) ?? '/img/og/canton.jpg'}
+/>
 
 <div class="contenedor py-10 md:py-14">
 	<Migas

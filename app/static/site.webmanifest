@@ -1,0 +1,54 @@
+{
+  "name": "Alcaldía de Francisco de Orellana",
+  "short_name": "Orellana",
+  "description": "Trámites, obras, noticias y transparencia del cantón Francisco de Orellana (El Coca), en la Amazonía ecuatoriana.",
+  "lang": "es-EC",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbfaf6",
+  "theme_color": "#0c843a",
+  "categories": ["government", "news", "utilities"],
+  "icons": [
+    {
+      "src": "/icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Trámites municipales",
+      "short_name": "Trámites",
+      "url": "/tramites",
+      "icons": [{ "src": "/icono-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Asistente ciudadano",
+      "short_name": "Asistente",
+      "url": "/asistente",
+      "icons": [{ "src": "/icono-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Transparencia",
+      "short_name": "Transparencia",
+      "url": "/transparencia",
+      "icons": [{ "src": "/icono-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

@@ -1,8 +1,0 @@
-# allow crawling everything by default
-User-agent: *
-Disallow:
-
-# El asistente es un endpoint de cómputo, no contenido: cada petición
-# embebe texto en CPU. Un rastreador recorriéndolo no indexa nada nuevo
-# —todo lo que responde ya está en las páginas— y sí consume el servidor.
-Disallow: /api/asistente

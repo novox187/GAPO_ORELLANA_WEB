@@ -3,6 +3,7 @@
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -17,13 +18,11 @@
 	];
 </script>
 
-<svelte:head>
-	<title>Empresas adscritas — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Las entidades adscritas al Municipio de Francisco de Orellana: Cuerpo de Bomberos, MACCO, Terminal Terrestre y más."
-	/>
-</svelte:head>
+<Seo
+	titulo="Empresas adscritas"
+	descripcion="Las entidades adscritas al Municipio de Francisco de Orellana: Cuerpo de Bomberos, MACCO, Terminal Terrestre y más."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="Empresas adscritas"

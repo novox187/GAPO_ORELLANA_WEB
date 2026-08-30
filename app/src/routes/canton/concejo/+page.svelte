@@ -3,6 +3,7 @@
 	import HermanasCanton from '$lib/components/HermanasCanton.svelte';
 	import { revelar } from '$lib/acciones/revelar';
 	import { img } from '$lib/api';
+	import Seo from '$lib/components/Seo.svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -23,13 +24,11 @@
 	}
 </script>
 
-<svelte:head>
-	<title>Concejo Municipal — El cantón — Francisco de Orellana</title>
-	<meta
-		name="description"
-		content="Los {data.concejales.length} concejales del Gobierno Autónomo Descentralizado Municipal de Francisco de Orellana."
-	/>
-</svelte:head>
+<Seo
+	titulo="Concejo Municipal"
+	descripcion="Los {data.concejales.length} concejales del Gobierno Autónomo Descentralizado Municipal de Francisco de Orellana."
+	imagen="/img/og/canton.jpg"
+/>
 
 <CabeceraCanton
 	titulo="Concejo Municipal"

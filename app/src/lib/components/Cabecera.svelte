@@ -137,6 +137,19 @@
 				buscador —encontrar algo— pero admitiendo que se lo pidas con
 				tus palabras. Un sexto enlace en la barra tampoco cabía.
 
+				Va relleno de amarillo de marca y no en contorno como el resto
+				de controles, a propósito: es el único sitio de la cabecera
+				donde queremos que el ojo aterrice primero. La etiqueta "IA"
+				dice sin rodeos qué es esto antes de que se pulse, y respira
+				—el mismo gesto que el jaguar del asistente dentro de la
+				conversación (ver Jaguar.svelte)— para que el ojo la
+				encuentre sin que nadie tenga que señalarla.
+
+				El pictograma del jaguar se probó aquí y se descartó: a 18 px
+				su trazo fino de grabado —pensado para verse a 80 px o más,
+				como en LlamadaAsistente.svelte— se deshace en una mancha
+				pálida sobre el amarillo, ilegible en vez de expresiva.
+
 				`hidden sm:inline-flex`: por debajo de 640 px este cuarto
 				control desbordaba la cabecera —medido a 360 px, el botón de
 				menú acababa en 374 px— y el menú quedaba fuera de la pantalla.
@@ -146,24 +159,10 @@
 			-->
 			<a
 				href="/asistente"
-				class="control hidden h-10 items-center gap-2 border px-3.5 text-[0.85rem] font-semibold no-underline transition-colors sm:inline-flex"
+				class="control-ia hidden h-10 items-center gap-2 px-3.5 text-[0.85rem] font-bold no-underline transition-colors sm:inline-flex"
 			>
-				<svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-					<path
-						d="M20 12a8 8 0 0 1-8 8H4l2-3.2A8 8 0 1 1 20 12Z"
-						stroke="currentColor"
-						stroke-width="2.2"
-						stroke-linejoin="round"
-					/>
-					<path
-						d="M9.4 9.6a2.6 2.6 0 1 1 3.3 2.5c-.5.2-.7.6-.7 1.1v.3"
-						stroke="currentColor"
-						stroke-width="2.2"
-						stroke-linecap="round"
-					/>
-					<circle cx="12" cy="16.3" r="1" fill="currentColor" />
-				</svg>
 				<span>Asistente</span>
+				<span class="etiqueta-ia">IA</span>
 			</a>
 
 			<a
@@ -238,6 +237,58 @@
 	.control:hover {
 		border-color: var(--marca);
 		color: var(--marca);
+	}
+
+	/*
+	   Relleno de amarillo de marca en las dos capas de la cabecera (flotante
+	   sobre la foto y sólida al bajar): a diferencia de `.control`, que se
+	   apoya en el borde y cambia con el tema, este botón lleva su propio
+	   fondo y no necesita overrides por estado — se ve igual de llamativo
+	   siempre, que es justo el punto.
+	*/
+	.control-ia {
+		background: var(--color-achiote-500);
+		color: var(--color-carbon-900);
+	}
+
+	.control-ia:hover {
+		background: var(--color-achiote-400);
+		color: var(--color-carbon-900);
+	}
+
+	.etiqueta-ia {
+		display: inline-flex;
+		align-items: center;
+		border-radius: 999px;
+		background: var(--color-carbon-900);
+		color: var(--color-achiote-400);
+		padding: 0.05rem 0.4rem;
+		font-size: 0.6rem;
+		font-weight: 900;
+		letter-spacing: 0.04em;
+		/* El mismo aliento que usa el jaguar dentro de la conversación
+		   (Jaguar.svelte), en una versión más leve para no distraer en la
+		   cabecera: 3,2 s en vez de 2,4, y 8 % de escala en vez de 10. Va en
+		   la etiqueta y no en un icono —ver el comentario junto al enlace—
+		   porque una píldora sólida sí se lee a este tamaño. */
+		animation: respirar-boton 3.2s ease-in-out infinite;
+		transform-origin: center;
+	}
+
+	@keyframes respirar-boton {
+		0%,
+		100% {
+			transform: scale(1);
+		}
+		50% {
+			transform: scale(1.08);
+		}
+	}
+
+	@media (prefers-reduced-motion: reduce) {
+		.etiqueta-ia {
+			animation: none;
+		}
 	}
 
 	/*

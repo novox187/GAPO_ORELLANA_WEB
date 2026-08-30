@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { tick } from 'svelte';
+	import { fly } from 'svelte/transition';
+	import { cubicOut } from 'svelte/easing';
 	import { page } from '$app/state';
 	import { afterNavigate, replaceState } from '$app/navigation';
 	import { API_BASE } from '$lib/api';
@@ -102,6 +104,18 @@
 	let conversacion: string | null = null;
 	let hilo: HTMLElement;
 	let campo: HTMLTextAreaElement;
+
+	/**
+	 * La página entera entra con un asentamiento leve, no un corte seco: al
+	 * llegar aquí desde la cabecera o desde el CTA de la portada, el sitio
+	 * entero se sustituye por esta pantalla completa (ver +layout.svelte),
+	 * así que sin transición el cambio se sentía como un parpadeo.
+	 */
+	let reducido = $state(false);
+	$effect(() => {
+		reducido = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+	});
+	const duracionApertura = $derived(reducido ? 0 : 340);
 
 	const vacio = $derived(turnos.length === 0);
 
@@ -282,7 +296,10 @@
 	/>
 </svelte:head>
 
-<div class="flex h-[100dvh] flex-col bg-[var(--superficie)]">
+<div
+	class="flex h-[100dvh] flex-col bg-[var(--superficie)]"
+	transition:fly={{ y: 18, duration: duracionApertura, easing: cubicOut }}
+>
 	<!-- ══ Cabecera propia: mínima, pero sin perder de vista dónde se está ══ -->
 	<header
 		class="flex shrink-0 items-center gap-3 border-b border-[var(--borde)] px-4 py-3 md:px-6"
@@ -361,10 +378,17 @@
 					</p>
 				</div>
 			{:else}
-				<!-- ══ Turnos ══ -->
+				<!--
+					══ Turnos ══
+					`in:fly`, no `transition:`: los turnos nunca se sacan de la
+					lista uno a uno (sólo se vacía entera con "Nueva consulta"), así
+					que animar la salida no tiene contra qué dispararse. Más corto
+					que el de la página (260 ms) porque esto pasa en cada mensaje,
+					no una vez por visita.
+				-->
 				<ol class="space-y-6">
 					{#each turnos as turno (turno.id)}
-						<li>
+						<li in:fly={{ y: 10, duration: reducido ? 0 : 260, easing: cubicOut }}>
 							{#if turno.rol === 'ciudadano'}
 								<div class="flex justify-end">
 									<p

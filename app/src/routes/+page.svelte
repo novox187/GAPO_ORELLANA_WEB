@@ -44,7 +44,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 </svelte:head>
 
-<HeroPortada totalTramites={data.totalTramites} totalNoticias={data.totalNoticias} />
+<HeroPortada />
 
 <PuertasIntencion totalTramites={data.totalTramites} totalNoticias={data.totalNoticias} />
 

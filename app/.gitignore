@@ -22,8 +22,11 @@ Thumbs.db
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-# Corpus del asistente: derivado de data/api/v1/, se regenera con `npm run corpus`
+# Restos del asistente de fase 1, que corría dentro de este contenedor. Se
+# quedan ignorados un tiempo para que a quien tenga el repo clonado no le
+# aparezcan como archivos sin seguimiento tras hacer pull.
 src/lib/server/corpus.generado.json
 
-# Pesos del modelo de embeddings: se descargan en el build
+# Pesos del modelo de embeddings. Ya no se descargan aquí —el modelo vive en
+# el microservicio del backend—, pero la carpeta sigue ignorada por lo mismo.
 modelos/

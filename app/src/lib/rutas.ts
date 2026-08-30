@@ -39,6 +39,11 @@ export const RUTAS_FIJAS = [
 export function rutaPublica(url: string): string {
 	if (url.startsWith('/tramites/') || url.startsWith('/noticias/')) return url;
 
+	// Las direcciones del organigrama no tienen página propia: viven todas en
+	// /contacto, una por acordeón, y el ancla es lo que hace que llevar ahí al
+	// ciudadano sirva de algo. Mismo caso que RutasPublicas::desde() en la API.
+	if (url.startsWith('/direcciones/')) return `/contacto#${url.split('/').pop() ?? ''}`;
+
 	const slug = url.split('/').pop() ?? '';
 	if (TRANSPARENCIA.some((e) => e.slug === slug)) return `/transparencia/${slug}`;
 	if (CANTON.some((e) => e.slug === slug)) return `/canton/${slug}`;

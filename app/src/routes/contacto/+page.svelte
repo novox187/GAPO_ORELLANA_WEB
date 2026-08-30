@@ -38,6 +38,16 @@
 	const totalExtensiones = $derived(
 		data.direcciones.reduce((n, d) => n + d.directorio_telefonico.length, 0)
 	);
+
+	/**
+	 * Dirección señalada por el ancla de la URL.
+	 *
+	 * El asistente enlaza aquí con `/contacto#direccion-de-riesgos`, y con
+	 * veinte acordeones cerrados llegar al principio de la lista es casi no
+	 * llegar. El navegador tampoco resuelve esto solo: saltar a un `id` que
+	 * está dentro de un `<details>` cerrado no lo abre.
+	 */
+	const señalada = $derived(page.url.hash.replace(/^#/, ''));
 </script>
 
 <Seo
@@ -110,10 +120,10 @@
 			{:else}
 				<ul class="space-y-1.5">
 					{#each filtradas as d (d.slug)}
-						<li>
+						<li id={d.slug} class="scroll-mt-24">
 							<details
 								class="group border border-[var(--borde)] bg-[var(--superficie-elevada)]"
-								open={Boolean(consulta)}
+								open={Boolean(consulta) || d.slug === señalada}
 							>
 								<summary
 									class="flex cursor-pointer list-none items-center justify-between gap-4 p-4 font-semibold"

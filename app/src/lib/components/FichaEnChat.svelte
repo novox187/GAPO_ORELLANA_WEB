@@ -127,6 +127,29 @@
 			</details>
 		{/if}
 
+		{#if ficha.enlaces?.length}
+			<details class="grupo border-t border-[var(--borde)]">
+				<summary
+					class="flex min-h-11 cursor-pointer list-none items-center justify-between px-3.5 py-2.5 text-sm font-medium hover:bg-[var(--superficie-alt)] focus-visible:ring-2 focus-visible:ring-selva-600 focus-visible:outline-none"
+				>
+					<span>Trámites que gestiona ({ficha.enlaces.length})</span>
+					<span class="flecha text-[var(--texto-suave)]" aria-hidden="true">▾</span>
+				</summary>
+				<ul class="space-y-1 px-3.5 pb-3.5 text-sm">
+					{#each ficha.enlaces as enlace (enlace.url)}
+						<li>
+							<a
+								href={enlace.url}
+								class="text-selva-800 underline underline-offset-2 dark:text-selva-400"
+							>
+								{enlace.titulo}
+							</a>
+						</li>
+					{/each}
+				</ul>
+			</details>
+		{/if}
+
 		{#if ficha.documentos.length}
 			<details class="grupo border-t border-[var(--borde)]">
 				<summary

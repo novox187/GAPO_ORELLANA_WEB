@@ -35,6 +35,16 @@ export interface Ficha {
 	requisitos: string[];
 	pasos: { titulo: string; descripcion: string }[];
 	documentos: Enlace[];
+	/**
+	 * Contenido relacionado que la ficha muestra pero el asistente NO indexa:
+	 * hoy, los trámites que gestiona una dirección municipal. Se separa de
+	 * `documentos` —que son archivos descargables— porque son páginas del
+	 * propio sitio y se enlazan como tales.
+	 *
+	 * Opcional: las conversaciones guardadas antes de que existiera el campo
+	 * se siguen pintando sin él.
+	 */
+	enlaces?: Enlace[];
 	telefonos: { cargo: string; extension: string }[];
 	/** La fuente municipal reconoce que este contenido está sin revisar. */
 	requiereRevision: boolean;

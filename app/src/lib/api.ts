@@ -33,7 +33,12 @@ async function obtener<T>(f: Fetch, ruta: string): Promise<T> {
 			if (res.status === 404) throw new Error(`No se pudo cargar ${ruta} (404)`);
 		} catch (e) {
 			if (e instanceof Error && e.message.includes('(404)')) throw e;
-			// Cualquier otro fallo —red, 500, timeout— cae al respaldo.
+			// Cualquier otro fallo —red, 500, timeout— cae al respaldo. Se deja
+			// constancia en el log del servidor: al no tener respaldo estático
+			// el módulo social, este fallo pasaba desapercibido hasta que el
+			// respaldo también fallaba con un 404 genérico y sin pista alguna
+			// de la causa real.
+			console.error(`[api] fallo al pedir ${REMOTA}/v1/${ruta}:`, e);
 		}
 	}
 

@@ -26,7 +26,16 @@ type Fetch = typeof globalThis.fetch;
 async function obtener<T>(f: Fetch, ruta: string): Promise<T> {
 	if (REMOTA) {
 		try {
-			const res = await f(`${REMOTA}/v1/${ruta}`);
+			// fetch nativo, no el `f` de `load()`: ese fetch imita CORS también
+			// en el servidor, y para la cabecera Origin usa el ORIGIN interno
+			// del contenedor (http://localhost:3000, necesario para que el
+			// respaldo estático de aquí abajo se resuelva sin el hairpin de
+			// Coolify — ver docs/arquitectura.md), no el dominio público. Ese
+			// origen interno nunca está en la lista blanca de Laravel, así que
+			// la petición se rechazaba como si fuera un navegador de un
+			// tercero, aunque es tráfico servidor-a-servidor sin cookies a una
+			// lectura pública. El fetch nativo no impone esa capa.
+			const res = await fetch(`${REMOTA}/v1/${ruta}`);
 			if (res.ok) return (await res.json()) as T;
 			// Un 404 es una respuesta legítima —ese recurso no existe— y no
 			// tiene sentido buscarlo en los estáticos, que son más viejos.

@@ -3,6 +3,14 @@
 
 	const columnas = [
 		{
+			titulo: 'Noticias',
+			enlaces: [
+				{ href: '/noticias', texto: 'El feed' },
+				{ href: '/noticias/perfil/alcaldia', texto: 'Alcaldía' },
+				{ href: '/noticias/cuentas', texto: 'Todas las cuentas' }
+			]
+		},
+		{
 			titulo: 'Trámites',
 			enlaces: [
 				{ href: '/tramites?categoria=negocios', texto: 'Negocios y patentes' },
@@ -41,7 +49,7 @@
 </script>
 
 <footer class="mt-24 bg-[var(--color-carbon-900)] text-white/80">
-	<div class="contenedor grid gap-12 py-16 md:grid-cols-[1.4fr_repeat(3,1fr)] md:py-20">
+	<div class="contenedor grid gap-12 py-16 md:grid-cols-[1.4fr_repeat(4,1fr)] md:py-20">
 		<div>
 			<Marca invertido alto="h-16" />
 			<p class="mt-5 max-w-xs text-sm leading-relaxed text-white/60">

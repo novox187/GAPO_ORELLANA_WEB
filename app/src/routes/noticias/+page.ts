@@ -1,26 +1,23 @@
-import { api } from '$lib/api';
+import { social } from '$lib/api';
 import type { PageLoad } from './$types';
 
 /**
- * El feed se alimenta del índice completo (280 resúmenes con foto y fecha,
- * ~360 KB) en lugar de pedir página a página. Así el filtro por año es
- * instantáneo y el scroll infinito no vuelve a tocar la red.
+ * El feed social: historias activas de la bandeja + la primera tanda de
+ * publicaciones. A diferencia del listado de noticias anterior —que traía
+ * las 280 de una vez porque cabían en 360 KB—, aquí las publicaciones se
+ * piden por cursor: el feed crece sin techo con historias, comentarios y
+ * más cuentas publicando, así que cargarlo entero dejaría de ser razonable
+ * mucho antes de llegar a 280.
  */
-export const load: PageLoad = async ({ fetch, url }) => {
-	const noticias = await api.noticias(fetch);
+export const load: PageLoad = async ({ fetch }) => {
+	const [feed, cuentasConHistorias] = await Promise.all([
+		social.feed(fetch),
+		social.bandejaHistorias(fetch)
+	]);
 
-	const conteoPorAnio = new Map<string, number>();
-	for (const n of noticias) {
-		const anio = n.fecha?.slice(0, 4);
-		if (anio) conteoPorAnio.set(anio, (conteoPorAnio.get(anio) ?? 0) + 1);
-	}
-
-	const anios = [...conteoPorAnio.entries()]
-		.map(([anio, total]) => ({ anio, total }))
-		.sort((a, b) => b.anio.localeCompare(a.anio));
-
-	const pedido = url.searchParams.get('anio');
-	const anioActivo = pedido && conteoPorAnio.has(pedido) ? pedido : null;
-
-	return { noticias, anios, anioActivo, total: noticias.length };
+	return {
+		publicaciones: feed.data,
+		siguienteCursor: feed.meta.siguiente_cursor,
+		cuentasConHistorias
+	};
 };

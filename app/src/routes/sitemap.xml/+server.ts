@@ -1,4 +1,4 @@
-import { api } from '$lib/api';
+import { api, social } from '$lib/api';
 import { CANTON, TRANSPARENCIA } from '$lib/secciones';
 import { RUTAS_FIJAS } from '$lib/rutas';
 import { origen } from '$lib/seo';
@@ -50,14 +50,37 @@ interface Entrada {
 const escapar = (s: string) =>
 	s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
+/**
+ * Todas las publicaciones del feed social, notas y breves por igual,
+ * siguiendo el cursor hasta agotarlo. `api.noticias()` sólo cubre las notas
+ * —es el respaldo de compatibilidad de las 280 heredadas—, y el mapa del
+ * sitio tiene que enlazar también lo nuevo. Tope de 40 tandas (480
+ * publicaciones): un mapa del sitio no necesita ser infinito, y evita un
+ * bucle sin fin si el cursor nunca llegara a null.
+ */
+async function publicacionesCompletas(f: typeof fetch) {
+	const publicaciones = [];
+	let cursor: number | null | undefined = undefined;
+
+	for (let tanda = 0; tanda < 40; tanda++) {
+		const pagina = await social.feed(f, cursor);
+		publicaciones.push(...pagina.data);
+		cursor = pagina.meta.siguiente_cursor;
+		if (cursor === null) break;
+	}
+
+	return publicaciones;
+}
+
 export const GET: RequestHandler = async ({ fetch, url }) => {
 	const base = origen(url);
 
 	// Si la API no responde, el mapa sale con las rutas fijas en vez de
 	// con un 500: media lista es mejor que ninguna para un rastreador.
-	const [tramites, noticias] = await Promise.all([
+	const [tramites, noticias, cuentas] = await Promise.all([
 		api.tramites(fetch).catch(() => []),
-		api.noticias(fetch).catch(() => []),
+		publicacionesCompletas(fetch).catch(() => []),
+		social.cuentas(fetch).catch(() => []),
 	]);
 
 	const entradas: Entrada[] = [
@@ -87,6 +110,12 @@ export const GET: RequestHandler = async ({ fetch, url }) => {
 			fecha: n.fecha,
 			prioridad: '0.5',
 			frecuencia: 'yearly',
+		})),
+		{ ruta: '/noticias/cuentas', prioridad: '0.5', frecuencia: 'monthly' },
+		...cuentas.map((c) => ({
+			ruta: `/noticias/perfil/${c.alias}`,
+			prioridad: c.tipo === 'alcaldia' ? '0.7' : '0.5',
+			frecuencia: 'weekly',
 		})),
 	];
 

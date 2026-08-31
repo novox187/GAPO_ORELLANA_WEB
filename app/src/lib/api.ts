@@ -173,6 +173,114 @@ interface Sobre<T> {
 	links?: Record<string, string | null>;
 }
 
+/**
+ * El módulo social — Alcaldía y direcciones publicando historias y
+ * publicaciones, con reacciones y comentarios de ciudadanos con cuenta.
+ *
+ * Vive bajo `/v1/social/*`, sin sufijo `.json` de compatibilidad porque no
+ * reemplaza ningún archivo estático del sitio origen: es contenido que no
+ * existía antes de Laravel. Por eso, a diferencia de `api.noticias()`, estas
+ * llamadas no tienen respaldo estático — si la API no responde, la petición
+ * falla como cualquier recurso que nunca tuvo forma de archivo. Las 280
+ * notas heredadas siguen sirviéndose además por `api.noticias()` /
+ * `api.noticia()`, que sí conservan el respaldo de siempre.
+ */
+export interface Cuenta {
+	id: number;
+	slug: string;
+	alias: string;
+	nombre: string;
+	tipo: 'alcaldia' | 'direccion';
+	verificada: boolean;
+	avatar: Media | null;
+	/** Sólo presente cuando el perfil se pidió con detalle (ficha del perfil). */
+	portada?: Media | null;
+	biografia?: string;
+	enlace_url: string | null;
+	/** Sólo presente en los listados que lo calculan (directorio, bandeja de historias). */
+	tiene_historias_activas?: boolean;
+	/** Sólo presente en la ficha del perfil. */
+	destacadas?: Destacada[];
+}
+
+export interface PublicacionResumen {
+	id: number;
+	slug: string;
+	tipo: 'nota' | 'breve';
+	cuenta: Cuenta;
+	titulo: string;
+	pie: string;
+	resumen: string;
+	fecha: string | null;
+	imagen: Media | null;
+	num_imagenes?: number;
+	permite_comentarios: boolean;
+	permite_reacciones: boolean;
+	reacciones_contador: number;
+	comentarios_contador: number;
+	fijada: boolean;
+	url: string;
+}
+
+export interface PublicacionSocial extends Omit<PublicacionResumen, 'num_imagenes'> {
+	cuerpo: string;
+	imagenes: Media[];
+	fuente_url: string | null;
+}
+
+export interface Historia {
+	id: number;
+	/** Ausente cuando la historia llega anidada dentro de una destacada del perfil. */
+	cuenta?: Cuenta;
+	medio: Media;
+	texto: string | null;
+	enlace_url: string | null;
+	enlace_texto: string | null;
+	publicado_en: string | null;
+	expira_en: string | null;
+	destacada_id: number | null;
+}
+
+export interface Destacada {
+	id: number;
+	titulo: string;
+	portada: Media | null;
+	historias?: Historia[];
+}
+
+export interface AutorComentario {
+	nombre: string | null;
+	alias?: string;
+	avatar: Media | null;
+	verificada: boolean;
+}
+
+export interface Comentario {
+	id: number;
+	texto: string;
+	creado_en: string | null;
+	es_oficial: boolean;
+	/** Id del ciudadano autor, o null si es una respuesta oficial de la cuenta. */
+	ciudadano_id: number | null;
+	autor: AutorComentario;
+	respuesta_a_id: number | null;
+	respuestas?: Comentario[];
+}
+
+interface SobreCursor<T> {
+	data: T[];
+	meta: { siguiente_cursor: number | null };
+}
+
+export interface Ciudadano {
+	id: number;
+	nombre: string;
+	correo: string;
+	avatar: Media | null;
+	estado: 'activo' | 'silenciado' | 'bloqueado';
+	correo_verificado: boolean;
+}
+
 export const api = {
 	tramites: (f: Fetch) =>
 		obtener<Sobre<TramiteResumen[]>>(f, 'tramites/index.json').then((r) => r.data),
@@ -195,6 +303,105 @@ export const api = {
 	indiceBusqueda: (f: Fetch) =>
 		obtener<Sobre<DocumentoIndice[]>>(f, 'search/index.json').then((r) => r.data)
 };
+
+/** Añade `?cursor=n` sólo cuando hay cursor; sin él se pide la primera tanda. */
+function conCursor(ruta: string, cursor?: number | null): string {
+	return cursor ? `${ruta}?cursor=${cursor}` : ruta;
+}
+
+export const social = {
+	/** El directorio: Alcaldía y las direcciones que publican. */
+	cuentas: (f: Fetch) => obtener<Sobre<Cuenta[]>>(f, 'social/cuentas.json').then((r) => r.data),
+
+	/** El perfil: cabecera, destacadas y si tiene historias activas. */
+	cuenta: (f: Fetch, slug: string) =>
+		obtener<Sobre<Cuenta>>(f, `social/cuentas/${slug}.json`).then((r) => r.data),
+
+	/** La cuadrícula del perfil, una tanda de 12. */
+	publicacionesDeCuenta: (f: Fetch, slug: string, cursor?: number | null) =>
+		obtener<SobreCursor<PublicacionResumen>>(f, conCursor(`social/cuentas/${slug}/publicaciones.json`, cursor)),
+
+	/** Las diapositivas de una cuenta, en orden de publicación. */
+	historiasDeCuenta: (f: Fetch, slug: string) =>
+		obtener<Sobre<Historia[]>>(f, `social/cuentas/${slug}/historias.json`).then((r) => r.data),
+
+	/** El feed cronológico de todas las cuentas, una tanda de 12. */
+	feed: (f: Fetch, cursor?: number | null) =>
+		obtener<SobreCursor<PublicacionResumen>>(f, conCursor('social/feed.json', cursor)),
+
+	/** La publicación completa, con la primera tanda de comentarios. */
+	publicacion: (f: Fetch, slug: string) =>
+		obtener<{ data: PublicacionSocial; comentarios: SobreCursor<Comentario> }>(
+			f,
+			`social/publicaciones/${slug}.json`
+		),
+
+	/** Comentarios de nivel superior, más antiguos primero, con sus respuestas. */
+	comentarios: (f: Fetch, slug: string, cursor?: number | null) =>
+		obtener<SobreCursor<Comentario>>(f, conCursor(`social/publicaciones/${slug}/comentarios.json`, cursor)),
+
+	/** La bandeja: cuentas con al menos una historia activa. */
+	bandejaHistorias: (f: Fetch) => obtener<Sobre<Cuenta[]>>(f, 'social/historias.json').then((r) => r.data),
+
+	/**
+	 * Escrituras: pasan por `/api/social/…`, el proxy del propio SvelteKit
+	 * que añade el token del ciudadano — nunca directas a Laravel, porque el
+	 * navegador no tiene el token, sólo la cookie httpOnly lo tiene.
+	 */
+	reaccionar: (slug: string) => escribir(`social/publicaciones/${slug}/reacciones`, 'POST'),
+	quitarReaccion: (slug: string) => escribir(`social/publicaciones/${slug}/reacciones`, 'DELETE'),
+
+	comentar: (slug: string, texto: string, respuestaAId?: number | null) =>
+		escribir<{ data: Comentario }>(`social/publicaciones/${slug}/comentarios`, 'POST', {
+			texto,
+			respuesta_a_id: respuestaAId ?? null
+		}),
+
+	editarComentario: (id: number, texto: string) =>
+		escribir<{ data: Comentario }>(`social/comentarios/${id}`, 'PATCH', { texto }),
+
+	borrarComentario: (id: number) => escribir(`social/comentarios/${id}`, 'DELETE'),
+
+	reportarComentario: (id: number, motivo: string, nota?: string) =>
+		escribir(`social/comentarios/${id}/reportes`, 'POST', { motivo, nota })
+};
+
+/** Error de una escritura: además del mensaje, expone el estado HTTP y los `errors` de validación de Laravel. */
+export class ErrorEscritura extends Error {
+	constructor(
+		message: string,
+		public readonly estado: number,
+		public readonly errores: Record<string, string[]> = {}
+	) {
+		super(message);
+	}
+
+	/** El primer mensaje de validación, o el mensaje general si no hay ninguno específico. */
+	primero(): string {
+		const campo = Object.values(this.errores)[0];
+		return campo?.[0] ?? this.message;
+	}
+}
+
+async function escribir<T = { data: unknown }>(
+	ruta: string,
+	metodo: 'POST' | 'PATCH' | 'DELETE',
+	cuerpo?: Record<string, unknown>
+): Promise<T> {
+	const res = await fetch(`/api/${ruta}`, {
+		method: metodo,
+		headers: cuerpo ? { 'Content-Type': 'application/json' } : undefined,
+		body: cuerpo ? JSON.stringify(cuerpo) : undefined
+	});
+
+	const datos = await res.json().catch(() => ({}));
+
+	if (!res.ok) {
+		throw new ErrorEscritura(datos?.message ?? 'No se pudo completar la acción.', res.status, datos?.errors ?? {});
+	}
+
+	return datos as T;
+}
 
 /**
  * Búsqueda léxica sin dependencias: puntúa coincidencias en título (peso

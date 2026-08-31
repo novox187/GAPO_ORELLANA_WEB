@@ -3,6 +3,8 @@
 	import Marca from './Marca.svelte';
 	import CambioTema from './CambioTema.svelte';
 	import MenuMovil from './MenuMovil.svelte';
+	import { sesion } from '$lib/sesion.svelte';
+	import { img } from '$lib/api';
 	import type { NombrePictograma } from './Pictograma.svelte';
 
 	/**
@@ -32,7 +34,7 @@
 		{
 			href: '/noticias',
 			texto: 'Noticias',
-			descripcion: 'Obras y gestión, semana a semana',
+			descripcion: 'Lo que publican la Alcaldía y las direcciones',
 			picto: 'obras',
 			tinte: 'var(--color-selva-400)'
 		},
@@ -180,6 +182,30 @@
 					anunciándose, que es justo lo que hace falta.
 				-->
 				<span class="sr-only sm:not-sr-only">Buscar</span>
+			</a>
+
+			<a
+				href="/cuenta"
+				class="control hidden h-10 items-center gap-2 border px-3 text-[0.85rem] font-semibold no-underline transition-colors sm:inline-flex"
+				aria-label={sesion.autenticado ? `Mi cuenta, ${sesion.ciudadano?.nombre}` : 'Inicia sesión o crea una cuenta'}
+			>
+				{#if sesion.autenticado && sesion.ciudadano}
+					<span
+						class="flex size-6 shrink-0 items-center justify-center overflow-hidden rounded-full bg-[var(--superficie-alt)]"
+					>
+						{#if sesion.ciudadano.avatar}
+							<img src={img(sesion.ciudadano.avatar, 400)} alt="" class="h-full w-full object-cover" />
+						{:else}
+							<span class="text-[0.7rem] font-bold" aria-hidden="true">{sesion.ciudadano.nombre.slice(0, 1)}</span>
+						{/if}
+					</span>
+				{:else}
+					<svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+						<circle cx="12" cy="8.5" r="3.6" stroke="currentColor" stroke-width="2" />
+						<path d="M4.8 20a7.2 7.2 0 0 1 14.4 0" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+					</svg>
+					<span>Cuenta</span>
+				{/if}
 			</a>
 
 			<CambioTema />

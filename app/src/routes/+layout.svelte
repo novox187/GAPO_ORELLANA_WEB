@@ -3,19 +3,33 @@
 	import { page } from '$app/state';
 	import Cabecera from '$lib/components/Cabecera.svelte';
 	import Pie from '$lib/components/Pie.svelte';
+	import HojaSesion from '$lib/components/HojaSesion.svelte';
 	import { grafo, organizacion, serializar, sitioWeb } from '$lib/seo';
+	import { sesion } from '$lib/sesion.svelte';
+	import type { LayoutProps } from './$types';
 
-	let { children } = $props();
+	let { children, data }: LayoutProps = $props();
+
+	// Sincroniza el estado global de sesión con lo que trajo `+layout.ts`.
+	// Se repite en cada navegación porque el ciudadano puede haber cerrado
+	// sesión en otra pestaña, o la cuenta puede haberse bloqueado entre una
+	// carga y la siguiente.
+	$effect(() => {
+		sesion.ciudadano = data.ciudadano;
+	});
 
 	/**
-	 * El asistente ocupa la pantalla completa y trae su propia cabecera.
+	 * El asistente y el visor de historias ocupan la pantalla completa y
+	 * traen su propia cabecera (o ninguna, en el caso del visor).
 	 *
 	 * Se resuelve aquí con una condición y no con un grupo de rutas porque en
 	 * SvelteKit `+layout@.svelte` reinicia la herencia HASTA este archivo, que
 	 * es justo el que hay que saltarse. Meter todo el sitio en un grupo
 	 * `(sitio)/` para librar una sola ruta habría movido veinte carpetas.
 	 */
-	const pantallaCompleta = $derived(page.url.pathname.startsWith('/asistente'));
+	const pantallaCompleta = $derived(
+		page.url.pathname.startsWith('/asistente') || page.url.pathname.startsWith('/noticias/historias/')
+	);
 
 	/**
 	 * Identidad de la institución y del sitio, en todas las páginas.
@@ -51,3 +65,5 @@
 		<Pie />
 	</div>
 {/if}
+
+<HojaSesion />

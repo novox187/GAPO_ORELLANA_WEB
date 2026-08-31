@@ -2,125 +2,142 @@
 	import { page } from '$app/state';
 	import Migas from '$lib/components/Migas.svelte';
 	import Seo from '$lib/components/Seo.svelte';
-	import { img, fechaLegible } from '$lib/api';
+	import Avatar from '$lib/components/Avatar.svelte';
+	import Insignia from '$lib/components/Insignia.svelte';
+	import CarruselFotos from '$lib/components/CarruselFotos.svelte';
+	import BarraAcciones from '$lib/components/BarraAcciones.svelte';
+	import HiloComentarios from '$lib/components/HiloComentarios.svelte';
+	import { img, fechaRelativa, fechaLegible, social, type Comentario } from '$lib/api';
 	import { noticia, tarjeta as recorteTarjeta } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
-	const n = $derived(data.noticia);
+	const p = $derived(data.publicacion);
+	const perfil = $derived(`/noticias/perfil/${p.cuenta.alias}`);
 
-	const parrafos = $derived(n.cuerpo.split(/\n{2,}/).filter((p) => p.trim().length > 0));
-	// La primera imagen encabeza el artículo; el resto va en galería al pie.
-	// Dedupe por id: la extracción colapsa medios idénticos por hash.
-	const galeria = $derived(
-		[...new Map(n.imagenes.slice(1).map((g) => [g.id, g])).values()]
+	const parrafos = $derived(
+		p.tipo === 'nota' ? p.cuerpo.split(/\n{2,}/).filter((t) => t.trim().length > 0) : []
 	);
+
+	let comentarios = $state<Comentario[]>(data.comentarios);
+	let cursorComentarios = $state<number | null>(data.siguienteCursorComentarios);
+	let cargandoComentarios = $state(false);
+	$effect(() => {
+		comentarios = data.comentarios;
+		cursorComentarios = data.siguienteCursorComentarios;
+	});
+
+	async function masComentarios() {
+		if (cargandoComentarios || cursorComentarios === null) return;
+		cargandoComentarios = true;
+		try {
+			const pagina = await social.comentarios(fetch, p.slug, cursorComentarios);
+			comentarios = [...comentarios, ...pagina.data];
+			cursorComentarios = pagina.meta.siguiente_cursor;
+		} finally {
+			cargandoComentarios = false;
+		}
+	}
 
 	/**
-	 * La fotografía de la nota, recortada a 1200×630 para servir de tarjeta
-	 * al compartirla: con la proporción de cámara original, WhatsApp y
-	 * Facebook la degradan a miniatura junto al título en vez de pintar la
-	 * tarjeta grande. Sin foto propia, la genérica de la sección.
+	 * La fotografía recortada a 1200×630 para servir de tarjeta al
+	 * compartir. Sin foto propia, la genérica de la sección.
 	 */
-	const tarjeta = $derived(
-		recorteTarjeta(n.imagen ? img(n.imagen, 1600) : null) ?? '/img/og/noticias.jpg'
-	);
+	const tarjeta = $derived(recorteTarjeta(p.imagen ? img(p.imagen, 1600) : null) ?? '/img/og/noticias.jpg');
+	const tituloOg = $derived(p.tipo === 'nota' ? p.titulo : p.pie);
 </script>
 
 <Seo
-	titulo={n.titulo}
-	descripcion={n.resumen}
+	titulo={tituloOg}
+	descripcion={p.tipo === 'nota' ? p.resumen : p.pie}
 	imagen={tarjeta}
-	imagenAlt={n.imagen && !n.imagen.altPendiente ? n.imagen.alt : undefined}
+	imagenAlt={p.imagen && !p.imagen.altPendiente ? p.imagen.alt : undefined}
 	tipo="article"
-	articulo={{ publicada: n.fecha, modificada: n.fecha, seccion: 'Noticias municipales' }}
-	datos={[noticia(page.url, { ...n, imagen: tarjeta })]}
+	articulo={{ publicada: p.fecha, modificada: p.fecha, seccion: 'Noticias municipales' }}
+	datos={p.tipo === 'nota'
+		? [noticia(page.url, { slug: p.slug, titulo: p.titulo, resumen: p.resumen, fecha: p.fecha, imagen: tarjeta })]
+		: []}
 />
 
-<article class="contenedor py-10 md:py-14">
+<article class="contenedor py-8 md:py-12">
 	<Migas
 		tramos={[
 			{ texto: 'Inicio', href: '/' },
 			{ texto: 'Noticias', href: '/noticias' },
-			{ texto: n.titulo }
+			{ texto: tituloOg || 'Publicación' }
 		]}
 	/>
 
-	<header class="mx-auto max-w-3xl">
-		<p class="text-sm font-semibold text-[var(--color-selva-800)]">{fechaLegible(n.fecha)}</p>
-		<h1 class="display mt-2 text-[clamp(1.7rem,3.8vw,2.7rem)]">{n.titulo}</h1>
-	</header>
+	<div class="mx-auto max-w-xl">
+		<header class="flex items-center gap-2.5 px-3 py-2.5">
+			<a href={perfil} class="shrink-0"><Avatar cuenta={p.cuenta} tamano={34} /></a>
+			<p class="flex min-w-0 flex-1 items-center gap-1 text-[0.88rem] leading-tight">
+				<a href={perfil} class="truncate font-bold text-[var(--texto)] no-underline hover:underline">
+					{p.cuenta.nombre}
+				</a>
+				{#if p.cuenta.verificada}<Insignia tamano={14} />{/if}
+			</p>
+		</header>
 
-	{#if n.imagen}
-		<figure class="tesela mx-auto mt-8 max-w-4xl">
-			<img
-				src={img(n.imagen, 1600)}
-				alt={n.imagen.altPendiente ? '' : n.imagen.alt}
-				class="w-full object-cover"
-				fetchpriority="high"
-			/>
-		</figure>
-	{/if}
-
-	<div class="mx-auto mt-8 max-w-3xl">
-		{#each parrafos as p, i (i)}
-			<p class="mb-5 leading-[1.75] text-[var(--texto-suave)]">{p}</p>
-		{/each}
-
-		{#if galeria.length}
-			<h2 class="display mt-12 mb-4 text-xl">Galería</h2>
-			<ul class="grid grid-cols-2 gap-1.5 md:grid-cols-3">
-				{#each galeria as g (g.id)}
-					<li class="tesela">
-						<img
-							src={img(g, 800)}
-							alt={g.altPendiente ? '' : g.alt}
-							class="aspect-square w-full object-cover"
-							loading="lazy"
-						/>
-					</li>
-				{/each}
-			</ul>
+		{#if p.imagenes.length}
+			<CarruselFotos imagenes={p.imagenes} prioridad />
 		{/if}
 
+		<BarraAcciones publicacion={p} />
+
+		<div class="px-3 pt-1.5">
+			{#if p.tipo === 'nota'}
+				<h1 class="display text-[1.3rem]">{p.titulo}</h1>
+				<div class="mt-3">
+					{#each parrafos as texto, i (i)}
+						<p class="mb-4 leading-[1.75] text-[var(--texto-suave)]">{texto}</p>
+					{/each}
+				</div>
+			{:else if p.pie}
+				<p class="leading-relaxed">
+					<a href={perfil} class="font-bold text-[var(--texto)] no-underline hover:underline">{p.cuenta.alias}</a>
+					{p.pie}
+				</p>
+			{/if}
+
+			<time
+				datetime={p.fecha ?? undefined}
+				title={fechaLegible(p.fecha)}
+				class="mt-2 block text-[0.72rem] tracking-wide text-[var(--texto-suave)] uppercase"
+			>
+				{fechaRelativa(p.fecha)}
+			</time>
+		</div>
+
+		<div class="mt-2 border-t border-[var(--borde)]">
+			<HiloComentarios
+				slug={p.slug}
+				{comentarios}
+				total={p.comentarios_contador}
+				permiteComentarios={p.permite_comentarios}
+			/>
+
+			{#if cursorComentarios !== null}
+				<div class="px-3 pb-4">
+					<button
+						type="button"
+						onclick={masComentarios}
+						aria-disabled={cargandoComentarios}
+						class="text-[0.85rem] font-semibold text-[var(--color-selva-800)] hover:underline"
+					>
+						{cargandoComentarios ? 'Cargando…' : 'Ver más comentarios'}
+					</button>
+				</div>
+			{/if}
+		</div>
 	</div>
 
-	<!-- Navegación entre noticias contiguas -->
-	<nav
-		class="mx-auto mt-12 grid max-w-3xl gap-1.5 sm:grid-cols-2"
-		aria-label="Otras noticias"
-	>
-		{#if data.anterior}
-			<a
-				href="/noticias/{data.anterior.slug}"
-				rel="prev"
-				class="group border border-[var(--borde)] p-5 no-underline transition-colors hover:border-[var(--marca)]"
-			>
-				<span class="text-xs font-bold tracking-wider text-[var(--texto-suave)] uppercase">
-					Anterior
-				</span>
-				<span
-					class="mt-1.5 block leading-snug font-semibold group-hover:text-[var(--color-selva-800)]"
-				>
-					{data.anterior.titulo}
-				</span>
-			</a>
-		{/if}
-		{#if data.siguiente}
-			<a
-				href="/noticias/{data.siguiente.slug}"
-				rel="next"
-				class="group border border-[var(--borde)] p-5 no-underline transition-colors hover:border-[var(--marca)] sm:col-start-2 sm:text-right"
-			>
-				<span class="text-xs font-bold tracking-wider text-[var(--texto-suave)] uppercase">
-					Siguiente
-				</span>
-				<span
-					class="mt-1.5 block leading-snug font-semibold group-hover:text-[var(--color-selva-800)]"
-				>
-					{data.siguiente.titulo}
-				</span>
-			</a>
-		{/if}
+	<nav class="mx-auto mt-8 max-w-xl text-center">
+		<a
+			href={perfil}
+			class="inline-flex min-h-11 items-center gap-2 border border-[var(--borde)] px-5 text-[0.9rem] font-semibold no-underline transition-colors hover:border-[var(--marca)]"
+		>
+			Ver más de {p.cuenta.nombre}
+		</a>
 	</nav>
 </article>

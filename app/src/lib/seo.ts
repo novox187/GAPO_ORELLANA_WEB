@@ -289,6 +289,57 @@ export function noticia(
 }
 
 /**
+ * El perfil de una cuenta del módulo social como `ProfilePage`.
+ *
+ * La cuenta Alcaldía no es una entidad nueva: es la misma
+ * `GovernmentOrganization` que ya describe todo el sitio (`organizacion()`),
+ * así que su perfil enlaza a `#organizacion` en vez de duplicarla. Una
+ * dirección sí es una oficina propia, y se declara como
+ * `GovernmentOrganization` aparte, subordinada a la Alcaldía con
+ * `parentOrganization` — la misma relación que ya usa `tramite()` para
+ * `serviceOperator`.
+ */
+export function perfilCuenta(
+	url: URL,
+	c: {
+		slug: string;
+		nombre: string;
+		biografia?: string;
+		avatar?: string | null;
+		tipo: 'alcaldia' | 'direccion';
+	},
+) {
+	const base = origen(url);
+	const enlace = `${base}/noticias/perfil/${c.slug}`;
+	const idEntidad = c.tipo === 'alcaldia' ? base + ID_ORGANIZACION : `${enlace}#direccion`;
+
+	const pagina = {
+		'@type': 'ProfilePage',
+		'@id': enlace,
+		url: enlace,
+		name: c.nombre,
+		inLanguage: IDIOMA,
+		isPartOf: { '@id': base + ID_SITIO_WEB },
+		about: { '@id': idEntidad },
+		mainEntity: { '@id': idEntidad },
+	};
+
+	if (c.tipo === 'alcaldia') return [pagina];
+
+	return [
+		pagina,
+		{
+			'@type': 'GovernmentOrganization',
+			'@id': idEntidad,
+			name: c.nombre,
+			...(c.biografia ? { description: descripcion(c.biografia, '') } : {}),
+			...(c.avatar ? { logo: absoluta(url, c.avatar) } : {}),
+			parentOrganization: { '@id': base + ID_ORGANIZACION },
+		},
+	];
+}
+
+/**
  * Un trámite como `GovernmentService`, que es lo que es: un servicio que
  * presta una administración, con su canal, su público y su territorio.
  *

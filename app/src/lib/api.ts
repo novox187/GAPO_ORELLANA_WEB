@@ -61,6 +61,11 @@ export const API_BASE = REMOTA;
 
 export interface Media {
 	id: string;
+	/** 'imagen' por defecto: las 357 migradas lo son y su respuesta no cambió. */
+	tipo?: 'imagen' | 'video';
+	/** Sólo en vídeo. */
+	duracionSegundos?: number | null;
+	posterUrl?: string | null;
 	rutaOriginal: string;
 	rutaDerivados: Record<string, string>;
 	ancho: number | null;
@@ -215,11 +220,30 @@ export interface Cuenta {
 	tiene_historias_activas?: boolean;
 	/** Sólo presente en la ficha del perfil. */
 	destacadas?: Destacada[];
+	/** Las tres cifras del perfil. Denormalizadas, así que viajan siempre. */
+	publicaciones_contador?: number;
+	seguidores_contador?: number;
+	seguidos_contador?: number;
+}
+
+export interface Ubicacion {
+	nombre: string;
+	slug: string | null;
+}
+
+export interface Etiquetada {
+	alias: string;
+	nombre: string;
+	avatar: Media | null;
+	verificada: boolean;
+	x: number | null;
+	y: number | null;
 }
 
 export interface PublicacionResumen {
 	id: number;
 	slug: string;
+	ubicacion?: Ubicacion | null;
 	tipo: 'nota' | 'breve';
 	cuenta: Cuenta;
 	titulo: string;
@@ -238,8 +262,25 @@ export interface PublicacionResumen {
 
 export interface PublicacionSocial extends Omit<PublicacionResumen, 'num_imagenes'> {
 	cuerpo: string;
+	etiquetadas?: Etiquetada[];
 	imagenes: Media[];
 	fuente_url: string | null;
+}
+
+export interface ElementoHistoria {
+	id: number;
+	tipo: 'texto' | 'sticker' | 'encuesta' | 'pregunta' | 'emoji' | 'dibujo' | 'imagen';
+	contenido: Record<string, unknown>;
+	/** Fracción del lienzo (0..1), nunca píxeles: ver la migración en la API. */
+	x: number;
+	y: number;
+	escala: number;
+	rotacion: number;
+	orden: number;
+	respuestas_contador: number;
+	/** Sólo cuando toca enseñarlo: después de votar, o si quien compuso lo eligió. */
+	resultados?: number[] | null;
+	mi_respuesta?: { opcion?: number; texto?: string } | null;
 }
 
 export interface Historia {
@@ -253,6 +294,8 @@ export interface Historia {
 	publicado_en: string | null;
 	expira_en: string | null;
 	destacada_id: number | null;
+	/** Texto, stickers, encuestas y preguntas pegados encima. */
+	elementos?: ElementoHistoria[];
 }
 
 export interface Destacada {
@@ -293,6 +336,10 @@ export interface Ciudadano {
 	avatar: Media | null;
 	estado: 'activo' | 'silenciado' | 'bloqueado';
 	correo_verificado: boolean;
+	/** Opcional y declarada; nunca inferida. Ver la migración en la API. */
+	parroquia?: string | null;
+	anio_nacimiento?: number | null;
+	demografia_declarada?: boolean;
 }
 
 export const api = {
@@ -335,9 +382,16 @@ export const social = {
 	publicacionesDeCuenta: (f: Fetch, slug: string, cursor?: number | null) =>
 		obtener<SobreCursor<PublicacionResumen>>(f, conCursor(`social/cuentas/${slug}/publicaciones.json`, cursor)),
 
-	/** Las diapositivas de una cuenta, en orden de publicación. */
+	/**
+	 * Las diapositivas de una cuenta, en orden de publicación, con el ajuste
+	 * de duración por diapositiva que decide el super admin — viaja con ellas
+	 * para que el visor no tenga que pedirlo aparte.
+	 */
 	historiasDeCuenta: (f: Fetch, slug: string) =>
-		obtener<Sobre<Historia[]>>(f, `social/cuentas/${slug}/historias.json`).then((r) => r.data),
+		obtener<Sobre<Historia[]> & { meta?: { segundos_por_diapositiva?: number } }>(
+			f,
+			`social/cuentas/${slug}/historias.json`
+		),
 
 	/** El feed cronológico de todas las cuentas, una tanda de 12. */
 	feed: (f: Fetch, cursor?: number | null) =>
@@ -364,6 +418,63 @@ export const social = {
 	 */
 	reaccionar: (slug: string) => escribir(`social/publicaciones/${slug}/reacciones`, 'POST'),
 	quitarReaccion: (slug: string) => escribir(`social/publicaciones/${slug}/reacciones`, 'DELETE'),
+
+	/**
+	 * Seguir una cuenta. Igual que reaccionar: la lectura pública del perfil
+	 * no autentica y no puede saber si quien mira ya sigue, así que el estado
+	 * propio se pide aparte y en lote.
+	 */
+	seguir: (alias: string) =>
+		escribir<{ data: { siguiendo: boolean; seguidores: number } }>(
+			`social/cuentas/${alias}/seguidores`,
+			'POST'
+		),
+
+	dejarDeSeguir: (alias: string) =>
+		escribir<{ data: { siguiendo: boolean; seguidores: number } }>(
+			`social/cuentas/${alias}/seguidores`,
+			'DELETE'
+		),
+
+	misSeguimientos: (alias: string[]) =>
+		leerPropio<{ data: string[] }>(`social/seguimientos/mios.json?cuentas=${alias.map(encodeURIComponent).join(',')}`),
+
+	/** Guardar es privado: no suma a ningún contador ni lo ve nadie más. */
+	guardar: (slug: string) => escribir<{ data: { guardado: boolean } }>(`social/publicaciones/${slug}/guardados`, 'POST'),
+
+	quitarGuardado: (slug: string) =>
+		escribir<{ data: { guardado: boolean } }>(`social/publicaciones/${slug}/guardados`, 'DELETE'),
+
+	misGuardados: (slugs: string[]) =>
+		leerPropio<{ data: string[] }>(`social/guardados/mios.json?slugs=${slugs.map(encodeURIComponent).join(',')}`),
+
+	coleccionGuardada: (cursor?: number | null) =>
+		leerPropio<SobreCursor<PublicacionResumen>>(conCursor('social/guardados.json', cursor)),
+
+	/** Qué respondí yo en esta historia, y el reparto si ya voté. */
+	misRespuestas: (historiaId: number) =>
+		leerPropio<{
+			data: {
+				elemento_id: number;
+				mi_respuesta: { opcion?: number; texto?: string } | null;
+				resultados: number[] | null;
+				total: number;
+			}[];
+		}>(`social/historias/${historiaId}/mis-respuestas.json`),
+
+	votarEncuesta: (elementoId: number, opcion: number) =>
+		escribir<{ data: { mi_respuesta: { opcion: number }; resultados: number[]; total: number } }>(
+			`social/historias/elementos/${elementoId}/respuestas`,
+			'POST',
+			{ opcion }
+		),
+
+	responderPregunta: (elementoId: number, texto: string) =>
+		escribir<{ data: { enviada: boolean; total: number } }>(
+			`social/historias/elementos/${elementoId}/respuestas`,
+			'POST',
+			{ texto }
+		),
 
 	comentar: (slug: string, texto: string, respuestaAId?: number | null) =>
 		escribir<{ data: Comentario }>(`social/publicaciones/${slug}/comentarios`, 'POST', {
@@ -395,6 +506,22 @@ export class ErrorEscritura extends Error {
 		const campo = Object.values(this.errores)[0];
 		return campo?.[0] ?? this.message;
 	}
+}
+
+/**
+ * Lectura propia: pasa por el proxy de SvelteKit para llevar el token del
+ * ciudadano, que vive en una cookie httpOnly y el navegador no puede leer.
+ */
+async function leerPropio<T>(ruta: string): Promise<T> {
+	const res = await fetch(`/api/${ruta}`);
+
+	if (!res.ok) {
+		const datos = await res.json().catch(() => ({}));
+
+		throw new ErrorEscritura(datos?.message ?? 'No se pudo consultar.', res.status, datos?.errors ?? {});
+	}
+
+	return res.json() as Promise<T>;
 }
 
 async function escribir<T = { data: unknown }>(

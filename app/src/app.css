@@ -461,3 +461,119 @@
 		opacity: 1;
 	}
 }
+
+/* ══════════════════════════════════════════════════════════════════════
+   VISUALIZACIÓN DE DATOS — estadísticas del estudio
+   ══════════════════════════════════════════════════════════════════════
+
+   Un solo tono con datos y un gris para el contexto. No es una paleta
+   categórica recortada: es la forma «énfasis», que es la correcta cuando
+   una serie es el asunto y la otra es su fondo — el alcance es lo que
+   importa y las impresiones lo acompañan. Con dos colores fuertes, el ojo
+   tiene que decidir cuál mirar; con uno, ya lo sabe.
+
+   Los dos verdes salen del logotipo (st2 y st1) y NO son intercambiables
+   entre temas: se eligieron midiendo. El claro y el oscuro pasan los tres
+   controles que se pueden calcular —banda de luminosidad, suelo de croma y
+   contraste contra su superficie— y el par acento/contexto se separa lo
+   suficiente bajo daltonismo protán y deután. Cambiar cualquiera de los
+   dos «porque queda mejor» hay que volver a medirlo.
+*/
+:root {
+	--viz-acento: #0c843a;
+	--viz-contexto: #8e8f8a;
+	--viz-rejilla: var(--borde);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme='light']) {
+		--viz-acento: #1ea758;
+		--viz-contexto: #6a6b62;
+	}
+}
+
+:root[data-theme='dark'] {
+	--viz-acento: #1ea758;
+	--viz-contexto: #6a6b62;
+}
+
+/* ══════════════════════════════════════════════════════════════════════
+   ELEVACIÓN — la capa de profundidad del estudio
+   ══════════════════════════════════════════════════════════════════════
+
+   El sitio público es plano y angular a propósito: son teselas, y una
+   tesela no flota. El estudio es otra cosa —una herramienta que alguien
+   abre cada día— y ahí la falta de profundidad se paga en legibilidad:
+   con todo al mismo nivel y un filete de 1px por frontera, nada dice qué
+   es superficie de trabajo, qué es dato y qué es control.
+
+   Lo que se añade es sólo profundidad, NO geometría: las esquinas siguen
+   siendo casi rectas (2-4px), porque el radio grande es lo que rompería
+   la identidad de la marca.
+
+   En claro, elevar es sombra suave sobre papel. En oscuro NO: una sombra
+   negra sobre fondo negro no existe. Ahí se eleva subiendo la superficie
+   y marcando el canto superior con una luz tenue, que es como se lee la
+   profundidad cuando la luz viene de arriba y el fondo ya es oscuro.
+*/
+:root {
+	/* Reposo: tarjetas, paneles, contenedores de gráfico. */
+	--elev-1:
+		0 1px 2px rgb(30 31 29 / 0.05),
+		0 2px 6px rgb(30 31 29 / 0.05);
+	/* Interacción: al pasar por encima, al enfocar. */
+	--elev-2:
+		0 2px 4px rgb(30 31 29 / 0.06),
+		0 6px 16px rgb(30 31 29 / 0.08);
+	/* Flotante: el botón de publicar, menús, hojas. */
+	--elev-3:
+		0 4px 8px rgb(30 31 29 / 0.08),
+		0 12px 28px rgb(30 31 29 / 0.12);
+
+	/* Canto que separa una superficie elevada de su fondo. */
+	--canto: 1px solid var(--borde);
+
+	/* Un solo ritmo de transición para toda la herramienta. */
+	--transicion: 200ms var(--ease-suave);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme='light']) {
+		--elev-1:
+			0 1px 2px rgb(0 0 0 / 0.4),
+			inset 0 1px 0 rgb(255 255 255 / 0.03);
+		--elev-2:
+			0 4px 12px rgb(0 0 0 / 0.5),
+			inset 0 1px 0 rgb(255 255 255 / 0.05);
+		--elev-3:
+			0 10px 30px rgb(0 0 0 / 0.6),
+			inset 0 1px 0 rgb(255 255 255 / 0.06);
+	}
+}
+
+:root[data-theme='dark'] {
+	--elev-1:
+		0 1px 2px rgb(0 0 0 / 0.4),
+		inset 0 1px 0 rgb(255 255 255 / 0.03);
+	--elev-2:
+		0 4px 12px rgb(0 0 0 / 0.5),
+		inset 0 1px 0 rgb(255 255 255 / 0.05);
+	--elev-3:
+		0 10px 30px rgb(0 0 0 / 0.6),
+		inset 0 1px 0 rgb(255 255 255 / 0.06);
+}
+
+/*
+  Superficie de trabajo del estudio: la caja que contiene algo —una cifra,
+  un gráfico, un formulario—. Reemplaza al «borde de 1px y nada más» que
+  había en todas partes.
+*/
+@utility tarjeta-estudio {
+	background: var(--superficie-elevada);
+	border: var(--canto);
+	border-radius: var(--radius-md);
+	box-shadow: var(--elev-1);
+	transition:
+		box-shadow var(--transicion),
+		border-color var(--transicion);
+}

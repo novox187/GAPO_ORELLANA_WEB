@@ -10,15 +10,21 @@ import type { RequestHandler } from './$types';
  * Laravel bajo `/v1/social/`, así que no hay tabla de traducción que
  * mantener — un endpoint nuevo en la API ya funciona aquí sin tocar nada.
  *
- * Las lecturas NO pasan por aquí: van directas del navegador a Laravel (ver
- * `social` en `$lib/api.ts`), porque no necesitan el token.
+ * Las lecturas PÚBLICAS no pasan por aquí: van directas del navegador a
+ * Laravel (ver `social` en `$lib/api.ts`), porque no necesitan el token y así
+ * se cachean como el contenido público que son.
+ *
+ * Las lecturas PROPIAS sí —«¿yo qué hice con esto?»: mis reacciones, mis
+ * guardados, a quién sigo, qué respondí en una encuesta—. No son contenido
+ * público con un filtro encima: son consultas sobre una identidad, y sin el
+ * token no se pueden ni formular.
  */
 function base(): string {
 	return (env.PUBLIC_API_BASE ?? '').replace(/\/+$/, '');
 }
 
 async function reenviar(
-	metodo: 'POST' | 'PATCH' | 'DELETE',
+	metodo: 'GET' | 'POST' | 'PATCH' | 'DELETE',
 	ruta: string,
 	request: Request,
 	cookies: import('@sveltejs/kit').Cookies,
@@ -27,9 +33,9 @@ async function reenviar(
 	const token = leerToken(cookies);
 	if (!token) return json({ message: 'Inicia sesión para continuar.' }, { status: 401 });
 
-	const cuerpo = metodo === 'DELETE' ? undefined : await request.text();
+	const cuerpo = metodo === 'DELETE' || metodo === 'GET' ? undefined : await request.text();
 
-	const res = await fetch(`${base()}/v1/social/${ruta}`, {
+	const res = await fetch(`${base()}/v1/social/${ruta}${new URL(request.url).search}`, {
 		method: metodo,
 		headers: {
 			Authorization: `Bearer ${token}`,
@@ -44,6 +50,9 @@ async function reenviar(
 	const texto = await res.text();
 	return new Response(texto, { status: res.status, headers: { 'Content-Type': 'application/json' } });
 }
+
+export const GET: RequestHandler = ({ params, request, cookies, fetch }) =>
+	reenviar('GET', params.ruta, request, cookies, fetch);
 
 export const POST: RequestHandler = ({ params, request, cookies, fetch }) =>
 	reenviar('POST', params.ruta, request, cookies, fetch);

@@ -3,6 +3,8 @@
 	import { ErrorEscritura, social } from '$lib/api';
 	import { sesion } from '$lib/sesion.svelte';
 	import { misReacciones } from '$lib/misReacciones.svelte';
+	import { misGuardados } from '$lib/misGuardados.svelte';
+	import { registrar } from '$lib/metricas';
 
 	/**
 	 * La fila de iconos y el recuento de reacciones — nada más. El pie de
@@ -26,12 +28,17 @@
 	let { publicacion }: { publicacion: PublicacionResumen | PublicacionSocial } = $props();
 
 	const reaccionado = $derived(misReacciones.vistas.has(publicacion.slug));
+	const guardado = $derived(misGuardados.vistas.has(publicacion.slug));
 	let total = $state(publicacion.reacciones_contador);
 	let enviando = $state(false);
+	let guardando = $state(false);
 	let copiado = $state(false);
 
 	$effect(() => {
-		if (sesion.autenticado) misReacciones.pedir(publicacion.slug);
+		if (sesion.autenticado) {
+			misReacciones.pedir(publicacion.slug);
+			misGuardados.pedir(publicacion.slug);
+		}
 	});
 
 	async function alReaccionar() {
@@ -60,10 +67,48 @@
 		}
 	}
 
+	/**
+	 * Guardar para después.
+	 *
+	 * Privado de verdad: no toca ningún contador de la publicación ni aparece
+	 * en las estadísticas de quien publicó. En un sitio municipal la función
+	 * tiene un uso muy concreto —«el aviso del cierre de la vía, que lo
+	 * necesito el jueves»— y ese uso se rompe en cuanto guardar se convierte
+	 * en una señal que alguien más ve.
+	 */
+	async function alGuardar() {
+		if (!sesion.autenticado) {
+			sesion.pedirInicio();
+
+			return;
+		}
+
+		if (guardando) return;
+
+		const previo = guardado;
+		misGuardados.marcar(publicacion.slug, !previo);
+		guardando = true;
+
+		try {
+			if (previo) await social.quitarGuardado(publicacion.slug);
+			else await social.guardar(publicacion.slug);
+		} catch (e) {
+			misGuardados.marcar(publicacion.slug, previo);
+			if (e instanceof ErrorEscritura && e.estado === 401) sesion.pedirInicio();
+		} finally {
+			guardando = false;
+		}
+	}
+
 	async function compartir() {
 		const url = new URL(publicacion.url, location.origin).href;
 		const titulo = publicacion.tipo === 'nota' ? publicacion.titulo : publicacion.pie;
 		const datos = { title: titulo, text: publicacion.tipo === 'nota' ? publicacion.resumen : '', url };
+		// Compartir sí se mide: es de los pocos gestos que dicen que algo llegó
+		// más allá de quien lo vio. Se registra antes del diálogo del sistema,
+		// que puede no devolver nunca el control si la persona cambia de app.
+		registrar({ tipo: 'compartido', recurso: 'publicacion', id: publicacion.slug });
+
 		try {
 			if (navigator.share) {
 				await navigator.share(datos);
@@ -130,6 +175,27 @@
 			/>
 		</svg>
 	</button>
+
+	<!-- Guardar va al final y separado del resto, como en cualquier red
+	     social: los tres primeros son gestos hacia fuera —reaccionar,
+	     comentar, compartir— y este es hacia dentro. -->
+	<button
+		type="button"
+		onclick={alGuardar}
+		aria-pressed={guardado}
+		aria-disabled={guardando}
+		class="icono-accion guardar"
+	>
+		<svg width="22" height="22" viewBox="0 0 24 24" fill={guardado ? 'currentColor' : 'none'} aria-hidden="true">
+			<path
+				d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.4-6.5 4.4v-16a1 1 0 0 1 1-1Z"
+				stroke="currentColor"
+				stroke-width="1.8"
+				stroke-linejoin="round"
+			/>
+		</svg>
+		<span class="sr-only">{guardado ? 'Quitar de guardados' : 'Guardar para después'}</span>
+	</button>
 </div>
 
 {#if publicacion.permite_reacciones && total > 0}
@@ -158,6 +224,10 @@
 
 	.corazon-activo {
 		color: var(--color-error);
+	}
+
+	.guardar {
+		margin-left: auto;
 	}
 
 	@media (prefers-reduced-motion: reduce) {

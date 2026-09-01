@@ -1,5 +1,7 @@
 import type { Ciudadano } from './api';
+import { misGuardados } from './misGuardados.svelte';
 import { misReacciones } from './misReacciones.svelte';
+import { misSeguimientos } from './misSeguimientos.svelte';
 
 /**
  * Estado de la sesión ciudadana, compartido por todo el sitio.
@@ -45,7 +47,11 @@ class EstadoSesion {
 	async salir(): Promise<void> {
 		await fetch('/api/sesion', { method: 'DELETE' }).catch(() => null);
 		this.ciudadano = null;
+		// Los tres marcadores propios: lo que hizo una persona no puede
+		// sobrevivir a la siguiente en el mismo navegador.
 		misReacciones.reset();
+		misGuardados.reset();
+		misSeguimientos.reset();
 	}
 
 	private async enviar(ruta: string, metodo: string, cuerpo: Record<string, unknown>): Promise<boolean> {

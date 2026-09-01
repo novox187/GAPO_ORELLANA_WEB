@@ -19,8 +19,13 @@
 	});
 
 	/**
-	 * El asistente y el visor de historias ocupan la pantalla completa y
-	 * traen su propia cabecera (o ninguna, en el caso del visor).
+	 * El asistente, el visor de historias y el estudio ocupan la pantalla
+	 * completa y traen su propia cabecera (o ninguna, en el caso del visor).
+	 *
+	 * El estudio se suma aquí por lo mismo que los otros dos, y con un motivo
+	 * propio: quien publica abre esta herramienta cada día para llegar a lo
+	 * suyo en un gesto, y la navegación municipal —Trámites, Transparencia,
+	 * El cantón— le pondría delante cinco secciones que no va a usar.
 	 *
 	 * Se resuelve aquí con una condición y no con un grupo de rutas porque en
 	 * SvelteKit `+layout@.svelte` reinicia la herencia HASTA este archivo, que
@@ -28,7 +33,9 @@
 	 * `(sitio)/` para librar una sola ruta habría movido veinte carpetas.
 	 */
 	const pantallaCompleta = $derived(
-		page.url.pathname.startsWith('/asistente') || page.url.pathname.startsWith('/noticias/historias/')
+		page.url.pathname.startsWith('/asistente') ||
+			page.url.pathname.startsWith('/noticias/historias/') ||
+			page.url.pathname.startsWith('/estudio')
 	);
 
 	/**

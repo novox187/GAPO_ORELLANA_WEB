@@ -37,9 +37,7 @@
 				class="h-full w-full object-cover"
 			/>
 		{:else}
-			<span class="text-[0.7em] font-bold text-[var(--texto-suave)]" aria-hidden="true">
-				{cuenta.nombre.slice(0, 1)}
-			</span>
+			<span class="inicial" aria-hidden="true">{cuenta.nombre.slice(0, 1)}</span>
 		{/if}
 	</span>
 </span>
@@ -53,6 +51,33 @@
 	.hueco {
 		width: 100%;
 		height: 100%;
+	}
+
+	/*
+	  La inicial de una cuenta sin fotografía.
+	
+	  Iba en `text-[0.7em]`, y `em` se resuelve contra la fuente HEREDADA —los
+	  16 px de la página—, no contra el tamaño del avatar: dentro de un
+	  círculo de 88 px la letra salía a 11 px y el perfil parecía tener el
+	  avatar roto. Aquí se calcula desde `--tamano`, que es lo único que sabe
+	  de qué tamaño es el círculo.
+	
+	  Y va sobre verde de marca, no sobre el gris de superficie: una cuenta
+	  sin foto tiene que verse como una decisión pendiente, no como una
+	  imagen que no cargó. El par verde/papel es fijo, así que contrasta igual
+	  en claro y en oscuro.
+	*/
+	.hueco:has(.inicial) {
+		background: var(--color-selva-800);
+	}
+
+	.inicial {
+		font-size: calc(var(--tamano) * 0.4);
+		font-weight: 700;
+		font-stretch: 108%;
+		line-height: 1;
+		color: var(--color-papel);
+		user-select: none;
 	}
 
 	/*

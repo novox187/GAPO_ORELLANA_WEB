@@ -8,4 +8,4 @@
 	const indiceInicial = $derived(Number(page.url.searchParams.get('i') ?? 0) || 0);
 </script>
 
-<VisorHistorias cuenta={data.cuenta} historias={data.historias} {indiceInicial} />
+<VisorHistorias cuenta={data.cuenta} historias={data.historias} segundos={data.segundos} {indiceInicial} />

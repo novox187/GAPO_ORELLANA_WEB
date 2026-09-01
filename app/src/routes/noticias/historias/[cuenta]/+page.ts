@@ -15,12 +15,19 @@ import type { PageLoad } from './$types';
 export const load: PageLoad = async ({ fetch, params, url }) => {
 	let cuenta!: Cuenta;
 	let historias!: Historia[];
+	let segundos = 6;
 
 	try {
-		[cuenta, historias] = await Promise.all([
+		const [ficha, tanda] = await Promise.all([
 			social.cuenta(fetch, params.cuenta),
 			social.historiasDeCuenta(fetch, params.cuenta)
 		]);
+
+		cuenta = ficha;
+		historias = tanda.data;
+		// Cuánto dura cada diapositiva lo decide el super admin desde
+		// panel/ajustes/social. Viene con las historias para no pedirlo aparte.
+		segundos = tanda.meta?.segundos_por_diapositiva ?? 6;
 	} catch {
 		error(404, 'No encontramos esa cuenta');
 	}
@@ -32,5 +39,5 @@ export const load: PageLoad = async ({ fetch, params, url }) => {
 		error(404, 'Esta cuenta no tiene historias activas ahora mismo');
 	}
 
-	return { cuenta, historias: filtradas };
+	return { cuenta, historias: filtradas, segundos };
 };

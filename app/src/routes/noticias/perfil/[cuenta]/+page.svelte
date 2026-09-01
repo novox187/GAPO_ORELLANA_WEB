@@ -5,12 +5,21 @@
 	import Avatar from '$lib/components/Avatar.svelte';
 	import Insignia from '$lib/components/Insignia.svelte';
 	import CuadriculaPerfil from '$lib/components/CuadriculaPerfil.svelte';
+	import BotonSeguir from '$lib/components/BotonSeguir.svelte';
 	import { img, social, type PublicacionResumen } from '$lib/api';
+	import { registrar } from '$lib/metricas';
 	import { perfilCuenta } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 	const c = $derived(data.cuenta);
+
+	/**
+	 * Los seguidores en vivo. Salen del servidor y los actualiza el propio
+	 * botón: la cifra y el estado del botón tienen que decir lo mismo en el
+	 * mismo instante.
+	 */
+	let seguidores = $state(0);
 
 	let publicaciones = $state<PublicacionResumen[]>(data.publicaciones);
 	let cursor = $state<number | null>(data.siguienteCursor);
@@ -20,6 +29,12 @@
 	$effect(() => {
 		publicaciones = data.publicaciones;
 		cursor = data.siguienteCursor;
+	});
+
+	// Abrir un perfil cuenta como visita: es lo que distingue «llegaron a la
+	// publicación» de «vinieron a ver a esta dirección».
+	$effect(() => {
+		registrar({ tipo: 'visita_perfil', recurso: 'cuenta', id: c.alias, origen: 'perfil' });
 	});
 
 	async function cargarMas() {
@@ -93,6 +108,19 @@
 				</h1>
 				<p class="text-[0.85rem] text-[var(--texto-suave)]">@{c.alias}</p>
 			</div>
+
+			<!--
+				Las tres cifras del perfil. Salen de filas reales —publicaciones
+				publicadas, quién sigue a esta cuenta, a quién sigue ella— y no
+				de una estimación. Ver Cuenta::recontar() en la API.
+			-->
+			<ul class="flex flex-wrap justify-center gap-x-6 gap-y-1 text-[0.88rem] text-[var(--texto-suave)]">
+				<li><strong class="text-[var(--texto)] tabular-nums">{c.publicaciones_contador ?? 0}</strong> publicaciones</li>
+				<li><strong class="text-[var(--texto)] tabular-nums">{seguidores}</strong> seguidores</li>
+				<li><strong class="text-[var(--texto)] tabular-nums">{c.seguidos_contador ?? 0}</strong> seguidos</li>
+			</ul>
+
+			<BotonSeguir cuenta={c} alCambiarTotal={(n) => (seguidores = n)} />
 
 			{#if c.biografia}
 				<p class="max-w-md text-[0.9rem] leading-relaxed text-[var(--texto-suave)]">{c.biografia}</p>

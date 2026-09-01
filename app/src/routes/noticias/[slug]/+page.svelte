@@ -8,12 +8,23 @@
 	import BarraAcciones from '$lib/components/BarraAcciones.svelte';
 	import HiloComentarios from '$lib/components/HiloComentarios.svelte';
 	import { img, fechaRelativa, fechaLegible, social, type Comentario } from '$lib/api';
+	import { registrar } from '$lib/metricas';
 	import { noticia, tarjeta as recorteTarjeta } from '$lib/seo';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 	const p = $derived(data.publicacion);
 	const perfil = $derived(`/noticias/perfil/${p.cuenta.alias}`);
+
+	/**
+	 * Abrir la ficha es una visita, distinta de la impresión del feed: una
+	 * cosa es que la publicación pasara por delante y otra que alguien
+	 * decidiera entrar. El panel del estudio enseña las dos por separado
+	 * porque significan cosas distintas.
+	 */
+	$effect(() => {
+		registrar({ tipo: 'visita', recurso: 'publicacion', id: p.slug, origen: 'ficha' });
+	});
 
 	const parrafos = $derived(
 		p.tipo === 'nota' ? p.cuerpo.split(/\n{2,}/).filter((t) => t.trim().length > 0) : []
@@ -71,12 +82,18 @@
 	<div class="mx-auto max-w-xl">
 		<header class="flex items-center gap-2.5 px-3 py-2.5">
 			<a href={perfil} class="shrink-0"><Avatar cuenta={p.cuenta} tamano={34} /></a>
-			<p class="flex min-w-0 flex-1 items-center gap-1 text-[0.88rem] leading-tight">
-				<a href={perfil} class="truncate font-bold text-[var(--texto)] no-underline hover:underline">
-					{p.cuenta.nombre}
-				</a>
-				{#if p.cuenta.verificada}<Insignia tamano={14} />{/if}
-			</p>
+			<div class="min-w-0 flex-1">
+				<p class="flex min-w-0 items-center gap-1 text-[0.88rem] leading-tight">
+					<a href={perfil} class="truncate font-bold text-[var(--texto)] no-underline hover:underline">
+						{p.cuenta.nombre}
+					</a>
+					{#if p.cuenta.verificada}<Insignia tamano={14} />{/if}
+				</p>
+
+				{#if p.ubicacion}
+					<p class="truncate text-[0.74rem] leading-tight text-[var(--texto-suave)]">{p.ubicacion.nombre}</p>
+				{/if}
+			</div>
 		</header>
 
 		{#if p.imagenes.length}
@@ -97,6 +114,25 @@
 				<p class="leading-relaxed">
 					<a href={perfil} class="font-bold text-[var(--texto)] no-underline hover:underline">{p.cuenta.alias}</a>
 					{p.pie}
+				</p>
+			{/if}
+
+			<!--
+				Las direcciones etiquetadas. Sólo cuentas municipales, nunca
+				personas: etiquetar a un vecino en una fotografía oficial es
+				publicar su nombre junto a su cara sin que lo haya pedido.
+			-->
+			{#if p.etiquetadas?.length}
+				<p class="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-[0.8rem] text-[var(--texto-suave)]">
+					<span>Con</span>
+					{#each p.etiquetadas as e (e.alias)}
+						<a
+							href="/noticias/perfil/{e.alias}"
+							class="font-semibold text-[var(--enlace)] no-underline hover:underline"
+						>
+							{e.nombre}
+						</a>
+					{/each}
 				</p>
 			{/if}
 

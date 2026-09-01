@@ -102,6 +102,8 @@ ninguna dependencia al proyecto. El porqué de cada decisión está en
 | `/contacto` | Directorio de 20 direcciones y 104 extensiones |
 | `/buscar` | Búsqueda léxica sobre 358 documentos |
 | `/asistente` | Asistente ciudadano: pregunta en lenguaje natural, devuelve la ficha oficial |
+| `/cuenta` | Identidad ciudadana: sesión, colección guardada y demografía declarada |
+| `/estudio`, `/estudio/*` | Estudio del creador: perfil, compositor, historias y estadísticas |
 | `/sitemap.xml`, `/robots.txt` | Generados en cada petición desde los mismos datos que las páginas |
 | `/noticias/feed.xml` | RSS de las 50 noticias más recientes |
 
@@ -182,6 +184,36 @@ con un user-agent identificable y ~1 solicitud/segundo.
 `media/derivados/` están fuera del control de versiones por peso (2 GB y
 92 MB). Se reconstruyen con `--only=all`.
 
+## El estudio del creador
+
+`/estudio` es la interfaz con la que la Alcaldía y las direcciones publican:
+perfil con sus cifras reales, compositor de publicaciones (recorte, filtros y
+ajustes en el navegador, más vídeo con recorte temporal), compositor de
+historias con texto, stickers, encuestas y cajas de preguntas, y un panel de
+estadísticas.
+
+Se entra con la misma cuenta del panel de la API. La sesión dura ocho horas y
+el token vive en una cookie httpOnly del propio origen, nunca en el navegador.
+
+**Las estadísticas sólo enseñan lo que se está midiendo.** Alcance,
+impresiones, reproducciones y compartidos no existían antes de esto: se
+construyó la medición (`metricas_eventos`, podada a 90 días, y
+`metricas_diarias`, permanente) y el panel dice desde cuándo hay datos. Donde
+no se puede saber, viaja `null` y la interfaz lo explica; no hay ceros que se
+lean como fracaso.
+
+No se guarda ninguna IP: sólo el hash irreversible de (IP + user-agent + una
+sal del servidor). La parroquia y la edad de la audiencia son **declaradas por
+cada vecino** desde «Mi cuenta», nunca inferidas, y el panel dice sobre cuánta
+gente está hablando.
+
+> Para que el alcance signifique algo hace falta `TRUSTED_PROXIES` en la API.
+> Sin él, Laravel ve la IP del proxy y cuenta a todo el cantón como un solo
+> visitante — y los límites por IP del asistente y del registro tampoco limitan
+> a nadie en concreto.
+
+El porqué de cada decisión está en [`docs/estudio.md`](docs/estudio.md).
+
 ## Documentos clave
 
 - [`docs/contrato-api.md`](docs/contrato-api.md) — forma de cada recurso JSON.
@@ -190,6 +222,7 @@ con un user-agent identificable y ~1 solicitud/segundo.
 - [`docs/seo.md`](docs/seo.md) — metadatos, datos estructurados, mapa del sitio y tarjetas de previsualización.
 - [`docs/arquitectura.md`](docs/arquitectura.md) — rumbo técnico: despliegue en Coolify, backend Laravel, capa de IA.
 - [`docs/deuda-heredada.md`](docs/deuda-heredada.md) — hallazgos del sitio actual para reportar al municipio.
+- [`docs/estudio.md`](docs/estudio.md) — el estudio del creador: por qué dos interfaces para publicar, cómo se mide y qué se decidió no enseñar.
 
 ## Principio rector: no fabricar contenido municipal
 
@@ -199,9 +232,11 @@ y se marca explícitamente (`requiere_revision_editorial`, `altPendiente`,
 notas en `contacto.json`) en vez de inventarse. Es información de un
 gobierno local: la precisión importa más que la completitud aparente.
 
-Por lo mismo, la interfaz no muestra controles que no hagan nada — el feed
-de noticias no lleva botones de "me gusta" ni de comentarios, sólo
-compartir, que sí funciona.
+Por lo mismo, la interfaz no muestra controles que no hagan nada. Cuando el
+feed no tenía identidad ciudadana detrás, no llevaba botones de «me gusta» ni
+de comentarios: sólo compartir, que sí funcionaba. Ahora que la tiene, esos
+botones existen y guardan de verdad — y el estudio no grafica ninguna métrica
+que no se esté contando, por la misma regla.
 
 ## Pendiente
 

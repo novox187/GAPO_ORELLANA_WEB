@@ -1,7 +1,12 @@
 <script lang="ts">
 	import Seo from '$lib/components/Seo.svelte';
+	import FormularioDemografia from '$lib/components/FormularioDemografia.svelte';
+	import ColeccionGuardada from '$lib/components/ColeccionGuardada.svelte';
 	import { sesion } from '$lib/sesion.svelte';
 	import { img } from '$lib/api';
+	import type { PageData } from './$types';
+
+	let { data }: { data: PageData } = $props();
 
 	let modoRegistro = $state(false);
 	let nombre = $state('');
@@ -50,6 +55,14 @@
 				>
 					Cerrar sesión
 				</button>
+			</div>
+
+			<div class="mt-10 space-y-6">
+				<ColeccionGuardada />
+
+				{#if data.parroquias.length}
+					<FormularioDemografia parroquias={data.parroquias} />
+				{/if}
 			</div>
 		{:else}
 			<h1 class="display text-[1.6rem]">{modoRegistro ? 'Crear cuenta' : 'Inicia sesión'}</h1>

@@ -1,9 +1,13 @@
 <script lang="ts">
 	import { untrack } from 'svelte';
 	import { goto } from '$app/navigation';
-	import { img, fechaRelativa, type Cuenta, type Historia } from '$lib/api';
+	import { img, social, type Cuenta, type ElementoHistoria, type Historia } from '$lib/api';
+	import { fechaRelativa } from '$lib/api';
 	import Avatar from './Avatar.svelte';
 	import Insignia from './Insignia.svelte';
+	import ElementoHistoriaVista from './ElementoHistoria.svelte';
+	import { sesion } from '$lib/sesion.svelte';
+	import { registrar } from '$lib/metricas';
 
 	/**
 	 * El visor de historias a pantalla completa.
@@ -22,15 +26,15 @@
 	let {
 		cuenta,
 		historias,
-		indiceInicial = 0
+		indiceInicial = 0,
+		segundos = 6
 	}: {
 		cuenta: Cuenta;
 		historias: Historia[];
 		indiceInicial?: number;
+		/** Cuánto dura cada diapositiva. Lo decide el super admin, no este componente. */
+		segundos?: number;
 	} = $props();
-
-	/** Mismo valor que `historias.segundos_por_diapositiva` en el ajuste del panel. */
-	const SEGUNDOS_POR_DIAPOSITIVA = 6;
 
 	let indice = $state(0);
 	let pausado = $state(false);
@@ -39,6 +43,80 @@
 	let contenedor = $state<HTMLElement | null>(null);
 
 	const actual = $derived(historias[indice]);
+
+	/**
+	 * Mis respuestas a los elementos de esta historia, por id de elemento.
+	 *
+	 * Se piden aparte y sólo con sesión: la lectura del visor es pública —y
+	 * por eso se cachea— y no puede saber quién mira. Es el mismo patrón de
+	 * `misReacciones`.
+	 */
+	type MiRespuesta = { opcion?: number; texto?: string } | null;
+
+	let mias = $state<Record<number, { mi_respuesta: MiRespuesta; resultados: number[] | null; total: number }>>({});
+	let enviando = $state(false);
+
+	/**
+	 * Con una encuesta o una caja de preguntas delante, el avance automático
+	 * se detiene. Seis segundos bastan para mirar una fotografía y no para
+	 * leer una pregunta, decidir y tocar: sin esto, la diapositiva se iría
+	 * justo cuando alguien iba a contestar, que es la forma más eficaz de que
+	 * una consulta municipal no reciba respuestas.
+	 */
+	const esperandoRespuesta = $derived(
+		(actual?.elementos ?? []).some((e) => e.tipo === 'encuesta' || e.tipo === 'pregunta')
+	);
+
+	const elementosActuales = $derived.by(() =>
+		(actual?.elementos ?? []).map((e) => {
+			const propia = mias[e.id];
+
+			return propia
+				? { ...e, resultados: propia.resultados, mi_respuesta: propia.mi_respuesta, respuestas_contador: propia.total }
+				: e;
+		})
+	);
+
+	async function votar(elemento: ElementoHistoria, opcion: number) {
+		if (!sesion.autenticado) {
+			sesion.pedirInicio();
+
+			return;
+		}
+
+		if (enviando) return;
+		enviando = true;
+
+		try {
+			const { data } = await social.votarEncuesta(elemento.id, opcion);
+			mias = { ...mias, [elemento.id]: { mi_respuesta: data.mi_respuesta, resultados: data.resultados, total: data.total } };
+		} catch {
+			// El error se traga: en un visor a pantalla completa no hay sitio
+			// para un cartel, y el botón se queda como estaba.
+		} finally {
+			enviando = false;
+		}
+	}
+
+	async function responder(elemento: ElementoHistoria, texto: string) {
+		if (!sesion.autenticado) {
+			sesion.pedirInicio();
+
+			return;
+		}
+
+		if (enviando) return;
+		enviando = true;
+
+		try {
+			const { data } = await social.responderPregunta(elemento.id, texto);
+			mias = { ...mias, [elemento.id]: { mi_respuesta: { texto }, resultados: null, total: data.total } };
+		} catch {
+			// Igual que arriba.
+		} finally {
+			enviando = false;
+		}
+	}
 
 	function marcarVista(alias: string) {
 		try {
@@ -129,7 +207,31 @@
 	// no al terminarla.
 	$effect(() => {
 		progreso = 0;
-		if (actual) marcarVista(cuenta.alias);
+
+		if (!actual) return;
+
+		marcarVista(cuenta.alias);
+
+		// Cada diapositiva que se abre es un evento de apertura: es lo que
+		// convierte «esta historia se vio» en un número real en el estudio.
+		registrar({ tipo: 'apertura_historia', recurso: 'historia', id: String(actual.id), origen: 'historia' });
+
+		// Lo que yo respondí, sólo si hay sesión: sin ella no hay «yo».
+		if (sesion.autenticado) {
+			const id = actual.id;
+
+			social
+				.misRespuestas(id)
+				.then(({ data }) => {
+					mias = {
+						...mias,
+						...Object.fromEntries(
+							data.map((r) => [r.elemento_id, { mi_respuesta: r.mi_respuesta, resultados: r.resultados, total: r.total }])
+						)
+					};
+				})
+				.catch(() => null);
+		}
 	});
 
 	// El reloj del avance automático. Se declara como un solo efecto que se
@@ -143,12 +245,12 @@
 	// parar. Sólo `indice`, `pausado` y `reducido` deben decidir cuándo se
 	// vuelve a armar el reloj.
 	$effect(() => {
-		if (reducido || pausado || !actual) return;
+		if (reducido || pausado || esperandoRespuesta || !actual) return;
 
-		const inicio = Date.now() - untrack(() => progreso) * (SEGUNDOS_POR_DIAPOSITIVA * 10);
+		const inicio = Date.now() - untrack(() => progreso) * (segundos * 10);
 		const id = setInterval(() => {
 			const transcurrido = Date.now() - inicio;
-			progreso = Math.min(100, (transcurrido / (SEGUNDOS_POR_DIAPOSITIVA * 1000)) * 100);
+			progreso = Math.min(100, (transcurrido / (segundos * 1000)) * 100);
 			if (progreso >= 100) siguiente();
 		}, 50);
 
@@ -219,12 +321,26 @@
 		onpointercancel={() => (pausado = false)}
 	>
 		{#if actual}
-			<img
-				src={img(actual.medio, 800)}
-				alt={actual.medio.altPendiente ? '' : actual.medio.alt}
-				class="mx-auto h-full max-h-full w-auto max-w-full object-contain select-none"
-				draggable="false"
-			/>
+			{#if actual.medio.tipo === 'video'}
+				<!-- svelte-ignore a11y_media_has_caption -->
+				<video
+					src={actual.medio.rutaOriginal}
+					poster={actual.medio.posterUrl ?? undefined}
+					class="mx-auto h-full max-h-full w-auto max-w-full object-contain"
+					autoplay
+					muted
+					playsinline
+					onplaying={() =>
+						registrar({ tipo: 'reproduccion', recurso: 'historia', id: String(actual.id), origen: 'historia' })}
+				></video>
+			{:else}
+				<img
+					src={img(actual.medio, 800)}
+					alt={actual.medio.altPendiente ? '' : actual.medio.alt}
+					class="mx-auto h-full max-h-full w-auto max-w-full object-contain select-none"
+					draggable="false"
+				/>
+			{/if}
 
 			<!-- Precarga sólo la siguiente diapositiva, no todas. -->
 			{#if historias[indice + 1]}
@@ -239,9 +355,40 @@
 				</p>
 			{/if}
 
+			<!--
+				La capa de elementos: el MISMO componente que usa el compositor
+				del estudio, para que lo que se compone y lo que se ve sean la
+				misma cosa y no dos aproximaciones.
+
+				`pointer-events` sólo sobre los elementos, no sobre la capa: si
+				la capa entera capturara el puntero, el toque para avanzar
+				dejaría de funcionar en toda la mitad inferior de la pantalla.
+			-->
+			{#if elementosActuales.length}
+				<div class="capa-elementos absolute inset-0" role="presentation">
+					{#each elementosActuales as elemento (elemento.id)}
+						<span
+							class="interactivo"
+							onpointerdown={(e) => e.stopPropagation()}
+							onpointerup={(e) => e.stopPropagation()}
+							role="presentation"
+						>
+							<ElementoHistoriaVista
+								{elemento}
+								{enviando}
+								votar={elemento.tipo === 'encuesta' ? (o) => votar(elemento, o) : undefined}
+								responder={elemento.tipo === 'pregunta' ? (t) => responder(elemento, t) : undefined}
+							/>
+						</span>
+					{/each}
+				</div>
+			{/if}
+
 			{#if actual.enlace_url}
 				<a
 					href={actual.enlace_url}
+					onclick={() =>
+						registrar({ tipo: 'enlace', recurso: 'historia', id: String(actual.id), origen: 'historia' })}
 					class="absolute inset-x-0 bottom-6 mx-auto flex w-fit min-h-11 items-center gap-2 rounded-full bg-white px-5 text-[0.85rem] font-bold text-[var(--color-carbon-900)] no-underline"
 				>
 					{actual.enlace_texto || 'Ver más'}
@@ -278,6 +425,20 @@
 </div>
 
 <style>
+	/*
+	  La capa no captura el puntero; sus elementos sí. Si lo hiciera la capa
+	  entera, el toque para avanzar dejaría de funcionar donde hubiera un
+	  texto pegado, que es media pantalla.
+	*/
+	.capa-elementos {
+		pointer-events: none;
+		container-type: inline-size;
+	}
+
+	.interactivo {
+		pointer-events: auto;
+	}
+
 	.visor {
 		/* Aparta los controles del notch y de la barra de gestos. */
 		padding-top: env(safe-area-inset-top);

@@ -4,6 +4,7 @@
 	import Insignia from './Insignia.svelte';
 	import CarruselFotos from './CarruselFotos.svelte';
 	import BarraAcciones from './BarraAcciones.svelte';
+	import { observarImpresion } from '$lib/metricas';
 
 	/**
 	 * La tarjeta del feed social. Sin tarjeta, en realidad: a sangre, como
@@ -17,19 +18,47 @@
 	let { publicacion, prioridad = false }: { publicacion: PublicacionResumen; prioridad?: boolean } = $props();
 
 	const perfil = $derived(`/noticias/perfil/${publicacion.cuenta.alias}`);
+
+	/**
+	 * La impresión se cuenta cuando la tarjeta entra DE VERDAD en pantalla:
+	 * la mitad visible durante medio segundo. Sin el umbral de tiempo, pasar
+	 * el dedo rápido por el feed contaría quince publicaciones vistas; sin el
+	 * de área, contaría una que asoma dos píxeles por el borde. Ver
+	 * `observarImpresion`.
+	 */
+	let tarjeta = $state<HTMLElement | null>(null);
+
+	$effect(() => {
+		if (!tarjeta) return;
+
+		return observarImpresion(tarjeta, {
+			tipo: 'impresion',
+			recurso: 'publicacion',
+			id: publicacion.slug,
+			origen: 'feed'
+		});
+	});
 </script>
 
-<article class="border-b border-[var(--borde)] pb-2">
+<article bind:this={tarjeta} class="border-b border-[var(--borde)] pb-2">
 	<header class="flex items-center gap-2.5 px-3 py-2.5">
 		<a href={perfil} class="shrink-0">
 			<Avatar cuenta={publicacion.cuenta} tamano={32} />
 		</a>
-		<p class="flex min-w-0 flex-1 items-center gap-1 text-[0.85rem] leading-tight">
-			<a href={perfil} class="truncate font-bold text-[var(--texto)] no-underline hover:underline">
-				{publicacion.cuenta.nombre}
-			</a>
-			{#if publicacion.cuenta.verificada}<Insignia tamano={13} />{/if}
-		</p>
+		<div class="min-w-0 flex-1">
+			<p class="flex min-w-0 items-center gap-1 text-[0.85rem] leading-tight">
+				<a href={perfil} class="truncate font-bold text-[var(--texto)] no-underline hover:underline">
+					{publicacion.cuenta.nombre}
+				</a>
+				{#if publicacion.cuenta.verificada}<Insignia tamano={13} />{/if}
+			</p>
+
+			{#if publicacion.ubicacion}
+				<p class="truncate text-[0.72rem] leading-tight text-[var(--texto-suave)]">
+					{publicacion.ubicacion.nombre}
+				</p>
+			{/if}
+		</div>
 	</header>
 
 	{#if publicacion.imagen}
